@@ -1,0 +1,545 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/0369cb748bc968ffd34fb4ac60f5403f2aad032f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/0369cb748bc968ffd34fb4ac60f5403f2aad032f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          },
+          "href": "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+          "id": "31W5EY0aAly4Qieq6OFu6I",
+          "name": "A Boogie Wit da Hoodie",
+          "type": "artist",
+          "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2OQEAqShAl6SodrGhmYZ4Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f2baf6d743ae26f97777f026",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f2baf6d743ae26f97777f026",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f2baf6d743ae26f97777f026",
+          "width": 64
+        }
+      ],
+      "name": "Artist",
+      "release_date": "2016-09-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2OQEAqShAl6SodrGhmYZ4Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        "href": "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie",
+        "type": "artist",
+        "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5uQOauh47VFt3B2kV9kRXw",
+    "is_local": false,
+    "name": "My Shit",
+    "preview_url": "https://p.scdn.co/mp3-preview/45655624341656d3375dbed1ea1b1546d59388f5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          },
+          "href": "https://api.spotify.com/v1/artists/6qxpnaukVayrQn6ViNvu9I",
+          "id": "6qxpnaukVayrQn6ViNvu9I",
+          "name": "BigXthaPlug",
+          "type": "artist",
+          "uri": "spotify:artist:6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EZ8JL3dtb54VXi3k6E7k6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739afbbc313ea008b68cc5f40d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029afbbc313ea008b68cc5f40d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519afbbc313ea008b68cc5f40d",
+          "width": 64
+        }
+      ],
+      "name": "THE BIGGEST",
+      "release_date": "2023-12-01",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:2EZ8JL3dtb54VXi3k6E7k6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qxpnaukVayrQn6ViNvu9I",
+        "id": "6qxpnaukVayrQn6ViNvu9I",
+        "name": "BigXthaPlug",
+        "type": "artist",
+        "uri": "spotify:artist:6qxpnaukVayrQn6ViNvu9I"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7hrFCoyWwKep7qp1lP4oga",
+    "is_local": false,
+    "name": "Back On My BS",
+    "preview_url": "https://p.scdn.co/mp3-preview/f02a36be65c8b980b9aada12eabc7cc7c69ce877?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+          "id": "3GBPw9NK25X1Wt2OUvOwY3",
+          "name": "Jack Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Jl7i9Vo0Ht4co9SqTFjQy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e0232d637e8313d3ef4923e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e0232d637e8313d3ef4923e",
+          "width": 64
+        }
+      ],
+      "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3Jl7i9Vo0Ht4co9SqTFjQy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6shRGWCtBUOPFLFTTqXZIC",
+    "is_local": false,
+    "name": "Upside Down",
+    "preview_url": "https://p.scdn.co/mp3-preview/1f5ffef288bfd989174a8423bebddd3a1b08e7f6?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+          "id": "4AYkFtEBnNnGuoo8HaHErd",
+          "name": "Madness",
+          "type": "artist",
+          "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2P1bkVHSonLBBSKvrBbdbw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273df294840f002d6727d04e29c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02df294840f002d6727d04e29c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851df294840f002d6727d04e29c",
+          "width": 64
+        }
+      ],
+      "name": "Madness",
+      "release_date": "1983-01",
+      "release_date_precision": "month",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2P1bkVHSonLBBSKvrBbdbw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+        "id": "4AYkFtEBnNnGuoo8HaHErd",
+        "name": "Madness",
+        "type": "artist",
+        "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qV6e4ITnfGmA6m6Vklvbi",
+    "is_local": false,
+    "name": "Our House",
+    "preview_url": "https://p.scdn.co/mp3-preview/f365916c4146a722717004ad934067988e0083e1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+          "id": "2QsynagSdAqZj3U9HgDzjD",
+          "name": "Bob Marley & The Wailers",
+          "type": "artist",
+          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/321q9p7PELvzcFAWxml7VX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511c40418d1c37d727e8e91b04",
+          "width": 64
+        }
+      ],
+      "name": "Uprising",
+      "release_date": "1980",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:321q9p7PELvzcFAWxml7VX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "type": "artist",
+        "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5O4erNlJ74PIF6kGol1ZrC",
+    "is_local": false,
+    "name": "Could You Be Loved",
+    "preview_url": "https://p.scdn.co/mp3-preview/d2253556f10fdcba3c7237e582f300cea2116972?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+          "id": "2CnJJITnV40TB5UtCRhwIZ",
+          "name": "Wakyin",
+          "type": "artist",
+          "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6YoX9Sp63sr8NvOEjHk8uV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c1faf936b87bdf93bee8d7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c1faf936b87bdf93bee8d7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c1faf936b87bdf93bee8d7e",
+          "width": 64
+        }
+      ],
+      "name": "Beso (Fruta Fresca)",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6YoX9Sp63sr8NvOEjHk8uV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+        "id": "2CnJJITnV40TB5UtCRhwIZ",
+        "name": "Wakyin",
+        "type": "artist",
+        "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+        "id": "4vhNDa5ycK0ST968ek7kRr",
+        "name": "Carlos Vives",
+        "type": "artist",
+        "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0r3nMF80NSIuPIxeod4aoG",
+    "is_local": false,
+    "name": "Beso (Fruta Fresca)",
+    "preview_url": "https://p.scdn.co/mp3-preview/0c897de6ef733a7550d4ca5decb9684aee73abd5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+          "width": 64
+        }
+      ],
+      "name": "Certified Lover Boy",
+      "release_date": "2021-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/34D6FJysnQioVingDKufuf",
+    "is_local": false,
+    "name": "N 2 Deep",
+    "preview_url": "https://p.scdn.co/mp3-preview/f61c647e347b31cdd4ab6537b3fa92434bdaaee0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
