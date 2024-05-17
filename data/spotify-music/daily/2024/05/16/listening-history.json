@@ -4,6 +4,462 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+          "id": "4AYkFtEBnNnGuoo8HaHErd",
+          "name": "Madness",
+          "type": "artist",
+          "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2P1bkVHSonLBBSKvrBbdbw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273df294840f002d6727d04e29c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02df294840f002d6727d04e29c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851df294840f002d6727d04e29c",
+          "width": 64
+        }
+      ],
+      "name": "Madness",
+      "release_date": "1983-01",
+      "release_date_precision": "month",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2P1bkVHSonLBBSKvrBbdbw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+        "id": "4AYkFtEBnNnGuoo8HaHErd",
+        "name": "Madness",
+        "type": "artist",
+        "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qV6e4ITnfGmA6m6Vklvbi",
+    "is_local": false,
+    "name": "Our House",
+    "preview_url": "https://p.scdn.co/mp3-preview/f365916c4146a722717004ad934067988e0083e1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+          "id": "3GBPw9NK25X1Wt2OUvOwY3",
+          "name": "Jack Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Jl7i9Vo0Ht4co9SqTFjQy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e0232d637e8313d3ef4923e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e0232d637e8313d3ef4923e",
+          "width": 64
+        }
+      ],
+      "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3Jl7i9Vo0Ht4co9SqTFjQy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6shRGWCtBUOPFLFTTqXZIC",
+    "is_local": false,
+    "name": "Upside Down",
+    "preview_url": "https://p.scdn.co/mp3-preview/1f5ffef288bfd989174a8423bebddd3a1b08e7f6?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+          "id": "1mux8L6xg2Cmrc7k0wQczl",
+          "name": "Bacilos",
+          "type": "artist",
+          "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bM009J81OBNisrMbFwBJj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1f4c211ce1ef95454bbbcc4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1f4c211ce1ef95454bbbcc4",
+          "width": 64
+        }
+      ],
+      "name": "Caraluna",
+      "release_date": "2002-06-25",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2bM009J81OBNisrMbFwBJj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+        "id": "1mux8L6xg2Cmrc7k0wQczl",
+        "name": "Bacilos",
+        "type": "artist",
+        "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5fSDXbY8o9pA3TKwAbfwML",
+    "is_local": false,
+    "name": "Mi Primer Millon",
+    "preview_url": "https://p.scdn.co/mp3-preview/d409ebcb9cbf6e75748de4a73b5fa59034113f23?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+          "id": "1mux8L6xg2Cmrc7k0wQczl",
+          "name": "Bacilos",
+          "type": "artist",
+          "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bM009J81OBNisrMbFwBJj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1f4c211ce1ef95454bbbcc4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1f4c211ce1ef95454bbbcc4",
+          "width": 64
+        }
+      ],
+      "name": "Caraluna",
+      "release_date": "2002-06-25",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2bM009J81OBNisrMbFwBJj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+        "id": "1mux8L6xg2Cmrc7k0wQczl",
+        "name": "Bacilos",
+        "type": "artist",
+        "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7DhYjNLksXZhbRQeheAums",
+    "is_local": false,
+    "name": "Caraluna",
+    "preview_url": "https://p.scdn.co/mp3-preview/c0d45f3f6df36477128565fb6ff2035a5a4f66d9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GMiRrUnQuoGddKMsxGPIZ",
+    "is_local": false,
+    "name": "Fear and Friday's",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a6261bf9ed453dd5c8696c876cc2fba1dfb4ca3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+          "width": 64
+        }
+      ],
+      "name": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/20MuVazoNMv6xjKPnRFOxG",
+    "is_local": false,
+    "name": "WAKE UP",
+    "preview_url": "https://p.scdn.co/mp3-preview/aba2af9b263620f0ffcc2b32b80489c73a9daa47?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+          "width": 64
+        }
+      ],
+      "name": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/20MuVazoNMv6xjKPnRFOxG",
+    "is_local": false,
+    "name": "WAKE UP",
+    "preview_url": "https://p.scdn.co/mp3-preview/aba2af9b263620f0ffcc2b32b80489c73a9daa47?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+          "width": 64
+        }
+      ],
+      "name": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/20MuVazoNMv6xjKPnRFOxG",
+    "is_local": false,
+    "name": "WAKE UP",
+    "preview_url": "https://p.scdn.co/mp3-preview/aba2af9b263620f0ffcc2b32b80489c73a9daa47?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
           },
           "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
