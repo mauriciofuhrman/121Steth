@@ -1,0 +1,689 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6K155OgCAeWxx4Be2kHkym",
+    "is_local": false,
+    "name": "Us Then",
+    "preview_url": "https://p.scdn.co/mp3-preview/526af23586636f288e281930f5b0f784696762b9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6veWaUKjv5fGyTMQoYKkgR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad133bc180b82ef68aeaed2b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad133bc180b82ef68aeaed2b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ad133bc180b82ef68aeaed2b",
+          "width": 64
+        }
+      ],
+      "name": "La Danza",
+      "release_date": "2022-03-11",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:6veWaUKjv5fGyTMQoYKkgR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2FEUloDXMvRnyfLcsrCfkw",
+    "is_local": false,
+    "name": "La Danza",
+    "preview_url": "https://p.scdn.co/mp3-preview/6d3bd5b561dbabfca430e8de75abca6b2b17f8a1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+          "id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "HAYLA",
+          "type": "artist",
+          "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1mJnSN0jQDklAu7SoSF8Vs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cce81d5ef0a2962779a12d95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cce81d5ef0a2962779a12d95",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cce81d5ef0a2962779a12d95",
+          "width": 64
+        }
+      ],
+      "name": "Shiver",
+      "release_date": "2024-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1mJnSN0jQDklAu7SoSF8Vs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+        "id": "4yX6mpMyBGf9UfvBB8JJrc",
+        "name": "HAYLA",
+        "type": "artist",
+        "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ls2PNiOHOxmSfHRyslgAl",
+    "is_local": false,
+    "name": "Shiver",
+    "preview_url": "https://p.scdn.co/mp3-preview/1b414b69c7bd6d41ad8720f05ec27ea3b5d1d0c0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+          "id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "HAYLA",
+          "type": "artist",
+          "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4bIEy1wDeaEklS1BanbsmR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731744223e31fd75e05a0f5f02",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021744223e31fd75e05a0f5f02",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511744223e31fd75e05a0f5f02",
+          "width": 64
+        }
+      ],
+      "name": "Where You Are",
+      "release_date": "2023-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4bIEy1wDeaEklS1BanbsmR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+        "id": "4yX6mpMyBGf9UfvBB8JJrc",
+        "name": "HAYLA",
+        "type": "artist",
+        "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4qDpLaFGf5ampf2DXD2TMA",
+    "is_local": false,
+    "name": "Where You Are",
+    "preview_url": "https://p.scdn.co/mp3-preview/610a27b72692e501048d620e29168973e827cf28?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG",
+          "name": "Migos",
+          "type": "artist",
+          "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7fd7SEK25VS3gJAUgSwL6y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519c188c494d8bfaf895411890",
+          "width": 64
+        }
+      ],
+      "name": "Culture II",
+      "release_date": "2018-01-26",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:7fd7SEK25VS3gJAUgSwL6y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+        "id": "6oMuImdp5ZcFhWP0ESe6mG",
+        "name": "Migos",
+        "type": "artist",
+        "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6n4U3TlzUGhdSFbUUhTvLP",
+    "is_local": false,
+    "name": "Walk It Talk It",
+    "preview_url": "https://p.scdn.co/mp3-preview/3a30c99144cb2a35808ea1b868c715317510969a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3TkSm0esbUBPygKvMrwWQn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bac3bde3cb0e82ae120aec1a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bac3bde3cb0e82ae120aec1a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bac3bde3cb0e82ae120aec1a",
+          "width": 64
+        }
+      ],
+      "name": "Elisabeth",
+      "release_date": "2020-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3TkSm0esbUBPygKvMrwWQn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2QfX9Pdz3q66fN3kCXl0Js",
+    "is_local": false,
+    "name": "Revival",
+    "preview_url": "https://p.scdn.co/mp3-preview/100015075e9f85399c57c2f68ba467faf4ef69bd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GMiRrUnQuoGddKMsxGPIZ",
+    "is_local": false,
+    "name": "Fear and Friday's",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a6261bf9ed453dd5c8696c876cc2fba1dfb4ca3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRrPOjBIWoKK5rHedLijj",
+          "id": "2ZRrPOjBIWoKK5rHedLijj",
+          "name": "Abhijeet",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2mwDoXcoVLukl2gm5wPbxv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735815d1c8cd5058107eef3d72",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025815d1c8cd5058107eef3d72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515815d1c8cd5058107eef3d72",
+          "width": 64
+        }
+      ],
+      "name": "My Best Collection",
+      "release_date": "2016-07-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2mwDoXcoVLukl2gm5wPbxv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ZRrPOjBIWoKK5rHedLijj",
+        "id": "2ZRrPOjBIWoKK5rHedLijj",
+        "name": "Abhijeet",
+        "type": "artist",
+        "uri": "spotify:artist:2ZRrPOjBIWoKK5rHedLijj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        "href": "https://api.spotify.com/v1/artists/70B80Lwx2sxti0M1Ng9e8K",
+        "id": "70B80Lwx2sxti0M1Ng9e8K",
+        "name": "Udit Narayan",
+        "type": "artist",
+        "uri": "spotify:artist:70B80Lwx2sxti0M1Ng9e8K"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6i0Kqfzl8ViOtxXVdRK4OF",
+    "is_local": false,
+    "name": "Chori Chori Hum Gori Se (From \"Mela\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e76f1e5cfe517bc7f103ef8718bcd69d6b1948f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+          "id": "0EdvGhlC1FkGItLOWQzG4J",
+          "name": "Sublime",
+          "type": "artist",
+          "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/14eK347GdWO4mBBx78tsut",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028fc4b0dcfb9509553f195c85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85",
+          "width": 64
+        }
+      ],
+      "name": "Sublime",
+      "release_date": "1996-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:14eK347GdWO4mBBx78tsut"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+        "id": "0EdvGhlC1FkGItLOWQzG4J",
+        "name": "Sublime",
+        "type": "artist",
+        "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hnMS47jN0etwvFPzYk11f",
+    "is_local": false,
+    "name": "Santeria",
+    "preview_url": "https://p.scdn.co/mp3-preview/9bd14340e2c557e2e9cdc454f0820b20dd48100e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/48UPSzbZjgc449aqz8bxox",
+    "is_local": false,
+    "name": "Californication",
+    "preview_url": "https://p.scdn.co/mp3-preview/0fd595c5b63db10f4a99683f8248ea5d13700683?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+          "id": "0EdvGhlC1FkGItLOWQzG4J",
+          "name": "Sublime",
+          "type": "artist",
+          "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/14eK347GdWO4mBBx78tsut",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028fc4b0dcfb9509553f195c85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85",
+          "width": 64
+        }
+      ],
+      "name": "Sublime",
+      "release_date": "1996-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:14eK347GdWO4mBBx78tsut"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+        "id": "0EdvGhlC1FkGItLOWQzG4J",
+        "name": "Sublime",
+        "type": "artist",
+        "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hnMS47jN0etwvFPzYk11f",
+    "is_local": false,
+    "name": "Santeria",
+    "preview_url": "https://p.scdn.co/mp3-preview/9bd14340e2c557e2e9cdc454f0820b20dd48100e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
