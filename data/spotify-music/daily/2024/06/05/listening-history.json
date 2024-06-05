@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5laSrhYFBn1OxVZKCK2B9Y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad704eb183a0a6f01bbc56d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad704eb183a0a6f01bbc56d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ad704eb183a0a6f01bbc56d8",
+          "width": 64
+        }
+      ],
+      "name": "La Tierra del Olvido",
+      "release_date": "1995-07-25",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5laSrhYFBn1OxVZKCK2B9Y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+        "id": "4vhNDa5ycK0ST968ek7kRr",
+        "name": "Carlos Vives",
+        "type": "artist",
+        "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TPZ028i7BWWS5xW4UN9ss",
+    "is_local": false,
+    "name": "La Tierra del Olvido",
+    "preview_url": "https://p.scdn.co/mp3-preview/193aeef228e848aee01012a181a51ee46c7b367a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3qFui1PcteHFky44CeUflG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273410dfc8e880c1b3fefe6b83c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02410dfc8e880c1b3fefe6b83c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851410dfc8e880c1b3fefe6b83c",
+          "width": 64
+        }
+      ],
+      "name": "Walking On A Dream",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3qFui1PcteHFky44CeUflG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3HfhB8sYqLlVmpBPb7cc2x",
+    "is_local": false,
+    "name": "Walking On A Dream",
+    "preview_url": "https://p.scdn.co/mp3-preview/ca251d64aa3353f22b44fce2c2ec9af92a3cb916?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
