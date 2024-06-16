@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+          "id": "3DbwFQlvLxRSi2uX8mf81A",
+          "name": "Sexyy Red",
+          "type": "artist",
+          "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5PmtX9B5vNa4uaiXQVn4Gx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c7eda8880dbfd0930bf9491",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027c7eda8880dbfd0930bf9491",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517c7eda8880dbfd0930bf9491",
+          "width": 64
+        }
+      ],
+      "name": "In Sexyy We Trust",
+      "release_date": "2024-05-24",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5PmtX9B5vNa4uaiXQVn4Gx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+        "id": "3DbwFQlvLxRSi2uX8mf81A",
+        "name": "Sexyy Red",
+        "type": "artist",
+        "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1TgStpMGTflN84asKJ8VU3",
+    "is_local": false,
+    "name": "U My Everything (feat. Drake)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e873f783926075e8111fa61c09144315ff48f2a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
