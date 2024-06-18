@@ -1,0 +1,786 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+          "id": "3DbwFQlvLxRSi2uX8mf81A",
+          "name": "Sexyy Red",
+          "type": "artist",
+          "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5PmtX9B5vNa4uaiXQVn4Gx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c7eda8880dbfd0930bf9491",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027c7eda8880dbfd0930bf9491",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517c7eda8880dbfd0930bf9491",
+          "width": 64
+        }
+      ],
+      "name": "In Sexyy We Trust",
+      "release_date": "2024-05-24",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5PmtX9B5vNa4uaiXQVn4Gx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+        "id": "3DbwFQlvLxRSi2uX8mf81A",
+        "name": "Sexyy Red",
+        "type": "artist",
+        "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1TgStpMGTflN84asKJ8VU3",
+    "is_local": false,
+    "name": "U My Everything (feat. Drake)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e873f783926075e8111fa61c09144315ff48f2a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+          "id": "3VRyybsQu0MDG0F2LBxnv7",
+          "name": "Noizu",
+          "type": "artist",
+          "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4QCh5emLRWuIg8CUzprNXm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023c0c35544b3c51b9b8896f87",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513c0c35544b3c51b9b8896f87",
+          "width": 64
+        }
+      ],
+      "name": "Summer 91 (Looking Back)",
+      "release_date": "2021-01-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:4QCh5emLRWuIg8CUzprNXm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+        "id": "3VRyybsQu0MDG0F2LBxnv7",
+        "name": "Noizu",
+        "type": "artist",
+        "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4FEcEwbE2vsqhxbTPtiNTL",
+    "is_local": false,
+    "name": "Summer 91 (Looking Back)",
+    "preview_url": "https://p.scdn.co/mp3-preview/6f592db3222615d54296e36aa7a3c31f9608e37b?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/20r762YmB5HeofjMCiPMLv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f",
+          "width": 64
+        }
+      ],
+      "name": "My Beautiful Dark Twisted Fantasy",
+      "release_date": "2010-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:20r762YmB5HeofjMCiPMLv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+        "id": "0ONHkAv9pCAFxb0zJwDNTy",
+        "name": "Pusha T",
+        "type": "artist",
+        "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3DK6m7It6Pw857FcQftMds",
+    "is_local": false,
+    "name": "Runaway",
+    "preview_url": "https://p.scdn.co/mp3-preview/a1f828c57ecf2b61cee888d956e5b59aebb14610?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SZko61aMnmgvNhfhgTuD3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+          "width": 64
+        }
+      ],
+      "name": "Graduation",
+      "release_date": "2007-09-11",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4SZko61aMnmgvNhfhgTuD3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LQoZQIV0mIs0y0XQb0Sw2",
+        "id": "0LQoZQIV0mIs0y0XQb0Sw2",
+        "name": "Chris Martin",
+        "type": "artist",
+        "uri": "spotify:artist:0LQoZQIV0mIs0y0XQb0Sw2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4iz9lGMjU1lXS51oPmUmTe",
+    "is_local": false,
+    "name": "Homecoming",
+    "preview_url": "https://p.scdn.co/mp3-preview/a7f9626c0fc7e67ef2bdc3ca1655cdfe723878c0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "type": "artist",
+          "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+          "width": 64
+        }
+      ],
+      "name": "Harry's House",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id": "6KImCVD70vtIoJWnq6nGn3",
+        "name": "Harry Styles",
+        "type": "artist",
+        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Dvkj6JhhA12EX05fT7y2e",
+    "is_local": false,
+    "name": "As It Was",
+    "preview_url": "https://p.scdn.co/mp3-preview/c43dd07043b29e800c1a65b3a0102861fa3cf418?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+          },
+          "href": "https://api.spotify.com/v1/artists/5H6xmHXjsq98NLbEjuE29f",
+          "id": "5H6xmHXjsq98NLbEjuE29f",
+          "name": "NEIKED",
+          "type": "artist",
+          "uri": "spotify:artist:5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BEUkE2CSUgHTLSBMZdnFB",
+          "id": "1BEUkE2CSUgHTLSBMZdnFB",
+          "name": "Mae Muller",
+          "type": "artist",
+          "uri": "spotify:artist:1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AgTAQt8XS6jRWi4sX7w49",
+          "id": "6AgTAQt8XS6jRWi4sX7w49",
+          "name": "Polo G",
+          "type": "artist",
+          "uri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2wcv0lHk5fUYyNGKugGa7q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b742298f7f36717855c4caf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026b742298f7f36717855c4caf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516b742298f7f36717855c4caf",
+          "width": 64
+        }
+      ],
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "release_date": "2021-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2wcv0lHk5fUYyNGKugGa7q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        "href": "https://api.spotify.com/v1/artists/5H6xmHXjsq98NLbEjuE29f",
+        "id": "5H6xmHXjsq98NLbEjuE29f",
+        "name": "NEIKED",
+        "type": "artist",
+        "uri": "spotify:artist:5H6xmHXjsq98NLbEjuE29f"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1BEUkE2CSUgHTLSBMZdnFB",
+        "id": "1BEUkE2CSUgHTLSBMZdnFB",
+        "name": "Mae Muller",
+        "type": "artist",
+        "uri": "spotify:artist:1BEUkE2CSUgHTLSBMZdnFB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AgTAQt8XS6jRWi4sX7w49",
+        "id": "6AgTAQt8XS6jRWi4sX7w49",
+        "name": "Polo G",
+        "type": "artist",
+        "uri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6f5ExP43esnvdKPddwKXJH",
+    "is_local": false,
+    "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d849e3ad098853384efd6562ea61fdde25519e78?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          },
+          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "type": "artist",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4g1ZRSobMefqF6nelkgibi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02",
+          "width": 64
+        }
+      ],
+      "name": "Hollywood's Bleeding",
+      "release_date": "2019-09-06",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0t3ZvGKlmYmVsDzBJAXK8C",
+    "is_local": false,
+    "name": "Goodbyes (feat. Young Thug)",
+    "preview_url": "https://p.scdn.co/mp3-preview/5eaefa30dfb2fef460bc377f933b570a0c931596?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7mCeLbChyegbRwwKK5shJs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bf2d62374f877d312b34e67a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bf2d62374f877d312b34e67a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bf2d62374f877d312b34e67a",
+          "width": 64
+        }
+      ],
+      "name": "Watch The Throne",
+      "release_date": "2011-08-08",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7mCeLbChyegbRwwKK5shJs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAY-Z",
+        "type": "artist",
+        "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6JFLZH9vCzgqnUToBdiHQb",
+    "is_local": false,
+    "name": "Gotta Have It",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e3cd0d6637f223f6307a3045e319f4874187878?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/76TbnpxuGqxsiw13fB6ZLl",
+    "is_local": false,
+    "name": "Sober Side of Sorry",
+    "preview_url": "https://p.scdn.co/mp3-preview/749c028d73f3acae4eea1eebb630c0914a3ab571?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1LShhEEKRT5MNPcO7jtYHh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0254ef13c30a024a7f1ba79efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485154ef13c30a024a7f1ba79efd",
+          "width": 64
+        }
+      ],
+      "name": "So Far Gone",
+      "release_date": "2009",
+      "release_date_precision": "year",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1LShhEEKRT5MNPcO7jtYHh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3QLjDkgLh9AOEHlhQtDuhs",
+    "is_local": false,
+    "name": "Best I Ever Had",
+    "preview_url": "https://p.scdn.co/mp3-preview/6de38d9beebc2f5e219b6191ea5f26fca5cd138a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3"
+          },
+          "href": "https://api.spotify.com/v1/artists/34OLInsXImlQpjzmQw9Wd3",
+          "id": "34OLInsXImlQpjzmQw9Wd3",
+          "name": "Caramelos De Cianuro",
+          "type": "artist",
+          "uri": "spotify:artist:34OLInsXImlQpjzmQw9Wd3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/249zicrXA7A4UjOrJnxeb0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e72796712620825dc4d6851b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e72796712620825dc4d6851b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e72796712620825dc4d6851b",
+          "width": 64
+        }
+      ],
+      "name": "Caramelos de Cianuro",
+      "release_date": "2010",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:249zicrXA7A4UjOrJnxeb0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3"
+        },
+        "href": "https://api.spotify.com/v1/artists/34OLInsXImlQpjzmQw9Wd3",
+        "id": "34OLInsXImlQpjzmQw9Wd3",
+        "name": "Caramelos De Cianuro",
+        "type": "artist",
+        "uri": "spotify:artist:34OLInsXImlQpjzmQw9Wd3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/10BpvV0IRrd7D0gtHrBTN2",
+    "is_local": false,
+    "name": "Rubia Sol Morena Luna",
+    "preview_url": "https://p.scdn.co/mp3-preview/c50125b921f250f7a8fd3c1beff80ddf459ddbb2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "type": "artist",
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7fOmdhRrRohTzToL617xkk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc1df8423733f6f3c9e8dea2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fc1df8423733f6f3c9e8dea2",
+          "width": 64
+        }
+      ],
+      "name": "3 Songs At A Time Sampler",
+      "release_date": "2023-01-31",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:7fOmdhRrRohTzToL617xkk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "name": "Morgan Wallen",
+        "type": "artist",
+        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/59uQI0PADDKeE6UZDTJEe8",
+    "is_local": false,
+    "name": "Last Night",
+    "preview_url": "https://p.scdn.co/mp3-preview/48760562c770591058c71d16a5ac81d3833e72d2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
