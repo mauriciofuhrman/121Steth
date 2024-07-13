@@ -1,0 +1,1292 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5eKQYtDqVmrHPZoKHG1LlH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+          "width": 64
+        }
+      ],
+      "name": "Somebody (2024)",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fAwPpS78sokZdpktoSUE8",
+        "id": "5fAwPpS78sokZdpktoSUE8",
+        "name": "Sante Sansone",
+        "type": "artist",
+        "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0agQ9vIV7NP4dntGKLcCXO",
+    "is_local": false,
+    "name": "Somebody (2024)",
+    "preview_url": "https://p.scdn.co/mp3-preview/84e41be344cbbda874dcfcc803a6f39f156e9fc2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/06me0leRR3AuF4IFiEytml",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0284bfd0d363f0179ac7c97fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485184bfd0d363f0179ac7c97fa5",
+          "width": 64
+        }
+      ],
+      "name": "Push Ups",
+      "release_date": "2024-04-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:06me0leRR3AuF4IFiEytml"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3eh51r6rFWAlGQRlHx9QnQ",
+    "is_local": false,
+    "name": "Push Ups",
+    "preview_url": "https://p.scdn.co/mp3-preview/6890d6f0749ecec39ce0bc1811b144ba1c19f7ee?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5WupqgR68HfuHt3BMJtgun",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b",
+          "width": 64
+        }
+      ],
+      "name": "Goodbye Yellow Brick Road (Remastered)",
+      "release_date": "1973-10-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5WupqgR68HfuHt3BMJtgun"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5Wj1rJnCLpMHdLaxsFtJLs",
+    "is_local": false,
+    "name": "Bennie And The Jets - Remastered 2014",
+    "preview_url": "https://p.scdn.co/mp3-preview/cc3be345afbbebbaf1e785916bd8755adfb4bf99?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+          "id": "6USv9qhCn6zfxlBQIYJ9qs",
+          "name": "Dominic Fike",
+          "type": "artist",
+          "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/05jbNkYoEQdjVDHEHtg1gY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517b1b6f41c1645af9757d5616",
+          "width": 64
+        }
+      ],
+      "name": "Don't Forget About Me, Demos",
+      "release_date": "2018-10-16",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:05jbNkYoEQdjVDHEHtg1gY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+        "id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "name": "Dominic Fike",
+        "type": "artist",
+        "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0uI7yAKUf52Cn7y3sYyjiX",
+    "is_local": false,
+    "name": "3 Nights",
+    "preview_url": "https://p.scdn.co/mp3-preview/8325ba1536d8717e84cc033a80928331c2a8551a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/15uqXXD0sAdZuxNxTxktlR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026a5beb0500ad6e3b0f7aea22",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516a5beb0500ad6e3b0f7aea22",
+          "width": 64
+        }
+      ],
+      "name": "Version",
+      "release_date": "2007-04-16",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:15uqXXD0sAdZuxNxTxktlR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+        "id": "3hv9jJF3adDNsBSIQDqcjp",
+        "name": "Mark Ronson",
+        "type": "artist",
+        "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Q192DXotxtaysaqNPy5yR",
+        "id": "6Q192DXotxtaysaqNPy5yR",
+        "name": "Amy Winehouse",
+        "type": "artist",
+        "uri": "spotify:artist:6Q192DXotxtaysaqNPy5yR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6kopmMZiyLmw7h66uXcXR7",
+    "is_local": false,
+    "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+    "preview_url": "https://p.scdn.co/mp3-preview/7c1f773fee487c3fdc15fd8b0ee6a3a388b341d3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival",
+          "type": "artist",
+          "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31q47gQszFt0CddSyMksgO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029f39192f9f8ca1c90847b3e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5",
+          "width": 64
+        }
+      ],
+      "name": "Willy And The Poor Boys (Expanded Edition)",
+      "release_date": "1969-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:31q47gQszFt0CddSyMksgO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+        "id": "3IYUhFvPQItj6xySrBmZkd",
+        "name": "Creedence Clearwater Revival",
+        "type": "artist",
+        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4BP3uh0hFLFRb5cjsgLqDh",
+    "is_local": false,
+    "name": "Fortunate Son",
+    "preview_url": "https://p.scdn.co/mp3-preview/3240fb7f732ebc6f9cc83df560dceeab925bba92?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+          },
+          "href": "https://api.spotify.com/v1/artists/19VDJ9IKyBSUMDJxLsasP6",
+          "id": "19VDJ9IKyBSUMDJxLsasP6",
+          "name": "Mr. Belt & Wezol",
+          "type": "artist",
+          "uri": "spotify:artist:19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/116jZe8fEmfjKBh4d8ZcDO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27303f9f7783244b38aec79cb6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0203f9f7783244b38aec79cb6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485103f9f7783244b38aec79cb6d",
+          "width": 64
+        }
+      ],
+      "name": "It's Not Right But It's Okay",
+      "release_date": "2024-02-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:116jZe8fEmfjKBh4d8ZcDO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        "href": "https://api.spotify.com/v1/artists/19VDJ9IKyBSUMDJxLsasP6",
+        "id": "19VDJ9IKyBSUMDJxLsasP6",
+        "name": "Mr. Belt & Wezol",
+        "type": "artist",
+        "uri": "spotify:artist:19VDJ9IKyBSUMDJxLsasP6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5OFVzqSeFxGpvDGyHvVeLj",
+    "is_local": false,
+    "name": "It's Not Right But It's Okay",
+    "preview_url": "https://p.scdn.co/mp3-preview/f2707ee6ec693e38142c3307ba217fbf754a4748?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+          "id": "2QsynagSdAqZj3U9HgDzjD",
+          "name": "Bob Marley & The Wailers",
+          "type": "artist",
+          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/321q9p7PELvzcFAWxml7VX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511c40418d1c37d727e8e91b04",
+          "width": 64
+        }
+      ],
+      "name": "Uprising",
+      "release_date": "1980",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:321q9p7PELvzcFAWxml7VX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "type": "artist",
+        "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5O4erNlJ74PIF6kGol1ZrC",
+    "is_local": false,
+    "name": "Could You Be Loved",
+    "preview_url": "https://p.scdn.co/mp3-preview/d2253556f10fdcba3c7237e582f300cea2116972?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+          "id": "7gP3bB2nilZXLfPHJhMdvc",
+          "name": "Foster The People",
+          "type": "artist",
+          "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7Kmmw7Z5D2UD5MVwdm10sT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02121d5f92cf90576907dfb1e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5",
+          "width": 64
+        }
+      ],
+      "name": "Torches",
+      "release_date": "2011-05-23",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7Kmmw7Z5D2UD5MVwdm10sT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+        "id": "7gP3bB2nilZXLfPHJhMdvc",
+        "name": "Foster The People",
+        "type": "artist",
+        "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT",
+    "is_local": false,
+    "name": "Pumped Up Kicks",
+    "preview_url": "https://p.scdn.co/mp3-preview/2213bf4173a9b50a807a30121ed6b559a7778209?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0BwWUstDMUbgq2NYONRqlu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+          "width": 64
+        }
+      ],
+      "name": "Rumours (Super Deluxe)",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 58,
+      "type": "album",
+      "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz",
+    "is_local": false,
+    "name": "Dreams - 2004 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/30d63954de3ee9c0bc3600a4560260cb252d4fbd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+          "id": "6USv9qhCn6zfxlBQIYJ9qs",
+          "name": "Dominic Fike",
+          "type": "artist",
+          "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qwv7hNjSGfLarHY2adeq9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273abdde781e79a44868914e661",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02abdde781e79a44868914e661",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851abdde781e79a44868914e661",
+          "width": 64
+        }
+      ],
+      "name": "14 minutes",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2qwv7hNjSGfLarHY2adeq9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+        "id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "name": "Dominic Fike",
+        "type": "artist",
+        "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WTFHKrnZpwEBLRS10Ylqs",
+    "is_local": false,
+    "name": "misses",
+    "preview_url": "https://p.scdn.co/mp3-preview/4303daf566d5e5adabf2fe733a3a486518e02259?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5eKQYtDqVmrHPZoKHG1LlH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+          "width": 64
+        }
+      ],
+      "name": "Somebody (2024)",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fAwPpS78sokZdpktoSUE8",
+        "id": "5fAwPpS78sokZdpktoSUE8",
+        "name": "Sante Sansone",
+        "type": "artist",
+        "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0agQ9vIV7NP4dntGKLcCXO",
+    "is_local": false,
+    "name": "Somebody (2024)",
+    "preview_url": "https://p.scdn.co/mp3-preview/84e41be344cbbda874dcfcc803a6f39f156e9fc2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": "https://p.scdn.co/mp3-preview/9241188a00b7ae5feb607bf10c21a067c83ed487?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1HjSyGjmLNjRAKgT9t1cna",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1d47c00ddecbfb810c807ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1d47c00ddecbfb810c807ed",
+          "width": 64
+        }
+      ],
+      "name": "Making Mirrors",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1HjSyGjmLNjRAKgT9t1cna"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wCmqSrbyCgxEXROQE6vtV",
+    "is_local": false,
+    "name": "Somebody That I Used To Know",
+    "preview_url": "https://p.scdn.co/mp3-preview/d125c2d009d8388e01078361811e910f71966746?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+          "id": "44NX2ffIYHr6D4n7RaZF7A",
+          "name": "Van Morrison",
+          "type": "artist",
+          "uri": "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dsWupQRlFuhG8FGiQAUjC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f29a976eea00141514ab936",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f29a976eea00141514ab936",
+          "width": 64
+        }
+      ],
+      "name": "Blowin' Your Mind!",
+      "release_date": "1967-09",
+      "release_date_precision": "month",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7dsWupQRlFuhG8FGiQAUjC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        },
+        "href": "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+        "id": "44NX2ffIYHr6D4n7RaZF7A",
+        "name": "Van Morrison",
+        "type": "artist",
+        "uri": "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3yrSvpt2l1xhsV9Em88Pul",
+    "is_local": false,
+    "name": "Brown Eyed Girl",
+    "preview_url": "https://p.scdn.co/mp3-preview/731469a968c3295114a2b7052610674bf56c6048?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+          "width": 64
+        }
+      ],
+      "name": "The Slow Rush",
+      "release_date": "2020-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6RZmhpvukfyeSURhf4kZ0d",
+    "is_local": false,
+    "name": "Is It True",
+    "preview_url": "https://p.scdn.co/mp3-preview/80ea1d5e2e2a192ccd170d426afbeaba3d1d7613?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+          "id": "3FUY2gzHeIiaesXtOAdB7A",
+          "name": "Train",
+          "type": "artist",
+          "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zseibu9WEsPaZmkJUMkz1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bde344cc54eedc35050f4c61",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bde344cc54eedc35050f4c61",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61",
+          "width": 64
+        }
+      ],
+      "name": "California 37",
+      "release_date": "2012-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5zseibu9WEsPaZmkJUMkz1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+        "id": "3FUY2gzHeIiaesXtOAdB7A",
+        "name": "Train",
+        "type": "artist",
+        "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0KAiuUOrLTIkzkpfpn9jb9",
+    "is_local": false,
+    "name": "Drive By",
+    "preview_url": "https://p.scdn.co/mp3-preview/04a4331f6e25d0bd2c6de9c1202ad719f24b1cef?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6deiaArbeoqp1xPEGdEKp1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+          "width": 64
+        }
+      ],
+      "name": "By the Way (Deluxe Edition)",
+      "release_date": "2002-07-09",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6deiaArbeoqp1xPEGdEKp1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZOEytgrvLwQaqXreDs2Jx",
+    "is_local": false,
+    "name": "Can't Stop",
+    "preview_url": "https://p.scdn.co/mp3-preview/1b3bc0aca1746a99cbb8dd07b2325f6499b58a2e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire",
+          "type": "artist",
+          "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FRfJyV85zb19tO6uiXBGl",
+          "id": "2FRfJyV85zb19tO6uiXBGl",
+          "name": "sped up + slowed",
+          "type": "artist",
+          "uri": "spotify:artist:2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3p90GIjEg4gXpnLmwGGvzI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020faf2fc17446651865ce2282",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510faf2fc17446651865ce2282",
+          "width": 64
+        }
+      ],
+      "name": "September (sped up + slowed)",
+      "release_date": "1978-11-18",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:3p90GIjEg4gXpnLmwGGvzI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+        "id": "4QQgXkCYTt3BlENzhyNETg",
+        "name": "Earth, Wind & Fire",
+        "type": "artist",
+        "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3kXoKlD84c6OmIcOLfrfEs",
+    "is_local": false,
+    "name": "September",
+    "preview_url": "https://p.scdn.co/mp3-preview/27390b5ac85b9dd997e8ae98a3356f0dd4a61f51?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+          "id": "3VRyybsQu0MDG0F2LBxnv7",
+          "name": "Noizu",
+          "type": "artist",
+          "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6qvNPB4vRSs5TnBR9qJqWN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b527687462d976f6819fc280",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b527687462d976f6819fc280",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b527687462d976f6819fc280",
+          "width": 64
+        }
+      ],
+      "name": "Baby Baby",
+      "release_date": "2019-09-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6qvNPB4vRSs5TnBR9qJqWN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+        "id": "3VRyybsQu0MDG0F2LBxnv7",
+        "name": "Noizu",
+        "type": "artist",
+        "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2fMtXRKJDPtT8Xs4EJkBQh",
+    "is_local": false,
+    "name": "Baby Baby",
+    "preview_url": "https://p.scdn.co/mp3-preview/5f0c8b647ac157dab8077aaa4101ef37b74b0649?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
