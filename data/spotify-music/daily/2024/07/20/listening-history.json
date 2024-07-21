@@ -13,30 +13,30 @@
           "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5k7tvONUJjP2aTxI6BBCo0",
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273dac2ba86a09b9b79b6de0b6c",
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02dac2ba86a09b9b79b6de0b6c",
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851dac2ba86a09b9b79b6de0b6c",
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
           "width": 64
         }
       ],
-      "name": "Summertime Blues",
-      "release_date": "2022-07-07",
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
       "release_date_precision": "day",
-      "total_tracks": 1,
+      "total_tracks": 16,
       "type": "album",
-      "uri": "spotify:album:5k7tvONUJjP2aTxI6BBCo0"
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
     },
     "artists": [
       {
@@ -51,9 +51,947 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/0qoSVsQJOTINFkkux2lbJj",
+    "href": "https://api.spotify.com/v1/tracks/0GMiRrUnQuoGddKMsxGPIZ",
     "is_local": false,
-    "name": "Summertime Blues",
-    "preview_url": "https://p.scdn.co/mp3-preview/41e916be2fd0682b0770d423282503961460b693?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Fear and Friday's",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a6261bf9ed453dd5c8696c876cc2fba1dfb4ca3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          },
+          "href": "https://api.spotify.com/v1/artists/3of9b8iUxyXtfnwwahfUNx",
+          "id": "3of9b8iUxyXtfnwwahfUNx",
+          "name": "Antdot",
+          "type": "artist",
+          "uri": "spotify:artist:3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gYwbDKcqhLitCTlgF1oZn",
+          "id": "6gYwbDKcqhLitCTlgF1oZn",
+          "name": "Maz",
+          "type": "artist",
+          "uri": "spotify:artist:6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+          },
+          "href": "https://api.spotify.com/v1/artists/31ZnPMG6ywDdaBMnn1qkpN",
+          "id": "31ZnPMG6ywDdaBMnn1qkpN",
+          "name": "Letícia Fialho",
+          "type": "artist",
+          "uri": "spotify:artist:31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PHYNn7KqOlQxAgETl4ujD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27388f7637bd552b6dd08f479d0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0288f7637bd552b6dd08f479d0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485188f7637bd552b6dd08f479d0",
+          "width": 64
+        }
+      ],
+      "name": "Corpo e Canção (Club Mix)",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6PHYNn7KqOlQxAgETl4ujD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3of9b8iUxyXtfnwwahfUNx",
+        "id": "3of9b8iUxyXtfnwwahfUNx",
+        "name": "Antdot",
+        "type": "artist",
+        "uri": "spotify:artist:3of9b8iUxyXtfnwwahfUNx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        "href": "https://api.spotify.com/v1/artists/6gYwbDKcqhLitCTlgF1oZn",
+        "id": "6gYwbDKcqhLitCTlgF1oZn",
+        "name": "Maz",
+        "type": "artist",
+        "uri": "spotify:artist:6gYwbDKcqhLitCTlgF1oZn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        },
+        "href": "https://api.spotify.com/v1/artists/31ZnPMG6ywDdaBMnn1qkpN",
+        "id": "31ZnPMG6ywDdaBMnn1qkpN",
+        "name": "Letícia Fialho",
+        "type": "artist",
+        "uri": "spotify:artist:31ZnPMG6ywDdaBMnn1qkpN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fdnuaaMLkAJb3czxnwKxh",
+    "is_local": false,
+    "name": "Corpo e Canção - Club Mix",
+    "preview_url": "https://p.scdn.co/mp3-preview/360f798e1b56dccdf5d1999064f8e687d67cb749?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          },
+          "href": "https://api.spotify.com/v1/artists/08Ut1tYxtmgIInVyQqohkM",
+          "id": "08Ut1tYxtmgIInVyQqohkM",
+          "name": "Fritz Kalkbrenner",
+          "type": "artist",
+          "uri": "spotify:artist:08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2QO13M8Nm7NxP2D1fjTIa4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8763a417157f0f972f2bf3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8763a417157f0f972f2bf3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e8763a417157f0f972f2bf3b",
+          "width": 64
+        }
+      ],
+      "name": "Waiting For The Sun",
+      "release_date": "2023-07-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2QO13M8Nm7NxP2D1fjTIa4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        },
+        "href": "https://api.spotify.com/v1/artists/08Ut1tYxtmgIInVyQqohkM",
+        "id": "08Ut1tYxtmgIInVyQqohkM",
+        "name": "Fritz Kalkbrenner",
+        "type": "artist",
+        "uri": "spotify:artist:08Ut1tYxtmgIInVyQqohkM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7uzFmJTvgHlDjXWeuM1t0l",
+    "is_local": false,
+    "name": "Waiting For The Sun",
+    "preview_url": "https://p.scdn.co/mp3-preview/c1ffe129b589206fc75d3c1d8c23fd64f7dd7bc6?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tV2P2SciHytsSDufKr57B",
+          "id": "6tV2P2SciHytsSDufKr57B",
+          "name": "TWOPILOTS",
+          "type": "artist",
+          "uri": "spotify:artist:6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Iiu7xbEoH46CCvp5F9o7D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27392ff0007ca81a08b41c40fa4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0292ff0007ca81a08b41c40fa4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485192ff0007ca81a08b41c40fa4",
+          "width": 64
+        }
+      ],
+      "name": "King",
+      "release_date": "2023-01-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1Iiu7xbEoH46CCvp5F9o7D"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        "href": "https://api.spotify.com/v1/artists/6tV2P2SciHytsSDufKr57B",
+        "id": "6tV2P2SciHytsSDufKr57B",
+        "name": "TWOPILOTS",
+        "type": "artist",
+        "uri": "spotify:artist:6tV2P2SciHytsSDufKr57B"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7yH9SbrDQfNIh89ACCR7Ib",
+    "is_local": false,
+    "name": "King",
+    "preview_url": "https://p.scdn.co/mp3-preview/47c0dcc37026953901af9ca4045f0990e1c6525a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CpLIMBoE2ZzyY3ZBCRZ7j",
+          "id": "2CpLIMBoE2ZzyY3ZBCRZ7j",
+          "name": "BUNT.",
+          "type": "artist",
+          "uri": "spotify:artist:2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2oYcDcUIFEuqhDp2wIHx34",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732a9f77d59f9a8fdc890a1368",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022a9f77d59f9a8fdc890a1368",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512a9f77d59f9a8fdc890a1368",
+          "width": 64
+        }
+      ],
+      "name": "Lose It All (I Don't Wanna)",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:2oYcDcUIFEuqhDp2wIHx34"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CpLIMBoE2ZzyY3ZBCRZ7j",
+        "id": "2CpLIMBoE2ZzyY3ZBCRZ7j",
+        "name": "BUNT.",
+        "type": "artist",
+        "uri": "spotify:artist:2CpLIMBoE2ZzyY3ZBCRZ7j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6FWAIkMvnS0ABEdBKcIp5K",
+    "is_local": false,
+    "name": "Lose It All (I Don't Wanna)",
+    "preview_url": "https://p.scdn.co/mp3-preview/0449cb7f14efff265141e7e00ffc535bd0cff031?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          },
+          "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+          "id": "7GMot9WvBYqhhJz92vhBp6",
+          "name": "EDX",
+          "type": "artist",
+          "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1QyvQD5s7vgetc2UUkeNrL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a068f0a7ad8f9a8749c91729",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a068f0a7ad8f9a8749c91729",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a068f0a7ad8f9a8749c91729",
+          "width": 64
+        }
+      ],
+      "name": "So Good",
+      "release_date": "2022-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1QyvQD5s7vgetc2UUkeNrL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        "href": "https://api.spotify.com/v1/artists/7GMot9WvBYqhhJz92vhBp6",
+        "id": "7GMot9WvBYqhhJz92vhBp6",
+        "name": "EDX",
+        "type": "artist",
+        "uri": "spotify:artist:7GMot9WvBYqhhJz92vhBp6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/50YBCtA1z8J7p9TufYGNL7",
+    "is_local": false,
+    "name": "So Good",
+    "preview_url": "https://p.scdn.co/mp3-preview/57de095ffa7392e36bb4ce33c4390f90eebea156?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg"
+          },
+          "href": "https://api.spotify.com/v1/artists/64FzaTBI1Z4TZXlhrihUDg",
+          "id": "64FzaTBI1Z4TZXlhrihUDg",
+          "name": "Robert Burian",
+          "type": "artist",
+          "uri": "spotify:artist:64FzaTBI1Z4TZXlhrihUDg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19mWO6N3Aho1cJe5P29oBQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27366df06d35953b46ea31d4f8b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0266df06d35953b46ea31d4f8b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485166df06d35953b46ea31d4f8b",
+          "width": 64
+        }
+      ],
+      "name": "Never Ever",
+      "release_date": "2023-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:19mWO6N3Aho1cJe5P29oBQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg"
+        },
+        "href": "https://api.spotify.com/v1/artists/64FzaTBI1Z4TZXlhrihUDg",
+        "id": "64FzaTBI1Z4TZXlhrihUDg",
+        "name": "Robert Burian",
+        "type": "artist",
+        "uri": "spotify:artist:64FzaTBI1Z4TZXlhrihUDg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5w9I2F2fzgqkeQ2xQDMlsz",
+    "is_local": false,
+    "name": "Never Ever",
+    "preview_url": "https://p.scdn.co/mp3-preview/c04bdf9ff0a329090d6af881fe9b700c135ddf4e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2EfG2EoT8GFJrMiilbTVl2",
+          "id": "2EfG2EoT8GFJrMiilbTVl2",
+          "name": "Donna Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:2EfG2EoT8GFJrMiilbTVl2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          },
+          "href": "https://api.spotify.com/v1/artists/24DO0PijjITGIEWsO8XaPs",
+          "id": "24DO0PijjITGIEWsO8XaPs",
+          "name": "Nora En Pure",
+          "type": "artist",
+          "uri": "spotify:artist:24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7pH3cy1xaXNxrOdinVKUuj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27354de58ffe418748e19b4b068",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0254de58ffe418748e19b4b068",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485154de58ffe418748e19b4b068",
+          "width": 64
+        }
+      ],
+      "name": "I Love You Always Forever (Nora's Version)",
+      "release_date": "2023-06-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7pH3cy1xaXNxrOdinVKUuj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        },
+        "href": "https://api.spotify.com/v1/artists/2EfG2EoT8GFJrMiilbTVl2",
+        "id": "2EfG2EoT8GFJrMiilbTVl2",
+        "name": "Donna Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:2EfG2EoT8GFJrMiilbTVl2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        "href": "https://api.spotify.com/v1/artists/24DO0PijjITGIEWsO8XaPs",
+        "id": "24DO0PijjITGIEWsO8XaPs",
+        "name": "Nora En Pure",
+        "type": "artist",
+        "uri": "spotify:artist:24DO0PijjITGIEWsO8XaPs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4eMaX3oR9aD0JTwZOrNQ9Y",
+    "is_local": false,
+    "name": "I Love You Always Forever (Nora's Version)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8066e212ff7bffe987a762cbb9a56dabf53f6114?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2tndYCXQneCV4jtoWRwVpz",
+          "id": "2tndYCXQneCV4jtoWRwVpz",
+          "name": "Lucas Estrada",
+          "type": "artist",
+          "uri": "spotify:artist:2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0j4dGWeyGGE4GvrAzdZIZ5",
+          "id": "0j4dGWeyGGE4GvrAzdZIZ5",
+          "name": "Raffa Fl",
+          "type": "artist",
+          "uri": "spotify:artist:0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s"
+          },
+          "href": "https://api.spotify.com/v1/artists/21EyWBa08Y6OXjA6s8GR8s",
+          "id": "21EyWBa08Y6OXjA6s8GR8s",
+          "name": "TECHOLOGY",
+          "type": "artist",
+          "uri": "spotify:artist:21EyWBa08Y6OXjA6s8GR8s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/06Sv0nfkDslR2zt14sArMZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0cda26c8d2eea18b53313d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0cda26c8d2eea18b53313d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b0cda26c8d2eea18b53313d8",
+          "width": 64
+        }
+      ],
+      "name": "Candela",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:06Sv0nfkDslR2zt14sArMZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2tndYCXQneCV4jtoWRwVpz",
+        "id": "2tndYCXQneCV4jtoWRwVpz",
+        "name": "Lucas Estrada",
+        "type": "artist",
+        "uri": "spotify:artist:2tndYCXQneCV4jtoWRwVpz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0j4dGWeyGGE4GvrAzdZIZ5",
+        "id": "0j4dGWeyGGE4GvrAzdZIZ5",
+        "name": "Raffa Fl",
+        "type": "artist",
+        "uri": "spotify:artist:0j4dGWeyGGE4GvrAzdZIZ5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s"
+        },
+        "href": "https://api.spotify.com/v1/artists/21EyWBa08Y6OXjA6s8GR8s",
+        "id": "21EyWBa08Y6OXjA6s8GR8s",
+        "name": "TECHOLOGY",
+        "type": "artist",
+        "uri": "spotify:artist:21EyWBa08Y6OXjA6s8GR8s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0WR1IwdoZvOe9eyvIiOsxN",
+    "is_local": false,
+    "name": "Candela",
+    "preview_url": "https://p.scdn.co/mp3-preview/6b6073ab4055259ed38b9307cf282f04e4158478?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zSWGyWE5d0PYaYrtdVwOz",
+          "id": "5zSWGyWE5d0PYaYrtdVwOz",
+          "name": "Y.V.E. 48",
+          "type": "artist",
+          "uri": "spotify:artist:5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0lEqL5mhY7PN3WWpb6mHXx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5d7813dfda297b0ebeba610",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5d7813dfda297b0ebeba610",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5d7813dfda297b0ebeba610",
+          "width": 64
+        }
+      ],
+      "name": "All This Time",
+      "release_date": "2023-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0lEqL5mhY7PN3WWpb6mHXx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zSWGyWE5d0PYaYrtdVwOz",
+        "id": "5zSWGyWE5d0PYaYrtdVwOz",
+        "name": "Y.V.E. 48",
+        "type": "artist",
+        "uri": "spotify:artist:5zSWGyWE5d0PYaYrtdVwOz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0xV1SugUe8sTfoscbx4sp8",
+    "is_local": false,
+    "name": "All This Time",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb455c5643f7a654bb1eb2b8c94bc6d4ccc77d36?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2HbpYFQbairMoU2YFyOP2x",
+    "is_local": false,
+    "name": "Motorcycle Drive By",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5fc1445a2f8a45868ed404f14bba9516c8f8db2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tV2P2SciHytsSDufKr57B",
+          "id": "6tV2P2SciHytsSDufKr57B",
+          "name": "TWOPILOTS",
+          "type": "artist",
+          "uri": "spotify:artist:6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Iiu7xbEoH46CCvp5F9o7D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27392ff0007ca81a08b41c40fa4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0292ff0007ca81a08b41c40fa4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485192ff0007ca81a08b41c40fa4",
+          "width": 64
+        }
+      ],
+      "name": "King",
+      "release_date": "2023-01-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1Iiu7xbEoH46CCvp5F9o7D"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        "href": "https://api.spotify.com/v1/artists/6tV2P2SciHytsSDufKr57B",
+        "id": "6tV2P2SciHytsSDufKr57B",
+        "name": "TWOPILOTS",
+        "type": "artist",
+        "uri": "spotify:artist:6tV2P2SciHytsSDufKr57B"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7yH9SbrDQfNIh89ACCR7Ib",
+    "is_local": false,
+    "name": "King",
+    "preview_url": "https://p.scdn.co/mp3-preview/47c0dcc37026953901af9ca4045f0990e1c6525a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1kga1HtTWs6Jv6kTKieN6m",
+    "is_local": false,
+    "name": "Highway Boys",
+    "preview_url": "https://p.scdn.co/mp3-preview/d4d97136f6a3070a641cf0ce4367f701cfe33375?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/70KAbDjO08A8nfTLShbraZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8ebe39f75ed9a30e1c377d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8ebe39f75ed9a30e1c377d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8ebe39f75ed9a30e1c377d5",
+          "width": 64
+        }
+      ],
+      "name": "Quiet, Heavy Dreams",
+      "release_date": "2020-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:70KAbDjO08A8nfTLShbraZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1cfi4ewXF9ifZ7it025zDK",
+    "is_local": false,
+    "name": "Traveling Man",
+    "preview_url": "https://p.scdn.co/mp3-preview/8f46e676f5f1a0c2c1b0f71dd93926b595e2fbca?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+          },
+          "href": "https://api.spotify.com/v1/artists/310IX3ZzFSl14ZvY2dM8Da",
+          "id": "310IX3ZzFSl14ZvY2dM8Da",
+          "name": "Silver Panda",
+          "type": "artist",
+          "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1xGF8XISTlMx8LCZrxhLa5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1683491b6f277945b3d12ba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1683491b6f277945b3d12ba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1683491b6f277945b3d12ba",
+          "width": 64
+        }
+      ],
+      "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+      "release_date": "2024-01-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1xGF8XISTlMx8LCZrxhLa5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        },
+        "href": "https://api.spotify.com/v1/artists/310IX3ZzFSl14ZvY2dM8Da",
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "name": "Silver Panda",
+        "type": "artist",
+        "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6rGf5AsEaVskU0pO2ewcUL",
+    "is_local": false,
+    "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/82ca48f2fe16d54fd253976d99847a1b502ff947?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
