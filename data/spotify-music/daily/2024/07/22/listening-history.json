@@ -1,0 +1,307 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0npZ1Ryg8HaFGeb2HKYQIz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2aa84b988e58703f8ed4e84",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2aa84b988e58703f8ed4e84",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e2aa84b988e58703f8ed4e84",
+          "width": 64
+        }
+      ],
+      "name": "DeAnn",
+      "release_date": "2019-08-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0npZ1Ryg8HaFGeb2HKYQIz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WuVLG5DRHKKuJ6deCw28p",
+    "is_local": false,
+    "name": "Condemned",
+    "preview_url": "https://p.scdn.co/mp3-preview/fa348f308b3cedb331c8c5824369dd143a1151b4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan",
+          "type": "artist",
+          "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nCpzKTB9VoZF1hsogANQi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b3ac7a6645b0fa75df2d9d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020b3ac7a6645b0fa75df2d9d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510b3ac7a6645b0fa75df2d9d8",
+          "width": 64
+        }
+      ],
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "release_date": "2023-09-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4nCpzKTB9VoZF1hsogANQi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+        "id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "name": "Noah Kahan",
+        "type": "artist",
+        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1fvC3CmNAbsx0V9ULMU8NB",
+    "is_local": false,
+    "name": "Sarah's Place (feat. Noah Kahan)",
+    "preview_url": "https://p.scdn.co/mp3-preview/3e274f0e3ea942efd0cfc1bb04ed0c3df0534b82?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1SjsVdSXpwm1kTdYEHoPIT",
+    "is_local": false,
+    "name": "Sun to Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/e002b15b8d7d1d3c8953abd8f451536c2621bbf4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TsiwVwHhLgVK8sxBchINM",
+    "is_local": false,
+    "name": "Tishomingo",
+    "preview_url": "https://p.scdn.co/mp3-preview/012e94cb9ecc68c27872f1daa1fcfc6bd980bb7c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          },
+          "href": "https://api.spotify.com/v1/artists/7keGfmQR4X5w0two1xKZ7d",
+          "id": "7keGfmQR4X5w0two1xKZ7d",
+          "name": "Kungs",
+          "type": "artist",
+          "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0LAO0Lz7P7nO3MpRiQZBLL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b494febf43e3a001e4d03af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b494febf43e3a001e4d03af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b494febf43e3a001e4d03af6",
+          "width": 64
+        }
+      ],
+      "name": "Club Azur",
+      "release_date": "2022-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:0LAO0Lz7P7nO3MpRiQZBLL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        "href": "https://api.spotify.com/v1/artists/7keGfmQR4X5w0two1xKZ7d",
+        "id": "7keGfmQR4X5w0two1xKZ7d",
+        "name": "Kungs",
+        "type": "artist",
+        "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ju5Ntn5pYksvkKxVkjEPK",
+    "is_local": false,
+    "name": "Never Going Home",
+    "preview_url": "https://p.scdn.co/mp3-preview/7dea437b3564ee2d1798e6c4d5f78a84782fd501?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
