@@ -1,0 +1,156 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5wKVor4aDuvn09tJO7WZpY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ebcfb3e92f937a1a4cc16f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ebcfb3e92f937a1a4cc16f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ebcfb3e92f937a1a4cc16f0",
+          "width": 64
+        }
+      ],
+      "name": "Boys Of Faith",
+      "release_date": "2023-09-22",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:5wKVor4aDuvn09tJO7WZpY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1u2Fe70Qm9VFCIMPWFlfc1",
+    "is_local": false,
+    "name": "Deep Satin",
+    "preview_url": "https://p.scdn.co/mp3-preview/bdb05ac12f037151d002ed9cbc0d48c0052adae5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq",
+          "id": "5iNrZmtVMtYev5M9yoWpEq",
+          "name": "Seeb",
+          "type": "artist",
+          "uri": "spotify:artist:5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4qWnlmXWuGv2TtuxtIWlJX",
+          "id": "4qWnlmXWuGv2TtuxtIWlJX",
+          "name": "BANNERS",
+          "type": "artist",
+          "uri": "spotify:artist:4qWnlmXWuGv2TtuxtIWlJX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2lJ6K4PTrrweXhRiqh1CZE",
+          "id": "2lJ6K4PTrrweXhRiqh1CZE",
+          "name": "SUPER-Hi",
+          "type": "artist",
+          "uri": "spotify:artist:2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ybEZk0qcfHki7HAcqUtcw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c66f3536bc6910794980c12",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023c66f3536bc6910794980c12",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513c66f3536bc6910794980c12",
+          "width": 64
+        }
+      ],
+      "name": "Submarine",
+      "release_date": "2023-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6ybEZk0qcfHki7HAcqUtcw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        "href": "https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq",
+        "id": "5iNrZmtVMtYev5M9yoWpEq",
+        "name": "Seeb",
+        "type": "artist",
+        "uri": "spotify:artist:5iNrZmtVMtYev5M9yoWpEq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        },
+        "href": "https://api.spotify.com/v1/artists/4qWnlmXWuGv2TtuxtIWlJX",
+        "id": "4qWnlmXWuGv2TtuxtIWlJX",
+        "name": "BANNERS",
+        "type": "artist",
+        "uri": "spotify:artist:4qWnlmXWuGv2TtuxtIWlJX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        "href": "https://api.spotify.com/v1/artists/2lJ6K4PTrrweXhRiqh1CZE",
+        "id": "2lJ6K4PTrrweXhRiqh1CZE",
+        "name": "SUPER-Hi",
+        "type": "artist",
+        "uri": "spotify:artist:2lJ6K4PTrrweXhRiqh1CZE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cBRrVuaqVQ8WW6VDUHH9l",
+    "is_local": false,
+    "name": "Submarine",
+    "preview_url": "https://p.scdn.co/mp3-preview/b927f38544c6a88cbed1aafa70ad59d8eceb242c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
