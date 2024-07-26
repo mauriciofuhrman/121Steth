@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3EvZ03hGAFwGZ2Ebcu86YH",
+    "is_local": false,
+    "name": "Tourniquet",
+    "preview_url": "https://p.scdn.co/mp3-preview/44713a8e7bfb27c1a1e2a702bb71188de2c4bfc8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
