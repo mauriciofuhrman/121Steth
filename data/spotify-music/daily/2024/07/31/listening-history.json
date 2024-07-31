@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan",
+          "type": "artist",
+          "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nCpzKTB9VoZF1hsogANQi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b3ac7a6645b0fa75df2d9d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020b3ac7a6645b0fa75df2d9d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510b3ac7a6645b0fa75df2d9d8",
+          "width": 64
+        }
+      ],
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "release_date": "2023-09-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4nCpzKTB9VoZF1hsogANQi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+        "id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "name": "Noah Kahan",
+        "type": "artist",
+        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1fvC3CmNAbsx0V9ULMU8NB",
+    "is_local": false,
+    "name": "Sarah's Place (feat. Noah Kahan)",
+    "preview_url": "https://p.scdn.co/mp3-preview/3e274f0e3ea942efd0cfc1bb04ed0c3df0534b82?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
