@@ -1,0 +1,317 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uGApGjjFXKwUOAqYBeX7B",
+          "id": "0uGApGjjFXKwUOAqYBeX7B",
+          "name": "Deepend",
+          "type": "artist",
+          "uri": "spotify:artist:0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UUdxfBMwm0hLlLgnZtBFv",
+          "id": "5UUdxfBMwm0hLlLgnZtBFv",
+          "name": "Madism",
+          "type": "artist",
+          "uri": "spotify:artist:5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7G39pVt7Ed3PTkC0tHw7QG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2945289bd8ba53c8071e8b8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2945289bd8ba53c8071e8b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d2945289bd8ba53c8071e8b8",
+          "width": 64
+        }
+      ],
+      "name": "Hold This Memory",
+      "release_date": "2022-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7G39pVt7Ed3PTkC0tHw7QG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        "href": "https://api.spotify.com/v1/artists/0uGApGjjFXKwUOAqYBeX7B",
+        "id": "0uGApGjjFXKwUOAqYBeX7B",
+        "name": "Deepend",
+        "type": "artist",
+        "uri": "spotify:artist:0uGApGjjFXKwUOAqYBeX7B"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5UUdxfBMwm0hLlLgnZtBFv",
+        "id": "5UUdxfBMwm0hLlLgnZtBFv",
+        "name": "Madism",
+        "type": "artist",
+        "uri": "spotify:artist:5UUdxfBMwm0hLlLgnZtBFv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/21VnSlwtvNKUFFHHKqt7fI",
+    "is_local": false,
+    "name": "Hold This Memory",
+    "preview_url": "https://p.scdn.co/mp3-preview/00244c1e8f7b0d6dd22a1d6404574b49a42b4240?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2dUjApyXX9UqIsFGzoHyhX",
+          "id": "2dUjApyXX9UqIsFGzoHyhX",
+          "name": "CHANEY",
+          "type": "artist",
+          "uri": "spotify:artist:2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7xL9P258zioz3ztUmu5D6u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379fb4833e91f40e75b090b01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279fb4833e91f40e75b090b01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179fb4833e91f40e75b090b01",
+          "width": 64
+        }
+      ],
+      "name": "I Choose You",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7xL9P258zioz3ztUmu5D6u"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2dUjApyXX9UqIsFGzoHyhX",
+        "id": "2dUjApyXX9UqIsFGzoHyhX",
+        "name": "CHANEY",
+        "type": "artist",
+        "uri": "spotify:artist:2dUjApyXX9UqIsFGzoHyhX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6pciypwNijdOfdZG93mZ5I",
+    "is_local": false,
+    "name": "I Choose You",
+    "preview_url": "https://p.scdn.co/mp3-preview/e1149747b3cbc18389abc89b954f7bdb99ab1601?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CpLIMBoE2ZzyY3ZBCRZ7j",
+          "id": "2CpLIMBoE2ZzyY3ZBCRZ7j",
+          "name": "BUNT.",
+          "type": "artist",
+          "uri": "spotify:artist:2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3hXx9qkxsHdQ1oyeqOvUAJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397c69473dcf16d2bb4598222",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297c69473dcf16d2bb4598222",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197c69473dcf16d2bb4598222",
+          "width": 64
+        }
+      ],
+      "name": "Levi Don't Do It",
+      "release_date": "2024-01-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3hXx9qkxsHdQ1oyeqOvUAJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CpLIMBoE2ZzyY3ZBCRZ7j",
+        "id": "2CpLIMBoE2ZzyY3ZBCRZ7j",
+        "name": "BUNT.",
+        "type": "artist",
+        "uri": "spotify:artist:2CpLIMBoE2ZzyY3ZBCRZ7j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        },
+        "href": "https://api.spotify.com/v1/artists/34qyuX5yO72yzL8Z4JclBc",
+        "id": "34qyuX5yO72yzL8Z4JclBc",
+        "name": "Nate Traveller",
+        "type": "artist",
+        "uri": "spotify:artist:34qyuX5yO72yzL8Z4JclBc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3zPco1u9i9bCjkG5pngR5t",
+    "is_local": false,
+    "name": "Clouds",
+    "preview_url": "https://p.scdn.co/mp3-preview/532a34280cc2a8be70ec0e9ddfc0fb677e5ceee0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZUg3IUvAPAl8coXQAxaXd",
+          "id": "4ZUg3IUvAPAl8coXQAxaXd",
+          "name": "Lucas Nord",
+          "type": "artist",
+          "uri": "spotify:artist:4ZUg3IUvAPAl8coXQAxaXd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7406FZf3JxgLG19sskEfsG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738170690712466d37da07f3ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028170690712466d37da07f3ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518170690712466d37da07f3ad",
+          "width": 64
+        }
+      ],
+      "name": "Closer To You",
+      "release_date": "2022-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7406FZf3JxgLG19sskEfsG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ZUg3IUvAPAl8coXQAxaXd",
+        "id": "4ZUg3IUvAPAl8coXQAxaXd",
+        "name": "Lucas Nord",
+        "type": "artist",
+        "uri": "spotify:artist:4ZUg3IUvAPAl8coXQAxaXd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/09CanZmO6paS3VIPtoVJsh",
+    "is_local": false,
+    "name": "Closer To You",
+    "preview_url": "https://p.scdn.co/mp3-preview/43ef3b5c9cf5de6463e80c4b58625124f1a1931f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+          "id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "HUGEL",
+          "type": "artist",
+          "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4XNpw8KZFcml3E0wz4ZyYx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8101cc61a1a16540f1f7528",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8101cc61a1a16540f1f7528",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8101cc61a1a16540f1f7528",
+          "width": 64
+        }
+      ],
+      "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE (Rework)",
+      "release_date": "2024-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4XNpw8KZFcml3E0wz4ZyYx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id": "5PlfkPxwCpRRWQJBxCa0By",
+        "name": "HUGEL",
+        "type": "artist",
+        "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/14S2VMZRhekYGluotZ4pqg",
+    "is_local": false,
+    "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework",
+    "preview_url": "https://p.scdn.co/mp3-preview/d17aa2a659283d7a0ae81254d9cf5458139414a3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
