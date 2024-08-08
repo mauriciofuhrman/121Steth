@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mSHY8JOR0nRi3mtHqVa04",
+          "id": "2mSHY8JOR0nRi3mtHqVa04",
+          "name": "Los Prisioneros",
+          "type": "artist",
+          "uri": "spotify:artist:2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1XqzXn8a7Z15Z5tBSouXcH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27398daeb6fc14ffafc7abaa4c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0298daeb6fc14ffafc7abaa4c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485198daeb6fc14ffafc7abaa4c6",
+          "width": 64
+        }
+      ],
+      "name": "Corazones",
+      "release_date": "1990-09-08",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1XqzXn8a7Z15Z5tBSouXcH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mSHY8JOR0nRi3mtHqVa04",
+        "id": "2mSHY8JOR0nRi3mtHqVa04",
+        "name": "Los Prisioneros",
+        "type": "artist",
+        "uri": "spotify:artist:2mSHY8JOR0nRi3mtHqVa04"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6W1BLmVBxkqZwFQcORQLnv",
+    "is_local": false,
+    "name": "Tren Al Sur",
+    "preview_url": "https://p.scdn.co/mp3-preview/2ba72498e9f0065ad57541757acab091af042721?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
