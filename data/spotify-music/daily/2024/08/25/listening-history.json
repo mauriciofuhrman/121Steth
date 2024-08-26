@@ -1,0 +1,233 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5eKQYtDqVmrHPZoKHG1LlH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+          "width": 64
+        }
+      ],
+      "name": "Somebody (2024)",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fAwPpS78sokZdpktoSUE8",
+        "id": "5fAwPpS78sokZdpktoSUE8",
+        "name": "Sante Sansone",
+        "type": "artist",
+        "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0agQ9vIV7NP4dntGKLcCXO",
+    "is_local": false,
+    "name": "Somebody (2024)",
+    "preview_url": "https://p.scdn.co/mp3-preview/84e41be344cbbda874dcfcc803a6f39f156e9fc2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          },
+          "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+          "id": "711MCceyCBcFnzjGY4Q7Un",
+          "name": "AC/DC",
+          "type": "artist",
+          "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mUdeDZCsExyJLMdAfDuwh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020b51f8d91f3a21e8426361ae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+          "width": 64
+        }
+      ],
+      "name": "Back In Black",
+      "release_date": "1980-07-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        },
+        "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+        "id": "711MCceyCBcFnzjGY4Q7Un",
+        "name": "AC/DC",
+        "type": "artist",
+        "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2SiXAy7TuUkycRVbbWDEpo",
+    "is_local": false,
+    "name": "You Shook Me All Night Long",
+    "preview_url": "https://p.scdn.co/mp3-preview/3b01294b6b0458fea6ed5a88ea1b1593eb495ead?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          },
+          "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+          "id": "711MCceyCBcFnzjGY4Q7Un",
+          "name": "AC/DC",
+          "type": "artist",
+          "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mUdeDZCsExyJLMdAfDuwh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020b51f8d91f3a21e8426361ae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510b51f8d91f3a21e8426361ae",
+          "width": 64
+        }
+      ],
+      "name": "Back In Black",
+      "release_date": "1980-07-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        },
+        "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+        "id": "711MCceyCBcFnzjGY4Q7Un",
+        "name": "AC/DC",
+        "type": "artist",
+        "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2SiXAy7TuUkycRVbbWDEpo",
+    "is_local": false,
+    "name": "You Shook Me All Night Long",
+    "preview_url": "https://p.scdn.co/mp3-preview/3b01294b6b0458fea6ed5a88ea1b1593eb495ead?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
