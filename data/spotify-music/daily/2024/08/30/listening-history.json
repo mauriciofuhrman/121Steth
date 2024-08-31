@@ -1,0 +1,1007 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+          "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+          "name": "Jazzy",
+          "type": "artist",
+          "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6lIisbumiVx5fHO6e8ybLb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738dcdb7396c93be6b997c49ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028dcdb7396c93be6b997c49ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518dcdb7396c93be6b997c49ec",
+          "width": 64
+        }
+      ],
+      "name": "Constellations (Expanded)",
+      "release_date": "2024-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6lIisbumiVx5fHO6e8ybLb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+        "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+        "name": "Jazzy",
+        "type": "artist",
+        "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2pe4teHX2j6Z0kGN3RgwSF",
+    "is_local": false,
+    "name": "Giving Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/16a655d0f6022868a100a1b74852cfea4f926933?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Tiësto",
+          "type": "artist",
+          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1QltVGlNGbK94CKgUsYZGa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4d537d8c91fcecf90bc9454",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4d537d8c91fcecf90bc9454",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4d537d8c91fcecf90bc9454",
+          "width": 64
+        }
+      ],
+      "name": "Another Love (Tiësto Remix)",
+      "release_date": "2022-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1QltVGlNGbK94CKgUsYZGa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Tiësto",
+        "type": "artist",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Et6tUEO7biKxZEfJXpNj1",
+    "is_local": false,
+    "name": "Another Love - Tiësto Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/b5e92f8b10451ee5381165cb1ddbd3af1f27c4c4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+          "id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "HUGEL",
+          "type": "artist",
+          "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4XNpw8KZFcml3E0wz4ZyYx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8101cc61a1a16540f1f7528",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8101cc61a1a16540f1f7528",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8101cc61a1a16540f1f7528",
+          "width": 64
+        }
+      ],
+      "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE (Rework)",
+      "release_date": "2024-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4XNpw8KZFcml3E0wz4ZyYx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id": "5PlfkPxwCpRRWQJBxCa0By",
+        "name": "HUGEL",
+        "type": "artist",
+        "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/14S2VMZRhekYGluotZ4pqg",
+    "is_local": false,
+    "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework",
+    "preview_url": "https://p.scdn.co/mp3-preview/d17aa2a659283d7a0ae81254d9cf5458139414a3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1nqF9ybDGwuGl1rVERp5Q4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f669b4e7f0327c92909bc762",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f669b4e7f0327c92909bc762",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f669b4e7f0327c92909bc762",
+          "width": 64
+        }
+      ],
+      "name": "The Cruelest Summer",
+      "release_date": "2023-10-19",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:1nqF9ybDGwuGl1rVERp5Q4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id": "3oKnyRhYWzNsTiss5n4Z1J",
+        "name": "LP Giobbi",
+        "type": "artist",
+        "uri": "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0pjBqAz8GlxGlpaU4W0DxS",
+    "is_local": false,
+    "name": "Cruel Summer - LP Giobbi Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/840b5533cd1f817748e85bda290c6ac266100b4d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          },
+          "href": "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+          "id": "4admDxmnri5Zco0xYrJ0ji",
+          "name": "Jamie Jones",
+          "type": "artist",
+          "uri": "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+          "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+          "name": "Jazzy",
+          "type": "artist",
+          "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/21mqL1eOj7aRJQUwOQakcH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376e966ae2ae721c771183228",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276e966ae2ae721c771183228",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176e966ae2ae721c771183228",
+          "width": 64
+        }
+      ],
+      "name": "We Groovin (with Jazzy)",
+      "release_date": "2024-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:21mqL1eOj7aRJQUwOQakcH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        "href": "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+        "id": "4admDxmnri5Zco0xYrJ0ji",
+        "name": "Jamie Jones",
+        "type": "artist",
+        "uri": "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+        "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+        "name": "Jazzy",
+        "type": "artist",
+        "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6LiuMpZjyjjuXFP5Ljo9bv",
+    "is_local": false,
+    "name": "We Groovin (with Jazzy)",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a27407321be64ab27c3fc4add67fc50aae83b49?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HxX6imltnNXJyQhu4nsiO",
+          "id": "0HxX6imltnNXJyQhu4nsiO",
+          "name": "LF SYSTEM",
+          "type": "artist",
+          "uri": "spotify:artist:0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/528LrHfHcB7PMAvyp8Obhp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ced808ef1567eaf901041438",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ced808ef1567eaf901041438",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ced808ef1567eaf901041438",
+          "width": 64
+        }
+      ],
+      "name": "Afraid To Feel",
+      "release_date": "2022-05-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:528LrHfHcB7PMAvyp8Obhp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HxX6imltnNXJyQhu4nsiO",
+        "id": "0HxX6imltnNXJyQhu4nsiO",
+        "name": "LF SYSTEM",
+        "type": "artist",
+        "uri": "spotify:artist:0HxX6imltnNXJyQhu4nsiO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/40SBS57su9xLiE1WqkXOVr",
+    "is_local": false,
+    "name": "Afraid To Feel",
+    "preview_url": "https://p.scdn.co/mp3-preview/ef097e0e455e0958ae85f58582eff55537d2a507?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+          "id": "3FUY2gzHeIiaesXtOAdB7A",
+          "name": "Train",
+          "type": "artist",
+          "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zseibu9WEsPaZmkJUMkz1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bde344cc54eedc35050f4c61",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bde344cc54eedc35050f4c61",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61",
+          "width": 64
+        }
+      ],
+      "name": "California 37",
+      "release_date": "2012-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5zseibu9WEsPaZmkJUMkz1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+        "id": "3FUY2gzHeIiaesXtOAdB7A",
+        "name": "Train",
+        "type": "artist",
+        "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0KAiuUOrLTIkzkpfpn9jb9",
+    "is_local": false,
+    "name": "Drive By",
+    "preview_url": "https://p.scdn.co/mp3-preview/04a4331f6e25d0bd2c6de9c1202ad719f24b1cef?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+          "id": "2CnJJITnV40TB5UtCRhwIZ",
+          "name": "Wakyin",
+          "type": "artist",
+          "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6YoX9Sp63sr8NvOEjHk8uV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c1faf936b87bdf93bee8d7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c1faf936b87bdf93bee8d7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c1faf936b87bdf93bee8d7e",
+          "width": 64
+        }
+      ],
+      "name": "Beso (Fruta Fresca)",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6YoX9Sp63sr8NvOEjHk8uV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+        "id": "2CnJJITnV40TB5UtCRhwIZ",
+        "name": "Wakyin",
+        "type": "artist",
+        "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+        "id": "4vhNDa5ycK0ST968ek7kRr",
+        "name": "Carlos Vives",
+        "type": "artist",
+        "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0r3nMF80NSIuPIxeod4aoG",
+    "is_local": false,
+    "name": "Beso (Fruta Fresca)",
+    "preview_url": "https://p.scdn.co/mp3-preview/0c897de6ef733a7550d4ca5decb9684aee73abd5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/33ScadVnbm2X8kkUqOkC6Z",
+          "id": "33ScadVnbm2X8kkUqOkC6Z",
+          "name": "Don Omar",
+          "type": "artist",
+          "uri": "spotify:artist:33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mGDfbDErYIJsmSewvccWm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024640a26eb27649006be29a94",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514640a26eb27649006be29a94",
+          "width": 64
+        }
+      ],
+      "name": "Meet The Orphans",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6mGDfbDErYIJsmSewvccWm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/33ScadVnbm2X8kkUqOkC6Z",
+        "id": "33ScadVnbm2X8kkUqOkC6Z",
+        "name": "Don Omar",
+        "type": "artist",
+        "uri": "spotify:artist:33ScadVnbm2X8kkUqOkC6Z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        "href": "https://api.spotify.com/v1/artists/5bv5RplEOwdCvhq0EILh9E",
+        "id": "5bv5RplEOwdCvhq0EILh9E",
+        "name": "Lucenzo",
+        "type": "artist",
+        "uri": "spotify:artist:5bv5RplEOwdCvhq0EILh9E"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2a1o6ZejUi8U3wzzOtCOYw",
+    "is_local": false,
+    "name": "Danza Kuduro",
+    "preview_url": "https://p.scdn.co/mp3-preview/283ea222e7b4af379ba32c62b165f0e80bb0951c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist",
+          "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+          "id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "HUGEL",
+          "type": "artist",
+          "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3E3JRB0gGzHuc56GB3hUPJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c085bf11b46f72cb2976fd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026c085bf11b46f72cb2976fd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516c085bf11b46f72cb2976fd8",
+          "width": 64
+        }
+      ],
+      "name": "Stay High",
+      "release_date": "2023-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3E3JRB0gGzHuc56GB3hUPJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+        "id": "5fMUXHkw8R8eOP2RNVYEZX",
+        "name": "Diplo",
+        "type": "artist",
+        "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id": "5PlfkPxwCpRRWQJBxCa0By",
+        "name": "HUGEL",
+        "type": "artist",
+        "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dHGNdVhBxCJUyMk9dR727",
+        "id": "4dHGNdVhBxCJUyMk9dR727",
+        "name": "Julia Church",
+        "type": "artist",
+        "uri": "spotify:artist:4dHGNdVhBxCJUyMk9dR727"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7LXimIqTYO76Utly8VFABu",
+    "is_local": false,
+    "name": "Stay High",
+    "preview_url": "https://p.scdn.co/mp3-preview/21ec6252e39d793b8996afa172c048d88ac1bf96?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zx3vuOK841XDu7XFozhFv",
+          "id": "6zx3vuOK841XDu7XFozhFv",
+          "name": "Loofy",
+          "type": "artist",
+          "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/05cOaLn9wG0Mlx4unmfUHB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273663bcb03708ef2d7a71b8179",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02663bcb03708ef2d7a71b8179",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851663bcb03708ef2d7a71b8179",
+          "width": 64
+        }
+      ],
+      "name": "Last Night",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:05cOaLn9wG0Mlx4unmfUHB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zx3vuOK841XDu7XFozhFv",
+        "id": "6zx3vuOK841XDu7XFozhFv",
+        "name": "Loofy",
+        "type": "artist",
+        "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5mF7p5mwgaPZyIykUhO3PN",
+    "is_local": false,
+    "name": "Last Night",
+    "preview_url": "https://p.scdn.co/mp3-preview/67ea6e8e7b3585428a8ec0209f0b5744127ae854?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+          "id": "2mLA48B366zkELXYx7hcDN",
+          "name": "Peggy Gou",
+          "type": "artist",
+          "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5pnr4GOQkBuGuYPeiLw1T6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b58857b06c0d9ebf76458dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b58857b06c0d9ebf76458dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b58857b06c0d9ebf76458dc1",
+          "width": 64
+        }
+      ],
+      "name": "I Hear You",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5pnr4GOQkBuGuYPeiLw1T6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+        "id": "2mLA48B366zkELXYx7hcDN",
+        "name": "Peggy Gou",
+        "type": "artist",
+        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1BktkzhQ6rhP1jTREtUdPK",
+    "is_local": false,
+    "name": "(It Goes Like) Nanana - Edit",
+    "preview_url": "https://p.scdn.co/mp3-preview/e36e0bd4714844f1f9d992398b41a3e333f15cc9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "type": "artist",
+          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3xLq2t27tpJcAswTxF7S44",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dec00ff37e4cab52103bd76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021dec00ff37e4cab52103bd76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511dec00ff37e4cab52103bd76",
+          "width": 64
+        }
+      ],
+      "name": "Waiting For Tonight",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3xLq2t27tpJcAswTxF7S44"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5uz3XmT2mbY8eCl1IXDzMF",
+    "is_local": false,
+    "name": "Waiting For Tonight",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e1bb0fe3fe59289c33d368e765e30c8d38123fe?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+          "id": "2QsynagSdAqZj3U9HgDzjD",
+          "name": "Bob Marley & The Wailers",
+          "type": "artist",
+          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7JIcY8DOxlyJKAW3Dl3sWk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e536112cde0150fdaec65b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e536112cde0150fdaec65b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e536112cde0150fdaec65b6",
+          "width": 64
+        }
+      ],
+      "name": "Jamming (FISHER Rework)",
+      "release_date": "2024-02-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7JIcY8DOxlyJKAW3Dl3sWk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "type": "artist",
+        "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2gKewcQZEV1fqoWH81RUDk",
+    "is_local": false,
+    "name": "Jamming - FISHER Rework",
+    "preview_url": "https://p.scdn.co/mp3-preview/2559d9a1e4c4cdb86268b65c9fe8d63d9a5da2ca?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "type": "artist",
+          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6n9DKpOxwifT5hOXtgLZSL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+          "width": 64
+        }
+      ],
+      "name": "Legends Never Die",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "type": "artist",
+        "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/21CkzgKCBCq5V4XKjiGSIj",
+    "is_local": false,
+    "name": "Stay High",
+    "preview_url": "https://p.scdn.co/mp3-preview/451c915e30d353e31e13a993fabe2e2fa88eb8ca?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
