@@ -1,0 +1,203 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+          "id": "0A0FS04o6zMoto8OKPsDwY",
+          "name": "YG",
+          "type": "artist",
+          "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6HzHon4QSFPGPFIjjlZN0n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5e1093f3b6f0a59114a4905",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5e1093f3b6f0a59114a4905",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d5e1093f3b6f0a59114a4905",
+          "width": 64
+        }
+      ],
+      "name": "My Krazy Life",
+      "release_date": "2014-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6HzHon4QSFPGPFIjjlZN0n"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+        "id": "0A0FS04o6zMoto8OKPsDwY",
+        "name": "YG",
+        "type": "artist",
+        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+        "id": "4yBK75WVCQXej1p04GWqxH",
+        "name": "Jeezy",
+        "type": "artist",
+        "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5lHRUCqkQZCIWeX7xG4sYT",
+        "id": "5lHRUCqkQZCIWeX7xG4sYT",
+        "name": "Rich Homie Quan",
+        "type": "artist",
+        "uri": "spotify:artist:5lHRUCqkQZCIWeX7xG4sYT"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/19OHDib8Jrqi3o2nm5lzdA",
+    "is_local": false,
+    "name": "My Nigga",
+    "preview_url": "https://p.scdn.co/mp3-preview/cdefaab9e5653917fd2a65dce9474adc93579618?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/23enz9nXJhH1BR1Rm5CzDJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb1bc65edf4717e75fbc70ab",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb1bc65edf4717e75fbc70ab",
+          "width": 64
+        }
+      ],
+      "name": "Zenyatta Mondatta - Remastered 2003",
+      "release_date": "1980-10-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:23enz9nXJhH1BR1Rm5CzDJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5veJDT0MLsLbhYsx42GXUD",
+    "is_local": false,
+    "name": "Don't Stand So Close To Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/33fb1e343adb34e507be23ebcfd5f10f9c98d38b?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ErsJAz6qJ5cqjoVAvfvaC",
+        "id": "2ErsJAz6qJ5cqjoVAvfvaC",
+        "name": "Charles Wesley Godwin",
+        "type": "artist",
+        "uri": "spotify:artist:2ErsJAz6qJ5cqjoVAvfvaC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/11xeawurZXUDqRPxCasaDt",
+    "is_local": false,
+    "name": "Jamie (feat. Charles Wesley Godwin)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ce12546780676e3eb6085c9474bd4690e08334be?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
