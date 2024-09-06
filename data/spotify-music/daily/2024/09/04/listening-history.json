@@ -4,6 +4,83 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Ga1P7PMIsmqEZqhYZQgDo",
+          "id": "4Ga1P7PMIsmqEZqhYZQgDo",
+          "name": "Lil Tecca",
+          "type": "artist",
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0hTvuLmKKMWoBWgPPrpUKF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a12c000028e343a8496612bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a12c000028e343a8496612bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a12c000028e343a8496612bf",
+          "width": 64
+        }
+      ],
+      "name": "REPEAT IT",
+      "release_date": "2021-08-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0hTvuLmKKMWoBWgPPrpUKF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Ga1P7PMIsmqEZqhYZQgDo",
+        "id": "4Ga1P7PMIsmqEZqhYZQgDo",
+        "name": "Lil Tecca",
+        "type": "artist",
+        "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/21AJQhGZpujjZQXByZAXpr",
+    "is_local": false,
+    "name": "REPEAT IT (with Gunna)",
+    "preview_url": "https://p.scdn.co/mp3-preview/2fc91a3a9a502cb95af925150c11b097c5d5e6d0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
           },
           "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
@@ -75,6 +152,63 @@
     "is_local": false,
     "name": "My Nigga",
     "preview_url": "https://p.scdn.co/mp3-preview/cdefaab9e5653917fd2a65dce9474adc93579618?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "type": "artist",
+          "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5DvJgsMLbaR1HmAI6VhfcQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd222052a2594be29a6616b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd222052a2594be29a6616b5",
+          "width": 64
+        }
+      ],
+      "name": "Endless Summer Vacation",
+      "release_date": "2023-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5DvJgsMLbaR1HmAI6VhfcQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7DSAEUvxU8FajXtRloy8M0",
+    "is_local": false,
+    "name": "Flowers",
+    "preview_url": "https://p.scdn.co/mp3-preview/5184d19d1b7fcc3e7c067e38af45a7cc80851440?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
