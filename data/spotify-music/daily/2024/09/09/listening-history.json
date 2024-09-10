@@ -1,0 +1,669 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+          "id": "2CnJJITnV40TB5UtCRhwIZ",
+          "name": "Wakyin",
+          "type": "artist",
+          "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6YoX9Sp63sr8NvOEjHk8uV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c1faf936b87bdf93bee8d7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c1faf936b87bdf93bee8d7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c1faf936b87bdf93bee8d7e",
+          "width": 64
+        }
+      ],
+      "name": "Beso (Fruta Fresca)",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6YoX9Sp63sr8NvOEjHk8uV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+        "id": "2CnJJITnV40TB5UtCRhwIZ",
+        "name": "Wakyin",
+        "type": "artist",
+        "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+        "id": "4vhNDa5ycK0ST968ek7kRr",
+        "name": "Carlos Vives",
+        "type": "artist",
+        "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0r3nMF80NSIuPIxeod4aoG",
+    "is_local": false,
+    "name": "Beso (Fruta Fresca)",
+    "preview_url": "https://p.scdn.co/mp3-preview/0c897de6ef733a7550d4ca5decb9684aee73abd5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/00syWkRGIVQvYsg2OwfBUw",
+    "is_local": false,
+    "name": "East Side of Sorrow",
+    "preview_url": "https://p.scdn.co/mp3-preview/f3701336ca4895270ff0688f90071c0108036fd2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0OWhKvvsHptt6vnnNUSM9a",
+    "is_local": false,
+    "name": "Oklahoma Smokeshow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6a250eb4c50841e7b0c6be61cc0eec5a3586f8a9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5k7tvONUJjP2aTxI6BBCo0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dac2ba86a09b9b79b6de0b6c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dac2ba86a09b9b79b6de0b6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dac2ba86a09b9b79b6de0b6c",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5k7tvONUJjP2aTxI6BBCo0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0qoSVsQJOTINFkkux2lbJj",
+    "is_local": false,
+    "name": "Summertime Blues",
+    "preview_url": "https://p.scdn.co/mp3-preview/41e916be2fd0682b0770d423282503961460b693?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TsiwVwHhLgVK8sxBchINM",
+    "is_local": false,
+    "name": "Tishomingo",
+    "preview_url": "https://p.scdn.co/mp3-preview/012e94cb9ecc68c27872f1daa1fcfc6bd980bb7c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7yf9ZJyHRbp8sHtpDKfPpt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cab41f8c84d6164976400d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cab41f8c84d6164976400d4",
+          "width": 64
+        }
+      ],
+      "name": "Harder Than Ever",
+      "release_date": "2018-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5lf3ajySox32qFvGEf2TFM",
+    "is_local": false,
+    "name": "Southside",
+    "preview_url": "https://p.scdn.co/mp3-preview/7bd27769d470f2b60042b50ec55dde99ea80b425?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "type": "artist",
+          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3xLq2t27tpJcAswTxF7S44",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dec00ff37e4cab52103bd76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021dec00ff37e4cab52103bd76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511dec00ff37e4cab52103bd76",
+          "width": 64
+        }
+      ],
+      "name": "Waiting For Tonight",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3xLq2t27tpJcAswTxF7S44"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5uz3XmT2mbY8eCl1IXDzMF",
+    "is_local": false,
+    "name": "Waiting For Tonight",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e1bb0fe3fe59289c33d368e765e30c8d38123fe?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/0369cb748bc968ffd34fb4ac60f5403f2aad032f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
