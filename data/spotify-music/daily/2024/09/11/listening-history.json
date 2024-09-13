@@ -4,6 +4,73 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SZko61aMnmgvNhfhgTuD3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+          "width": 64
+        }
+      ],
+      "name": "Graduation",
+      "release_date": "2007-09-11",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4SZko61aMnmgvNhfhgTuD3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LQoZQIV0mIs0y0XQb0Sw2",
+        "id": "0LQoZQIV0mIs0y0XQb0Sw2",
+        "name": "Chris Martin",
+        "type": "artist",
+        "uri": "spotify:artist:0LQoZQIV0mIs0y0XQb0Sw2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4iz9lGMjU1lXS51oPmUmTe",
+    "is_local": false,
+    "name": "Homecoming",
+    "preview_url": "https://p.scdn.co/mp3-preview/a7f9626c0fc7e67ef2bdc3ca1655cdfe723878c0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
           },
           "href": "https://api.spotify.com/v1/artists/6JvU33PZ8MtZyeFTESr09O",
@@ -769,444 +836,5 @@
     "is_local": false,
     "name": "misses",
     "preview_url": "https://p.scdn.co/mp3-preview/4303daf566d5e5adabf2fe733a3a486518e02259?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-          },
-          "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
-          "id": "2RQXRUsr4IW1f3mKyKsy4B",
-          "name": "Noah Kahan",
-          "type": "artist",
-          "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-          },
-          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
-          "id": "246dkjvS1zLTtiykXe5h60",
-          "name": "Post Malone",
-          "type": "artist",
-          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4XahqkOmEsKLKEhBpX8DAe",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f519f148d88bf65074b4a3a9",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f519f148d88bf65074b4a3a9",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f519f148d88bf65074b4a3a9",
-          "width": 64
-        }
-      ],
-      "name": "Dial Drunk (with Post Malone)",
-      "release_date": "2023-07-18",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:4XahqkOmEsKLKEhBpX8DAe"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
-        "id": "2RQXRUsr4IW1f3mKyKsy4B",
-        "name": "Noah Kahan",
-        "type": "artist",
-        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
-        "id": "246dkjvS1zLTtiykXe5h60",
-        "name": "Post Malone",
-        "type": "artist",
-        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/22VHOlVYBqytsrAqV8yXBK",
-    "is_local": false,
-    "name": "Dial Drunk (with Post Malone)",
-    "preview_url": "https://p.scdn.co/mp3-preview/1f981378a48d7eeedd8a57ac8afb776af955b36a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-          },
-          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
-          "id": "246dkjvS1zLTtiykXe5h60",
-          "name": "Post Malone",
-          "type": "artist",
-          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-          },
-          "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
-          "id": "4oUHIQIBe0LHzYfvXNW4QM",
-          "name": "Morgan Wallen",
-          "type": "artist",
-          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/1woYXxyyxTQJ0E0AhZE6mj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0297306976e3eb8aad53b754eb",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
-          "width": 64
-        }
-      ],
-      "name": "I Had Some Help",
-      "release_date": "2024-05-10",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:1woYXxyyxTQJ0E0AhZE6mj"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
-        "id": "246dkjvS1zLTtiykXe5h60",
-        "name": "Post Malone",
-        "type": "artist",
-        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
-        "id": "4oUHIQIBe0LHzYfvXNW4QM",
-        "name": "Morgan Wallen",
-        "type": "artist",
-        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7221xIgOnuakPdLqT0F3nP",
-    "is_local": false,
-    "name": "I Had Some Help (Feat. Morgan Wallen)",
-    "preview_url": "https://p.scdn.co/mp3-preview/add475b56582a3bdad79050e5d170d2d7033cdb5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-          },
-          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
-          "id": "40ZNYROS4zLfyyBSs2PGe2",
-          "name": "Zach Bryan",
-          "type": "artist",
-          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
-          "width": 64
-        }
-      ],
-      "name": "American Heartbreak",
-      "release_date": "2022-05-20",
-      "release_date_precision": "day",
-      "total_tracks": 34,
-      "type": "album",
-      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
-        "id": "40ZNYROS4zLfyyBSs2PGe2",
-        "name": "Zach Bryan",
-        "type": "artist",
-        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/2gJj6WtAxXjApMs3PXsCeX",
-    "is_local": false,
-    "name": "Heavy Eyes",
-    "preview_url": "https://p.scdn.co/mp3-preview/0c1986a2388afe4b64e70345753d59bc45645746?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-          },
-          "href": "https://api.spotify.com/v1/artists/69tiO1fG8VWduDl3ji2qhI",
-          "id": "69tiO1fG8VWduDl3ji2qhI",
-          "name": "Mt. Joy",
-          "type": "artist",
-          "uri": "spotify:artist:69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7MvVdSQGWm8z82TZrR4G2z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27331e4ef69237ca7ffbecda485",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0231e4ef69237ca7ffbecda485",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485131e4ef69237ca7ffbecda485",
-          "width": 64
-        }
-      ],
-      "name": "Mt. Joy",
-      "release_date": "2018-03-02",
-      "release_date_precision": "day",
-      "total_tracks": 13,
-      "type": "album",
-      "uri": "spotify:album:7MvVdSQGWm8z82TZrR4G2z"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        "href": "https://api.spotify.com/v1/artists/69tiO1fG8VWduDl3ji2qhI",
-        "id": "69tiO1fG8VWduDl3ji2qhI",
-        "name": "Mt. Joy",
-        "type": "artist",
-        "uri": "spotify:artist:69tiO1fG8VWduDl3ji2qhI"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/13xVnZKZDEGbmXkzBFpJDD",
-    "is_local": false,
-    "name": "Silver Lining",
-    "preview_url": "https://p.scdn.co/mp3-preview/5073766f6baf4e99ef267af60c85114256bed395?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-          },
-          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
-          "id": "16oZKvXb6WkQlVAjwo2Wbg",
-          "name": "The Lumineers",
-          "type": "artist",
-          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
-          "width": 64
-        }
-      ],
-      "name": "The Lumineers",
-      "release_date": "2012-04-03",
-      "release_date_precision": "day",
-      "total_tracks": 11,
-      "type": "album",
-      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        },
-        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
-        "id": "16oZKvXb6WkQlVAjwo2Wbg",
-        "name": "The Lumineers",
-        "type": "artist",
-        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
-    "is_local": false,
-    "name": "Stubborn Love",
-    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-          },
-          "href": "https://api.spotify.com/v1/artists/69tiO1fG8VWduDl3ji2qhI",
-          "id": "69tiO1fG8VWduDl3ji2qhI",
-          "name": "Mt. Joy",
-          "type": "artist",
-          "uri": "spotify:artist:69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7MvVdSQGWm8z82TZrR4G2z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27331e4ef69237ca7ffbecda485",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0231e4ef69237ca7ffbecda485",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485131e4ef69237ca7ffbecda485",
-          "width": 64
-        }
-      ],
-      "name": "Mt. Joy",
-      "release_date": "2018-03-02",
-      "release_date_precision": "day",
-      "total_tracks": 13,
-      "type": "album",
-      "uri": "spotify:album:7MvVdSQGWm8z82TZrR4G2z"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        "href": "https://api.spotify.com/v1/artists/69tiO1fG8VWduDl3ji2qhI",
-        "id": "69tiO1fG8VWduDl3ji2qhI",
-        "name": "Mt. Joy",
-        "type": "artist",
-        "uri": "spotify:artist:69tiO1fG8VWduDl3ji2qhI"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/13xVnZKZDEGbmXkzBFpJDD",
-    "is_local": false,
-    "name": "Silver Lining",
-    "preview_url": "https://p.scdn.co/mp3-preview/5073766f6baf4e99ef267af60c85114256bed395?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-          },
-          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
-          "id": "16oZKvXb6WkQlVAjwo2Wbg",
-          "name": "The Lumineers",
-          "type": "artist",
-          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
-          "width": 64
-        }
-      ],
-      "name": "The Lumineers",
-      "release_date": "2012-04-03",
-      "release_date_precision": "day",
-      "total_tracks": 11,
-      "type": "album",
-      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        },
-        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
-        "id": "16oZKvXb6WkQlVAjwo2Wbg",
-        "name": "The Lumineers",
-        "type": "artist",
-        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
-    "is_local": false,
-    "name": "Stubborn Love",
-    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
