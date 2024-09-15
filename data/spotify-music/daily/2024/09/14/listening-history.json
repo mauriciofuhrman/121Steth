@@ -1,0 +1,193 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NS0854TqZQVoRmJKSWtFZ",
+          "id": "5NS0854TqZQVoRmJKSWtFZ",
+          "name": "Chino & Nacho",
+          "type": "artist",
+          "uri": "spotify:artist:5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5WdtDMLZ889QUGhstd0r96",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273535b15f71a115b19d37bd8ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02535b15f71a115b19d37bd8ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851535b15f71a115b19d37bd8ac",
+          "width": 64
+        }
+      ],
+      "name": "Mi Niña Bonita - Reloaded",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:5WdtDMLZ889QUGhstd0r96"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NS0854TqZQVoRmJKSWtFZ",
+        "id": "5NS0854TqZQVoRmJKSWtFZ",
+        "name": "Chino & Nacho",
+        "type": "artist",
+        "uri": "spotify:artist:5NS0854TqZQVoRmJKSWtFZ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4u5xLMRN0dgKBFFN8FiNgv",
+    "is_local": false,
+    "name": "Niña Bonita",
+    "preview_url": "https://p.scdn.co/mp3-preview/a716ca54b29628150ba430b426e27a5c4d3ac413?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+          "id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "Lost Frequencies",
+          "type": "artist",
+          "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4CAe3r1nsTTAjGcWqGZbAr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a0fab1c9bdfc54357ddb89a6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a0fab1c9bdfc54357ddb89a6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6",
+          "width": 64
+        }
+      ],
+      "name": "Black Friday (pretty like the sun)",
+      "release_date": "2024-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4CAe3r1nsTTAjGcWqGZbAr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "name": "Lost Frequencies",
+        "type": "artist",
+        "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4MSj19TwYBLgDFj3ddEeco",
+    "is_local": false,
+    "name": "Black Friday (pretty like the sun)",
+    "preview_url": "https://p.scdn.co/mp3-preview/dc3f5560d882d3f9c20d9a3a75ca54cd8d0a559f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zx3vuOK841XDu7XFozhFv",
+          "id": "6zx3vuOK841XDu7XFozhFv",
+          "name": "Loofy",
+          "type": "artist",
+          "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/05cOaLn9wG0Mlx4unmfUHB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273663bcb03708ef2d7a71b8179",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02663bcb03708ef2d7a71b8179",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851663bcb03708ef2d7a71b8179",
+          "width": 64
+        }
+      ],
+      "name": "Last Night",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:05cOaLn9wG0Mlx4unmfUHB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zx3vuOK841XDu7XFozhFv",
+        "id": "6zx3vuOK841XDu7XFozhFv",
+        "name": "Loofy",
+        "type": "artist",
+        "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5mF7p5mwgaPZyIykUhO3PN",
+    "is_local": false,
+    "name": "Last Night",
+    "preview_url": "https://p.scdn.co/mp3-preview/67ea6e8e7b3585428a8ec0209f0b5744127ae854?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
