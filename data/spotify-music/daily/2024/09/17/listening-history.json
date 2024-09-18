@@ -1,0 +1,1222 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5eKQYtDqVmrHPZoKHG1LlH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+          "width": 64
+        }
+      ],
+      "name": "Somebody (2024)",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fAwPpS78sokZdpktoSUE8",
+        "id": "5fAwPpS78sokZdpktoSUE8",
+        "name": "Sante Sansone",
+        "type": "artist",
+        "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0agQ9vIV7NP4dntGKLcCXO",
+    "is_local": false,
+    "name": "Somebody (2024)",
+    "preview_url": "https://p.scdn.co/mp3-preview/84e41be344cbbda874dcfcc803a6f39f156e9fc2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow",
+          "type": "artist",
+          "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6VCO0fDBGbRW8mCEvV95af",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fcf4adae77baba5d0169e8e8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fcf4adae77baba5d0169e8e8",
+          "width": 64
+        }
+      ],
+      "name": "Lovin On Me",
+      "release_date": "2023-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6VCO0fDBGbRW8mCEvV95af"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+        "id": "2LIk90788K0zvyj2JJVwkJ",
+        "name": "Jack Harlow",
+        "type": "artist",
+        "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4xhsWYTOGcal8zt0J161CU",
+    "is_local": false,
+    "name": "Lovin On Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/eeeb6151d0049367b3ad3db0389e9e3b116c0774?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zoy9aYWHueNXCIqh2MStc",
+          "id": "2zoy9aYWHueNXCIqh2MStc",
+          "name": "Gravagerz",
+          "type": "artist",
+          "uri": "spotify:artist:2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3g94R3KoZVDaYwiM0KQFyN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732a50b3962c4ebda07a4a741c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022a50b3962c4ebda07a4a741c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512a50b3962c4ebda07a4a741c",
+          "width": 64
+        }
+      ],
+      "name": "Chihiro",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3g94R3KoZVDaYwiM0KQFyN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2zoy9aYWHueNXCIqh2MStc",
+        "id": "2zoy9aYWHueNXCIqh2MStc",
+        "name": "Gravagerz",
+        "type": "artist",
+        "uri": "spotify:artist:2zoy9aYWHueNXCIqh2MStc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1kDqGWSeR27gWaMouyXD0C",
+    "is_local": false,
+    "name": "Chihiro",
+    "preview_url": "https://p.scdn.co/mp3-preview/1a4566f7bd3e18054fc0fe7124dcb510bf699d01?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Tiësto",
+          "type": "artist",
+          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1QltVGlNGbK94CKgUsYZGa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4d537d8c91fcecf90bc9454",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4d537d8c91fcecf90bc9454",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4d537d8c91fcecf90bc9454",
+          "width": 64
+        }
+      ],
+      "name": "Another Love - Tiësto Remix",
+      "release_date": "2022-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1QltVGlNGbK94CKgUsYZGa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Tiësto",
+        "type": "artist",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Et6tUEO7biKxZEfJXpNj1",
+    "is_local": false,
+    "name": "Another Love - Tiësto Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/b5e92f8b10451ee5381165cb1ddbd3af1f27c4c4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Q7cRXio6mF2ImVUCcezPO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e286ee36b4015afa8832356a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e286ee36b4015afa8832356a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e286ee36b4015afa8832356a",
+          "width": 64
+        }
+      ],
+      "name": "For All The Dogs Scary Hours Edition",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:4Q7cRXio6mF2ImVUCcezPO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5Se32hEA9raeboZerywxka",
+    "is_local": false,
+    "name": "You Broke My Heart",
+    "preview_url": "https://p.scdn.co/mp3-preview/46536d61bf9b67a2198f27131bfcaa7030093101?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR",
+          "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+          "name": "Allman Brothers Band",
+          "type": "artist",
+          "uri": "spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1K9yhJFW4FR8Rc1VURWA5T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734e4ad725fbfb99d854e1aa25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024e4ad725fbfb99d854e1aa25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514e4ad725fbfb99d854e1aa25",
+          "width": 64
+        }
+      ],
+      "name": "Idlewild South (Deluxe Edition Remastered)",
+      "release_date": "1970-09-18",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:1K9yhJFW4FR8Rc1VURWA5T"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR",
+        "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+        "name": "Allman Brothers Band",
+        "type": "artist",
+        "uri": "spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1hHGUdFaiJHw9hVZGJWYO2",
+    "is_local": false,
+    "name": "Midnight Rider",
+    "preview_url": "https://p.scdn.co/mp3-preview/3ff790e3d4a7dbd6414fc8d03e344a279df773d7?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC",
+          "id": "0vEsuISMWAKNctLlUAhSZC",
+          "name": "Counting Crows",
+          "type": "artist",
+          "uri": "spotify:artist:0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4nKfZbCALT9H9LfedtDwnZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e09670f90cd47b3fb9a23e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e09670f90cd47b3fb9a23e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e09670f90cd47b3fb9a23e0",
+          "width": 64
+        }
+      ],
+      "name": "August And Everything After",
+      "release_date": "1993-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4nKfZbCALT9H9LfedtDwnZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        "href": "https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC",
+        "id": "0vEsuISMWAKNctLlUAhSZC",
+        "name": "Counting Crows",
+        "type": "artist",
+        "uri": "spotify:artist:0vEsuISMWAKNctLlUAhSZC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5DiXcVovI0FcY2s0icWWUu",
+    "is_local": false,
+    "name": "Mr. Jones",
+    "preview_url": "https://p.scdn.co/mp3-preview/66350d687f6596c2d75205b8a7ae507ebd19511d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          },
+          "href": "https://api.spotify.com/v1/artists/39T6qqI0jDtSWWioX8eGJz",
+          "id": "39T6qqI0jDtSWWioX8eGJz",
+          "name": "The Doobie Brothers",
+          "type": "artist",
+          "uri": "spotify:artist:39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0M2KWMbvY5x1sUnIKNpyUt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027d419ac975423c069995c7bb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517d419ac975423c069995c7bb",
+          "width": 64
+        }
+      ],
+      "name": "The Captain and Me",
+      "release_date": "1973",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0M2KWMbvY5x1sUnIKNpyUt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        "href": "https://api.spotify.com/v1/artists/39T6qqI0jDtSWWioX8eGJz",
+        "id": "39T6qqI0jDtSWWioX8eGJz",
+        "name": "The Doobie Brothers",
+        "type": "artist",
+        "uri": "spotify:artist:39T6qqI0jDtSWWioX8eGJz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4nXkbcTj3nyww1cHkw5RAP",
+    "is_local": false,
+    "name": "Long Train Runnin'",
+    "preview_url": "https://p.scdn.co/mp3-preview/1c108781a384f85c036fbeb917c93a1c45c3b731?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+          "id": "6IFXsrXBpwbIqtOUOiAa3p",
+          "name": "Rick Springfield",
+          "type": "artist",
+          "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4KKFWTePKtgb6mOwFDqxYa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a57b8b911a372d77dfc1ba7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a57b8b911a372d77dfc1ba7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a57b8b911a372d77dfc1ba7",
+          "width": 64
+        }
+      ],
+      "name": "Working Class Dog",
+      "release_date": "1981-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4KKFWTePKtgb6mOwFDqxYa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        },
+        "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+        "id": "6IFXsrXBpwbIqtOUOiAa3p",
+        "name": "Rick Springfield",
+        "type": "artist",
+        "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5RsUlxLto4NZbhJpqJbHfN",
+    "is_local": false,
+    "name": "Jessie's Girl",
+    "preview_url": "https://p.scdn.co/mp3-preview/d05edfc55f84b1aa88985d86d2ded2affc629b4f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0BwWUstDMUbgq2NYONRqlu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+          "width": 64
+        }
+      ],
+      "name": "Rumours (Super Deluxe)",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 58,
+      "type": "album",
+      "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz",
+    "is_local": false,
+    "name": "Dreams - 2004 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/30d63954de3ee9c0bc3600a4560260cb252d4fbd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+          "id": "0SwO7SWeDHJijQ3XNS7xEE",
+          "name": "MGMT",
+          "type": "artist",
+          "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mm1Skz3JE6AXneya9Nyiv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b32b139981e79f2ebe005eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b32b139981e79f2ebe005eb",
+          "width": 64
+        }
+      ],
+      "name": "Oracular Spectacular",
+      "release_date": "2007-12-14",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6mm1Skz3JE6AXneya9Nyiv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+        "id": "0SwO7SWeDHJijQ3XNS7xEE",
+        "name": "MGMT",
+        "type": "artist",
+        "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1jJci4qxiYcOHhQR247rEU",
+    "is_local": false,
+    "name": "Kids",
+    "preview_url": "https://p.scdn.co/mp3-preview/efb065069d22384206b0fc703c6f99734d33411d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0BwWUstDMUbgq2NYONRqlu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+          "width": 64
+        }
+      ],
+      "name": "Rumours (Super Deluxe)",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 58,
+      "type": "album",
+      "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz",
+    "is_local": false,
+    "name": "Dreams - 2004 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/30d63954de3ee9c0bc3600a4560260cb252d4fbd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2EpuND32cO7CX0gXZl2NB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+          "width": 64
+        }
+      ],
+      "name": "Reggatta De Blanc - Remastered 2003",
+      "release_date": "1979-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2EpuND32cO7CX0gXZl2NB6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1oYYd2gnWZYrt89EBXdFiO",
+    "is_local": false,
+    "name": "Message In A Bottle",
+    "preview_url": "https://p.scdn.co/mp3-preview/065b9b3a34d9153ff2985426acfa55b8196ba50e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1bt6q2SruMsBtcerNVtpZB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0257df7ce0eac715cf70e519a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7",
+          "width": 64
+        }
+      ],
+      "name": "Rumours",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1bt6q2SruMsBtcerNVtpZB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/07GvNcU1WdyZJq3XxP0kZa",
+    "is_local": false,
+    "name": "Go Your Own Way - 2004 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/26ba8ef966c08f5116fd5ab94efc7a8671e640f5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
