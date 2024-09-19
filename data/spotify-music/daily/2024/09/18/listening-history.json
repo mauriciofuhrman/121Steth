@@ -1,0 +1,753 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+          "id": "5ypxebeHEIXjMtJb17uJlI",
+          "name": "Jet",
+          "type": "artist",
+          "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6NrLpQCPYrNS3kVWxDgIlg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376ccf87cba2e754a5138cc23",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276ccf87cba2e754a5138cc23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176ccf87cba2e754a5138cc23",
+          "width": 64
+        }
+      ],
+      "name": "Get Born",
+      "release_date": "2003-09-15",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6NrLpQCPYrNS3kVWxDgIlg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+        "id": "5ypxebeHEIXjMtJb17uJlI",
+        "name": "Jet",
+        "type": "artist",
+        "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/305WCRhhS10XUcH6AEwZk6",
+    "is_local": false,
+    "name": "Are You Gonna Be My Girl",
+    "preview_url": "https://p.scdn.co/mp3-preview/cd8bc93c853849caa21fe05bc4b6f1b097e8aabc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+          "id": "5ypxebeHEIXjMtJb17uJlI",
+          "name": "Jet",
+          "type": "artist",
+          "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6NrLpQCPYrNS3kVWxDgIlg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376ccf87cba2e754a5138cc23",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276ccf87cba2e754a5138cc23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176ccf87cba2e754a5138cc23",
+          "width": 64
+        }
+      ],
+      "name": "Get Born",
+      "release_date": "2003-09-15",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6NrLpQCPYrNS3kVWxDgIlg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+        "id": "5ypxebeHEIXjMtJb17uJlI",
+        "name": "Jet",
+        "type": "artist",
+        "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/305WCRhhS10XUcH6AEwZk6",
+    "is_local": false,
+    "name": "Are You Gonna Be My Girl",
+    "preview_url": "https://p.scdn.co/mp3-preview/cd8bc93c853849caa21fe05bc4b6f1b097e8aabc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+          "id": "3eqjTLE0HfPfh78zjh6TqT",
+          "name": "Bruce Springsteen",
+          "type": "artist",
+          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7865e686c36a4adda6c9978",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+          "width": 64
+        }
+      ],
+      "name": "Born In The U.S.A.",
+      "release_date": "1984-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7FwBtcecmlpc1sLySPXeGE",
+    "is_local": false,
+    "name": "Dancing In the Dark",
+    "preview_url": "https://p.scdn.co/mp3-preview/f98a1f3b07ca22d6ccda4a2e360981d1b0bfcbbc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Q8NcsJwoCbZOHHW63su5S",
+          "id": "0Q8NcsJwoCbZOHHW63su5S",
+          "name": "Mora",
+          "type": "artist",
+          "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7b3PrkHcWx17AQwlI2M1Uc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273076ef0fed51ff7a4911459e9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02076ef0fed51ff7a4911459e9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851076ef0fed51ff7a4911459e9",
+          "width": 64
+        }
+      ],
+      "name": "PARAÍSO",
+      "release_date": "2022-11-03",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:7b3PrkHcWx17AQwlI2M1Uc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Q8NcsJwoCbZOHHW63su5S",
+        "id": "0Q8NcsJwoCbZOHHW63su5S",
+        "name": "Mora",
+        "type": "artist",
+        "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
+        "id": "52iwsT98xCoGgiGntTiR7K",
+        "name": "Quevedo",
+        "type": "artist",
+        "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3vKYvbzB7801a5qd47pxkm",
+    "is_local": false,
+    "name": "APA",
+    "preview_url": "https://p.scdn.co/mp3-preview/4be4da1b2f85a2c58bc1ec1a3af3488cd19342e3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0LfM3PGkXE6KvJEE1HkOnz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273813da91820fd194cbee5bdce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02813da91820fd194cbee5bdce",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851813da91820fd194cbee5bdce",
+          "width": 64
+        }
+      ],
+      "name": "Greatest Hits",
+      "release_date": "1988-11-21",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0LfM3PGkXE6KvJEE1HkOnz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/19Ym5Sg0YyOCa6ao21bdoG",
+    "is_local": false,
+    "name": "Gypsy",
+    "preview_url": "https://p.scdn.co/mp3-preview/a230542c1dbed632215115c55983815fa3ae7697?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4AsXQ17Arq1cUVoa9dKJ3F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6",
+          "width": 64
+        }
+      ],
+      "name": "Tango In the Night (Deluxe Edition)",
+      "release_date": "1987-04-13",
+      "release_date_precision": "day",
+      "total_tracks": 39,
+      "type": "album",
+      "uri": "spotify:album:4AsXQ17Arq1cUVoa9dKJ3F"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/254bXAqt3zP6P50BdQvEsq",
+    "is_local": false,
+    "name": "Everywhere - 2017 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/4921b87278a9e93cddc10310efadc09b5952da92?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+          "width": 64
+        }
+      ],
+      "name": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/20MuVazoNMv6xjKPnRFOxG",
+    "is_local": false,
+    "name": "WAKE UP",
+    "preview_url": "https://p.scdn.co/mp3-preview/aba2af9b263620f0ffcc2b32b80489c73a9daa47?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          },
+          "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+          "id": "22bE4uQ6baNwSHPVcDxLCe",
+          "name": "The Rolling Stones",
+          "type": "artist",
+          "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6OHri5qNxwCdVSdyCslspd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27344934a06d21864415376f5f2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0244934a06d21864415376f5f2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485144934a06d21864415376f5f2",
+          "width": 64
+        }
+      ],
+      "name": "Beggars Banquet (50th Anniversary Edition)",
+      "release_date": "1968-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6OHri5qNxwCdVSdyCslspd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+        "id": "22bE4uQ6baNwSHPVcDxLCe",
+        "name": "The Rolling Stones",
+        "type": "artist",
+        "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Ud6moTC0KyXMq1Oxfien0",
+    "is_local": false,
+    "name": "Sympathy For The Devil - 50th Anniversary Edition",
+    "preview_url": "https://p.scdn.co/mp3-preview/5dd130c5686531fc33e1b5c6b22fa72729aa4ffa?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+          "width": 64
+        }
+      ],
+      "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "release_date": "1991-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:30Perjew8HyGkdSmqguYyg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
+    "is_local": false,
+    "name": "Under the Bridge",
+    "preview_url": "https://p.scdn.co/mp3-preview/46b0229c06712c5b5e143724c0617e51a9b6e432?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4AsXQ17Arq1cUVoa9dKJ3F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6",
+          "width": 64
+        }
+      ],
+      "name": "Tango In the Night (Deluxe Edition)",
+      "release_date": "1987-04-13",
+      "release_date_precision": "day",
+      "total_tracks": 39,
+      "type": "album",
+      "uri": "spotify:album:4AsXQ17Arq1cUVoa9dKJ3F"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/254bXAqt3zP6P50BdQvEsq",
+    "is_local": false,
+    "name": "Everywhere - 2017 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/4921b87278a9e93cddc10310efadc09b5952da92?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4AsXQ17Arq1cUVoa9dKJ3F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6",
+          "width": 64
+        }
+      ],
+      "name": "Tango In the Night (Deluxe Edition)",
+      "release_date": "1987-04-13",
+      "release_date_precision": "day",
+      "total_tracks": 39,
+      "type": "album",
+      "uri": "spotify:album:4AsXQ17Arq1cUVoa9dKJ3F"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/254bXAqt3zP6P50BdQvEsq",
+    "is_local": false,
+    "name": "Everywhere - 2017 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/4921b87278a9e93cddc10310efadc09b5952da92?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0BwWUstDMUbgq2NYONRqlu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+          "width": 64
+        }
+      ],
+      "name": "Rumours (Super Deluxe)",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 58,
+      "type": "album",
+      "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz",
+    "is_local": false,
+    "name": "Dreams - 2004 Remaster",
+    "preview_url": "https://p.scdn.co/mp3-preview/30d63954de3ee9c0bc3600a4560260cb252d4fbd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2durxb17bXcmQJHSt8JAdO",
+    "is_local": false,
+    "name": "No Tellin'",
+    "preview_url": "https://p.scdn.co/mp3-preview/24e219b9f3a54f6a6a15cc477c3697b6d04a338a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
