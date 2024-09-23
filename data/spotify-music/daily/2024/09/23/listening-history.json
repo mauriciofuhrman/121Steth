@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ErsJAz6qJ5cqjoVAvfvaC",
+        "id": "2ErsJAz6qJ5cqjoVAvfvaC",
+        "name": "Charles Wesley Godwin",
+        "type": "artist",
+        "uri": "spotify:artist:2ErsJAz6qJ5cqjoVAvfvaC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/11xeawurZXUDqRPxCasaDt",
+    "is_local": false,
+    "name": "Jamie (feat. Charles Wesley Godwin)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ce12546780676e3eb6085c9474bd4690e08334be?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
