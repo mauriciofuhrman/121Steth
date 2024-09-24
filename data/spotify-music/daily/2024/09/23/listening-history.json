@@ -4,66 +4,1392 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            "spotify": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
           },
-          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
-          "id": "40ZNYROS4zLfyyBSs2PGe2",
-          "name": "Zach Bryan",
+          "href": "https://api.spotify.com/v1/artists/6AC7fqQQgNwXXpBa5bqyBr",
+          "id": "6AC7fqQQgNwXXpBa5bqyBr",
+          "name": "Kronan",
           "type": "artist",
-          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          "uri": "spotify:artist:6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6kpYdtbD0QinjBcwkxLPm3",
+          "id": "6kpYdtbD0QinjBcwkxLPm3",
+          "name": "Nyaruach",
+          "type": "artist",
+          "uri": "spotify:artist:6kpYdtbD0QinjBcwkxLPm3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MyFDtqB80WZvbtCZRsekM",
+          "id": "3MyFDtqB80WZvbtCZRsekM",
+          "name": "Bakermat",
+          "type": "artist",
+          "uri": "spotify:artist:3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "href": "https://api.spotify.com/v1/albums/1XVR96ao2iSG3yDGr1a1rN",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "url": "https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "url": "https://i.scdn.co/image/ab67616d00001e02591c3f691cc42a0257eb0665",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "url": "https://i.scdn.co/image/ab67616d00004851591c3f691cc42a0257eb0665",
           "width": 64
         }
       ],
-      "name": "Summertime Blues",
-      "release_date": "2022-07-15",
+      "name": "Gatluak (Bakermat Remix)",
+      "release_date": "2021-07-23",
       "release_date_precision": "day",
-      "total_tracks": 9,
+      "total_tracks": 1,
       "type": "album",
-      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+      "uri": "spotify:album:1XVR96ao2iSG3yDGr1a1rN"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "spotify": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
         },
-        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
-        "id": "40ZNYROS4zLfyyBSs2PGe2",
-        "name": "Zach Bryan",
+        "href": "https://api.spotify.com/v1/artists/6AC7fqQQgNwXXpBa5bqyBr",
+        "id": "6AC7fqQQgNwXXpBa5bqyBr",
+        "name": "Kronan",
         "type": "artist",
-        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        "uri": "spotify:artist:6AC7fqQQgNwXXpBa5bqyBr"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "spotify": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
         },
-        "href": "https://api.spotify.com/v1/artists/2ErsJAz6qJ5cqjoVAvfvaC",
-        "id": "2ErsJAz6qJ5cqjoVAvfvaC",
-        "name": "Charles Wesley Godwin",
+        "href": "https://api.spotify.com/v1/artists/6kpYdtbD0QinjBcwkxLPm3",
+        "id": "6kpYdtbD0QinjBcwkxLPm3",
+        "name": "Nyaruach",
         "type": "artist",
-        "uri": "spotify:artist:2ErsJAz6qJ5cqjoVAvfvaC"
+        "uri": "spotify:artist:6kpYdtbD0QinjBcwkxLPm3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MyFDtqB80WZvbtCZRsekM",
+        "id": "3MyFDtqB80WZvbtCZRsekM",
+        "name": "Bakermat",
+        "type": "artist",
+        "uri": "spotify:artist:3MyFDtqB80WZvbtCZRsekM"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/11xeawurZXUDqRPxCasaDt",
+    "href": "https://api.spotify.com/v1/tracks/0GT2hQQ6mdHeW0AZDl5NlJ",
     "is_local": false,
-    "name": "Jamie (feat. Charles Wesley Godwin)",
-    "preview_url": "https://p.scdn.co/mp3-preview/ce12546780676e3eb6085c9474bd4690e08334be?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Gatluak - Bakermat Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/548c6f8dc5c8a3fdb7ec28b3c7f18f210977f061?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "type": "artist",
+          "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist",
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6VFETcEfjilkAng073KLt9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02000d429a820f8d8501f861ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851000d429a820f8d8501f861ed",
+          "width": 64
+        }
+      ],
+      "name": "Perfect Timing",
+      "release_date": "2017-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:6VFETcEfjilkAng073KLt9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "type": "artist",
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1xpXnpIpuvzpx9jz15baJF",
+    "is_local": false,
+    "name": "Call Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/e24c91f18d9436c5b852a3651fb21dfa2d2dd439?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hPgGN4uhvXAxiXQBIXOmE",
+          "id": "2hPgGN4uhvXAxiXQBIXOmE",
+          "name": "KIDS SEE GHOSTS",
+          "type": "artist",
+          "uri": "spotify:artist:2hPgGN4uhvXAxiXQBIXOmE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "type": "artist",
+          "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6pwuKxMUkNg673KETsXPUV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851013c00ee367dd85396f79c82",
+          "width": 64
+        }
+      ],
+      "name": "KIDS SEE GHOSTS",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6pwuKxMUkNg673KETsXPUV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hPgGN4uhvXAxiXQBIXOmE",
+        "id": "2hPgGN4uhvXAxiXQBIXOmE",
+        "name": "KIDS SEE GHOSTS",
+        "type": "artist",
+        "uri": "spotify:artist:2hPgGN4uhvXAxiXQBIXOmE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        },
+        "href": "https://api.spotify.com/v1/artists/52lBOxCxbJg0ttXEW9CQpW",
+        "id": "52lBOxCxbJg0ttXEW9CQpW",
+        "name": "Louis Prima",
+        "type": "artist",
+        "uri": "spotify:artist:52lBOxCxbJg0ttXEW9CQpW"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6JyEh4kl9DLwmSAoNDRn5b",
+    "is_local": false,
+    "name": "4th Dimension",
+    "preview_url": "https://p.scdn.co/mp3-preview/7632901c53461c79efd4dda579b3e4ef5c0f05c5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0fEO7g2c5onkaXsybEtuD2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dea510881ec1e506485303e4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dea510881ec1e506485303e4",
+          "width": 64
+        }
+      ],
+      "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+      "release_date": "2020-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:0fEO7g2c5onkaXsybEtuD2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "type": "artist",
+        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4lAQfuREAHG8IC0PiiigBt",
+    "is_local": false,
+    "name": "Strawberry Peels (feat. Young Thug & Gunna)",
+    "preview_url": "https://p.scdn.co/mp3-preview/a522e98163174b1546472f3ed01cf543a91d48c1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4czdORdCWP9umpbhFXK2fW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+          "width": 64
+        }
+      ],
+      "name": "For All The Dogs",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:4czdORdCWP9umpbhFXK2fW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+        "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+        "name": "Yeat",
+        "type": "artist",
+        "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2YSzYUF3jWqb9YP9VXmpjE",
+    "is_local": false,
+    "name": "IDGAF (feat. Yeat)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c23e9088d5bbab9edfb8e6c37af8e8eee0016e39?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6TFm9KGW7Lbxrl2Zsg4X9R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273463d73e65c7b95a17898388b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02463d73e65c7b95a17898388b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851463d73e65c7b95a17898388b",
+          "width": 64
+        }
+      ],
+      "name": "K.I.D.S. (Deluxe)",
+      "release_date": "2010-08-13",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6TFm9KGW7Lbxrl2Zsg4X9R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+        "id": "4LLpKhyESsyAXpc4laK94U",
+        "name": "Mac Miller",
+        "type": "artist",
+        "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7FAFkQQZFeNwOFzTrSDFIh",
+    "is_local": false,
+    "name": "The Spins",
+    "preview_url": "https://p.scdn.co/mp3-preview/8646d3b6544d0126b5b48d36aa857ac4a4a1d82f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xPQFgDA5M2xa0ZGo5iIsv",
+          "id": "4xPQFgDA5M2xa0ZGo5iIsv",
+          "name": "¥$",
+          "type": "artist",
+          "uri": "spotify:artist:4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5RV2TNyjylqWJNxQyHBTeJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321577735e417b15623632a6f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221577735e417b15623632a6f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121577735e417b15623632a6f",
+          "width": 64
+        }
+      ],
+      "name": "VULTURES 2",
+      "release_date": "2024-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5RV2TNyjylqWJNxQyHBTeJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xPQFgDA5M2xa0ZGo5iIsv",
+        "id": "4xPQFgDA5M2xa0ZGo5iIsv",
+        "name": "¥$",
+        "type": "artist",
+        "uri": "spotify:artist:4xPQFgDA5M2xa0ZGo5iIsv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+        "name": "Ty Dolla $ign",
+        "type": "artist",
+        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5RzSnxqTx4vYEp9re5E0ud",
+    "is_local": false,
+    "name": "RIVER",
+    "preview_url": "https://p.scdn.co/mp3-preview/d0fbbf8e394f561046e3c726b907614e13084a58?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Tiësto",
+          "type": "artist",
+          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1QltVGlNGbK94CKgUsYZGa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4d537d8c91fcecf90bc9454",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4d537d8c91fcecf90bc9454",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4d537d8c91fcecf90bc9454",
+          "width": 64
+        }
+      ],
+      "name": "Another Love - Tiësto Remix",
+      "release_date": "2022-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1QltVGlNGbK94CKgUsYZGa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Tiësto",
+        "type": "artist",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Et6tUEO7biKxZEfJXpNj1",
+    "is_local": false,
+    "name": "Another Love - Tiësto Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/b5e92f8b10451ee5381165cb1ddbd3af1f27c4c4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+          "id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "Lost Frequencies",
+          "type": "artist",
+          "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4CAe3r1nsTTAjGcWqGZbAr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a0fab1c9bdfc54357ddb89a6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a0fab1c9bdfc54357ddb89a6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6",
+          "width": 64
+        }
+      ],
+      "name": "Black Friday (pretty like the sun)",
+      "release_date": "2024-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4CAe3r1nsTTAjGcWqGZbAr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "name": "Lost Frequencies",
+        "type": "artist",
+        "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4MSj19TwYBLgDFj3ddEeco",
+    "is_local": false,
+    "name": "Black Friday (pretty like the sun)",
+    "preview_url": "https://p.scdn.co/mp3-preview/dc3f5560d882d3f9c20d9a3a75ca54cd8d0a559f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          },
+          "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
+          "id": "7o95ZoZt5ZYn31e9z1Hc0a",
+          "name": "Natasha Bedingfield",
+          "type": "artist",
+          "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PEzTAuPW5IjLJ58FzwQeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b337e1ca6629a53c66a3b0d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b337e1ca6629a53c66a3b0d4",
+          "width": 64
+        }
+      ],
+      "name": "Unwritten",
+      "release_date": "2004-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3PEzTAuPW5IjLJ58FzwQeL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
+        "id": "7o95ZoZt5ZYn31e9z1Hc0a",
+        "name": "Natasha Bedingfield",
+        "type": "artist",
+        "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3U5JVgI2x4rDyHGObzJfNf",
+    "is_local": false,
+    "name": "Unwritten",
+    "preview_url": "https://p.scdn.co/mp3-preview/5559460cc3e2c5aa1eeea1c16cf838cecde326d8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3qFui1PcteHFky44CeUflG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273410dfc8e880c1b3fefe6b83c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02410dfc8e880c1b3fefe6b83c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851410dfc8e880c1b3fefe6b83c",
+          "width": 64
+        }
+      ],
+      "name": "Walking On A Dream",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3qFui1PcteHFky44CeUflG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3HfhB8sYqLlVmpBPb7cc2x",
+    "is_local": false,
+    "name": "Walking On A Dream",
+    "preview_url": "https://p.scdn.co/mp3-preview/ca251d64aa3353f22b44fce2c2ec9af92a3cb916?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AC7fqQQgNwXXpBa5bqyBr",
+          "id": "6AC7fqQQgNwXXpBa5bqyBr",
+          "name": "Kronan",
+          "type": "artist",
+          "uri": "spotify:artist:6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6kpYdtbD0QinjBcwkxLPm3",
+          "id": "6kpYdtbD0QinjBcwkxLPm3",
+          "name": "Nyaruach",
+          "type": "artist",
+          "uri": "spotify:artist:6kpYdtbD0QinjBcwkxLPm3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MyFDtqB80WZvbtCZRsekM",
+          "id": "3MyFDtqB80WZvbtCZRsekM",
+          "name": "Bakermat",
+          "type": "artist",
+          "uri": "spotify:artist:3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1XVR96ao2iSG3yDGr1a1rN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02591c3f691cc42a0257eb0665",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851591c3f691cc42a0257eb0665",
+          "width": 64
+        }
+      ],
+      "name": "Gatluak (Bakermat Remix)",
+      "release_date": "2021-07-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1XVR96ao2iSG3yDGr1a1rN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AC7fqQQgNwXXpBa5bqyBr",
+        "id": "6AC7fqQQgNwXXpBa5bqyBr",
+        "name": "Kronan",
+        "type": "artist",
+        "uri": "spotify:artist:6AC7fqQQgNwXXpBa5bqyBr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3"
+        },
+        "href": "https://api.spotify.com/v1/artists/6kpYdtbD0QinjBcwkxLPm3",
+        "id": "6kpYdtbD0QinjBcwkxLPm3",
+        "name": "Nyaruach",
+        "type": "artist",
+        "uri": "spotify:artist:6kpYdtbD0QinjBcwkxLPm3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MyFDtqB80WZvbtCZRsekM",
+        "id": "3MyFDtqB80WZvbtCZRsekM",
+        "name": "Bakermat",
+        "type": "artist",
+        "uri": "spotify:artist:3MyFDtqB80WZvbtCZRsekM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GT2hQQ6mdHeW0AZDl5NlJ",
+    "is_local": false,
+    "name": "Gatluak - Bakermat Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/548c6f8dc5c8a3fdb7ec28b3c7f18f210977f061?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vTVU0KH0CVzijsoKGsTPl",
+          "id": "0vTVU0KH0CVzijsoKGsTPl",
+          "name": "Barry Can't Swim",
+          "type": "artist",
+          "uri": "spotify:artist:0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5LASDBDtLLEt3QqVtgOoaM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27316bc57c40991e6d3267765ab",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0216bc57c40991e6d3267765ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485116bc57c40991e6d3267765ab",
+          "width": 64
+        }
+      ],
+      "name": "When Will We Land?",
+      "release_date": "2023-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5LASDBDtLLEt3QqVtgOoaM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        "href": "https://api.spotify.com/v1/artists/0vTVU0KH0CVzijsoKGsTPl",
+        "id": "0vTVU0KH0CVzijsoKGsTPl",
+        "name": "Barry Can't Swim",
+        "type": "artist",
+        "uri": "spotify:artist:0vTVU0KH0CVzijsoKGsTPl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3NZz7DWeVQesSOn6mO39F7",
+    "is_local": false,
+    "name": "How It Feels",
+    "preview_url": "https://p.scdn.co/mp3-preview/b7f344f2733875460a533d0b5e307e29d40e9ec1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "type": "artist",
+          "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0YEH6ciBiMrVM4Rl1R10Wz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734df9c60aa74fb72c1e07fd1d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024df9c60aa74fb72c1e07fd1d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514df9c60aa74fb72c1e07fd1d",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) [Remix]",
+      "release_date": "2020-02-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0YEH6ciBiMrVM4Rl1R10Wz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+        "id": "4r63FhuTkUYltbVAg5TQnk",
+        "name": "DaBaby",
+        "type": "artist",
+        "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4iiWcajF1fEUpwcUewc464",
+    "is_local": false,
+    "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+    "preview_url": "https://p.scdn.co/mp3-preview/4d04244902f72727e97934090fb9533ce778668b?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HUwZ0kumzCSlhFcjFZfpp",
+          "id": "2HUwZ0kumzCSlhFcjFZfpp",
+          "name": "Flipp Dinero",
+          "type": "artist",
+          "uri": "spotify:artist:2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7EvmUXEmIRkFwd2nPVmFiP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dbffcfcea45e55ff4349d4b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021dbffcfcea45e55ff4349d4b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511dbffcfcea45e55ff4349d4b",
+          "width": 64
+        }
+      ],
+      "name": "How I Move (feat. Lil Baby)",
+      "release_date": "2019-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7EvmUXEmIRkFwd2nPVmFiP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2HUwZ0kumzCSlhFcjFZfpp",
+        "id": "2HUwZ0kumzCSlhFcjFZfpp",
+        "name": "Flipp Dinero",
+        "type": "artist",
+        "uri": "spotify:artist:2HUwZ0kumzCSlhFcjFZfpp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0jBJIQuToUUOEx7JJkiPzm",
+    "is_local": false,
+    "name": "How I Move (feat. Lil Baby)",
+    "preview_url": "https://p.scdn.co/mp3-preview/592e4a17593869130299002677ff7f60a7c3550b?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4czdORdCWP9umpbhFXK2fW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
+          "width": 64
+        }
+      ],
+      "name": "For All The Dogs",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:4czdORdCWP9umpbhFXK2fW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+        "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+        "name": "Yeat",
+        "type": "artist",
+        "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2YSzYUF3jWqb9YP9VXmpjE",
+    "is_local": false,
+    "name": "IDGAF (feat. Yeat)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c23e9088d5bbab9edfb8e6c37af8e8eee0016e39?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival",
+          "type": "artist",
+          "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/372cMadhAGlNuDnc8TssqF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251f311c2fb06ad2789e3ff91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+          "width": 64
+        }
+      ],
+      "name": "Pendulum (Expanded Edition)",
+      "release_date": "1970-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:372cMadhAGlNuDnc8TssqF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+        "id": "3IYUhFvPQItj6xySrBmZkd",
+        "name": "Creedence Clearwater Revival",
+        "type": "artist",
+        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LawezPeJhN4AWuSB0GtAU",
+    "is_local": false,
+    "name": "Have You Ever Seen The Rain",
+    "preview_url": "https://p.scdn.co/mp3-preview/9b5348b8d7c6bb14b63998903a46348657f70c2e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+          "id": "7t0rwkOPGlDPEhaOcVtOt9",
+          "name": "The Cranberries",
+          "type": "artist",
+          "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0AP5O47kJWlaKVnnybKvQI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6325f361d7803ad0d908451",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6325f361d7803ad0d908451",
+          "width": 64
+        }
+      ],
+      "name": "Everybody Else Is Doing It, So Why Can't We?",
+      "release_date": "1993-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0AP5O47kJWlaKVnnybKvQI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+        "id": "7t0rwkOPGlDPEhaOcVtOt9",
+        "name": "The Cranberries",
+        "type": "artist",
+        "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0gEyKnHvgkrkBM6fbeHdwK",
+    "is_local": false,
+    "name": "Linger",
+    "preview_url": "https://p.scdn.co/mp3-preview/7b68bf72ebc1138e44a5e285d5698a715ea1d46e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MdG05syQeRYPPcClLaUGl",
+          "id": "3MdG05syQeRYPPcClLaUGl",
+          "name": "Diana Ross",
+          "type": "artist",
+          "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3zgDLoVcpVGfFbDZJf3uHI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02abc5193decc1a2984a93f31e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851abc5193decc1a2984a93f31e",
+          "width": 64
+        }
+      ],
+      "name": "Diana",
+      "release_date": "1980-05-22",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:3zgDLoVcpVGfFbDZJf3uHI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        "href": "https://api.spotify.com/v1/artists/3MdG05syQeRYPPcClLaUGl",
+        "id": "3MdG05syQeRYPPcClLaUGl",
+        "name": "Diana Ross",
+        "type": "artist",
+        "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3SnGymj6ijE2iuUfWxLo1q",
+    "is_local": false,
+    "name": "I'm Coming Out",
+    "preview_url": "https://p.scdn.co/mp3-preview/2d037fd27c5eb27bb2d891fc56d920171c1a8af3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
