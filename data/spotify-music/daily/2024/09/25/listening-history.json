@@ -1,0 +1,766 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+          "id": "1xU878Z1QtBldR7ru9owdU",
+          "name": "Phoenix",
+          "type": "artist",
+          "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0xG5b9nkWxKc5VTpo6Fq5I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273869df273a6f34f759b426ace",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02869df273a6f34f759b426ace",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851869df273a6f34f759b426ace",
+          "width": 64
+        }
+      ],
+      "name": "Wolfgang Amadeus Phoenix",
+      "release_date": "2009-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:0xG5b9nkWxKc5VTpo6Fq5I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+        "id": "1xU878Z1QtBldR7ru9owdU",
+        "name": "Phoenix",
+        "type": "artist",
+        "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Ug5wxoHthwxctyWTUMGta",
+    "is_local": false,
+    "name": "1901",
+    "preview_url": "https://p.scdn.co/mp3-preview/51f9b6a2218009fa259e44b6ba944744f44c0f37?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+          "id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "HUGEL",
+          "type": "artist",
+          "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4XNpw8KZFcml3E0wz4ZyYx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8101cc61a1a16540f1f7528",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8101cc61a1a16540f1f7528",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8101cc61a1a16540f1f7528",
+          "width": 64
+        }
+      ],
+      "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE (Rework)",
+      "release_date": "2024-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4XNpw8KZFcml3E0wz4ZyYx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id": "5PlfkPxwCpRRWQJBxCa0By",
+        "name": "HUGEL",
+        "type": "artist",
+        "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/14S2VMZRhekYGluotZ4pqg",
+    "is_local": false,
+    "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework",
+    "preview_url": "https://p.scdn.co/mp3-preview/d17aa2a659283d7a0ae81254d9cf5458139414a3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+          "id": "2mLA48B366zkELXYx7hcDN",
+          "name": "Peggy Gou",
+          "type": "artist",
+          "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5pnr4GOQkBuGuYPeiLw1T6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b58857b06c0d9ebf76458dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b58857b06c0d9ebf76458dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b58857b06c0d9ebf76458dc1",
+          "width": 64
+        }
+      ],
+      "name": "I Hear You",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5pnr4GOQkBuGuYPeiLw1T6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+        "id": "2mLA48B366zkELXYx7hcDN",
+        "name": "Peggy Gou",
+        "type": "artist",
+        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1BktkzhQ6rhP1jTREtUdPK",
+    "is_local": false,
+    "name": "(It Goes Like) Nanana - Edit",
+    "preview_url": "https://p.scdn.co/mp3-preview/e36e0bd4714844f1f9d992398b41a3e333f15cc9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6RjTapeTvms8jSeIRGc5Ve",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27390ac383add08fbff7286958c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0290ac383add08fbff7286958c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485190ac383add08fbff7286958c",
+          "width": 64
+        }
+      ],
+      "name": "feelslikeimfallinginlove",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6RjTapeTvms8jSeIRGc5Ve"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1YsU8rW2u8z4F0pwOBQ4Ea",
+    "is_local": false,
+    "name": "feelslikeimfallinginlove",
+    "preview_url": "https://p.scdn.co/mp3-preview/6f9ec31c6f196cc5ea7608275abad6a341199e72?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/40GMAhriYJRO1rsY4YdrZb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+          "width": 64
+        }
+      ],
+      "name": "Views",
+      "release_date": "2016-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        "href": "https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp",
+        "id": "3tVQdUvClmAT7URs9V3rsp",
+        "name": "Wizkid",
+        "type": "artist",
+        "uri": "spotify:artist:3tVQdUvClmAT7URs9V3rsp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        },
+        "href": "https://api.spotify.com/v1/artists/77DAFfvm3O9zT5dIoG0eIO",
+        "id": "77DAFfvm3O9zT5dIoG0eIO",
+        "name": "Kyla",
+        "type": "artist",
+        "uri": "spotify:artist:77DAFfvm3O9zT5dIoG0eIO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1zi7xx7UVEFkmKfv06H8x0",
+    "is_local": false,
+    "name": "One Dance",
+    "preview_url": "https://p.scdn.co/mp3-preview/0ee5843f6060102ce4ac239c856c452439e3d9d2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          },
+          "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo",
+          "type": "artist",
+          "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7tcs1X9pzFvcLOPuhCstQJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27380368f0aa8f90c51674f9dd2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0280368f0aa8f90c51674f9dd2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485180368f0aa8f90c51674f9dd2",
+          "width": 64
+        }
+      ],
+      "name": "Golden Hour",
+      "release_date": "2020-05-29",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:7tcs1X9pzFvcLOPuhCstQJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+        "id": "23fqKkggKUBHNkbKtXEls4",
+        "name": "Kygo",
+        "type": "artist",
+        "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+        "id": "6XpaIBNiVzIetEPCWDvAFP",
+        "name": "Whitney Houston",
+        "type": "artist",
+        "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1kKYjjfNYxE0YYgLa7vgVY",
+    "is_local": false,
+    "name": "Higher Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/6737d20b6eba8e6bc5b9270d884b04022f38d713?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WaFQSHVGZQJTbf0BdxdNo",
+          "id": "1WaFQSHVGZQJTbf0BdxdNo",
+          "name": "Tommy Richman",
+          "type": "artist",
+          "uri": "spotify:artist:1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Z1gnUf3nbn6DtwZSUIH54",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0201c0cd5da820e6128655854f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485101c0cd5da820e6128655854f",
+          "width": 64
+        }
+      ],
+      "name": "MILLION DOLLAR BABY",
+      "release_date": "2024-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:2Z1gnUf3nbn6DtwZSUIH54"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WaFQSHVGZQJTbf0BdxdNo",
+        "id": "1WaFQSHVGZQJTbf0BdxdNo",
+        "name": "Tommy Richman",
+        "type": "artist",
+        "uri": "spotify:artist:1WaFQSHVGZQJTbf0BdxdNo"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5AJ9hqTS2wcFQCELCFRO7A",
+    "is_local": false,
+    "name": "MILLION DOLLAR BABY",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5c9eeb40ca98441ab1d0767fdc417afa2af9695?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+          "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+          "name": "Jazzy",
+          "type": "artist",
+          "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6lIisbumiVx5fHO6e8ybLb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738dcdb7396c93be6b997c49ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028dcdb7396c93be6b997c49ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518dcdb7396c93be6b997c49ec",
+          "width": 64
+        }
+      ],
+      "name": "Constellations (Expanded)",
+      "release_date": "2024-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6lIisbumiVx5fHO6e8ybLb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+        "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+        "name": "Jazzy",
+        "type": "artist",
+        "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2pe4teHX2j6Z0kGN3RgwSF",
+    "is_local": false,
+    "name": "Giving Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/16a655d0f6022868a100a1b74852cfea4f926933?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Tiësto",
+          "type": "artist",
+          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6CIslPQSknp875cigkhKJC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5902af367b4fba7f6f294a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5902af367b4fba7f6f294a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d5902af367b4fba7f6f294a5",
+          "width": 64
+        }
+      ],
+      "name": "The London Sessions",
+      "release_date": "2020-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6CIslPQSknp875cigkhKJC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Tiësto",
+        "type": "artist",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        "href": "https://api.spotify.com/v1/artists/5vQfv3s2Z2SRdPZKr82ABw",
+        "id": "5vQfv3s2Z2SRdPZKr82ABw",
+        "name": "Dzeko",
+        "type": "artist",
+        "uri": "spotify:artist:5vQfv3s2Z2SRdPZKr82ABw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bdJZl7TDeiymDYzMJnVh2",
+        "id": "0bdJZl7TDeiymDYzMJnVh2",
+        "name": "Preme",
+        "type": "artist",
+        "uri": "spotify:artist:0bdJZl7TDeiymDYzMJnVh2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4vvnuJlgBeNVwq3TNmLMNX",
+    "is_local": false,
+    "name": "Jackie Chan",
+    "preview_url": "https://p.scdn.co/mp3-preview/91e3327bdd583b78215f51d0f04846c3203faeda?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3cfAM8b8KqJRoIzt3zLKqw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ff7c3580d429c8212b9a3b6",
+          "width": 64
+        }
+      ],
+      "name": "A Head Full of Dreams",
+      "release_date": "2015-12-04",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3cfAM8b8KqJRoIzt3zLKqw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/69uxyAqqPIsUyTO8txoP2M",
+    "is_local": false,
+    "name": "Adventure of a Lifetime",
+    "preview_url": "https://p.scdn.co/mp3-preview/0b666b9a07035a659c7e5b7cb754f1b81bf1535b?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          },
+          "href": "https://api.spotify.com/v1/artists/041iTeoMIwXMlShuQPIVKo",
+          "id": "041iTeoMIwXMlShuQPIVKo",
+          "name": "Klangkarussell",
+          "type": "artist",
+          "uri": "spotify:artist:041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BBqa3UQfVawVGQN0aIcs4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735fd7e8ba59af4dd5bb900747",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025fd7e8ba59af4dd5bb900747",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515fd7e8ba59af4dd5bb900747",
+          "width": 64
+        }
+      ],
+      "name": "Sonnentanz",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1BBqa3UQfVawVGQN0aIcs4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        "href": "https://api.spotify.com/v1/artists/041iTeoMIwXMlShuQPIVKo",
+        "id": "041iTeoMIwXMlShuQPIVKo",
+        "name": "Klangkarussell",
+        "type": "artist",
+        "uri": "spotify:artist:041iTeoMIwXMlShuQPIVKo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/39AZSw4A8hCFWunEg2k89Z",
+        "id": "39AZSw4A8hCFWunEg2k89Z",
+        "name": "Will Heard",
+        "type": "artist",
+        "uri": "spotify:artist:39AZSw4A8hCFWunEg2k89Z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5NKfB21hWeirObQjEN44x1",
+    "is_local": false,
+    "name": "Sonnentanz - Sun Don't Shine",
+    "preview_url": "https://p.scdn.co/mp3-preview/96b655a13a3632b844b3fd4849e80988ef57fba6?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6TFm9KGW7Lbxrl2Zsg4X9R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273463d73e65c7b95a17898388b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02463d73e65c7b95a17898388b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851463d73e65c7b95a17898388b",
+          "width": 64
+        }
+      ],
+      "name": "K.I.D.S. (Deluxe)",
+      "release_date": "2010-08-13",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6TFm9KGW7Lbxrl2Zsg4X9R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+        "id": "4LLpKhyESsyAXpc4laK94U",
+        "name": "Mac Miller",
+        "type": "artist",
+        "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7FAFkQQZFeNwOFzTrSDFIh",
+    "is_local": false,
+    "name": "The Spins",
+    "preview_url": "https://p.scdn.co/mp3-preview/8646d3b6544d0126b5b48d36aa857ac4a4a1d82f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]

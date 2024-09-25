@@ -4,56 +4,575 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
           },
-          "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
-          "id": "2mLA48B366zkELXYx7hcDN",
-          "name": "Peggy Gou",
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
           "type": "artist",
-          "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5pnr4GOQkBuGuYPeiLw1T6",
+      "href": "https://api.spotify.com/v1/albums/3IO8IPjwXuzPJnoaqkwYrj",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273b58857b06c0d9ebf76458dc1",
+          "url": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02b58857b06c0d9ebf76458dc1",
+          "url": "https://i.scdn.co/image/ab67616d00001e022887f8c05b5a9f1cb105be29",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851b58857b06c0d9ebf76458dc1",
+          "url": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
           "width": 64
         }
       ],
-      "name": "I Hear You",
-      "release_date": "2024-06-07",
+      "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "release_date": "2018-11-06",
       "release_date_precision": "day",
-      "total_tracks": 10,
+      "total_tracks": 26,
       "type": "album",
-      "uri": "spotify:album:5pnr4GOQkBuGuYPeiLw1T6"
+      "uri": "spotify:album:3IO8IPjwXuzPJnoaqkwYrj"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
-        "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
-        "id": "2mLA48B366zkELXYx7hcDN",
-        "name": "Peggy Gou",
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
         "type": "artist",
-        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "type": "artist",
+        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
       }
     ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1BktkzhQ6rhP1jTREtUdPK",
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2Grb4G6t9VIqo6moKUloom",
     "is_local": false,
-    "name": "(It Goes Like) Nanana - Edit",
-    "preview_url": "https://p.scdn.co/mp3-preview/e36e0bd4714844f1f9d992398b41a3e333f15cc9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Don't Come Out The House (with 21 Savage)",
+    "preview_url": "https://p.scdn.co/mp3-preview/4245103b06494fe77d2e43ea6802030a608226e9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+          "id": "6jGMq4yGs7aQzuGsMgVgZR",
+          "name": "Lil Tjay",
+          "type": "artist",
+          "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1bCBZ8LedqwVYOLDLrRbbY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9fe16b21ea333150c0f50f6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9fe16b21ea333150c0f50f6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9fe16b21ea333150c0f50f6",
+          "width": 64
+        }
+      ],
+      "name": "True 2 Myself",
+      "release_date": "2019-10-11",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:1bCBZ8LedqwVYOLDLrRbbY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "type": "artist",
+        "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3J4A8aojSB2mBTuzczisHA",
+    "is_local": false,
+    "name": "Goat",
+    "preview_url": "https://p.scdn.co/mp3-preview/64afea5086bec0d16d077a2500c80e6e43483282?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist",
+          "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gPhS1zisyXr5dHTYZyiMe",
+          "id": "1gPhS1zisyXr5dHTYZyiMe",
+          "name": "Kevin Gates",
+          "type": "artist",
+          "uri": "spotify:artist:1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/71QD6BRt9qXNT9oemqHtI6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e9fc45abea61e6c73e17292",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e9fc45abea61e6c73e17292",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e9fc45abea61e6c73e17292",
+          "width": 64
+        }
+      ],
+      "name": "Convertible Burt (From Road To Fast 9 Mixtape)",
+      "release_date": "2020-07-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:71QD6BRt9qXNT9oemqHtI6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id": "2jku7tDXc6XoB6MO2hFuqg",
+        "name": "Tory Lanez",
+        "type": "artist",
+        "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        "href": "https://api.spotify.com/v1/artists/1gPhS1zisyXr5dHTYZyiMe",
+        "id": "1gPhS1zisyXr5dHTYZyiMe",
+        "name": "Kevin Gates",
+        "type": "artist",
+        "uri": "spotify:artist:1gPhS1zisyXr5dHTYZyiMe"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2AUdkFhVlngknqGHu30VJQ",
+    "is_local": false,
+    "name": "Convertible Burt - From Road To Fast 9 Mixtape",
+    "preview_url": "https://p.scdn.co/mp3-preview/3f0e480fb86712fbd7cb8da04162c4579e0f6d80?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0zicd2mBV8HTzSubByj4vP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020d5a84e4e47399d2726c330c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510d5a84e4e47399d2726c330c",
+          "width": 64
+        }
+      ],
+      "name": "Luv Is Rage 2 - Deluxe",
+      "release_date": "2017-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "type": "artist",
+        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5evSAk9q0l3TfF5dYDwDBO",
+    "is_local": false,
+    "name": "Sauce It Up",
+    "preview_url": "https://p.scdn.co/mp3-preview/ab7ed8574cacaf378d0b703e1d9c427ebec78bd2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/33bJwRLv35ynnhhFyj96hK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735352ff7a09fd78a78ed4e9ba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025352ff7a09fd78a78ed4e9ba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515352ff7a09fd78a78ed4e9ba",
+          "width": 64
+        }
+      ],
+      "name": "Stay Schemin",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:33bJwRLv35ynnhhFyj96hK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+        "id": "1sBkRIssrMs1AbVkOJbc7a",
+        "name": "Rick Ross",
+        "type": "artist",
+        "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+        "id": "6vXTefBL93Dj5IqAWq6OTv",
+        "name": "French Montana",
+        "type": "artist",
+        "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0nq6sfr8z1R5KJ4XUk396e",
+    "is_local": false,
+    "name": "Stay Schemin",
+    "preview_url": "https://p.scdn.co/mp3-preview/144ea1f368f64a4756cdcbd676f8a0c7502a741a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0AIFISfeloajgVP5fB9ulV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738abc7fa458f6d817f2ebf9b1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028abc7fa458f6d817f2ebf9b1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518abc7fa458f6d817f2ebf9b1",
+          "width": 64
+        }
+      ],
+      "name": "Single Again",
+      "release_date": "2019-07-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0AIFISfeloajgVP5fB9ulV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+        "id": "0c173mlxpT3dSFRgMO8XPh",
+        "name": "Big Sean",
+        "type": "artist",
+        "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7IP0lO9tHfNwBWZ9X6TJ84",
+    "is_local": false,
+    "name": "Single Again",
+    "preview_url": "https://p.scdn.co/mp3-preview/3879ebbbde5634997dcf059226d1f1c94bc1d345?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fctva4kpRbg2k3v7kwRuS",
+          "id": "1fctva4kpRbg2k3v7kwRuS",
+          "name": "Rvssian",
+          "type": "artist",
+          "uri": "spotify:artist:1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zctI4wO9XSKS8XwcnqEHk",
+          "id": "5zctI4wO9XSKS8XwcnqEHk",
+          "name": "Lil Mosey",
+          "type": "artist",
+          "uri": "spotify:artist:5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+          "id": "6jGMq4yGs7aQzuGsMgVgZR",
+          "name": "Lil Tjay",
+          "type": "artist",
+          "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7oEKNLjZtm5UEIezuR2Hfy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731b382fb4a70157f7b47af1ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021b382fb4a70157f7b47af1ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511b382fb4a70157f7b47af1ed",
+          "width": 64
+        }
+      ],
+      "name": "Only The Team (with Lil Mosey & Lil Tjay)",
+      "release_date": "2020-03-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7oEKNLjZtm5UEIezuR2Hfy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        "href": "https://api.spotify.com/v1/artists/1fctva4kpRbg2k3v7kwRuS",
+        "id": "1fctva4kpRbg2k3v7kwRuS",
+        "name": "Rvssian",
+        "type": "artist",
+        "uri": "spotify:artist:1fctva4kpRbg2k3v7kwRuS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zctI4wO9XSKS8XwcnqEHk",
+        "id": "5zctI4wO9XSKS8XwcnqEHk",
+        "name": "Lil Mosey",
+        "type": "artist",
+        "uri": "spotify:artist:5zctI4wO9XSKS8XwcnqEHk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "type": "artist",
+        "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6UHfW9PmGAUjIVeIkPzPQ2",
+    "is_local": false,
+    "name": "Only The Team (with Lil Mosey & Lil Tjay)",
+    "preview_url": "https://p.scdn.co/mp3-preview/38c34e8c840de114afbff49e374ca0717fd4d9fc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow",
+          "type": "artist",
+          "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5g2INX6dnMIJG0xKygXwF3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aeb14ead136118a987246b63",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aeb14ead136118a987246b63",
+          "width": 64
+        }
+      ],
+      "name": "Thats What They All Say",
+      "release_date": "2020-12-11",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5g2INX6dnMIJG0xKygXwF3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+        "id": "2LIk90788K0zvyj2JJVwkJ",
+        "name": "Jack Harlow",
+        "type": "artist",
+        "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6MDdceLYec4AxohmorE4vH",
+    "is_local": false,
+    "name": "Face Of My City (feat. Lil Baby)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d54720d5dc76a0730018ce112bbbb41d2d5d1dec?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
