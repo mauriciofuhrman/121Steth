@@ -1,0 +1,327 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tz0QRoe083BcOo2YbG9lV",
+          "id": "6Tz0QRoe083BcOo2YbG9lV",
+          "name": "Nena",
+          "type": "artist",
+          "uri": "spotify:artist:6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4uHwcjASOWAKw4P4wveKRb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e51ffd6a2e8f77ffd56bb8f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e51ffd6a2e8f77ffd56bb8f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e51ffd6a2e8f77ffd56bb8f",
+          "width": 64
+        }
+      ],
+      "name": "Nena",
+      "release_date": "1983-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4uHwcjASOWAKw4P4wveKRb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Tz0QRoe083BcOo2YbG9lV",
+        "id": "6Tz0QRoe083BcOo2YbG9lV",
+        "name": "Nena",
+        "type": "artist",
+        "uri": "spotify:artist:6Tz0QRoe083BcOo2YbG9lV"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2IJftBfq7pJ43tfnOR0RB3",
+    "is_local": false,
+    "name": "99 Luftballons",
+    "preview_url": "https://p.scdn.co/mp3-preview/c4c8b07136c8d99f1f1ba95f43162e1774e8b30c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/67Em0g7VkNZGzICh4SZQdY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef69f2cf1038634bd541509",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef69f2cf1038634bd541509",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519ef69f2cf1038634bd541509",
+          "width": 64
+        }
+      ],
+      "name": "A$AP Forever (feat. Moby)",
+      "release_date": "2018-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:67Em0g7VkNZGzICh4SZQdY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "type": "artist",
+        "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+        "id": "3OsRAKCvk37zwYcnzRf5XF",
+        "name": "Moby",
+        "type": "artist",
+        "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1YmF9PvLhIISIANoMLIYGq",
+    "is_local": false,
+    "name": "A$AP Forever (feat. Moby)",
+    "preview_url": "https://p.scdn.co/mp3-preview/129324444fd26eabdb36e1802ae9e4e5380afcbc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/67Em0g7VkNZGzICh4SZQdY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef69f2cf1038634bd541509",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef69f2cf1038634bd541509",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519ef69f2cf1038634bd541509",
+          "width": 64
+        }
+      ],
+      "name": "A$AP Forever (feat. Moby)",
+      "release_date": "2018-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:67Em0g7VkNZGzICh4SZQdY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "type": "artist",
+        "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+        "id": "3OsRAKCvk37zwYcnzRf5XF",
+        "name": "Moby",
+        "type": "artist",
+        "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1YmF9PvLhIISIANoMLIYGq",
+    "is_local": false,
+    "name": "A$AP Forever (feat. Moby)",
+    "preview_url": "https://p.scdn.co/mp3-preview/129324444fd26eabdb36e1802ae9e4e5380afcbc?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0CKqyf7ptIwn4EtOV8nddm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6da56e427f7f87f0e544c6f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6da56e427f7f87f0e544c6f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6da56e427f7f87f0e544c6f",
+          "width": 64
+        }
+      ],
+      "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+      "release_date": "2010-05-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0CKqyf7ptIwn4EtOV8nddm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+        "id": "0EmeFodog0BfCgMzAIvKQp",
+        "name": "Shakira",
+        "type": "artist",
+        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        },
+        "href": "https://api.spotify.com/v1/artists/7AcV1lk8Zrgo1691PDWEle",
+        "id": "7AcV1lk8Zrgo1691PDWEle",
+        "name": "Freshlyground",
+        "type": "artist",
+        "uri": "spotify:artist:7AcV1lk8Zrgo1691PDWEle"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6bNB5gxFX6Q87DbQWb8OWZ",
+    "is_local": false,
+    "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d898e998e7e3f9d289f542363bf7d35926d81ee0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "type": "artist",
+          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7iLgRk89HhZw9QZvQjjATj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec7898a4ed10f186b8db8a3a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec7898a4ed10f186b8db8a3a",
+          "width": 64
+        }
+      ],
+      "name": "On The 6 (25th Anniversary Edition)",
+      "release_date": "2024-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7iLgRk89HhZw9QZvQjjATj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5GHVp2CCufZ8MJzYE82W7R",
+    "is_local": false,
+    "name": "Waiting for Tonight - Radio Edit",
+    "preview_url": "https://p.scdn.co/mp3-preview/779041c1f68fec8238a8e5658d3cc099e8e6a589?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
