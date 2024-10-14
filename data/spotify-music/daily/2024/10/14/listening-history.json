@@ -1,0 +1,287 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+          "id": "3eqjTLE0HfPfh78zjh6TqT",
+          "name": "Bruce Springsteen",
+          "type": "artist",
+          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7865e686c36a4adda6c9978",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+          "width": 64
+        }
+      ],
+      "name": "Born In The U.S.A.",
+      "release_date": "1984-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Y90nL1ohB4sgYELDs7uNx",
+    "is_local": false,
+    "name": "Glory Days",
+    "preview_url": "https://p.scdn.co/mp3-preview/b4228bc31b0040da6fa0cc4a50bb82a29c351a8e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          },
+          "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
+          "id": "77tT1kLj6mCWtFNqiOmP9H",
+          "name": "Daryl Hall & John Oates",
+          "type": "artist",
+          "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7ygXmT175bKbOpiPjNwXOB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cfe4163cbb6d12f3ec15898e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cfe4163cbb6d12f3ec15898e",
+          "width": 64
+        }
+      ],
+      "name": "H2O",
+      "release_date": "1982-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7ygXmT175bKbOpiPjNwXOB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        },
+        "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
+        "id": "77tT1kLj6mCWtFNqiOmP9H",
+        "name": "Daryl Hall & John Oates",
+        "type": "artist",
+        "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7j74lucZ59vqN67Ipe2ZcY",
+    "is_local": false,
+    "name": "Maneater",
+    "preview_url": "https://p.scdn.co/mp3-preview/d689e007e59681c1520d7492aa605e3e5073661d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+          "id": "4bthk9UfsYUYdcFyqxmSUU",
+          "name": "Tears For Fears",
+          "type": "artist",
+          "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3myPwaMYjdwhtq0nFgeG6W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222463d6939fec9e17b2a6235",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122463d6939fec9e17b2a6235",
+          "width": 64
+        }
+      ],
+      "name": "Songs From The Big Chair (Super Deluxe Edition)",
+      "release_date": "1985-02-25",
+      "release_date_precision": "day",
+      "total_tracks": 59,
+      "type": "album",
+      "uri": "spotify:album:3myPwaMYjdwhtq0nFgeG6W"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+        "id": "4bthk9UfsYUYdcFyqxmSUU",
+        "name": "Tears For Fears",
+        "type": "artist",
+        "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4RvWPyQ5RL0ao9LPZeSouE",
+    "is_local": false,
+    "name": "Everybody Wants To Rule The World",
+    "preview_url": "https://p.scdn.co/mp3-preview/49a5e33d422484fde5484d3e665821e9a3a8b540?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
+    "is_local": false,
+    "name": "Only the Good Die Young",
+    "preview_url": "https://p.scdn.co/mp3-preview/9e6acbbe97f8a6c71fd21fe606987e1b8840dc8f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
+    "is_local": false,
+    "name": "Only the Good Die Young",
+    "preview_url": "https://p.scdn.co/mp3-preview/9e6acbbe97f8a6c71fd21fe606987e1b8840dc8f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
