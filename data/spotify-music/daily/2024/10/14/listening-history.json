@@ -4,171 +4,989 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
           },
-          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
-          "id": "3eqjTLE0HfPfh78zjh6TqT",
-          "name": "Bruce Springsteen",
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
           "type": "artist",
-          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978",
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02a7865e686c36a4adda6c9978",
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978",
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
           "width": 64
         }
       ],
-      "name": "Born In The U.S.A.",
-      "release_date": "1984-06-04",
-      "release_date_precision": "day",
-      "total_tracks": 12,
-      "type": "album",
-      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
-        "id": "3eqjTLE0HfPfh78zjh6TqT",
-        "name": "Bruce Springsteen",
-        "type": "artist",
-        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/2Y90nL1ohB4sgYELDs7uNx",
-    "is_local": false,
-    "name": "Glory Days",
-    "preview_url": "https://p.scdn.co/mp3-preview/b4228bc31b0040da6fa0cc4a50bb82a29c351a8e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-          },
-          "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
-          "id": "77tT1kLj6mCWtFNqiOmP9H",
-          "name": "Daryl Hall & John Oates",
-          "type": "artist",
-          "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7ygXmT175bKbOpiPjNwXOB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02cfe4163cbb6d12f3ec15898e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851cfe4163cbb6d12f3ec15898e",
-          "width": 64
-        }
-      ],
-      "name": "H2O",
-      "release_date": "1982-10-04",
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
       "release_date_precision": "day",
       "total_tracks": 11,
       "type": "album",
-      "uri": "spotify:album:7ygXmT175bKbOpiPjNwXOB"
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         },
-        "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
-        "id": "77tT1kLj6mCWtFNqiOmP9H",
-        "name": "Daryl Hall & John Oates",
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
         "type": "artist",
-        "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7j74lucZ59vqN67Ipe2ZcY",
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
     "is_local": false,
-    "name": "Maneater",
-    "preview_url": "https://p.scdn.co/mp3-preview/d689e007e59681c1520d7492aa605e3e5073661d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Stubborn Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+            "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
           },
-          "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
-          "id": "4bthk9UfsYUYdcFyqxmSUU",
-          "name": "Tears For Fears",
+          "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow",
           "type": "artist",
-          "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+          "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/3myPwaMYjdwhtq0nFgeG6W",
+      "href": "https://api.spotify.com/v1/albums/72r4dr0xDsXOWRwP2o7ZIP",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+          "url": "https://i.scdn.co/image/ab67616d0000b273ddd85c9c585e663fc5431c2a",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0222463d6939fec9e17b2a6235",
+          "url": "https://i.scdn.co/image/ab67616d00001e02ddd85c9c585e663fc5431c2a",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485122463d6939fec9e17b2a6235",
+          "url": "https://i.scdn.co/image/ab67616d00004851ddd85c9c585e663fc5431c2a",
           "width": 64
         }
       ],
-      "name": "Songs From The Big Chair (Super Deluxe Edition)",
-      "release_date": "1985-02-25",
+      "name": "Nail Tech",
+      "release_date": "2022-02-18",
       "release_date_precision": "day",
-      "total_tracks": 59,
+      "total_tracks": 2,
       "type": "album",
-      "uri": "spotify:album:3myPwaMYjdwhtq0nFgeG6W"
+      "uri": "spotify:album:72r4dr0xDsXOWRwP2o7ZIP"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
-        "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
-        "id": "4bthk9UfsYUYdcFyqxmSUU",
-        "name": "Tears For Fears",
+        "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+        "id": "2LIk90788K0zvyj2JJVwkJ",
+        "name": "Jack Harlow",
         "type": "artist",
-        "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+        "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/62Yo3FDddWY8ydu6PW2wyz",
+    "is_local": false,
+    "name": "Nail Tech",
+    "preview_url": "https://p.scdn.co/mp3-preview/080cf575e59c6c309003e83eb88cef789ab0e70c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist",
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7txGsnDSqVMoRl6RQ9XyZP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4fee55d7b51479627c31f89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4fee55d7b51479627c31f89",
+          "width": 64
+        }
+      ],
+      "name": "HEROES & VILLAINS",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "type": "artist",
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+        "id": "4Gso3d4CscCijv0lmajZWs",
+        "name": "Don Toliver",
+        "type": "artist",
+        "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2Hh3ETdQKrmSI3QS0hme7g",
+    "is_local": false,
+    "name": "Too Many Nights (feat. Don Toliver & with Future)",
+    "preview_url": "https://p.scdn.co/mp3-preview/113245d7442b7b3880c40b3407dbc695396338f6?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/0369cb748bc968ffd34fb4ac60f5403f2aad032f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4RvWPyQ5RL0ao9LPZeSouE",
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
     "is_local": false,
-    "name": "Everybody Wants To Rule The World",
-    "preview_url": "https://p.scdn.co/mp3-preview/49a5e33d422484fde5484d3e665821e9a3a8b540?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Stubborn Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          },
+          "href": "https://api.spotify.com/v1/artists/29kkCKKGXheHuoO829FxWK",
+          "id": "29kkCKKGXheHuoO829FxWK",
+          "name": "Boston",
+          "type": "artist",
+          "uri": "spotify:artist:29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2QLp07RO6anZHmtcKTEvSC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c1fadcc997a65384f34d694",
+          "width": 64
+        }
+      ],
+      "name": "Boston",
+      "release_date": "1976",
+      "release_date_precision": "year",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2QLp07RO6anZHmtcKTEvSC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        },
+        "href": "https://api.spotify.com/v1/artists/29kkCKKGXheHuoO829FxWK",
+        "id": "29kkCKKGXheHuoO829FxWK",
+        "name": "Boston",
+        "type": "artist",
+        "uri": "spotify:artist:29kkCKKGXheHuoO829FxWK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1QEEqeFIZktqIpPI4jSVSF",
+    "is_local": false,
+    "name": "More Than a Feeling",
+    "preview_url": "https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ZEDW6vyBF12HYcZRr4EV",
+          "id": "13ZEDW6vyBF12HYcZRr4EV",
+          "name": "Tyler Childers",
+          "type": "artist",
+          "uri": "spotify:artist:13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2T9P5dSm786uuxA5tkI1Xb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d41fec800fa501c5bc623083",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d41fec800fa501c5bc623083",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d41fec800fa501c5bc623083",
+          "width": 64
+        }
+      ],
+      "name": "Country Squire",
+      "release_date": "2019-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2T9P5dSm786uuxA5tkI1Xb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ZEDW6vyBF12HYcZRr4EV",
+        "id": "13ZEDW6vyBF12HYcZRr4EV",
+        "name": "Tyler Childers",
+        "type": "artist",
+        "uri": "spotify:artist:13ZEDW6vyBF12HYcZRr4EV"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fCwTrRNfoNk962ati8n2K",
+    "is_local": false,
+    "name": "All Your'n",
+    "preview_url": "https://p.scdn.co/mp3-preview/9812fee49ff8efab5748d94769250dfec5daf844?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zxDewzd2j1ZdSBGaYcr0y",
+          "id": "1zxDewzd2j1ZdSBGaYcr0y",
+          "name": "The Outfield",
+          "type": "artist",
+          "uri": "spotify:artist:1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0EriQlp6zHpb1ThLZcandW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd7e670a91d0263d2ee1d8a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd7e670a91d0263d2ee1d8a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd7e670a91d0263d2ee1d8a7",
+          "width": 64
+        }
+      ],
+      "name": "Play Deep",
+      "release_date": "1985-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:0EriQlp6zHpb1ThLZcandW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        "href": "https://api.spotify.com/v1/artists/1zxDewzd2j1ZdSBGaYcr0y",
+        "id": "1zxDewzd2j1ZdSBGaYcr0y",
+        "name": "The Outfield",
+        "type": "artist",
+        "uri": "spotify:artist:1zxDewzd2j1ZdSBGaYcr0y"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0WoFs3EdGOx58yX5BtXvOa",
+    "is_local": false,
+    "name": "Your Love",
+    "preview_url": "https://p.scdn.co/mp3-preview/bff1bf9d33dfeec5c01501b023a6c59a44af2be4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+          "id": "2UZMlIwnkgAEDBsw1Rejkn",
+          "name": "Tom Petty",
+          "type": "artist",
+          "uri": "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5d71Imt5CIb7LpQwDMQ093",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136572e6726714544f5bed456",
+          "width": 64
+        }
+      ],
+      "name": "Full Moon Fever",
+      "release_date": "1989-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5d71Imt5CIb7LpQwDMQ093"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        },
+        "href": "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+        "id": "2UZMlIwnkgAEDBsw1Rejkn",
+        "name": "Tom Petty",
+        "type": "artist",
+        "uri": "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7gSQv1OHpkIoAdUiRLdmI6",
+    "is_local": false,
+    "name": "I Won't Back Down",
+    "preview_url": "https://p.scdn.co/mp3-preview/2efef1deacda363a01f8d713502bef6674c3cee4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          },
+          "href": "https://api.spotify.com/v1/artists/6hN9F0iuULZYWXppob22Aj",
+          "id": "6hN9F0iuULZYWXppob22Aj",
+          "name": "Simple Minds",
+          "type": "artist",
+          "uri": "spotify:artist:6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4YimfceN1R0nOS9CefIFhm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515695a657aef0e81bde0c6001",
+          "width": 64
+        }
+      ],
+      "name": "Once Upon A Time (Super Deluxe)",
+      "release_date": "1985",
+      "release_date_precision": "year",
+      "total_tracks": 47,
+      "type": "album",
+      "uri": "spotify:album:4YimfceN1R0nOS9CefIFhm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hN9F0iuULZYWXppob22Aj",
+        "id": "6hN9F0iuULZYWXppob22Aj",
+        "name": "Simple Minds",
+        "type": "artist",
+        "uri": "spotify:artist:6hN9F0iuULZYWXppob22Aj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3fH4KjXFYMmljxrcGrbPj9",
+    "is_local": false,
+    "name": "Don't You (Forget About Me)",
+    "preview_url": "https://p.scdn.co/mp3-preview/98ec74ccf3855f0f874c8208741a6ca8f520db2d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "type": "artist",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+          "width": 64
+        }
+      ],
+      "name": "Appetite For Destruction",
+      "release_date": "1987-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "type": "artist",
+        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7snQQk1zcKl8gZ92AnueZW",
+    "is_local": false,
+    "name": "Sweet Child O' Mine",
+    "preview_url": "https://p.scdn.co/mp3-preview/a941cdd2c0c74206aaa6d7e459e4fdf1d738deaa?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0225a4df452a3c42ccc2e9288b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485125a4df452a3c42ccc2e9288b",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/39shmbIHICJ2Wxnk1fPSdz",
+    "is_local": false,
+    "name": "Should I Stay or Should I Go - Remastered",
+    "preview_url": "https://p.scdn.co/mp3-preview/30dfcd239fdb4a9ee277ff3a214a4f6771bd8cb3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+          "id": "4AYkFtEBnNnGuoo8HaHErd",
+          "name": "Madness",
+          "type": "artist",
+          "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2P1bkVHSonLBBSKvrBbdbw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273df294840f002d6727d04e29c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02df294840f002d6727d04e29c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851df294840f002d6727d04e29c",
+          "width": 64
+        }
+      ],
+      "name": "Madness",
+      "release_date": "1983-01",
+      "release_date_precision": "month",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2P1bkVHSonLBBSKvrBbdbw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+        "id": "4AYkFtEBnNnGuoo8HaHErd",
+        "name": "Madness",
+        "type": "artist",
+        "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qV6e4ITnfGmA6m6Vklvbi",
+    "is_local": false,
+    "name": "Our House",
+    "preview_url": "https://p.scdn.co/mp3-preview/f365916c4146a722717004ad934067988e0083e1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3daM7asS0gCFvyLemNx2EE",
+          "id": "3daM7asS0gCFvyLemNx2EE",
+          "name": "The Romantics",
+          "type": "artist",
+          "uri": "spotify:artist:3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/41DhoTqWGvhvTCUkG96Poy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b502623ce2ab3d27798876a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024b502623ce2ab3d27798876a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514b502623ce2ab3d27798876a",
+          "width": 64
+        }
+      ],
+      "name": "The Romantics",
+      "release_date": "1980",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:41DhoTqWGvhvTCUkG96Poy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        },
+        "href": "https://api.spotify.com/v1/artists/3daM7asS0gCFvyLemNx2EE",
+        "id": "3daM7asS0gCFvyLemNx2EE",
+        "name": "The Romantics",
+        "type": "artist",
+        "uri": "spotify:artist:3daM7asS0gCFvyLemNx2EE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ebcE2SmkG7nplvzFAWRu7",
+    "is_local": false,
+    "name": "What I Like About You",
+    "preview_url": "https://p.scdn.co/mp3-preview/02ddf46904cac877a9ac70d9e8a0ab0af4ebc3e0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          },
+          "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+          "id": "6QtGlUje9TIkLrgPZrESuk",
+          "name": "Steve Miller Band",
+          "type": "artist",
+          "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uYNj1HkZrWKAkhEYcGmJr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02375445cc7a2aedff11361b51",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851375445cc7a2aedff11361b51",
+          "width": 64
+        }
+      ],
+      "name": "The Joker",
+      "release_date": "1973-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5uYNj1HkZrWKAkhEYcGmJr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        },
+        "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+        "id": "6QtGlUje9TIkLrgPZrESuk",
+        "name": "Steve Miller Band",
+        "type": "artist",
+        "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1bp2IO61zbQrbWNmKKxg3f",
+    "is_local": false,
+    "name": "The Joker",
+    "preview_url": "https://p.scdn.co/mp3-preview/6291f55a2e6ef6e126bb2c25cc4b62288ba804e0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt",
+          "id": "0rvjqX7ttXeg3mTy8Xscbt",
+          "name": "Journey",
+          "type": "artist",
+          "uri": "spotify:artist:0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2OyVtIEp7O7a6o82DF4Ba5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e8045e318486885fe243817",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e8045e318486885fe243817",
+          "width": 64
+        }
+      ],
+      "name": "Departure",
+      "release_date": "1980",
+      "release_date_precision": "year",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2OyVtIEp7O7a6o82DF4Ba5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        "href": "https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt",
+        "id": "0rvjqX7ttXeg3mTy8Xscbt",
+        "name": "Journey",
+        "type": "artist",
+        "uri": "spotify:artist:0rvjqX7ttXeg3mTy8Xscbt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/71SvEDmsOwIWw1IozsZoMA",
+    "is_local": false,
+    "name": "Any Way You Want It",
+    "preview_url": "https://p.scdn.co/mp3-preview/956e5625f9c5d81535193dadd860c084457f65e3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Y3xIwWyq5wnNHPp5gPjOW",
+          "id": "3Y3xIwWyq5wnNHPp5gPjOW",
+          "name": "Kenny Loggins",
+          "type": "artist",
+          "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3uN87hwClF0hult2cxMbAW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0219db9ac54c80a898a179f0f1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485119db9ac54c80a898a179f0f1",
+          "width": 64
+        }
+      ],
+      "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+      "release_date": "1997-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:3uN87hwClF0hult2cxMbAW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Y3xIwWyq5wnNHPp5gPjOW",
+        "id": "3Y3xIwWyq5wnNHPp5gPjOW",
+        "name": "Kenny Loggins",
+        "type": "artist",
+        "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6W2VbtvMrDXm5vYeB7amkO",
+    "is_local": false,
+    "name": "Footloose",
+    "preview_url": "https://p.scdn.co/mp3-preview/0408c4e5f1d51b6b605429205342fde6930d96ea?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
@@ -184,30 +1002,30 @@
           "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "href": "https://api.spotify.com/v1/albums/1Vw2uoVkLAJFVViJ1QyK1D",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
           "width": 64
         }
       ],
-      "name": "The Stranger (Legacy Edition)",
-      "release_date": "1977",
-      "release_date_precision": "year",
-      "total_tracks": 21,
+      "name": "Storm Front",
+      "release_date": "1989-10-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+      "uri": "spotify:album:1Vw2uoVkLAJFVViJ1QyK1D"
     },
     "artists": [
       {
@@ -222,66 +1040,123 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
+    "href": "https://api.spotify.com/v1/tracks/3Cx4yrFaX8CeHwBMReOWXI",
     "is_local": false,
-    "name": "Only the Good Die Young",
-    "preview_url": "https://p.scdn.co/mp3-preview/9e6acbbe97f8a6c71fd21fe606987e1b8840dc8f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "We Didn't Start the Fire",
+    "preview_url": "https://p.scdn.co/mp3-preview/e7980f6596f50ca919f025ad49130dd11ca60f41?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
           },
-          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-          "id": "6zFYqv1mOsgBRQbae3JJ9e",
-          "name": "Billy Joel",
+          "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+          "id": "6biWAmrHyiMkX49LkycGqQ",
+          "name": "Thin Lizzy",
           "type": "artist",
-          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "href": "https://api.spotify.com/v1/albums/6Cf545T4jkaiyvMnTRPOB2",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8f69ab903901064b1f19249",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8f69ab903901064b1f19249",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "url": "https://i.scdn.co/image/ab67616d00004851e8f69ab903901064b1f19249",
           "width": 64
         }
       ],
-      "name": "The Stranger (Legacy Edition)",
-      "release_date": "1977",
+      "name": "Jailbreak (Deluxe Edition)",
+      "release_date": "1976",
       "release_date_precision": "year",
-      "total_tracks": 21,
+      "total_tracks": 20,
       "type": "album",
-      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+      "uri": "spotify:album:6Cf545T4jkaiyvMnTRPOB2"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
         },
-        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-        "id": "6zFYqv1mOsgBRQbae3JJ9e",
-        "name": "Billy Joel",
+        "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+        "id": "6biWAmrHyiMkX49LkycGqQ",
+        "name": "Thin Lizzy",
         "type": "artist",
-        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
+    "href": "https://api.spotify.com/v1/tracks/43DeSV93pJPT4lCZaWZ6b1",
     "is_local": false,
-    "name": "Only the Good Die Young",
-    "preview_url": "https://p.scdn.co/mp3-preview/9e6acbbe97f8a6c71fd21fe606987e1b8840dc8f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "The Boys Are Back In Town",
+    "preview_url": "https://p.scdn.co/mp3-preview/753aaed7d16ec2dac0ff8af05123177a44c19351?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+          "id": "6biWAmrHyiMkX49LkycGqQ",
+          "name": "Thin Lizzy",
+          "type": "artist",
+          "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Cf545T4jkaiyvMnTRPOB2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8f69ab903901064b1f19249",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8f69ab903901064b1f19249",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e8f69ab903901064b1f19249",
+          "width": 64
+        }
+      ],
+      "name": "Jailbreak (Deluxe Edition)",
+      "release_date": "1976",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:6Cf545T4jkaiyvMnTRPOB2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+        "id": "6biWAmrHyiMkX49LkycGqQ",
+        "name": "Thin Lizzy",
+        "type": "artist",
+        "uri": "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/43DeSV93pJPT4lCZaWZ6b1",
+    "is_local": false,
+    "name": "The Boys Are Back In Town",
+    "preview_url": "https://p.scdn.co/mp3-preview/753aaed7d16ec2dac0ff8af05123177a44c19351?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
