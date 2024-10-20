@@ -339,6 +339,73 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "type": "artist",
+          "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/623PL2MBg50Br5dLXC9E9e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485120e08c8cc23f404d723b5647",
+          "width": 64
+        }
+      ],
+      "name": "BLAME IT ON BABY",
+      "release_date": "2020-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:623PL2MBg50Br5dLXC9E9e"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+        "id": "4r63FhuTkUYltbVAg5TQnk",
+        "name": "DaBaby",
+        "type": "artist",
+        "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+        "id": "757aE44tKEUQEqRuT6GnEB",
+        "name": "Roddy Ricch",
+        "type": "artist",
+        "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7ytR5pFWmSjzHJIeQkgog4",
+    "is_local": false,
+    "name": "ROCKSTAR (feat. Roddy Ricch)",
+    "preview_url": "https://p.scdn.co/mp3-preview/72babd91d3e74ef7e967d57bb46f9fe217be9320?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
           },
           "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
@@ -1201,82 +1268,5 @@
     "is_local": false,
     "name": "BUTTERFLY EFFECT",
     "preview_url": "https://p.scdn.co/mp3-preview/68cba40a7199c972c7a2ad0df063c4d1f5e3dc73?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-          },
-          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-          "id": "1URnnhqYAYcrqrcwql10ft",
-          "name": "21 Savage",
-          "type": "artist",
-          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
-          "width": 64
-        }
-      ],
-      "name": "Her Loss",
-      "release_date": "2022-11-04",
-      "release_date_precision": "day",
-      "total_tracks": 16,
-      "type": "album",
-      "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-        "id": "1URnnhqYAYcrqrcwql10ft",
-        "name": "21 Savage",
-        "type": "artist",
-        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7GeTsDIc5ykNB6lORO6Cee",
-    "is_local": false,
-    "name": "Circo Loco",
-    "preview_url": "https://p.scdn.co/mp3-preview/758ba86b6f8a48b877917a0b157f68f5bd2b7834?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
