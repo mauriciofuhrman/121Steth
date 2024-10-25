@@ -1,0 +1,156 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6extd4B6hl8VTmnlhpl2bY",
+          "id": "6extd4B6hl8VTmnlhpl2bY",
+          "name": "Huncho Jack",
+          "type": "artist",
+          "uri": "spotify:artist:6extd4B6hl8VTmnlhpl2bY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "type": "artist",
+          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6FED8aeieEnUWwQqAO9zT1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851631973893e94d01cfcdf0e5e",
+          "width": 64
+        }
+      ],
+      "name": "Huncho Jack, Jack Huncho",
+      "release_date": "2017-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6FED8aeieEnUWwQqAO9zT1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6extd4B6hl8VTmnlhpl2bY",
+        "id": "6extd4B6hl8VTmnlhpl2bY",
+        "name": "Huncho Jack",
+        "type": "artist",
+        "uri": "spotify:artist:6extd4B6hl8VTmnlhpl2bY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+        "id": "0VRj0yCOv2FXJNP47XQnx5",
+        "name": "Quavo",
+        "type": "artist",
+        "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5vuiHi3QYbwcm1OKJOYnrf",
+    "is_local": false,
+    "name": "Huncho Jack",
+    "preview_url": "https://p.scdn.co/mp3-preview/6e57acc31d6e29b526f9de75d33cc25508279bd7?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+          "id": "6IFXsrXBpwbIqtOUOiAa3p",
+          "name": "Rick Springfield",
+          "type": "artist",
+          "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4KKFWTePKtgb6mOwFDqxYa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a57b8b911a372d77dfc1ba7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a57b8b911a372d77dfc1ba7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a57b8b911a372d77dfc1ba7",
+          "width": 64
+        }
+      ],
+      "name": "Working Class Dog",
+      "release_date": "1981-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4KKFWTePKtgb6mOwFDqxYa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        },
+        "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+        "id": "6IFXsrXBpwbIqtOUOiAa3p",
+        "name": "Rick Springfield",
+        "type": "artist",
+        "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5RsUlxLto4NZbhJpqJbHfN",
+    "is_local": false,
+    "name": "Jessie's Girl",
+    "preview_url": "https://p.scdn.co/mp3-preview/d05edfc55f84b1aa88985d86d2ded2affc629b4f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
