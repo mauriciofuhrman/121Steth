@@ -1,0 +1,910 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+          "width": 64
+        }
+      ],
+      "name": "Certified Lover Boy",
+      "release_date": "2021-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2Q3jFbyE61mCjS3SkW4toJ",
+    "is_local": false,
+    "name": "Race My Mind",
+    "preview_url": "https://p.scdn.co/mp3-preview/a28341c67c0be9ebc649b1eb42398dd6f4d6a45a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6uhEg4ASZYLIilZFCBFy1r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276a4577dd654bf457a4ad1f8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176a4577dd654bf457a4ad1f8",
+          "width": 64
+        }
+      ],
+      "name": "My Turn (Deluxe)",
+      "release_date": "2020-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 26,
+      "type": "album",
+      "uri": "spotify:album:6uhEg4ASZYLIilZFCBFy1r"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+        "id": "45gHcnDnMC15sgx3VL7ROG",
+        "name": "42 Dugg",
+        "type": "artist",
+        "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6gxKUmycQX7uyMwJcweFjp",
+    "is_local": false,
+    "name": "We Paid (feat. 42 Dugg)",
+    "preview_url": "https://p.scdn.co/mp3-preview/85c59e875a6cbad3f42ffb23515e044d8b91cae8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yvCFkK57FXH7JIwZQ5CmU",
+          "id": "3yvCFkK57FXH7JIwZQ5CmU",
+          "name": "Baka Not Nice",
+          "type": "artist",
+          "uri": "spotify:artist:3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28vYZP2mGD54CUoY0lPUr2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4115e4e4e0032c551da3b47",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4115e4e4e0032c551da3b47",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d4115e4e4e0032c551da3b47",
+          "width": 64
+        }
+      ],
+      "name": "4Milli",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:28vYZP2mGD54CUoY0lPUr2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yvCFkK57FXH7JIwZQ5CmU",
+        "id": "3yvCFkK57FXH7JIwZQ5CmU",
+        "name": "Baka Not Nice",
+        "type": "artist",
+        "uri": "spotify:artist:3yvCFkK57FXH7JIwZQ5CmU"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/79KZAInFkxA0XLukZCGzvh",
+    "is_local": false,
+    "name": "Live Up to My Name",
+    "preview_url": "https://p.scdn.co/mp3-preview/174a9e4fe8b05a93142e87010a5dc16df651f8e8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "type": "artist",
+          "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/29NWnawJBetVB3lOM9Sbp6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027da6f8edfd0404b5c52de3eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517da6f8edfd0404b5c52de3eb",
+          "width": 64
+        }
+      ],
+      "name": "Demons Protected By Angels",
+      "release_date": "2022-09-09",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4KH2xxnlvlE1koTS6OZSD8",
+    "is_local": false,
+    "name": "Playa (with Gunna)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ae84877a3672df855bba17cac43aa4258b2b85e1?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          },
+          "href": "https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD",
+          "id": "699OTQXzgjhIYAHMy9RyPD",
+          "name": "Playboi Carti",
+          "type": "artist",
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dAm8ShwJLFm9SaJ6Yc58O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1e867d40e7bb29ced5c0194",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a1e867d40e7bb29ced5c0194",
+          "width": 64
+        }
+      ],
+      "name": "Die Lit",
+      "release_date": "2018-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:7dAm8ShwJLFm9SaJ6Yc58O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        "href": "https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD",
+        "id": "699OTQXzgjhIYAHMy9RyPD",
+        "name": "Playboi Carti",
+        "type": "artist",
+        "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        "href": "https://api.spotify.com/v1/artists/5yPzzu25VzEk8qrGTLIrE1",
+        "id": "5yPzzu25VzEk8qrGTLIrE1",
+        "name": "Young Nudy",
+        "type": "artist",
+        "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/45Ln3F9PRPYTXBcMFkZMzS",
+    "is_local": false,
+    "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/e0e2fc400d274f7fcbb4cb0c8e12c6b00a573832?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1bkN9nIkkCnXeG4yitVS1J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273eddb2639b74ac6c202032ebe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02eddb2639b74ac6c202032ebe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851eddb2639b74ac6c202032ebe",
+          "width": 64
+        }
+      ],
+      "name": "Section.80",
+      "release_date": "2011-07-02",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:1bkN9nIkkCnXeG4yitVS1J"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2Fw5S2gaOSZzdN5dFoC2dj",
+    "is_local": false,
+    "name": "A.D.H.D",
+    "preview_url": "https://p.scdn.co/mp3-preview/373593dd102cf4caddd5f3404aa1150bc186adcd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MATDdrpHmQCmuOcozZjDa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029feadc48ab0661e9b3a9170b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519feadc48ab0661e9b3a9170b",
+          "width": 64
+        }
+      ],
+      "name": "TESTING",
+      "release_date": "2018-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:3MATDdrpHmQCmuOcozZjDa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "type": "artist",
+        "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5TX0mfUkpGlU6j2xa00ERx",
+    "is_local": false,
+    "name": "OG Beeper",
+    "preview_url": "https://p.scdn.co/mp3-preview/4c2459fb563f73a5bfba38710dd6bbe4bad64a64?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist",
+          "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0RK6vpJWuCZpNWNdRJ8rpY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e425ce7f784550e60e6045fe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e425ce7f784550e60e6045fe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e425ce7f784550e60e6045fe",
+          "width": 64
+        }
+      ],
+      "name": "LoVE me NOw (ReLoAdeD)",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0RK6vpJWuCZpNWNdRJ8rpY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id": "2jku7tDXc6XoB6MO2hFuqg",
+        "name": "Tory Lanez",
+        "type": "artist",
+        "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1cdCwU8dUHGcoWX40D781S",
+    "is_local": false,
+    "name": "ThE RUn oFF",
+    "preview_url": "https://p.scdn.co/mp3-preview/bd8f35119ef07a85939a6320a53656ad895cf3f2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+          "id": "0eDvMgVFoNV3TpwtrVCoTj",
+          "name": "Pop Smoke",
+          "type": "artist",
+          "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5NTOvCGu7HT4DgJGLXtKUU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd90e898c070ef21812ab363",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd90e898c070ef21812ab363",
+          "width": 64
+        }
+      ],
+      "name": "Meet The Woo 2 (Deluxe)",
+      "release_date": "2020-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5NTOvCGu7HT4DgJGLXtKUU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+        "id": "0eDvMgVFoNV3TpwtrVCoTj",
+        "name": "Pop Smoke",
+        "type": "artist",
+        "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "type": "artist",
+        "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1wXN2YC8tTGK5J1wOn55TO",
+    "is_local": false,
+    "name": "War (feat. Lil Tjay) - Bonus",
+    "preview_url": "https://p.scdn.co/mp3-preview/0f0f4da9209b666239d238e5b07466e1878e9a78?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+          "width": 64
+        }
+      ],
+      "name": "Dark Lane Demo Tapes",
+      "release_date": "2020-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        "href": "https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD",
+        "id": "699OTQXzgjhIYAHMy9RyPD",
+        "name": "Playboi Carti",
+        "type": "artist",
+        "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6Kj17Afjo1OKJYpf5VzCeo",
+    "is_local": false,
+    "name": "Pain 1993 (with Playboi Carti)",
+    "preview_url": "https://p.scdn.co/mp3-preview/e8ee6627edf84b52d0d43d1c82852d603cb7e661?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          },
+          "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+          "id": "757aE44tKEUQEqRuT6GnEB",
+          "name": "Roddy Ricch",
+          "type": "artist",
+          "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1jlIU9p7PChTK3AeqNpnsX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273434f4eeb4231f6f4862cafd4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02434f4eeb4231f6f4862cafd4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851434f4eeb4231f6f4862cafd4",
+          "width": 64
+        }
+      ],
+      "name": "Feed Tha Streets II",
+      "release_date": "2018-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1jlIU9p7PChTK3AeqNpnsX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+        "id": "757aE44tKEUQEqRuT6GnEB",
+        "name": "Roddy Ricch",
+        "type": "artist",
+        "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2wz3OO7ndJQj15z3drwKkf",
+    "is_local": false,
+    "name": "Cream",
+    "preview_url": "https://p.scdn.co/mp3-preview/b893dd2a60a40906baa093b87d46dbe91d2a9502?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG",
+          "name": "Migos",
+          "type": "artist",
+          "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PASWLvNfvfMF68dDznEgK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739325c863d9139cc2d507421b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029325c863d9139cc2d507421b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519325c863d9139cc2d507421b",
+          "width": 64
+        }
+      ],
+      "name": "Racks 2 Skinny",
+      "release_date": "2020-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3PASWLvNfvfMF68dDznEgK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+        "id": "6oMuImdp5ZcFhWP0ESe6mG",
+        "name": "Migos",
+        "type": "artist",
+        "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/568OIKgeHyGRD3uWR44JbO",
+    "is_local": false,
+    "name": "Racks 2 Skinny",
+    "preview_url": "https://p.scdn.co/mp3-preview/d62f1972e4c022bbc781d65310e68cb109e5974a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          },
+          "href": "https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW",
+          "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+          "name": "Offset",
+          "type": "artist",
+          "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist",
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0MV1yCXcNNQBfwApqAVkH0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020db43130a9aaa7bae56967ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510db43130a9aaa7bae56967ed",
+          "width": 64
+        }
+      ],
+      "name": "Without Warning",
+      "release_date": "2017-10-30",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:0MV1yCXcNNQBfwApqAVkH0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "name": "Offset",
+        "type": "artist",
+        "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "type": "artist",
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7sO5G9EABYOXQKNPNiE9NR",
+    "is_local": false,
+    "name": "Ric Flair Drip (with Metro Boomin)",
+    "preview_url": "https://p.scdn.co/mp3-preview/89cee86b4663ac093731d7a433491dd71e286f61?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "type": "artist",
+          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6P9PZjWXoCRF5b66BafPKY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02644c510e8d4c02ae69028297",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851644c510e8d4c02ae69028297",
+          "width": 64
+        }
+      ],
+      "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+      "release_date": "2018-10-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6P9PZjWXoCRF5b66BafPKY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "type": "artist",
+        "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+        "id": "4cmA2QDPdzh8W2ytpyUGes",
+        "name": "Young Scooter",
+        "type": "artist",
+        "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2OsDoAzo5SGq10qwmKSQBv",
+    "is_local": false,
+    "name": "Jet Lag (feat. Young Scooter)",
+    "preview_url": "https://p.scdn.co/mp3-preview/a910af820124800c37791d5976a0d2864516eaca?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
