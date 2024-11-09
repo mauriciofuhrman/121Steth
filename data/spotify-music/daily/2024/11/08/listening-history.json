@@ -1,0 +1,1212 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0OcMap99vLEeGkBCfCwRwS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0252e61456aa4995ba48d94e30",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485152e61456aa4995ba48d94e30",
+          "width": 64
+        }
+      ],
+      "name": "Watch The Throne",
+      "release_date": "2011-08-08",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0OcMap99vLEeGkBCfCwRwS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAY-Z",
+        "type": "artist",
+        "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        },
+        "href": "https://api.spotify.com/v1/artists/60df5JBRRPcnSpsIMxxwQm",
+        "id": "60df5JBRRPcnSpsIMxxwQm",
+        "name": "Otis Redding",
+        "type": "artist",
+        "uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/14I61w6cyYUHiV2n28IYdP",
+    "is_local": false,
+    "name": "Otis",
+    "preview_url": "https://p.scdn.co/mp3-preview/94033e05be4e31d032d8aa30ccaefafcb6b1f432?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0OWhKvvsHptt6vnnNUSM9a",
+    "is_local": false,
+    "name": "Oklahoma Smokeshow",
+    "preview_url": "https://p.scdn.co/mp3-preview/6a250eb4c50841e7b0c6be61cc0eec5a3586f8a9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6pamafD9p0K7FHfJPz6TYF",
+    "is_local": false,
+    "name": "Open the Gate",
+    "preview_url": "https://p.scdn.co/mp3-preview/1046fb5538c81fecac2071f9a430167c06819184?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1CmTOKCeyz1aHH04OwvTPv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2b6670e3aca9bcd55fbabbb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b2b6670e3aca9bcd55fbabbb",
+          "width": 64
+        }
+      ],
+      "name": "Something in the Orange",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:1CmTOKCeyz1aHH04OwvTPv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3WMj8moIAXJhHsyLaqIIHI",
+    "is_local": false,
+    "name": "Something in the Orange",
+    "preview_url": "https://p.scdn.co/mp3-preview/d33dc9df586e24c9d8f640df08b776d94680f529?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MwqYJ85YSYpDhcJh8kJW7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5b8a2a3d3c73bea87182582",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5b8a2a3d3c73bea87182582",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5b8a2a3d3c73bea87182582",
+          "width": 64
+        }
+      ],
+      "name": "The Greatest Day of My Life",
+      "release_date": "2022-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:6MwqYJ85YSYpDhcJh8kJW7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1wLNEMiUzwvRZz9XHCXhAE",
+    "is_local": false,
+    "name": "Fifth of May",
+    "preview_url": "https://p.scdn.co/mp3-preview/ae82f9290aa8c06a6021f756760a7831273f3a8d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4popczz4SYRg2NPcgwKHsR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d66d5ec15dc03aa57b78f5ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d66d5ec15dc03aa57b78f5ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d66d5ec15dc03aa57b78f5ff",
+          "width": 64
+        }
+      ],
+      "name": "Burn, Burn, Burn",
+      "release_date": "2022-09-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4popczz4SYRg2NPcgwKHsR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5jfhLCSIFUO4ndzNRh4w4G",
+    "is_local": false,
+    "name": "Burn, Burn, Burn",
+    "preview_url": "https://p.scdn.co/mp3-preview/cbc77cc08d0b0fe89db0a7c1a6df2c98ba1da744?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2HbpYFQbairMoU2YFyOP2x",
+    "is_local": false,
+    "name": "Motorcycle Drive By",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5fc1445a2f8a45868ed404f14bba9516c8f8db2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/70KAbDjO08A8nfTLShbraZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8ebe39f75ed9a30e1c377d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8ebe39f75ed9a30e1c377d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8ebe39f75ed9a30e1c377d5",
+          "width": 64
+        }
+      ],
+      "name": "Quiet, Heavy Dreams",
+      "release_date": "2020-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:70KAbDjO08A8nfTLShbraZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1cfi4ewXF9ifZ7it025zDK",
+    "is_local": false,
+    "name": "Traveling Man",
+    "preview_url": "https://p.scdn.co/mp3-preview/8f46e676f5f1a0c2c1b0f71dd93926b595e2fbca?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "type": "artist",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4h4A1l4ReII0UD3wtOPI3q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397be145c0ed84ae353ee3043",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297be145c0ed84ae353ee3043",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197be145c0ed84ae353ee3043",
+          "width": 64
+        }
+      ],
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "release_date": "2023-09-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4h4A1l4ReII0UD3wtOPI3q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+        "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+        "name": "Bon Iver",
+        "type": "artist",
+        "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4Zj2uX6ApCFK9XzjwIhCIr",
+    "is_local": false,
+    "name": "Boys Of Faith (feat. Bon Iver)",
+    "preview_url": "https://p.scdn.co/mp3-preview/cbec6c27ca676b3dc88653809c0063394386c447?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/00syWkRGIVQvYsg2OwfBUw",
+    "is_local": false,
+    "name": "East Side of Sorrow",
+    "preview_url": "https://p.scdn.co/mp3-preview/f3701336ca4895270ff0688f90071c0108036fd2?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1U0Z7QjSzlg3gMeUOuUldz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02647ad18a07e9e939e399e5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851647ad18a07e9e939e399e5a1",
+          "width": 64
+        }
+      ],
+      "name": "The Great American Bar Scene",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:1U0Z7QjSzlg3gMeUOuUldz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3c9EsIo34kil8Oj1reaozB",
+    "is_local": false,
+    "name": "American Nights",
+    "preview_url": "https://p.scdn.co/mp3-preview/0e098af8d8bc20a882bd2bb5b0df789d9e3b0989?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2qPki6xBkJ1Mbra43t7hnA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313c532890739d705e5a55af6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213c532890739d705e5a55af6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113c532890739d705e5a55af6",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2qPki6xBkJ1Mbra43t7hnA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ErsJAz6qJ5cqjoVAvfvaC",
+        "id": "2ErsJAz6qJ5cqjoVAvfvaC",
+        "name": "Charles Wesley Godwin",
+        "type": "artist",
+        "uri": "spotify:artist:2ErsJAz6qJ5cqjoVAvfvaC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/11xeawurZXUDqRPxCasaDt",
+    "is_local": false,
+    "name": "Jamie (feat. Charles Wesley Godwin)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ce12546780676e3eb6085c9474bd4690e08334be?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1U0Z7QjSzlg3gMeUOuUldz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02647ad18a07e9e939e399e5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851647ad18a07e9e939e399e5a1",
+          "width": 64
+        }
+      ],
+      "name": "The Great American Bar Scene",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:1U0Z7QjSzlg3gMeUOuUldz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3JzVK0f8gqAAjyEDyXAys4",
+    "is_local": false,
+    "name": "Sandpaper (feat. Bruce Springsteen)",
+    "preview_url": "https://p.scdn.co/mp3-preview/67918d0ecf147c1d20837fe8baa99440f6c8f18a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/70KAbDjO08A8nfTLShbraZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8ebe39f75ed9a30e1c377d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8ebe39f75ed9a30e1c377d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8ebe39f75ed9a30e1c377d5",
+          "width": 64
+        }
+      ],
+      "name": "Quiet, Heavy Dreams",
+      "release_date": "2020-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:70KAbDjO08A8nfTLShbraZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Is8zshpnWUiFQJIYAMrQN",
+    "is_local": false,
+    "name": "Crooked Teeth",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb79c1bab3cbbe9e134bd666f0224c0509077746?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/70KAbDjO08A8nfTLShbraZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8ebe39f75ed9a30e1c377d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8ebe39f75ed9a30e1c377d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8ebe39f75ed9a30e1c377d5",
+          "width": 64
+        }
+      ],
+      "name": "Quiet, Heavy Dreams",
+      "release_date": "2020-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:70KAbDjO08A8nfTLShbraZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1HMFdKHDiHY0qmqdVH710d",
+    "is_local": false,
+    "name": "Let You Down",
+    "preview_url": "https://p.scdn.co/mp3-preview/170a422d26da34123b4623c3afd426d3278422a0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0npZ1Ryg8HaFGeb2HKYQIz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2aa84b988e58703f8ed4e84",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2aa84b988e58703f8ed4e84",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e2aa84b988e58703f8ed4e84",
+          "width": 64
+        }
+      ],
+      "name": "DeAnn",
+      "release_date": "2019-08-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0npZ1Ryg8HaFGeb2HKYQIz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4GeyPGMzh6VwdNcaCufY9f",
+    "is_local": false,
+    "name": "God Speed",
+    "preview_url": "https://p.scdn.co/mp3-preview/9d167e9a04fa8466557d0f8c338ae53a93fb4775?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3TkSm0esbUBPygKvMrwWQn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273112d8a26c36b7a980233673b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02112d8a26c36b7a980233673b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851112d8a26c36b7a980233673b",
+          "width": 64
+        }
+      ],
+      "name": "Elisabeth",
+      "release_date": "2020-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3TkSm0esbUBPygKvMrwWQn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2QfX9Pdz3q66fN3kCXl0Js",
+    "is_local": false,
+    "name": "Revival",
+    "preview_url": "https://p.scdn.co/mp3-preview/100015075e9f85399c57c2f68ba467faf4ef69bd?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1SjsVdSXpwm1kTdYEHoPIT",
+    "is_local": false,
+    "name": "Sun to Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/e002b15b8d7d1d3c8953abd8f451536c2621bbf4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5wKVor4aDuvn09tJO7WZpY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ebcfb3e92f937a1a4cc16f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ebcfb3e92f937a1a4cc16f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ebcfb3e92f937a1a4cc16f0",
+          "width": 64
+        }
+      ],
+      "name": "Boys Of Faith",
+      "release_date": "2023-09-22",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:5wKVor4aDuvn09tJO7WZpY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1u2Fe70Qm9VFCIMPWFlfc1",
+    "is_local": false,
+    "name": "Deep Satin",
+    "preview_url": "https://p.scdn.co/mp3-preview/bdb05ac12f037151d002ed9cbc0d48c0052adae5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a25ed08d1e7e0fbb440cef",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GMiRrUnQuoGddKMsxGPIZ",
+    "is_local": false,
+    "name": "Fear and Friday's",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a6261bf9ed453dd5c8696c876cc2fba1dfb4ca3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
