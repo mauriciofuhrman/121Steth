@@ -1,0 +1,615 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "type": "artist",
+          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EW0kQ1skZiK1NHg3Spt9J",
+          "id": "3EW0kQ1skZiK1NHg3Spt9J",
+          "name": "Takeoff",
+          "type": "artist",
+          "uri": "spotify:artist:3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Lo6GJMW4ctfhtuCqMkn1O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e202633be974b7134282c6d1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e202633be974b7134282c6d1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e202633be974b7134282c6d1",
+          "width": 64
+        }
+      ],
+      "name": "Nothing Changed",
+      "release_date": "2022-09-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4Lo6GJMW4ctfhtuCqMkn1O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+        "id": "0VRj0yCOv2FXJNP47XQnx5",
+        "name": "Quavo",
+        "type": "artist",
+        "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        "href": "https://api.spotify.com/v1/artists/3EW0kQ1skZiK1NHg3Spt9J",
+        "id": "3EW0kQ1skZiK1NHg3Spt9J",
+        "name": "Takeoff",
+        "type": "artist",
+        "uri": "spotify:artist:3EW0kQ1skZiK1NHg3Spt9J"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/48qgXl0CQUVYJVn6xv0rsP",
+    "is_local": false,
+    "name": "Nothing Changed",
+    "preview_url": "https://p.scdn.co/mp3-preview/78c979dfa5c3a986116c014eebf197aa5436a38d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3a8tAZFJxlmBwOtrf5L1oC",
+    "is_local": false,
+    "name": "6 God",
+    "preview_url": "https://p.scdn.co/mp3-preview/30f721ff8f457bf651a57d15607d8cc096e4a8a4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          },
+          "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+          "id": "757aE44tKEUQEqRuT6GnEB",
+          "name": "Roddy Ricch",
+          "type": "artist",
+          "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/52u4anZbHd6UInnmHRFzba",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851600adbc750285ea1a8da249f",
+          "width": 64
+        }
+      ],
+      "name": "Please Excuse Me for Being Antisocial",
+      "release_date": "2019-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:52u4anZbHd6UInnmHRFzba"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+        "id": "757aE44tKEUQEqRuT6GnEB",
+        "name": "Roddy Ricch",
+        "type": "artist",
+        "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3aBL75wBGHJnskegE9jyhb",
+    "is_local": false,
+    "name": "Boom Boom Room",
+    "preview_url": "https://p.scdn.co/mp3-preview/4b5c829e1bb86405a6f1a4fa7fbe05a4bbc15274?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "type": "artist",
+          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1btu0SV2DOI5HoFsvUd78F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b27d35aa2c6dcf99895d664",
+          "width": 64
+        }
+      ],
+      "name": "Death Race For Love (Bonus Track Version)",
+      "release_date": "2019-03-08",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:1btu0SV2DOI5HoFsvUd78F"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "type": "artist",
+        "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/55XOUxXsBBbC07PD3Zml3F",
+    "is_local": false,
+    "name": "Maze",
+    "preview_url": "https://p.scdn.co/mp3-preview/26ef11a8c4f51612cfb1a2115aa902736a4eaf6f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist",
+          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/57wh3BpvUF2tmvwoGSjUe3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5e99d6177971707e6cd04f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5e99d6177971707e6cd04f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5e99d6177971707e6cd04f5",
+          "width": 64
+        }
+      ],
+      "name": "Might Delete Later",
+      "release_date": "2024-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:57wh3BpvUF2tmvwoGSjUe3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "type": "artist",
+        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
+        "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+        "name": "Bas",
+        "type": "artist",
+        "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3zyjnHtoi8AtiGgZFnJP7O",
+    "is_local": false,
+    "name": "Stealth Mode (feat. Bas)",
+    "preview_url": "https://p.scdn.co/mp3-preview/44511bb02288800e924cd8e18ac97fe8f8a7531f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+          "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+          "name": "Young Stoner Life",
+          "type": "artist",
+          "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4YL3Pkal2a72eAzXCYoCay",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad61b1a42f172ba500a84d48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad61b1a42f172ba500a84d48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ad61b1a42f172ba500a84d48",
+          "width": 64
+        }
+      ],
+      "name": "Take It To Trial (feat. Yak Gotti)",
+      "release_date": "2020-12-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4YL3Pkal2a72eAzXCYoCay"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+        "name": "Young Stoner Life",
+        "type": "artist",
+        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6"
+        },
+        "href": "https://api.spotify.com/v1/artists/0dvFTsuG02c4cRbcSQ8zE6",
+        "id": "0dvFTsuG02c4cRbcSQ8zE6",
+        "name": "Yak Gotti",
+        "type": "artist",
+        "uri": "spotify:artist:0dvFTsuG02c4cRbcSQ8zE6"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6aKDdFwPJLgHT4aNktrQmb",
+    "is_local": false,
+    "name": "Take It to Trial (feat. Yak Gotti)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d740e28916513205e1fbe9d2de7dd689d1553731?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          },
+          "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+          "id": "2tIP7SsRs7vjIcLrU85W8J",
+          "name": "The Kid LAROI",
+          "type": "artist",
+          "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6baGSG5U130x5ttGIIRIwR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ae71e77aef7c34227027daa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021ae71e77aef7c34227027daa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511ae71e77aef7c34227027daa",
+          "width": 64
+        }
+      ],
+      "name": "Diva (feat. Lil Tecca)",
+      "release_date": "2020-01-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6baGSG5U130x5ttGIIRIwR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+        "id": "2tIP7SsRs7vjIcLrU85W8J",
+        "name": "The Kid LAROI",
+        "type": "artist",
+        "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Ga1P7PMIsmqEZqhYZQgDo",
+        "id": "4Ga1P7PMIsmqEZqhYZQgDo",
+        "name": "Lil Tecca",
+        "type": "artist",
+        "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7gVwgc8b3XnO87TpmXXFA5",
+    "is_local": false,
+    "name": "Diva (feat. Lil Tecca)",
+    "preview_url": "https://p.scdn.co/mp3-preview/b15bfa79696d0a61096a65180ea2b610d4811d29?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ZTl8hHvYNuEg4Mk8yxz75",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c0ee50f512295c64a2c8af3d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c0ee50f512295c64a2c8af3d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c0ee50f512295c64a2c8af3d",
+          "width": 64
+        }
+      ],
+      "name": "The Bigger Picture",
+      "release_date": "2020-06-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6ZTl8hHvYNuEg4Mk8yxz75"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/44gRhRi2OhEf7moAUj6MD1",
+    "is_local": false,
+    "name": "The Bigger Picture",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d1b08d40ecd1e80663778aef7d793d7765b76f8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6WS2PorPYrQPnchstzrMKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dd7fd47f461eae85d2acaf5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dd7fd47f461eae85d2acaf5c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dd7fd47f461eae85d2acaf5c",
+          "width": 64
+        }
+      ],
+      "name": "BiPolar (feat. Quavo)",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6WS2PorPYrQPnchstzrMKJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+        "id": "13y7CgLHjMVRMDqxdx0Xdo",
+        "name": "Gucci Mane",
+        "type": "artist",
+        "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+        "id": "0VRj0yCOv2FXJNP47XQnx5",
+        "name": "Quavo",
+        "type": "artist",
+        "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4fGT0JiaqoHShrg6uSsKfB",
+    "is_local": false,
+    "name": "BiPolar (feat. Quavo)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8347611a211c23351bd4ab9439381a4b456efb99?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
