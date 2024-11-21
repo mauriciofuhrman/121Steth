@@ -4,77 +4,201 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+            "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
           },
-          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
-          "id": "0VRj0yCOv2FXJNP47XQnx5",
-          "name": "Quavo",
+          "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+          "id": "07XSN3sPlIlB2L2XNcTwJw",
+          "name": "KISS",
           "type": "artist",
-          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-          },
-          "href": "https://api.spotify.com/v1/artists/3EW0kQ1skZiK1NHg3Spt9J",
-          "id": "3EW0kQ1skZiK1NHg3Spt9J",
-          "name": "Takeoff",
-          "type": "artist",
-          "uri": "spotify:artist:3EW0kQ1skZiK1NHg3Spt9J"
+          "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/4Lo6GJMW4ctfhtuCqMkn1O",
+      "href": "https://api.spotify.com/v1/albums/1YCC4oZXg2zGn7pVSKVlGF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273e202633be974b7134282c6d1",
+          "url": "https://i.scdn.co/image/ab67616d0000b27365a7b0a6969f0efcde4b5aca",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02e202633be974b7134282c6d1",
+          "url": "https://i.scdn.co/image/ab67616d00001e0265a7b0a6969f0efcde4b5aca",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851e202633be974b7134282c6d1",
+          "url": "https://i.scdn.co/image/ab67616d0000485165a7b0a6969f0efcde4b5aca",
           "width": 64
         }
       ],
-      "name": "Nothing Changed",
-      "release_date": "2022-09-30",
+      "name": "Dressed To Kill",
+      "release_date": "1975-03-19",
       "release_date_precision": "day",
-      "total_tracks": 1,
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:4Lo6GJMW4ctfhtuCqMkn1O"
+      "uri": "spotify:album:1YCC4oZXg2zGn7pVSKVlGF"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         },
-        "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
-        "id": "0VRj0yCOv2FXJNP47XQnx5",
-        "name": "Quavo",
+        "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+        "id": "07XSN3sPlIlB2L2XNcTwJw",
+        "name": "KISS",
         "type": "artist",
-        "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
+    "is_local": false,
+    "name": "Rock And Roll All Nite",
+    "preview_url": "https://p.scdn.co/mp3-preview/e9bee4e5f3f3073b17b5b691ff82b4c2b0cb98d3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7A8S43ryYdbWpJKeHRZRcq",
+          "id": "7A8S43ryYdbWpJKeHRZRcq",
+          "name": "JACKBOYS",
+          "type": "artist",
+          "uri": "spotify:artist:7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Sf8GsXG32t0jNrX11xqWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dfc2f59568272de50a257f2f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dfc2f59568272de50a257f2f",
+          "width": 64
+        }
+      ],
+      "name": "JACKBOYS",
+      "release_date": "2019-12-27",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:1Sf8GsXG32t0jNrX11xqWx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
-        "href": "https://api.spotify.com/v1/artists/3EW0kQ1skZiK1NHg3Spt9J",
-        "id": "3EW0kQ1skZiK1NHg3Spt9J",
-        "name": "Takeoff",
+        "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+        "id": "7ltDVBr6mKbRvohxheJ9h1",
+        "name": "ROSALÍA",
         "type": "artist",
-        "uri": "spotify:artist:3EW0kQ1skZiK1NHg3Spt9J"
+        "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/48qgXl0CQUVYJVn6xv0rsP",
+    "href": "https://api.spotify.com/v1/tracks/7h0d2h0fUmzbs7zeFigJPn",
     "is_local": false,
-    "name": "Nothing Changed",
-    "preview_url": "https://p.scdn.co/mp3-preview/78c979dfa5c3a986116c014eebf197aa5436a38d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX",
+    "preview_url": "https://p.scdn.co/mp3-preview/2d4113dd008f19cd24e08c2e34ee9be93d90375e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist",
+          "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Fzxzcj98Z3ASAlLQR2kkC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273171eb57fe7fcd8d1915cb987",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02171eb57fe7fcd8d1915cb987",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851171eb57fe7fcd8d1915cb987",
+          "width": 64
+        }
+      ],
+      "name": "The VVS Capsule",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:6Fzxzcj98Z3ASAlLQR2kkC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id": "2jku7tDXc6XoB6MO2hFuqg",
+        "name": "Tory Lanez",
+        "type": "artist",
+        "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4HVHkQvGnpQ514WPHPE67Q",
+    "is_local": false,
+    "name": "Staccato",
+    "preview_url": "https://p.scdn.co/mp3-preview/5cb3a4fc23e43fe0e361dfaaa25f16fda7ea5f3d?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
@@ -90,32 +214,42 @@
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
           "width": 64
         }
       ],
-      "name": "If You're Reading This It's Too Late",
-      "release_date": "2015-02-12",
+      "name": "Dark Lane Demo Tapes",
+      "release_date": "2020-05-01",
       "release_date_precision": "day",
-      "total_tracks": 17,
+      "total_tracks": 14,
       "type": "album",
-      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+      "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
     },
     "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      },
       {
         "external_urls": {
           "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
@@ -125,111 +259,245 @@
         "name": "Drake",
         "type": "artist",
         "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/3a8tAZFJxlmBwOtrf5L1oC",
+    "href": "https://api.spotify.com/v1/tracks/5fHrHoJKfCgBd35zwIBmUK",
     "is_local": false,
-    "name": "6 God",
-    "preview_url": "https://p.scdn.co/mp3-preview/30f721ff8f457bf651a57d15607d8cc096e4a8a4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "D4L",
+    "preview_url": "https://p.scdn.co/mp3-preview/f9dd558eded9f0d193e7b3e361dfca57100c0715?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+            "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
           },
-          "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
-          "id": "757aE44tKEUQEqRuT6GnEB",
-          "name": "Roddy Ricch",
+          "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG",
+          "name": "Migos",
           "type": "artist",
-          "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+          "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/52u4anZbHd6UInnmHRFzba",
+      "href": "https://api.spotify.com/v1/albums/2actLFtpiiBZm1z0TUzMx2",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+          "url": "https://i.scdn.co/image/ab67616d0000b273da9f9ce257d0f654279d6022",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f",
+          "url": "https://i.scdn.co/image/ab67616d00001e02da9f9ce257d0f654279d6022",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851600adbc750285ea1a8da249f",
+          "url": "https://i.scdn.co/image/ab67616d00004851da9f9ce257d0f654279d6022",
           "width": 64
         }
       ],
-      "name": "Please Excuse Me for Being Antisocial",
-      "release_date": "2019-12-06",
+      "name": "Culture III (Deluxe)",
+      "release_date": "2021-06-11",
       "release_date_precision": "day",
-      "total_tracks": 16,
+      "total_tracks": 24,
       "type": "album",
-      "uri": "spotify:album:52u4anZbHd6UInnmHRFzba"
+      "uri": "spotify:album:2actLFtpiiBZm1z0TUzMx2"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
-        "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
-        "id": "757aE44tKEUQEqRuT6GnEB",
-        "name": "Roddy Ricch",
+        "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+        "id": "6oMuImdp5ZcFhWP0ESe6mG",
+        "name": "Migos",
         "type": "artist",
-        "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+        "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/3aBL75wBGHJnskegE9jyhb",
+    "href": "https://api.spotify.com/v1/tracks/6J8y4lu18GkXuNhGCuZqzS",
     "is_local": false,
-    "name": "Boom Boom Room",
-    "preview_url": "https://p.scdn.co/mp3-preview/4b5c829e1bb86405a6f1a4fa7fbe05a4bbc15274?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Menace",
+    "preview_url": "https://p.scdn.co/mp3-preview/8e7462c69a1addae87dfebc30970403b69b1c172?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
           },
-          "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
-          "id": "4MCBfE4596Uoi2O4DtmEMz",
-          "name": "Juice WRLD",
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
           "type": "artist",
-          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/1btu0SV2DOI5HoFsvUd78F",
+      "href": "https://api.spotify.com/v1/albums/5CnpZV3q5BcESefcB3WJmz",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664",
+          "url": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
+          "url": "https://i.scdn.co/image/ab67616d00001e02cad190f1a73c024e5a40dddd",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048518b27d35aa2c6dcf99895d664",
+          "url": "https://i.scdn.co/image/ab67616d00004851cad190f1a73c024e5a40dddd",
           "width": 64
         }
       ],
-      "name": "Death Race For Love (Bonus Track Version)",
-      "release_date": "2019-03-08",
+      "name": "Donda",
+      "release_date": "2021-08-29",
       "release_date_precision": "day",
-      "total_tracks": 23,
+      "total_tracks": 27,
       "type": "album",
-      "uri": "spotify:album:1btu0SV2DOI5HoFsvUd78F"
+      "uri": "spotify:album:5CnpZV3q5BcESefcB3WJmz"
     },
     "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/45N9i9QraLWD6GW7xBqxnx",
+    "is_local": false,
+    "name": "Remote Control",
+    "preview_url": "https://p.scdn.co/mp3-preview/e921bc0954517e43be0aa165547c731d66d01f40?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "type": "artist",
+          "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31lHUoHC3P6BRFzKYLyRJO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4aaecb02b51550635d7c1b1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4aaecb02b51550635d7c1b1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a4aaecb02b51550635d7c1b1",
+          "width": 64
+        }
+      ],
+      "name": "Bad Habits (Deluxe)",
+      "release_date": "2019-03-26",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:31lHUoHC3P6BRFzKYLyRJO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3KkWGDCb6byHjNYjxBihGK",
+    "is_local": false,
+    "name": "Habits",
+    "preview_url": "https://p.scdn.co/mp3-preview/08684323263b58d6676d1c4c0e73cb9addee5d52?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
+          "id": "2rhFzFmezpnW82MNqEKVry",
+          "name": "Ski Mask The Slump God",
+          "type": "artist",
+          "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0z0z4DcXhHiobX5ZKAw8Qn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e62c8561e3b1bd9ad952ce01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e62c8561e3b1bd9ad952ce01",
+          "width": 64
+        }
+      ],
+      "name": "STOKELEY",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0z0z4DcXhHiobX5ZKAw8Qn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
+        "id": "2rhFzFmezpnW82MNqEKVry",
+        "name": "Ski Mask The Slump God",
+        "type": "artist",
+        "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+      },
       {
         "external_urls": {
           "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
@@ -242,358 +510,70 @@
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/55XOUxXsBBbC07PD3Zml3F",
+    "href": "https://api.spotify.com/v1/tracks/74lnM5V6ecvoTPV0fvptx9",
     "is_local": false,
-    "name": "Maze",
-    "preview_url": "https://p.scdn.co/mp3-preview/26ef11a8c4f51612cfb1a2115aa902736a4eaf6f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "Nuketown (feat. Juice WRLD)",
+    "preview_url": "https://p.scdn.co/mp3-preview/9d33bd68b7a58a6423f10a525a0c227cb009f371?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   },
   {
     "album": {
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            "spotify": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
           },
-          "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
-          "id": "6l3HvQ5sa6mXTsMTB19rO5",
-          "name": "J. Cole",
+          "href": "https://api.spotify.com/v1/artists/7A8S43ryYdbWpJKeHRZRcq",
+          "id": "7A8S43ryYdbWpJKeHRZRcq",
+          "name": "JACKBOYS",
           "type": "artist",
-          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+          "uri": "spotify:artist:7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/57wh3BpvUF2tmvwoGSjUe3",
+      "href": "https://api.spotify.com/v1/albums/1Sf8GsXG32t0jNrX11xqWx",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273b5e99d6177971707e6cd04f5",
+          "url": "https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02b5e99d6177971707e6cd04f5",
+          "url": "https://i.scdn.co/image/ab67616d00001e02dfc2f59568272de50a257f2f",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851b5e99d6177971707e6cd04f5",
+          "url": "https://i.scdn.co/image/ab67616d00004851dfc2f59568272de50a257f2f",
           "width": 64
         }
       ],
-      "name": "Might Delete Later",
-      "release_date": "2024-04-05",
+      "name": "JACKBOYS",
+      "release_date": "2019-12-27",
       "release_date_precision": "day",
-      "total_tracks": 12,
+      "total_tracks": 7,
       "type": "album",
-      "uri": "spotify:album:57wh3BpvUF2tmvwoGSjUe3"
+      "uri": "spotify:album:1Sf8GsXG32t0jNrX11xqWx"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
-        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
-        "id": "6l3HvQ5sa6mXTsMTB19rO5",
-        "name": "J. Cole",
+        "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+        "id": "4Gso3d4CscCijv0lmajZWs",
+        "name": "Don Toliver",
         "type": "artist",
-        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
-        "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
-        "name": "Bas",
-        "type": "artist",
-        "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/3zyjnHtoi8AtiGgZFnJP7O",
-    "is_local": false,
-    "name": "Stealth Mode (feat. Bas)",
-    "preview_url": "https://p.scdn.co/mp3-preview/44511bb02288800e924cd8e18ac97fe8f8a7531f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-          },
-          "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
-          "id": "1xr2G8Hlx4QWmT9HaUbmoO",
-          "name": "Young Stoner Life",
-          "type": "artist",
-          "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-          },
-          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
-          "id": "50co4Is1HCEo8bhOyUWKpn",
-          "name": "Young Thug",
-          "type": "artist",
-          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-          },
-          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
-          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-          "name": "Gunna",
-          "type": "artist",
-          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4YL3Pkal2a72eAzXCYoCay",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273ad61b1a42f172ba500a84d48",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02ad61b1a42f172ba500a84d48",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851ad61b1a42f172ba500a84d48",
-          "width": 64
-        }
-      ],
-      "name": "Take It To Trial (feat. Yak Gotti)",
-      "release_date": "2020-12-18",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:4YL3Pkal2a72eAzXCYoCay"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
-        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
-        "name": "Young Stoner Life",
-        "type": "artist",
-        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
-        "id": "50co4Is1HCEo8bhOyUWKpn",
-        "name": "Young Thug",
-        "type": "artist",
-        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
-        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-        "name": "Gunna",
-        "type": "artist",
-        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6"
-        },
-        "href": "https://api.spotify.com/v1/artists/0dvFTsuG02c4cRbcSQ8zE6",
-        "id": "0dvFTsuG02c4cRbcSQ8zE6",
-        "name": "Yak Gotti",
-        "type": "artist",
-        "uri": "spotify:artist:0dvFTsuG02c4cRbcSQ8zE6"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6aKDdFwPJLgHT4aNktrQmb",
-    "is_local": false,
-    "name": "Take It to Trial (feat. Yak Gotti)",
-    "preview_url": "https://p.scdn.co/mp3-preview/d740e28916513205e1fbe9d2de7dd689d1553731?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-          },
-          "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
-          "id": "2tIP7SsRs7vjIcLrU85W8J",
-          "name": "The Kid LAROI",
-          "type": "artist",
-          "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6baGSG5U130x5ttGIIRIwR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2731ae71e77aef7c34227027daa",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e021ae71e77aef7c34227027daa",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048511ae71e77aef7c34227027daa",
-          "width": 64
-        }
-      ],
-      "name": "Diva (feat. Lil Tecca)",
-      "release_date": "2020-01-31",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:6baGSG5U130x5ttGIIRIwR"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
-        "id": "2tIP7SsRs7vjIcLrU85W8J",
-        "name": "The Kid LAROI",
-        "type": "artist",
-        "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        "href": "https://api.spotify.com/v1/artists/4Ga1P7PMIsmqEZqhYZQgDo",
-        "id": "4Ga1P7PMIsmqEZqhYZQgDo",
-        "name": "Lil Tecca",
-        "type": "artist",
-        "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7gVwgc8b3XnO87TpmXXFA5",
-    "is_local": false,
-    "name": "Diva (feat. Lil Tecca)",
-    "preview_url": "https://p.scdn.co/mp3-preview/b15bfa79696d0a61096a65180ea2b610d4811d29?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-          },
-          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
-          "id": "5f7VJjfbwm532GiveGC0ZK",
-          "name": "Lil Baby",
-          "type": "artist",
-          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6ZTl8hHvYNuEg4Mk8yxz75",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273c0ee50f512295c64a2c8af3d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02c0ee50f512295c64a2c8af3d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851c0ee50f512295c64a2c8af3d",
-          "width": 64
-        }
-      ],
-      "name": "The Bigger Picture",
-      "release_date": "2020-06-12",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:6ZTl8hHvYNuEg4Mk8yxz75"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
-        "id": "5f7VJjfbwm532GiveGC0ZK",
-        "name": "Lil Baby",
-        "type": "artist",
-        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/44gRhRi2OhEf7moAUj6MD1",
-    "is_local": false,
-    "name": "The Bigger Picture",
-    "preview_url": "https://p.scdn.co/mp3-preview/5d1b08d40ecd1e80663778aef7d793d7765b76f8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-          },
-          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
-          "id": "13y7CgLHjMVRMDqxdx0Xdo",
-          "name": "Gucci Mane",
-          "type": "artist",
-          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6WS2PorPYrQPnchstzrMKJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273dd7fd47f461eae85d2acaf5c",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02dd7fd47f461eae85d2acaf5c",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851dd7fd47f461eae85d2acaf5c",
-          "width": 64
-        }
-      ],
-      "name": "BiPolar (feat. Quavo)",
-      "release_date": "2018-11-30",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:6WS2PorPYrQPnchstzrMKJ"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
-        "id": "13y7CgLHjMVRMDqxdx0Xdo",
-        "name": "Gucci Mane",
-        "type": "artist",
-        "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
       },
       {
         "external_urls": {
@@ -604,12 +584,166 @@
         "name": "Quavo",
         "type": "artist",
         "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "name": "Offset",
+        "type": "artist",
+        "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/4fGT0JiaqoHShrg6uSsKfB",
+    "href": "https://api.spotify.com/v1/tracks/7LGWmZaoS7jZJ5tEi9EcDi",
     "is_local": false,
-    "name": "BiPolar (feat. Quavo)",
-    "preview_url": "https://p.scdn.co/mp3-preview/8347611a211c23351bd4ab9439381a4b456efb99?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+    "name": "HAD ENOUGH (feat. Quavo & Offset)",
+    "preview_url": "https://p.scdn.co/mp3-preview/4482742c2c6cc7968066d7476d8a4ff448b222b4?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/48xpWR8K6CGpy3ETAym3pt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d13c075133108ccf9f73731",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022d13c075133108ccf9f73731",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512d13c075133108ccf9f73731",
+          "width": 64
+        }
+      ],
+      "name": "Pluto x Baby Pluto",
+      "release_date": "2020-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:48xpWR8K6CGpy3ETAym3pt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "type": "artist",
+        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0k7wmahjkn389wAZdz19Cv",
+    "is_local": false,
+    "name": "Drankin N Smokin",
+    "preview_url": "https://p.scdn.co/mp3-preview/7523220801d59818d9d0961ef2f3301b466385ff?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6o38CdD7CUlZDCFhjZYLDH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e27dfef438562f2ecb98a642",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e27dfef438562f2ecb98a642",
+          "width": 64
+        }
+      ],
+      "name": "It's Almost Dry",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+        "id": "0ONHkAv9pCAFxb0zJwDNTy",
+        "name": "Pusha T",
+        "type": "artist",
+        "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3Wx98ijEDnsxyMYePCuFNI",
+    "is_local": false,
+    "name": "Dreamin Of The Past (feat. Kanye West)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c4e0449680eb937483478804bf60dbb00ac7f458?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
   }
 ]
