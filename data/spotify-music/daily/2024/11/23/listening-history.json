@@ -1,0 +1,1285 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ynyQdPQiXdYJNQEDL1S3d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f46a9ad551acbdab8f72fd89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f46a9ad551acbdab8f72fd89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f46a9ad551acbdab8f72fd89",
+          "width": 64
+        }
+      ],
+      "name": "My Turn",
+      "release_date": "2020-02-28",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:1ynyQdPQiXdYJNQEDL1S3d"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+        "id": "45gHcnDnMC15sgx3VL7ROG",
+        "name": "42 Dugg",
+        "type": "artist",
+        "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/01JMnRUs2YOK6DDpdQASGY",
+    "is_local": false,
+    "name": "Grace (feat. 42 Dugg)",
+    "preview_url": "https://p.scdn.co/mp3-preview/f168c5e85902ebbd9df78d28cbd4485114b6d9d9?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG",
+          "name": "Migos",
+          "type": "artist",
+          "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4JTOxuvM2jcSqAvEZtZsOO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026275aeac316378b0dd4f31fd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516275aeac316378b0dd4f31fd",
+          "width": 64
+        }
+      ],
+      "name": "Culture",
+      "release_date": "2017-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4JTOxuvM2jcSqAvEZtZsOO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+        "id": "6oMuImdp5ZcFhWP0ESe6mG",
+        "name": "Migos",
+        "type": "artist",
+        "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5Q6DJEgNTiN9xcOQzKmw9F",
+    "is_local": false,
+    "name": "Kelly Price (feat. Travis Scott)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c3400505f731c8bc15578ec2390e8ab219e95080?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/20r762YmB5HeofjMCiPMLv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f",
+          "width": 64
+        }
+      ],
+      "name": "My Beautiful Dark Twisted Fantasy",
+      "release_date": "2010-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:20r762YmB5HeofjMCiPMLv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id": "2yQf6b8hxahZaT5dHlWaB1",
+        "name": "Raekwon",
+        "type": "artist",
+        "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/23SZWX2IaDnxmhFsSLvkG2",
+    "is_local": false,
+    "name": "Gorgeous",
+    "preview_url": "https://p.scdn.co/mp3-preview/60874f83016bc0c3cf4f71957c14c0cc8e711fc5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MATDdrpHmQCmuOcozZjDa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029feadc48ab0661e9b3a9170b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519feadc48ab0661e9b3a9170b",
+          "width": 64
+        }
+      ],
+      "name": "TESTING",
+      "release_date": "2018-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:3MATDdrpHmQCmuOcozZjDa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "type": "artist",
+        "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+        "id": "3OsRAKCvk37zwYcnzRf5XF",
+        "name": "Moby",
+        "type": "artist",
+        "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+        "id": "4OBJLual30L7gRl5UkeRcT",
+        "name": "T.I.",
+        "type": "artist",
+        "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3oHkMCVJyOcjg5FhfLc2Rq",
+    "is_local": false,
+    "name": "A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)",
+    "preview_url": "https://p.scdn.co/mp3-preview/9ab7a27fa0c1b8a91e578bf987fa124018d93f2e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "type": "artist",
+          "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0jk3nAmtiIfwLU4CvDDMaS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336f15d38804d5bdd29b9fc7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236f15d38804d5bdd29b9fc7a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136f15d38804d5bdd29b9fc7a",
+          "width": 64
+        }
+      ],
+      "name": "Good Intentions",
+      "release_date": "2020-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:0jk3nAmtiIfwLU4CvDDMaS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3p6aRY0ePa28UM85z9X8iS",
+    "is_local": false,
+    "name": "Good Intentions (Intro)",
+    "preview_url": "https://p.scdn.co/mp3-preview/94d89232f7302b80dc1388eb985f950a66dce397?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aiFCgyKNwF9Rv5TOxnE8E",
+          "id": "6aiFCgyKNwF9Rv5TOxnE8E",
+          "name": "IDK",
+          "type": "artist",
+          "uri": "spotify:artist:6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6QfICnbrJhdEwyM4Hd0n3R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ff916ae0e9813c565648042",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020ff916ae0e9813c565648042",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510ff916ae0e9813c565648042",
+          "width": 64
+        }
+      ],
+      "name": "BRAVADO + INTiMO",
+      "release_date": "2024-10-31",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6QfICnbrJhdEwyM4Hd0n3R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        "href": "https://api.spotify.com/v1/artists/6aiFCgyKNwF9Rv5TOxnE8E",
+        "id": "6aiFCgyKNwF9Rv5TOxnE8E",
+        "name": "IDK",
+        "type": "artist",
+        "uri": "spotify:artist:6aiFCgyKNwF9Rv5TOxnE8E"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1GN1fHJoZFAIIYJFGB0z3R",
+    "is_local": false,
+    "name": "TiFFANY (B)",
+    "preview_url": "https://p.scdn.co/mp3-preview/163d233e5e4e37a9d56845459beaefc07d6ceb35?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4otkd9As6YaxxEkIjXPiZ6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+          "width": 64
+        }
+      ],
+      "name": "Music To Be Murdered By",
+      "release_date": "2020-01-17",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:4otkd9As6YaxxEkIjXPiZ6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "name": "Eminem",
+        "type": "artist",
+        "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "type": "artist",
+        "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7FIWs0pqAYbP91WWM0vlTQ",
+    "is_local": false,
+    "name": "Godzilla (feat. Juice WRLD)",
+    "preview_url": "https://p.scdn.co/mp3-preview/b596cf19faa28707b68baf8fbb79c184a0b0e039?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7yf9ZJyHRbp8sHtpDKfPpt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cab41f8c84d6164976400d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cab41f8c84d6164976400d4",
+          "width": 64
+        }
+      ],
+      "name": "Harder Than Ever",
+      "release_date": "2018-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "name": "Offset",
+        "type": "artist",
+        "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/44MFUuNGtBuB00LjDUnHE0",
+    "is_local": false,
+    "name": "Transporter",
+    "preview_url": "https://p.scdn.co/mp3-preview/c3e35c06c671112dae5ed59e12f17af6d9ca74f8?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4iF44RCCybJtkBkMoqrLW2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027cb0c4f7761f6dd66aaca065",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517cb0c4f7761f6dd66aaca065",
+          "width": 64
+        }
+      ],
+      "name": "Street Gossip",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4iF44RCCybJtkBkMoqrLW2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+        "id": "20sxb77xiYeusSH8cVdatc",
+        "name": "Meek Mill",
+        "type": "artist",
+        "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1Szfm2XAx3Kgl55dyl8sTU",
+    "is_local": false,
+    "name": "Time (feat. Meek Mill)",
+    "preview_url": "https://p.scdn.co/mp3-preview/1d66256653dd2d3116b78a6309ed45aa8aecef7f?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dqpveMVcWgbzqYrOdkFTD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c1e02d4becb7c5bbca01e2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029c1e02d4becb7c5bbca01e2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+          "width": 64
+        }
+      ],
+      "name": "Care Package",
+      "release_date": "2019-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7dqpveMVcWgbzqYrOdkFTD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0Tacxc5lDJ8LwiO1pWNSl8",
+    "is_local": false,
+    "name": "The Motion",
+    "preview_url": "https://p.scdn.co/mp3-preview/27154dbec23c39dc052d07b7d61c2fe31009405c?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0jipZxGtkTDHjVerLkzO80",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730fbb5046ac2211a4aab5ecfa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020fbb5046ac2211a4aab5ecfa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510fbb5046ac2211a4aab5ecfa",
+          "width": 64
+        }
+      ],
+      "name": "Teflon Don",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0jipZxGtkTDHjVerLkzO80"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+        "id": "1sBkRIssrMs1AbVkOJbc7a",
+        "name": "Rick Ross",
+        "type": "artist",
+        "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        },
+        "href": "https://api.spotify.com/v1/artists/3YJMzGjAm245zwJooY7PEj",
+        "id": "3YJMzGjAm245zwJooY7PEj",
+        "name": "Chrisette Michele",
+        "type": "artist",
+        "uri": "spotify:artist:3YJMzGjAm245zwJooY7PEj"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5W7xC99N2Zzfh69r7I7zWK",
+    "is_local": false,
+    "name": "Aston Martin Music",
+    "preview_url": "https://p.scdn.co/mp3-preview/76916e04a193832d592d0d9b1899dac07e9e1438?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2J0JN7EFN10G1Tty6hX0AN",
+          "id": "2J0JN7EFN10G1Tty6hX0AN",
+          "name": "DJ ESCO",
+          "type": "artist",
+          "uri": "spotify:artist:2J0JN7EFN10G1Tty6hX0AN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4i1ukevFHCZqPSRsXKyYgl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d05798eaa043362f2d205ebb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d05798eaa043362f2d205ebb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d05798eaa043362f2d205ebb",
+          "width": 64
+        }
+      ],
+      "name": "KOLORBLIND",
+      "release_date": "2018-04-09",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4i1ukevFHCZqPSRsXKyYgl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2J0JN7EFN10G1Tty6hX0AN",
+        "id": "2J0JN7EFN10G1Tty6hX0AN",
+        "name": "DJ ESCO",
+        "type": "artist",
+        "uri": "spotify:artist:2J0JN7EFN10G1Tty6hX0AN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5SGYanjZguKYg5PgVzFsvR",
+    "is_local": false,
+    "name": "Chek (feat. Future)",
+    "preview_url": "https://p.scdn.co/mp3-preview/a317e40228447aa1e38e99dc2ee4ae2b13302aa5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "type": "artist",
+          "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/29NWnawJBetVB3lOM9Sbp6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027da6f8edfd0404b5c52de3eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517da6f8edfd0404b5c52de3eb",
+          "width": 64
+        }
+      ],
+      "name": "Demons Protected By Angels",
+      "release_date": "2022-09-09",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/417YLEvDX9igfVVam9Q9r2",
+    "is_local": false,
+    "name": "Last of the Mohicans",
+    "preview_url": "https://p.scdn.co/mp3-preview/a30ec1aa23351fb5e269dac181a850c172792adb?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+          "id": "6Xgp2XMz1fhVYe7i6yNAax",
+          "name": "Trippie Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4bJCgEvJNMhIxmufeJlFB9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27373ec3245b8b61eb223f8994c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0273ec3245b8b61eb223f8994c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485173ec3245b8b61eb223f8994c",
+          "width": 64
+        }
+      ],
+      "name": "A Love Letter To You",
+      "release_date": "2017-05-14",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4bJCgEvJNMhIxmufeJlFB9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+        "id": "6Xgp2XMz1fhVYe7i6yNAax",
+        "name": "Trippie Redd",
+        "type": "artist",
+        "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gZfnEnfiaHzxARJ2LeXrf",
+        "id": "7gZfnEnfiaHzxARJ2LeXrf",
+        "name": "6ix9ine",
+        "type": "artist",
+        "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7o1RFIJYqa7tsbZ79LRR3n",
+    "is_local": false,
+    "name": "Poles 1469",
+    "preview_url": "https://p.scdn.co/mp3-preview/006ba38549f9b26a1c8afd2559d359e8d183411a?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          },
+          "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "type": "artist",
+          "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0O1PJ0t69iTO5yWrIeIga0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0274d72ebd51dd5781d5f83ffd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485174d72ebd51dd5781d5f83ffd",
+          "width": 64
+        }
+      ],
+      "name": "Baby On Baby",
+      "release_date": "2019-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0O1PJ0t69iTO5yWrIeIga0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        "href": "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+        "id": "4r63FhuTkUYltbVAg5TQnk",
+        "name": "DaBaby",
+        "type": "artist",
+        "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3WyRgi8CzQnhzO0xw79tTS",
+    "is_local": false,
+    "name": "Goin Baby",
+    "preview_url": "https://p.scdn.co/mp3-preview/d7a757f1c195cacfa4ff6390449eed2adf4d0aa3?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+          "id": "6Xgp2XMz1fhVYe7i6yNAax",
+          "name": "Trippie Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5nDqjtvRwDYElIflvoNDdE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273338fabbb1729a74d655a6a85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02338fabbb1729a74d655a6a85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851338fabbb1729a74d655a6a85",
+          "width": 64
+        }
+      ],
+      "name": "A Love Letter To You 4",
+      "release_date": "2019-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:5nDqjtvRwDYElIflvoNDdE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+        "id": "6Xgp2XMz1fhVYe7i6yNAax",
+        "name": "Trippie Redd",
+        "type": "artist",
+        "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+        "id": "2jku7tDXc6XoB6MO2hFuqg",
+        "name": "Tory Lanez",
+        "type": "artist",
+        "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1K7dS2Rfr9kk61ja6Y172Q",
+    "is_local": false,
+    "name": "Sickening (feat. Tory Lanez)",
+    "preview_url": "https://p.scdn.co/mp3-preview/5cab3be7b2de65c96684c593e89660f0b7bf8563?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+          "id": "5SXuuuRpukkTvsLuUknva1",
+          "name": "Baby Keem",
+          "type": "artist",
+          "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7n23fjZTviIUnHyvZGQjni",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733bcf586e8df6f8ef4a36ca3c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023bcf586e8df6f8ef4a36ca3c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513bcf586e8df6f8ef4a36ca3c",
+          "width": 64
+        }
+      ],
+      "name": "The Melodic Blue",
+      "release_date": "2021-09-22",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:7n23fjZTviIUnHyvZGQjni"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+        "id": "5SXuuuRpukkTvsLuUknva1",
+        "name": "Baby Keem",
+        "type": "artist",
+        "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3diZz7nVRbyuvAXSW7hzI7",
+    "is_local": false,
+    "name": "hooligan",
+    "preview_url": "https://p.scdn.co/mp3-preview/0f85119d9ba2537e25198a5fab92e9db19a3f5b0?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+          "id": "3hcs9uc56yIGFCSy9leWe7",
+          "name": "Lil Durk",
+          "type": "artist",
+          "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6CvBb1XqN0igtQrWrbXD80",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739fa79040de02a72663f24323",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029fa79040de02a72663f24323",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519fa79040de02a72663f24323",
+          "width": 64
+        }
+      ],
+      "name": "The Voice of the Heroes",
+      "release_date": "2021-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6CvBb1XqN0igtQrWrbXD80"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "type": "artist",
+        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+        "id": "3hcs9uc56yIGFCSy9leWe7",
+        "name": "Lil Durk",
+        "type": "artist",
+        "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4lUmnwRybYH7mMzf16xB0y",
+    "is_local": false,
+    "name": "Hats Off (feat. Travis Scott)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c85b17c13f6c489034b02f58f52e30e8d6cfd30e?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/50yFYgKdwJANZ5O9MIbMkg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bb1138165ad4ec2306f4e886",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bb1138165ad4ec2306f4e886",
+          "width": 64
+        }
+      ],
+      "name": "Tha Carter V",
+      "release_date": "2018-09-28",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:50yFYgKdwJANZ5O9MIbMkg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "type": "artist",
+        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0CBQ0m3mufWH75LTYB3s6h",
+    "is_local": false,
+    "name": "Let It Fly (feat. Travis Scott)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8084367515909d760ae727ea7e34219f672b1ff5?cid=2445d5e404df49beb6c25f9c2f5b7fb9"
+  }
+]
