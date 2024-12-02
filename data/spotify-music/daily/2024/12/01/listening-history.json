@@ -4,6 +4,177 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TsiwVwHhLgVK8sxBchINM",
+    "is_local": false,
+    "name": "Tishomingo",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1CmTOKCeyz1aHH04OwvTPv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2b6670e3aca9bcd55fbabbb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b2b6670e3aca9bcd55fbabbb",
+          "width": 64
+        }
+      ],
+      "name": "Something in the Orange",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:1CmTOKCeyz1aHH04OwvTPv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3WMj8moIAXJhHsyLaqIIHI",
+    "is_local": false,
+    "name": "Something in the Orange",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5k7tvONUJjP2aTxI6BBCo0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dac2ba86a09b9b79b6de0b6c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dac2ba86a09b9b79b6de0b6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dac2ba86a09b9b79b6de0b6c",
+          "width": 64
+        }
+      ],
+      "name": "Summertime Blues",
+      "release_date": "2022-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5k7tvONUJjP2aTxI6BBCo0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0qoSVsQJOTINFkkux2lbJj",
+    "is_local": false,
+    "name": "Summertime Blues",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
           },
           "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
@@ -11,42 +182,32 @@
           "name": "Future",
           "type": "artist",
           "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-          },
-          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
-          "id": "4O15NlyKLIASxsJ0PrXPfz",
-          "name": "Lil Uzi Vert",
-          "type": "artist",
-          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/48xpWR8K6CGpy3ETAym3pt",
+      "href": "https://api.spotify.com/v1/albums/6tE9Dnp2zInFij4jKssysL",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732d13c075133108ccf9f73731",
+          "url": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022d13c075133108ccf9f73731",
+          "url": "https://i.scdn.co/image/ab67616d00001e0286badd635b69aea887862214",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512d13c075133108ccf9f73731",
+          "url": "https://i.scdn.co/image/ab67616d0000485186badd635b69aea887862214",
           "width": 64
         }
       ],
-      "name": "Pluto x Baby Pluto",
-      "release_date": "2020-11-13",
+      "name": "I NEVER LIKED YOU",
+      "release_date": "2022-04-29",
       "release_date_precision": "day",
       "total_tracks": 16,
       "type": "album",
-      "uri": "spotify:album:48xpWR8K6CGpy3ETAym3pt"
+      "uri": "spotify:album:6tE9Dnp2zInFij4jKssysL"
     },
     "artists": [
       {
@@ -58,22 +219,12 @@
         "name": "Future",
         "type": "artist",
         "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
-        "id": "4O15NlyKLIASxsJ0PrXPfz",
-        "name": "Lil Uzi Vert",
-        "type": "artist",
-        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/6lt8iodSkYWEV0ifKCSlfg",
+    "href": "https://api.spotify.com/v1/tracks/1qMMYpVatbRITKCfq1gasi",
     "is_local": false,
-    "name": "Stripes Like Burberry",
+    "name": "PUFFIN ON ZOOTIEZ",
     "preview_url": null
   },
   {
@@ -81,66 +232,66 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
           },
-          "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
-          "id": "2rhFzFmezpnW82MNqEKVry",
-          "name": "Ski Mask The Slump God",
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
           "type": "artist",
-          "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/0z0z4DcXhHiobX5ZKAw8Qn",
+      "href": "https://api.spotify.com/v1/albums/67Em0g7VkNZGzICh4SZQdY",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01",
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef69f2cf1038634bd541509",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02e62c8561e3b1bd9ad952ce01",
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef69f2cf1038634bd541509",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851e62c8561e3b1bd9ad952ce01",
+          "url": "https://i.scdn.co/image/ab67616d000048519ef69f2cf1038634bd541509",
           "width": 64
         }
       ],
-      "name": "STOKELEY",
-      "release_date": "2018-11-30",
+      "name": "A$AP Forever (feat. Moby)",
+      "release_date": "2018-04-05",
       "release_date_precision": "day",
-      "total_tracks": 13,
+      "total_tracks": 1,
       "type": "album",
-      "uri": "spotify:album:0z0z4DcXhHiobX5ZKAw8Qn"
+      "uri": "spotify:album:67Em0g7VkNZGzICh4SZQdY"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+          "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
-        "href": "https://api.spotify.com/v1/artists/2rhFzFmezpnW82MNqEKVry",
-        "id": "2rhFzFmezpnW82MNqEKVry",
-        "name": "Ski Mask The Slump God",
+        "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
         "type": "artist",
-        "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry"
+        "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
-        "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
-        "id": "4MCBfE4596Uoi2O4DtmEMz",
-        "name": "Juice WRLD",
+        "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+        "id": "3OsRAKCvk37zwYcnzRf5XF",
+        "name": "Moby",
         "type": "artist",
-        "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+        "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/74lnM5V6ecvoTPV0fvptx9",
+    "href": "https://api.spotify.com/v1/tracks/1YmF9PvLhIISIANoMLIYGq",
     "is_local": false,
-    "name": "Nuketown (feat. Juice WRLD)",
+    "name": "A$AP Forever (feat. Moby)",
     "preview_url": null
   },
   {
@@ -148,14 +299,71 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
           },
-          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
-          "id": "50co4Is1HCEo8bhOyUWKpn",
-          "name": "Young Thug",
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
           "type": "artist",
-          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+          "width": 640
         },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d",
+          "width": 64
+        }
+      ],
+      "name": "The Best In The World Pack",
+      "release_date": "2019-06-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:00HZxSA1sOS9T3nA950sg4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+        "id": "1sBkRIssrMs1AbVkOJbc7a",
+        "name": "Rick Ross",
+        "type": "artist",
+        "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5ry2OE6R2zPQFDO85XkgRb",
+    "is_local": false,
+    "name": "Money In The Grave (Drake ft. Rick Ross)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
@@ -165,64 +373,34 @@
           "name": "Gunna",
           "type": "artist",
           "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-          },
-          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
-          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-          "name": "Travis Scott",
-          "type": "artist",
-          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/7hXWMVDn9SVV7zNYiQGvWO",
+      "href": "https://api.spotify.com/v1/albums/7g0PJ7VbsOkYTECUFkyNPN",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732a00ed4fab80272044d13356",
+          "url": "https://i.scdn.co/image/ab67616d0000b273c67636f3021f5869095c0fc5",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022a00ed4fab80272044d13356",
+          "url": "https://i.scdn.co/image/ab67616d00001e02c67636f3021f5869095c0fc5",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512a00ed4fab80272044d13356",
+          "url": "https://i.scdn.co/image/ab67616d00004851c67636f3021f5869095c0fc5",
           "width": 64
         }
       ],
-      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-      "release_date": "2019-11-01",
+      "name": "One of Wun",
+      "release_date": "2024-05-10",
       "release_date_precision": "day",
-      "total_tracks": 1,
+      "total_tracks": 20,
       "type": "album",
-      "uri": "spotify:album:7hXWMVDn9SVV7zNYiQGvWO"
+      "uri": "spotify:album:7g0PJ7VbsOkYTECUFkyNPN"
     },
     "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
-        "id": "50co4Is1HCEo8bhOyUWKpn",
-        "name": "Young Thug",
-        "type": "artist",
-        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
-        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-        "name": "Travis Scott",
-        "type": "artist",
-        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
-      },
       {
         "external_urls": {
           "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
@@ -235,9 +413,9 @@
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/56AMYGJzxBO6p8v0wEe9de",
+    "href": "https://api.spotify.com/v1/tracks/4Na2HfNSr58chvfX69fy36",
     "is_local": false,
-    "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
+    "name": "one of wun",
     "preview_url": null
   },
   {
@@ -245,51 +423,155 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+            "spotify": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
           },
-          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
-          "id": "5f7VJjfbwm532GiveGC0ZK",
-          "name": "Lil Baby",
+          "href": "https://api.spotify.com/v1/artists/3yvCFkK57FXH7JIwZQ5CmU",
+          "id": "3yvCFkK57FXH7JIwZQ5CmU",
+          "name": "Baka Not Nice",
           "type": "artist",
-          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+          "uri": "spotify:artist:3yvCFkK57FXH7JIwZQ5CmU"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/7yf9ZJyHRbp8sHtpDKfPpt",
+      "href": "https://api.spotify.com/v1/albums/28vYZP2mGD54CUoY0lPUr2",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4115e4e4e0032c551da3b47",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026cab41f8c84d6164976400d4",
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4115e4e4e0032c551da3b47",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516cab41f8c84d6164976400d4",
+          "url": "https://i.scdn.co/image/ab67616d00004851d4115e4e4e0032c551da3b47",
           "width": 64
         }
       ],
-      "name": "Harder Than Ever",
-      "release_date": "2018-05-18",
+      "name": "4Milli",
+      "release_date": "2018-08-03",
       "release_date_precision": "day",
-      "total_tracks": 17,
+      "total_tracks": 8,
       "type": "album",
-      "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt"
+      "uri": "spotify:album:28vYZP2mGD54CUoY0lPUr2"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "spotify": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
         },
-        "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
-        "id": "5f7VJjfbwm532GiveGC0ZK",
-        "name": "Lil Baby",
+        "href": "https://api.spotify.com/v1/artists/3yvCFkK57FXH7JIwZQ5CmU",
+        "id": "3yvCFkK57FXH7JIwZQ5CmU",
+        "name": "Baka Not Nice",
         "type": "artist",
-        "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
-      },
+        "uri": "spotify:artist:3yvCFkK57FXH7JIwZQ5CmU"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/79KZAInFkxA0XLukZCGzvh",
+    "is_local": false,
+    "name": "Live Up to My Name",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+          "id": "6Xgp2XMz1fhVYe7i6yNAax",
+          "name": "Trippie Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2trqp8gTJ1MMmY9HoKqO2y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273da0e5478a5892a16818a13b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02da0e5478a5892a16818a13b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851da0e5478a5892a16818a13b5",
+          "width": 64
+        }
+      ],
+      "name": "!",
+      "release_date": "2019-08-09",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:2trqp8gTJ1MMmY9HoKqO2y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+        "id": "6Xgp2XMz1fhVYe7i6yNAax",
+        "name": "Trippie Redd",
+        "type": "artist",
+        "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6JATJXM3NhEpgvnGJKLQLo",
+    "is_local": false,
+    "name": "Under Enemy Arms",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/02uWB8Kekadkl3yGBoOOcx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214d91ebdd6d7e2931322cc1a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114d91ebdd6d7e2931322cc1a",
+          "width": 64
+        }
+      ],
+      "name": "DS4EVER",
+      "release_date": "2022-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx"
+    },
+    "artists": [
       {
         "external_urls": {
           "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
@@ -302,96 +584,19 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
-        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
-        "id": "4O15NlyKLIASxsJ0PrXPfz",
-        "name": "Lil Uzi Vert",
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
         "type": "artist",
-        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2bSk87AVkCIIC3Bcligq1z",
+    "href": "https://api.spotify.com/v1/tracks/0lEjxUUlKqjqXrVlIHFduD",
     "is_local": false,
-    "name": "Life Goes On",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-          },
-          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
-          "id": "4E0HD2PMY8kQJIjlShrLUS",
-          "name": "PAWSA",
-          "type": "artist",
-          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-          },
-          "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
-          "id": "7HOmuShc6sajk74rYV7zR2",
-          "name": "The Adventures Of Stevie V",
-          "type": "artist",
-          "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/2d9NxyCSygtJcvsAmBtXOj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273388a49c048fd9f67e338c3c6",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
-          "width": 64
-        }
-      ],
-      "name": "Dirty Cash (Money Talks)",
-      "release_date": "2024-11-15",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:2d9NxyCSygtJcvsAmBtXOj"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
-        "id": "4E0HD2PMY8kQJIjlShrLUS",
-        "name": "PAWSA",
-        "type": "artist",
-        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        },
-        "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
-        "id": "7HOmuShc6sajk74rYV7zR2",
-        "name": "The Adventures Of Stevie V",
-        "type": "artist",
-        "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/2VyvDGdcVY04cNYou9MFVX",
-    "is_local": false,
-    "name": "Dirty Cash (Money Talks)",
+    "name": "P power (feat. Drake)",
     "preview_url": null
   },
   {
@@ -449,6 +654,361 @@
     "href": "https://api.spotify.com/v1/tracks/6KqM3xmPIDonsTjCSGrrr5",
     "is_local": false,
     "name": "TOO COOL TO BE CARELESS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/17zk2lz0xesn8Y4YncohZa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ae2ed5bc30ffd941d29d4ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ae2ed5bc30ffd941d29d4ac",
+          "width": 64
+        }
+      ],
+      "name": "TOO COOL TO BE CARELESS",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:17zk2lz0xesn8Y4YncohZa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KqM3xmPIDonsTjCSGrrr5",
+    "is_local": false,
+    "name": "TOO COOL TO BE CARELESS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          },
+          "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+          "id": "07XSN3sPlIlB2L2XNcTwJw",
+          "name": "KISS",
+          "type": "artist",
+          "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1YCC4oZXg2zGn7pVSKVlGF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27365a7b0a6969f0efcde4b5aca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0265a7b0a6969f0efcde4b5aca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485165a7b0a6969f0efcde4b5aca",
+          "width": 64
+        }
+      ],
+      "name": "Dressed To Kill",
+      "release_date": "1975-03-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1YCC4oZXg2zGn7pVSKVlGF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        "href": "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+        "id": "07XSN3sPlIlB2L2XNcTwJw",
+        "name": "KISS",
+        "type": "artist",
+        "uri": "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
+    "is_local": false,
+    "name": "Rock And Roll All Nite",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          },
+          "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+          "id": "46SHBwWsqBkxI7EeeBEQG7",
+          "name": "Kodak Black",
+          "type": "artist",
+          "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0D2kFxAO1YPAuxAtP23g0p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738e3046e13f253a208519b21a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028e3046e13f253a208519b21a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518e3046e13f253a208519b21a",
+          "width": 64
+        }
+      ],
+      "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+      "release_date": "2017-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:0D2kFxAO1YPAuxAtP23g0p"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+        "id": "46SHBwWsqBkxI7EeeBEQG7",
+        "name": "Kodak Black",
+        "type": "artist",
+        "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "name": "Offset",
+        "type": "artist",
+        "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1VZB4OFyN1e1a6SzRTWpPJ",
+    "is_local": false,
+    "name": "Built My Legacy (feat. Offset)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/49K82qcZN4u109e6Zw8io1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27334bf16d92ae11f8d3eadf295",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0234bf16d92ae11f8d3eadf295",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485134bf16d92ae11f8d3eadf295",
+          "width": 64
+        }
+      ],
+      "name": "Sanguine Paradise",
+      "release_date": "2019-04-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:49K82qcZN4u109e6Zw8io1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "type": "artist",
+        "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3XiNC94b4Tq1xwv70sQJGN",
+    "is_local": false,
+    "name": "Sanguine Paradise",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+          "id": "2loEsOijJ6XiGzWYFXMIRk",
+          "name": "Adam Port",
+          "type": "artist",
+          "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XjgqvaVLUib6lCerbZrYD",
+          "id": "6XjgqvaVLUib6lCerbZrYD",
+          "name": "Stryv",
+          "type": "artist",
+          "uri": "spotify:artist:6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          },
+          "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+          "id": "26WKgv73kRHD0gEDKD1i8j",
+          "name": "Keinemusik",
+          "type": "artist",
+          "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4M8ThNHbNjda2cPwL8XZHS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a959d221820e650bee1ca487",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a959d221820e650bee1ca487",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a959d221820e650bee1ca487",
+          "width": 64
+        }
+      ],
+      "name": "Move",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4M8ThNHbNjda2cPwL8XZHS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XjgqvaVLUib6lCerbZrYD",
+        "id": "6XjgqvaVLUib6lCerbZrYD",
+        "name": "Stryv",
+        "type": "artist",
+        "uri": "spotify:artist:6XjgqvaVLUib6lCerbZrYD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2yyaNPcdxZcn4iutCcLMaC",
+        "id": "2yyaNPcdxZcn4iutCcLMaC",
+        "name": "Orso",
+        "type": "artist",
+        "uri": "spotify:artist:2yyaNPcdxZcn4iutCcLMaC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        },
+        "href": "https://api.spotify.com/v1/artists/37lTKHi901VnwngQ7C8noT",
+        "id": "37lTKHi901VnwngQ7C8noT",
+        "name": "Malachiii",
+        "type": "artist",
+        "uri": "spotify:artist:37lTKHi901VnwngQ7C8noT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1BJJbSX6muJVF2AK7uH1x4",
+    "is_local": false,
+    "name": "Move",
     "preview_url": null
   },
   {
@@ -663,6 +1223,140 @@
     "href": "https://api.spotify.com/v1/tracks/2GwsSbo6IbNDVvcm9rtmal",
     "is_local": false,
     "name": "Say What",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+          "id": "7HOmuShc6sajk74rYV7zR2",
+          "name": "The Adventures Of Stevie V",
+          "type": "artist",
+          "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2d9NxyCSygtJcvsAmBtXOj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273388a49c048fd9f67e338c3c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
+          "width": 64
+        }
+      ],
+      "name": "Dirty Cash (Money Talks)",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2d9NxyCSygtJcvsAmBtXOj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+        "id": "7HOmuShc6sajk74rYV7zR2",
+        "name": "The Adventures Of Stevie V",
+        "type": "artist",
+        "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2VyvDGdcVY04cNYou9MFVX",
+    "is_local": false,
+    "name": "Dirty Cash (Money Talks)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/17zk2lz0xesn8Y4YncohZa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ae2ed5bc30ffd941d29d4ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ae2ed5bc30ffd941d29d4ac",
+          "width": 64
+        }
+      ],
+      "name": "TOO COOL TO BE CARELESS",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:17zk2lz0xesn8Y4YncohZa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KqM3xmPIDonsTjCSGrrr5",
+    "is_local": false,
+    "name": "TOO COOL TO BE CARELESS",
     "preview_url": null
   }
 ]
