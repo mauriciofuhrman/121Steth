@@ -4,6 +4,793 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7urnl0uH1w3NCoErxw7AUK",
+          "id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "Supermode",
+          "type": "artist",
+          "uri": "spotify:artist:7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5344K3N7rx7kw1HjO8psuq",
+          "id": "5344K3N7rx7kw1HjO8psuq",
+          "name": "James Carter",
+          "type": "artist",
+          "uri": "spotify:artist:5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1TUiyMi8aRZvTqzNTCUSxx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737545cc0114439f58cf947233",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027545cc0114439f58cf947233",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517545cc0114439f58cf947233",
+          "width": 64
+        }
+      ],
+      "name": "Tell Me Why (James Carter Remix)",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1TUiyMi8aRZvTqzNTCUSxx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        "href": "https://api.spotify.com/v1/artists/7urnl0uH1w3NCoErxw7AUK",
+        "id": "7urnl0uH1w3NCoErxw7AUK",
+        "name": "Supermode",
+        "type": "artist",
+        "uri": "spotify:artist:7urnl0uH1w3NCoErxw7AUK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        "href": "https://api.spotify.com/v1/artists/5344K3N7rx7kw1HjO8psuq",
+        "id": "5344K3N7rx7kw1HjO8psuq",
+        "name": "James Carter",
+        "type": "artist",
+        "uri": "spotify:artist:5344K3N7rx7kw1HjO8psuq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2nNhJdmG0qEI096xXuC0kr",
+    "is_local": false,
+    "name": "Tell Me Why - James Carter Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71oIj7nqfDmjE0bQIaQDP1"
+          },
+          "href": "https://api.spotify.com/v1/artists/71oIj7nqfDmjE0bQIaQDP1",
+          "id": "71oIj7nqfDmjE0bQIaQDP1",
+          "name": "EMOTIONAL",
+          "type": "artist",
+          "uri": "spotify:artist:71oIj7nqfDmjE0bQIaQDP1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6kgNaQh0gCk9eUw65ttsgm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9ea3efc2557c2095e2f039e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9ea3efc2557c2095e2f039e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9ea3efc2557c2095e2f039e",
+          "width": 64
+        }
+      ],
+      "name": "Be With You",
+      "release_date": "2024-03-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6kgNaQh0gCk9eUw65ttsgm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71oIj7nqfDmjE0bQIaQDP1"
+        },
+        "href": "https://api.spotify.com/v1/artists/71oIj7nqfDmjE0bQIaQDP1",
+        "id": "71oIj7nqfDmjE0bQIaQDP1",
+        "name": "EMOTIONAL",
+        "type": "artist",
+        "uri": "spotify:artist:71oIj7nqfDmjE0bQIaQDP1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1X1gQuvMH7RP2Xkbdt7SES",
+    "is_local": false,
+    "name": "Be With You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          },
+          "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "type": "artist",
+          "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2p44KTPcAqLaI7zTI2K70R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376d072a590e154ca76e1df26",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276d072a590e154ca76e1df26",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176d072a590e154ca76e1df26",
+          "width": 64
+        }
+      ],
+      "name": "Houdini (Remixes)",
+      "release_date": "2023-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:2p44KTPcAqLaI7zTI2K70R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5vVND8Mey78LZaljL8Nmpd",
+    "is_local": false,
+    "name": "Houdini - Adam Port Mix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          },
+          "href": "https://api.spotify.com/v1/artists/27WVFBOddxovimxMmBN4fb",
+          "id": "27WVFBOddxovimxMmBN4fb",
+          "name": "Naomi Sharon",
+          "type": "artist",
+          "uri": "spotify:artist:27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/59Kzou8grlp6UqVVL1HoT4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735732ec3bd9ca547191d0df60",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025732ec3bd9ca547191d0df60",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515732ec3bd9ca547191d0df60",
+          "width": 64
+        }
+      ],
+      "name": "Another Life (Remixes)",
+      "release_date": "2023-08-24",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:59Kzou8grlp6UqVVL1HoT4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        "href": "https://api.spotify.com/v1/artists/27WVFBOddxovimxMmBN4fb",
+        "id": "27WVFBOddxovimxMmBN4fb",
+        "name": "Naomi Sharon",
+        "type": "artist",
+        "uri": "spotify:artist:27WVFBOddxovimxMmBN4fb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        "href": "https://api.spotify.com/v1/artists/7MmHXD2ESooP0XdgrVuKTK",
+        "id": "7MmHXD2ESooP0XdgrVuKTK",
+        "name": "Marten Lou",
+        "type": "artist",
+        "uri": "spotify:artist:7MmHXD2ESooP0XdgrVuKTK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7IQDLhMpgQ23GIHh550TT9",
+    "is_local": false,
+    "name": "Another Life - Marten Lou Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fs9otT9TtwXUOcFXZomZY",
+          "id": "0fs9otT9TtwXUOcFXZomZY",
+          "name": "Caiiro",
+          "type": "artist",
+          "uri": "spotify:artist:0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uOaNXrr4qGx9YXbo9HaUl",
+          "id": "5uOaNXrr4qGx9YXbo9HaUl",
+          "name": "AWEN",
+          "type": "artist",
+          "uri": "spotify:artist:5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+          "id": "2loEsOijJ6XiGzWYFXMIRk",
+          "name": "Adam Port",
+          "type": "artist",
+          "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7i97hHLFqXAVFIIsUGw2Da",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aad332680f96106effa6c4f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aad332680f96106effa6c4f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aad332680f96106effa6c4f7",
+          "width": 64
+        }
+      ],
+      "name": "Your Voice (Adam Port Remix)",
+      "release_date": "2022-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7i97hHLFqXAVFIIsUGw2Da"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fs9otT9TtwXUOcFXZomZY",
+        "id": "0fs9otT9TtwXUOcFXZomZY",
+        "name": "Caiiro",
+        "type": "artist",
+        "uri": "spotify:artist:0fs9otT9TtwXUOcFXZomZY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        "href": "https://api.spotify.com/v1/artists/5uOaNXrr4qGx9YXbo9HaUl",
+        "id": "5uOaNXrr4qGx9YXbo9HaUl",
+        "name": "AWEN",
+        "type": "artist",
+        "uri": "spotify:artist:5uOaNXrr4qGx9YXbo9HaUl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Rv6Lfdcny3Avjmpm4W4YM",
+    "is_local": false,
+    "name": "Your Voice - Adam Port Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5zvKbKHQcyZFvTYADnEkTQ",
+          "id": "5zvKbKHQcyZFvTYADnEkTQ",
+          "name": "RAFFA GUIDO",
+          "type": "artist",
+          "uri": "spotify:artist:5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0rVRPH9VaGAMVDVK3cLwkQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27334dd86e31e6ca80e9d2a2c63",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0234dd86e31e6ca80e9d2a2c63",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485134dd86e31e6ca80e9d2a2c63",
+          "width": 64
+        }
+      ],
+      "name": "Famax",
+      "release_date": "2024-02-23",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:0rVRPH9VaGAMVDVK3cLwkQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zvKbKHQcyZFvTYADnEkTQ",
+        "id": "5zvKbKHQcyZFvTYADnEkTQ",
+        "name": "RAFFA GUIDO",
+        "type": "artist",
+        "uri": "spotify:artist:5zvKbKHQcyZFvTYADnEkTQ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2xpeEb2moFy7dRinc7tUnz",
+    "is_local": false,
+    "name": "Famax",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6lbUCWVW3hgQgrJwB8wadJ",
+          "id": "6lbUCWVW3hgQgrJwB8wadJ",
+          "name": "Nitefreak",
+          "type": "artist",
+          "uri": "spotify:artist:6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yWskGGwMOlBGeIAVgfsgm",
+          "id": "2yWskGGwMOlBGeIAVgfsgm",
+          "name": "Emmanuel Jal",
+          "type": "artist",
+          "uri": "spotify:artist:2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31Dhd35ip9kwOzHZhzFzZ1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e96e7e61742cbb2ac3943e2d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e96e7e61742cbb2ac3943e2d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e96e7e61742cbb2ac3943e2d",
+          "width": 64
+        }
+      ],
+      "name": "Gorah",
+      "release_date": "2023-11-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:31Dhd35ip9kwOzHZhzFzZ1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6lbUCWVW3hgQgrJwB8wadJ",
+        "id": "6lbUCWVW3hgQgrJwB8wadJ",
+        "name": "Nitefreak",
+        "type": "artist",
+        "uri": "spotify:artist:6lbUCWVW3hgQgrJwB8wadJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2yWskGGwMOlBGeIAVgfsgm",
+        "id": "2yWskGGwMOlBGeIAVgfsgm",
+        "name": "Emmanuel Jal",
+        "type": "artist",
+        "uri": "spotify:artist:2yWskGGwMOlBGeIAVgfsgm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/49GpUfc9M09eGET6yBJUAj",
+    "is_local": false,
+    "name": "Gorah",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+          "id": "7HOmuShc6sajk74rYV7zR2",
+          "name": "The Adventures Of Stevie V",
+          "type": "artist",
+          "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2d9NxyCSygtJcvsAmBtXOj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273388a49c048fd9f67e338c3c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
+          "width": 64
+        }
+      ],
+      "name": "Dirty Cash (Money Talks)",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2d9NxyCSygtJcvsAmBtXOj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+        "id": "7HOmuShc6sajk74rYV7zR2",
+        "name": "The Adventures Of Stevie V",
+        "type": "artist",
+        "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2VyvDGdcVY04cNYou9MFVX",
+    "is_local": false,
+    "name": "Dirty Cash (Money Talks)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+          "id": "7HOmuShc6sajk74rYV7zR2",
+          "name": "The Adventures Of Stevie V",
+          "type": "artist",
+          "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2d9NxyCSygtJcvsAmBtXOj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273388a49c048fd9f67e338c3c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
+          "width": 64
+        }
+      ],
+      "name": "Dirty Cash (Money Talks)",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2d9NxyCSygtJcvsAmBtXOj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+        "id": "7HOmuShc6sajk74rYV7zR2",
+        "name": "The Adventures Of Stevie V",
+        "type": "artist",
+        "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2VyvDGdcVY04cNYou9MFVX",
+    "is_local": false,
+    "name": "Dirty Cash (Money Talks)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/17zk2lz0xesn8Y4YncohZa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ae2ed5bc30ffd941d29d4ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ae2ed5bc30ffd941d29d4ac",
+          "width": 64
+        }
+      ],
+      "name": "TOO COOL TO BE CARELESS",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:17zk2lz0xesn8Y4YncohZa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KqM3xmPIDonsTjCSGrrr5",
+    "is_local": false,
+    "name": "TOO COOL TO BE CARELESS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+          "id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&ME",
+          "type": "artist",
+          "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          },
+          "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+          "id": "26WKgv73kRHD0gEDKD1i8j",
+          "name": "Keinemusik",
+          "type": "artist",
+          "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2lHZPKz3zuSek7PXOYk7r2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c909f7cb7292d90447276fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c909f7cb7292d90447276fd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c909f7cb7292d90447276fd",
+          "width": 64
+        }
+      ],
+      "name": "L.I.F.E",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2lHZPKz3zuSek7PXOYk7r2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3BWFWF4G8XySY7b98HjS6K",
+    "is_local": false,
+    "name": "L.I.F.E",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
           },
           "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
