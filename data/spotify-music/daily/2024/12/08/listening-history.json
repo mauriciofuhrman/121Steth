@@ -1,0 +1,360 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+          },
+          "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+          "id": "2exkZbmNqMKnT8LRWuxWgy",
+          "name": "Moderat",
+          "type": "artist",
+          "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          },
+          "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+          "id": "08jywfUS0hp8XYlYs0cvz8",
+          "name": "Rampa",
+          "type": "artist",
+          "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+          "id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&ME",
+          "type": "artist",
+          "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4ml88dBgRFbbucUERI1BYC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0cc562977affaa7477aab6b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0cc562977affaa7477aab6b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e0cc562977affaa7477aab6b",
+          "width": 64
+        }
+      ],
+      "name": "More Love (Rampa &ME Remix)",
+      "release_date": "2023-10-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4ml88dBgRFbbucUERI1BYC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+        "id": "2exkZbmNqMKnT8LRWuxWgy",
+        "name": "Moderat",
+        "type": "artist",
+        "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+        "id": "08jywfUS0hp8XYlYs0cvz8",
+        "name": "Rampa",
+        "type": "artist",
+        "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/70ofkwt6aIb4bPQ51OQMQO",
+    "is_local": false,
+    "name": "More Love - Rampa &ME Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          },
+          "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+          "id": "08jywfUS0hp8XYlYs0cvz8",
+          "name": "Rampa",
+          "type": "artist",
+          "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+          "id": "2loEsOijJ6XiGzWYFXMIRk",
+          "name": "Adam Port",
+          "type": "artist",
+          "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+          "id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&ME",
+          "type": "artist",
+          "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/167jkZFZSlQYFyQbr8st27",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738e09b9e428468678d05cfb5f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028e09b9e428468678d05cfb5f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518e09b9e428468678d05cfb5f",
+          "width": 64
+        }
+      ],
+      "name": "Say What",
+      "release_date": "2024-10-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:167jkZFZSlQYFyQbr8st27"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+        "id": "08jywfUS0hp8XYlYs0cvz8",
+        "name": "Rampa",
+        "type": "artist",
+        "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5k2dso94XJEWZhPMmKFznI",
+        "id": "5k2dso94XJEWZhPMmKFznI",
+        "name": "chuala",
+        "type": "artist",
+        "uri": "spotify:artist:5k2dso94XJEWZhPMmKFznI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2GwsSbo6IbNDVvcm9rtmal",
+    "is_local": false,
+    "name": "Say What",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+          "id": "7dnB1wSxbYa8CejeVg98hz",
+          "name": "Meat Loaf",
+          "type": "artist",
+          "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mvI80w5r78niBmwtu7RF9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734111af27787499f6d8752e9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514111af27787499f6d8752e9f",
+          "width": 64
+        }
+      ],
+      "name": "Bat Out Of Hell",
+      "release_date": "1977-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6mvI80w5r78niBmwtu7RF9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+        "id": "7dnB1wSxbYa8CejeVg98hz",
+        "name": "Meat Loaf",
+        "type": "artist",
+        "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2g7gviEeJr6pyxO7G35EWQ",
+    "is_local": false,
+    "name": "Paradise By the Dashboard Light",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+          "id": "7HOmuShc6sajk74rYV7zR2",
+          "name": "The Adventures Of Stevie V",
+          "type": "artist",
+          "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2d9NxyCSygtJcvsAmBtXOj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273388a49c048fd9f67e338c3c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851388a49c048fd9f67e338c3c6",
+          "width": 64
+        }
+      ],
+      "name": "Dirty Cash (Money Talks)",
+      "release_date": "2024-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2d9NxyCSygtJcvsAmBtXOj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HOmuShc6sajk74rYV7zR2",
+        "id": "7HOmuShc6sajk74rYV7zR2",
+        "name": "The Adventures Of Stevie V",
+        "type": "artist",
+        "uri": "spotify:artist:7HOmuShc6sajk74rYV7zR2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2VyvDGdcVY04cNYou9MFVX",
+    "is_local": false,
+    "name": "Dirty Cash (Money Talks)",
+    "preview_url": null
+  }
+]
