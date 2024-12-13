@@ -1,0 +1,350 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+          "id": "2XnBwblw31dfGnspMIwgWz",
+          "name": "Axwell /\\ Ingrosso",
+          "type": "artist",
+          "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/29Spoit35xez115MTLfMB4",
+          "id": "29Spoit35xez115MTLfMB4",
+          "name": "Mont Rouge",
+          "type": "artist",
+          "uri": "spotify:artist:29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2xcHnccKBW1goMln303boT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5ec1e8f36e5d9112c3e4840",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5ec1e8f36e5d9112c3e4840",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5ec1e8f36e5d9112c3e4840",
+          "width": 64
+        }
+      ],
+      "name": "More Than You Know (Mont Rouge Remix)",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2xcHnccKBW1goMln303boT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+        "id": "2XnBwblw31dfGnspMIwgWz",
+        "name": "Axwell /\\ Ingrosso",
+        "type": "artist",
+        "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        "href": "https://api.spotify.com/v1/artists/29Spoit35xez115MTLfMB4",
+        "id": "29Spoit35xez115MTLfMB4",
+        "name": "Mont Rouge",
+        "type": "artist",
+        "uri": "spotify:artist:29Spoit35xez115MTLfMB4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2F8eiUxSGMbRYr62P27XI9",
+    "is_local": false,
+    "name": "More Than You Know - Mont Rouge Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          },
+          "href": "https://api.spotify.com/v1/artists/44qAhQu52dYKcHOFQd3esf",
+          "id": "44qAhQu52dYKcHOFQd3esf",
+          "name": "Francis Mercier",
+          "type": "artist",
+          "uri": "spotify:artist:44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/29Spoit35xez115MTLfMB4",
+          "id": "29Spoit35xez115MTLfMB4",
+          "name": "Mont Rouge",
+          "type": "artist",
+          "uri": "spotify:artist:29Spoit35xez115MTLfMB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NMq0jrmfJeEiJtjywE1Xl",
+          "id": "0NMq0jrmfJeEiJtjywE1Xl",
+          "name": "Coco",
+          "type": "artist",
+          "uri": "spotify:artist:0NMq0jrmfJeEiJtjywE1Xl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5uy4i6ebA5lKrsWvQ6J2Oy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3d3dcc8553861603e1ae114",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3d3dcc8553861603e1ae114",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d3d3dcc8553861603e1ae114",
+          "width": 64
+        }
+      ],
+      "name": "Voyage Voyage",
+      "release_date": "2023-12-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5uy4i6ebA5lKrsWvQ6J2Oy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        "href": "https://api.spotify.com/v1/artists/44qAhQu52dYKcHOFQd3esf",
+        "id": "44qAhQu52dYKcHOFQd3esf",
+        "name": "Francis Mercier",
+        "type": "artist",
+        "uri": "spotify:artist:44qAhQu52dYKcHOFQd3esf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        "href": "https://api.spotify.com/v1/artists/29Spoit35xez115MTLfMB4",
+        "id": "29Spoit35xez115MTLfMB4",
+        "name": "Mont Rouge",
+        "type": "artist",
+        "uri": "spotify:artist:29Spoit35xez115MTLfMB4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        "href": "https://api.spotify.com/v1/artists/0NMq0jrmfJeEiJtjywE1Xl",
+        "id": "0NMq0jrmfJeEiJtjywE1Xl",
+        "name": "Coco",
+        "type": "artist",
+        "uri": "spotify:artist:0NMq0jrmfJeEiJtjywE1Xl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5vKKfaYOmxAC3973l5y2sU",
+    "is_local": false,
+    "name": "Voyage Voyage",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          },
+          "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+          "id": "26WKgv73kRHD0gEDKD1i8j",
+          "name": "Keinemusik",
+          "type": "artist",
+          "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MJk0mLIeBohyPzqetOHHv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b95976647c5fdff69e4985b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b95976647c5fdff69e4985b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b95976647c5fdff69e4985b3",
+          "width": 64
+        }
+      ],
+      "name": "You Are Safe",
+      "release_date": "2017-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6MJk0mLIeBohyPzqetOHHv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+        "id": "08jywfUS0hp8XYlYs0cvz8",
+        "name": "Rampa",
+        "type": "artist",
+        "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/55719fmddxnZLd563APKFm",
+    "is_local": false,
+    "name": "Muyè",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mrrXxzLsLPgLSiJz9COWB",
+          "id": "2mrrXxzLsLPgLSiJz9COWB",
+          "name": "James Mac",
+          "type": "artist",
+          "uri": "spotify:artist:2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+          },
+          "href": "https://api.spotify.com/v1/artists/0SI37BtvfxqNpnvjeMPqyD",
+          "id": "0SI37BtvfxqNpnvjeMPqyD",
+          "name": "Vall",
+          "type": "artist",
+          "uri": "spotify:artist:0SI37BtvfxqNpnvjeMPqyD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3vmR5tggRYJhVhuB0j1uVc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27311f5cb2f4ef58f5e1eae30b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0211f5cb2f4ef58f5e1eae30b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485111f5cb2f4ef58f5e1eae30b6",
+          "width": 64
+        }
+      ],
+      "name": "The Boy Is Mine",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3vmR5tggRYJhVhuB0j1uVc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mrrXxzLsLPgLSiJz9COWB",
+        "id": "2mrrXxzLsLPgLSiJz9COWB",
+        "name": "James Mac",
+        "type": "artist",
+        "uri": "spotify:artist:2mrrXxzLsLPgLSiJz9COWB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        "href": "https://api.spotify.com/v1/artists/0SI37BtvfxqNpnvjeMPqyD",
+        "id": "0SI37BtvfxqNpnvjeMPqyD",
+        "name": "Vall",
+        "type": "artist",
+        "uri": "spotify:artist:0SI37BtvfxqNpnvjeMPqyD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/58PEgJMZGqZ5d3CHYJTGv7",
+        "id": "58PEgJMZGqZ5d3CHYJTGv7",
+        "name": "Rosalie",
+        "type": "artist",
+        "uri": "spotify:artist:58PEgJMZGqZ5d3CHYJTGv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1aRd5tMVhiRyMJLmSOg2IF",
+    "is_local": false,
+    "name": "The Boy Is Mine",
+    "preview_url": null
+  }
+]
