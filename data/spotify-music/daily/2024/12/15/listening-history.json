@@ -1,0 +1,581 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MqEj8zhXLsnXpWdPGBGPe",
+          "id": "2MqEj8zhXLsnXpWdPGBGPe",
+          "name": "Eden Shalev",
+          "type": "artist",
+          "uri": "spotify:artist:2MqEj8zhXLsnXpWdPGBGPe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3CmWvWiEAkuipFIqyhs5ps",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b492526bde302a0258ccd18a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b492526bde302a0258ccd18a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b492526bde302a0258ccd18a",
+          "width": 64
+        }
+      ],
+      "name": "Papi (Bhabi)",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3CmWvWiEAkuipFIqyhs5ps"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+        },
+        "href": "https://api.spotify.com/v1/artists/2MqEj8zhXLsnXpWdPGBGPe",
+        "id": "2MqEj8zhXLsnXpWdPGBGPe",
+        "name": "Eden Shalev",
+        "type": "artist",
+        "uri": "spotify:artist:2MqEj8zhXLsnXpWdPGBGPe"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2jxJzUWxqX2fnQTD9lmi2x",
+    "is_local": false,
+    "name": "Papi (Bhabi)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+          "id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&ME",
+          "type": "artist",
+          "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wMr4zKPrrR0UVz08WtUWc",
+          "id": "6wMr4zKPrrR0UVz08WtUWc",
+          "name": "Black Coffee",
+          "type": "artist",
+          "uri": "spotify:artist:6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          },
+          "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+          "id": "26WKgv73kRHD0gEDKD1i8j",
+          "name": "Keinemusik",
+          "type": "artist",
+          "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2FAKT4HAf25axNWJI3DlY5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27363f925125a5848c42a5fdf6b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0263f925125a5848c42a5fdf6b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485163f925125a5848c42a5fdf6b",
+          "width": 64
+        }
+      ],
+      "name": "The Rapture Pt.III",
+      "release_date": "2023-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2FAKT4HAf25axNWJI3DlY5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        "href": "https://api.spotify.com/v1/artists/6wMr4zKPrrR0UVz08WtUWc",
+        "id": "6wMr4zKPrrR0UVz08WtUWc",
+        "name": "Black Coffee",
+        "type": "artist",
+        "uri": "spotify:artist:6wMr4zKPrrR0UVz08WtUWc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/200DiJQhDi69nkGXOrrJgn",
+    "is_local": false,
+    "name": "The Rapture Pt.III",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+          "id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&ME",
+          "type": "artist",
+          "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          },
+          "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+          "id": "08jywfUS0hp8XYlYs0cvz8",
+          "name": "Rampa",
+          "type": "artist",
+          "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+          "id": "2loEsOijJ6XiGzWYFXMIRk",
+          "name": "Adam Port",
+          "type": "artist",
+          "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6EJu5rECOfBSeHfVM3g6pm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317c997e7a06e4b9a2630d279",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217c997e7a06e4b9a2630d279",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117c997e7a06e4b9a2630d279",
+          "width": 64
+        }
+      ],
+      "name": "Thandaza",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6EJu5rECOfBSeHfVM3g6pm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        "href": "https://api.spotify.com/v1/artists/5mIowAJMp7RKNheelruV5z",
+        "id": "5mIowAJMp7RKNheelruV5z",
+        "name": "&ME",
+        "type": "artist",
+        "uri": "spotify:artist:5mIowAJMp7RKNheelruV5z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        "href": "https://api.spotify.com/v1/artists/08jywfUS0hp8XYlYs0cvz8",
+        "id": "08jywfUS0hp8XYlYs0cvz8",
+        "name": "Rampa",
+        "type": "artist",
+        "uri": "spotify:artist:08jywfUS0hp8XYlYs0cvz8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        "href": "https://api.spotify.com/v1/artists/0yEnnivHzCPxaTfNbWjV7x",
+        "id": "0yEnnivHzCPxaTfNbWjV7x",
+        "name": "Alan Dixon",
+        "type": "artist",
+        "uri": "spotify:artist:0yEnnivHzCPxaTfNbWjV7x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        "href": "https://api.spotify.com/v1/artists/26WKgv73kRHD0gEDKD1i8j",
+        "id": "26WKgv73kRHD0gEDKD1i8j",
+        "name": "Keinemusik",
+        "type": "artist",
+        "uri": "spotify:artist:26WKgv73kRHD0gEDKD1i8j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Na64T53YX2qe1XG97JyCO",
+        "id": "0Na64T53YX2qe1XG97JyCO",
+        "name": "Arabic Piano",
+        "type": "artist",
+        "uri": "spotify:artist:0Na64T53YX2qe1XG97JyCO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4x6jx7AeSyE7PlQTdCjIJs",
+    "is_local": false,
+    "name": "Thandaza",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          },
+          "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "type": "artist",
+          "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2p44KTPcAqLaI7zTI2K70R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376d072a590e154ca76e1df26",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276d072a590e154ca76e1df26",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176d072a590e154ca76e1df26",
+          "width": 64
+        }
+      ],
+      "name": "Houdini (Remixes)",
+      "release_date": "2023-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:2p44KTPcAqLaI7zTI2K70R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5vVND8Mey78LZaljL8Nmpd",
+    "is_local": false,
+    "name": "Houdini - Adam Port Mix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55vo1zTUTU1TabwCCMMbfv"
+          },
+          "href": "https://api.spotify.com/v1/artists/55vo1zTUTU1TabwCCMMbfv",
+          "id": "55vo1zTUTU1TabwCCMMbfv",
+          "name": "Berin",
+          "type": "artist",
+          "uri": "spotify:artist:55vo1zTUTU1TabwCCMMbfv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0x9F8DmZ5DXPHFwP3U8wRD"
+          },
+          "href": "https://api.spotify.com/v1/artists/0x9F8DmZ5DXPHFwP3U8wRD",
+          "id": "0x9F8DmZ5DXPHFwP3U8wRD",
+          "name": "Mana Project",
+          "type": "artist",
+          "uri": "spotify:artist:0x9F8DmZ5DXPHFwP3U8wRD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6qZQiKBcYB9IYqsAg8qH2y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd67bb478a4ad59949e19a8f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd67bb478a4ad59949e19a8f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd67bb478a4ad59949e19a8f",
+          "width": 64
+        }
+      ],
+      "name": "Many Times",
+      "release_date": "2023-12-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6qZQiKBcYB9IYqsAg8qH2y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55vo1zTUTU1TabwCCMMbfv"
+        },
+        "href": "https://api.spotify.com/v1/artists/55vo1zTUTU1TabwCCMMbfv",
+        "id": "55vo1zTUTU1TabwCCMMbfv",
+        "name": "Berin",
+        "type": "artist",
+        "uri": "spotify:artist:55vo1zTUTU1TabwCCMMbfv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0x9F8DmZ5DXPHFwP3U8wRD"
+        },
+        "href": "https://api.spotify.com/v1/artists/0x9F8DmZ5DXPHFwP3U8wRD",
+        "id": "0x9F8DmZ5DXPHFwP3U8wRD",
+        "name": "Mana Project",
+        "type": "artist",
+        "uri": "spotify:artist:0x9F8DmZ5DXPHFwP3U8wRD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3qtPurq2aheB2TRwH1CNm2",
+    "is_local": false,
+    "name": "Many Times",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71oIj7nqfDmjE0bQIaQDP1"
+          },
+          "href": "https://api.spotify.com/v1/artists/71oIj7nqfDmjE0bQIaQDP1",
+          "id": "71oIj7nqfDmjE0bQIaQDP1",
+          "name": "EMOTIONAL",
+          "type": "artist",
+          "uri": "spotify:artist:71oIj7nqfDmjE0bQIaQDP1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6kgNaQh0gCk9eUw65ttsgm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9ea3efc2557c2095e2f039e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9ea3efc2557c2095e2f039e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9ea3efc2557c2095e2f039e",
+          "width": 64
+        }
+      ],
+      "name": "Be With You",
+      "release_date": "2024-03-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6kgNaQh0gCk9eUw65ttsgm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71oIj7nqfDmjE0bQIaQDP1"
+        },
+        "href": "https://api.spotify.com/v1/artists/71oIj7nqfDmjE0bQIaQDP1",
+        "id": "71oIj7nqfDmjE0bQIaQDP1",
+        "name": "EMOTIONAL",
+        "type": "artist",
+        "uri": "spotify:artist:71oIj7nqfDmjE0bQIaQDP1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1X1gQuvMH7RP2Xkbdt7SES",
+    "is_local": false,
+    "name": "Be With You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          },
+          "href": "https://api.spotify.com/v1/artists/44qAhQu52dYKcHOFQd3esf",
+          "id": "44qAhQu52dYKcHOFQd3esf",
+          "name": "Francis Mercier",
+          "type": "artist",
+          "uri": "spotify:artist:44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VVnWF3KNaa5O7ESohKhAx",
+          "id": "0VVnWF3KNaa5O7ESohKhAx",
+          "name": "Salif Keita",
+          "type": "artist",
+          "uri": "spotify:artist:0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/41uPRwE5e0yJSYUpb4LR6V",
+          "id": "41uPRwE5e0yJSYUpb4LR6V",
+          "name": "Nomis (FR)",
+          "type": "artist",
+          "uri": "spotify:artist:41uPRwE5e0yJSYUpb4LR6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4qNEPCKNBzuvJuo7MjqUuh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b151374a50d3fc5e05baa4c8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b151374a50d3fc5e05baa4c8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b151374a50d3fc5e05baa4c8",
+          "width": 64
+        }
+      ],
+      "name": "Kabe",
+      "release_date": "2024-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4qNEPCKNBzuvJuo7MjqUuh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        "href": "https://api.spotify.com/v1/artists/44qAhQu52dYKcHOFQd3esf",
+        "id": "44qAhQu52dYKcHOFQd3esf",
+        "name": "Francis Mercier",
+        "type": "artist",
+        "uri": "spotify:artist:44qAhQu52dYKcHOFQd3esf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        "href": "https://api.spotify.com/v1/artists/0VVnWF3KNaa5O7ESohKhAx",
+        "id": "0VVnWF3KNaa5O7ESohKhAx",
+        "name": "Salif Keita",
+        "type": "artist",
+        "uri": "spotify:artist:0VVnWF3KNaa5O7ESohKhAx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/41uPRwE5e0yJSYUpb4LR6V",
+        "id": "41uPRwE5e0yJSYUpb4LR6V",
+        "name": "Nomis (FR)",
+        "type": "artist",
+        "uri": "spotify:artist:41uPRwE5e0yJSYUpb4LR6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7Kid813yq5ev5IZ6cyjqXe",
+    "is_local": false,
+    "name": "Kabe",
+    "preview_url": null
+  }
+]

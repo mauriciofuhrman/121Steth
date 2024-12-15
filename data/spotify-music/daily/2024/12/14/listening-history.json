@@ -1,0 +1,963 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Z7zcsIphrPDnfZj9Ppqw0",
+          "id": "0Z7zcsIphrPDnfZj9Ppqw0",
+          "name": "&friends",
+          "type": "artist",
+          "uri": "spotify:artist:0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6RWLdCpXycl0ua3L23grAZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6RWLdCpXycl0ua3L23grAZ",
+          "id": "6RWLdCpXycl0ua3L23grAZ",
+          "name": "Del Arte",
+          "type": "artist",
+          "uri": "spotify:artist:6RWLdCpXycl0ua3L23grAZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2A2ab9fDZbSD2y2gBMRJf3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27392d40e8ade67987100516b08",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0292d40e8ade67987100516b08",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485192d40e8ade67987100516b08",
+          "width": 64
+        }
+      ],
+      "name": "Everyday",
+      "release_date": "2024-01-12",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:2A2ab9fDZbSD2y2gBMRJf3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Z7zcsIphrPDnfZj9Ppqw0",
+        "id": "0Z7zcsIphrPDnfZj9Ppqw0",
+        "name": "&friends",
+        "type": "artist",
+        "uri": "spotify:artist:0Z7zcsIphrPDnfZj9Ppqw0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RWLdCpXycl0ua3L23grAZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RWLdCpXycl0ua3L23grAZ",
+        "id": "6RWLdCpXycl0ua3L23grAZ",
+        "name": "Del Arte",
+        "type": "artist",
+        "uri": "spotify:artist:6RWLdCpXycl0ua3L23grAZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3"
+        },
+        "href": "https://api.spotify.com/v1/artists/1lQ4MIAHlKeAEKEJXfOZN3",
+        "id": "1lQ4MIAHlKeAEKEJXfOZN3",
+        "name": "Forrest",
+        "type": "artist",
+        "uri": "spotify:artist:1lQ4MIAHlKeAEKEJXfOZN3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5xKQBFQJ6WGXT3QEiEvVHK",
+    "is_local": false,
+    "name": "Everyday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3CYrfsHEf7AZRlKUvzTnpA",
+          "id": "3CYrfsHEf7AZRlKUvzTnpA",
+          "name": "Rules",
+          "type": "artist",
+          "uri": "spotify:artist:3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0IHC3YcUDA504Cy4s5KFLr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733077701c8dbed1c91d20ce7f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023077701c8dbed1c91d20ce7f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513077701c8dbed1c91d20ce7f",
+          "width": 64
+        }
+      ],
+      "name": "Close My Eyes",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0IHC3YcUDA504Cy4s5KFLr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CYrfsHEf7AZRlKUvzTnpA",
+        "id": "3CYrfsHEf7AZRlKUvzTnpA",
+        "name": "Rules",
+        "type": "artist",
+        "uri": "spotify:artist:3CYrfsHEf7AZRlKUvzTnpA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2eZ45fidFMAlUHH7wAWrRv",
+    "is_local": false,
+    "name": "Close My Eyes",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4954ccQLUdwTHCSMXtem",
+          "id": "0z4954ccQLUdwTHCSMXtem",
+          "name": "Jamek Ortega",
+          "type": "artist",
+          "uri": "spotify:artist:0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4lLWsXVKD1mcEC88bMOvIb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a598e6f1bedd0b74dc42bc98",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a598e6f1bedd0b74dc42bc98",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a598e6f1bedd0b74dc42bc98",
+          "width": 64
+        }
+      ],
+      "name": "Ride With Me",
+      "release_date": "2024-05-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4lLWsXVKD1mcEC88bMOvIb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        },
+        "href": "https://api.spotify.com/v1/artists/0z4954ccQLUdwTHCSMXtem",
+        "id": "0z4954ccQLUdwTHCSMXtem",
+        "name": "Jamek Ortega",
+        "type": "artist",
+        "uri": "spotify:artist:0z4954ccQLUdwTHCSMXtem"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/57tFJS9IpJrcfPa9L7wb93",
+    "is_local": false,
+    "name": "Ride With Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2aLLYZ0sdqweMEPFUyYIXJ",
+          "id": "2aLLYZ0sdqweMEPFUyYIXJ",
+          "name": "NOTSOBAD",
+          "type": "artist",
+          "uri": "spotify:artist:2aLLYZ0sdqweMEPFUyYIXJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7nL523vzwv24ad0oFf2VZ2",
+          "id": "7nL523vzwv24ad0oFf2VZ2",
+          "name": "Able Faces",
+          "type": "artist",
+          "uri": "spotify:artist:7nL523vzwv24ad0oFf2VZ2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/11v4Civ6ADJzina9JBhfRt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273701116d6e57689473aaf349c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02701116d6e57689473aaf349c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851701116d6e57689473aaf349c",
+          "width": 64
+        }
+      ],
+      "name": "Hollow Ground",
+      "release_date": "2024-06-14",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:11v4Civ6ADJzina9JBhfRt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2aLLYZ0sdqweMEPFUyYIXJ",
+        "id": "2aLLYZ0sdqweMEPFUyYIXJ",
+        "name": "NOTSOBAD",
+        "type": "artist",
+        "uri": "spotify:artist:2aLLYZ0sdqweMEPFUyYIXJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        "href": "https://api.spotify.com/v1/artists/7nL523vzwv24ad0oFf2VZ2",
+        "id": "7nL523vzwv24ad0oFf2VZ2",
+        "name": "Able Faces",
+        "type": "artist",
+        "uri": "spotify:artist:7nL523vzwv24ad0oFf2VZ2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0D3R3tViQUgPvuzcVX5Yku",
+    "is_local": false,
+    "name": "Hollow Ground",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          },
+          "href": "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+          "id": "39B7ChWwrWDs7zXlsu3MoP",
+          "name": "Sonny Fodera",
+          "type": "artist",
+          "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+          "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+          "name": "Jazzy",
+          "type": "artist",
+          "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+          "id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "D.O.D",
+          "type": "artist",
+          "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/54R5dT9BWKnR2RX9gOFzDK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d572297e63fcc5a8ca10440f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d572297e63fcc5a8ca10440f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d572297e63fcc5a8ca10440f",
+          "width": 64
+        }
+      ],
+      "name": "Somedays",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:54R5dT9BWKnR2RX9gOFzDK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href": "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id": "39B7ChWwrWDs7zXlsu3MoP",
+        "name": "Sonny Fodera",
+        "type": "artist",
+        "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7zAAwgV5Wqmvpb4GzvlRkP",
+        "id": "7zAAwgV5Wqmvpb4GzvlRkP",
+        "name": "Jazzy",
+        "type": "artist",
+        "uri": "spotify:artist:7zAAwgV5Wqmvpb4GzvlRkP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+        "id": "0Cs47vvRsPgEfliBU9KDiB",
+        "name": "D.O.D",
+        "type": "artist",
+        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3wo3d0I5H8KjkwGvnz8WbB",
+    "is_local": false,
+    "name": "Somedays",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h6Cn3P4NGzXbaXidqURXs",
+          "id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "Swedish House Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Dbe9L757CSQbhnbW5PVSH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bd6f8ac82dc5fe1028c14f7d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bd6f8ac82dc5fe1028c14f7d",
+          "width": 64
+        }
+      ],
+      "name": "Paradise Again",
+      "release_date": "2022-04-15",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:2Dbe9L757CSQbhnbW5PVSH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1h6Cn3P4NGzXbaXidqURXs",
+        "id": "1h6Cn3P4NGzXbaXidqURXs",
+        "name": "Swedish House Mafia",
+        "type": "artist",
+        "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4RB2kk5dmocmMiHFBlmOEt",
+        "id": "4RB2kk5dmocmMiHFBlmOEt",
+        "name": "Connie Constance",
+        "type": "artist",
+        "uri": "spotify:artist:4RB2kk5dmocmMiHFBlmOEt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3nEHrvNNtgLv9rneTAYVr4",
+    "is_local": false,
+    "name": "Heaven Takes You Home (feat. Connie Constance)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Z7zcsIphrPDnfZj9Ppqw0",
+          "id": "0Z7zcsIphrPDnfZj9Ppqw0",
+          "name": "&friends",
+          "type": "artist",
+          "uri": "spotify:artist:0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FbCERtE2CKqEWihHMYjcG",
+          "id": "6FbCERtE2CKqEWihHMYjcG",
+          "name": "Bayanni",
+          "type": "artist",
+          "uri": "spotify:artist:6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/11zCWribSWYW7CaBSf7gjT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3ac50e1383553a366946895",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3ac50e1383553a366946895",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a3ac50e1383553a366946895",
+          "width": 64
+        }
+      ],
+      "name": "Ta Ta Ta",
+      "release_date": "2024-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:11zCWribSWYW7CaBSf7gjT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Z7zcsIphrPDnfZj9Ppqw0",
+        "id": "0Z7zcsIphrPDnfZj9Ppqw0",
+        "name": "&friends",
+        "type": "artist",
+        "uri": "spotify:artist:0Z7zcsIphrPDnfZj9Ppqw0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FbCERtE2CKqEWihHMYjcG",
+        "id": "6FbCERtE2CKqEWihHMYjcG",
+        "name": "Bayanni",
+        "type": "artist",
+        "uri": "spotify:artist:6FbCERtE2CKqEWihHMYjcG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6blOktAehM5Fb6fE9fgM43",
+    "is_local": false,
+    "name": "Ta Ta Ta",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6lbUCWVW3hgQgrJwB8wadJ",
+          "id": "6lbUCWVW3hgQgrJwB8wadJ",
+          "name": "Nitefreak",
+          "type": "artist",
+          "uri": "spotify:artist:6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4skzy1qEMyM3FqC3b6EjRU",
+          "id": "4skzy1qEMyM3FqC3b6EjRU",
+          "name": "Imad",
+          "type": "artist",
+          "uri": "spotify:artist:4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1LbK4g8mKezX7iAmpiq3sX",
+          "id": "1LbK4g8mKezX7iAmpiq3sX",
+          "name": "Clubhouse",
+          "type": "artist",
+          "uri": "spotify:artist:1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6TcWS750Qhg2203YwZuPdX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730cb378b84772e3a12e11b584",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020cb378b84772e3a12e11b584",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510cb378b84772e3a12e11b584",
+          "width": 64
+        }
+      ],
+      "name": "Not The Same",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6TcWS750Qhg2203YwZuPdX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6lbUCWVW3hgQgrJwB8wadJ",
+        "id": "6lbUCWVW3hgQgrJwB8wadJ",
+        "name": "Nitefreak",
+        "type": "artist",
+        "uri": "spotify:artist:6lbUCWVW3hgQgrJwB8wadJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4skzy1qEMyM3FqC3b6EjRU",
+        "id": "4skzy1qEMyM3FqC3b6EjRU",
+        "name": "Imad",
+        "type": "artist",
+        "uri": "spotify:artist:4skzy1qEMyM3FqC3b6EjRU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        "href": "https://api.spotify.com/v1/artists/1LbK4g8mKezX7iAmpiq3sX",
+        "id": "1LbK4g8mKezX7iAmpiq3sX",
+        "name": "Clubhouse",
+        "type": "artist",
+        "uri": "spotify:artist:1LbK4g8mKezX7iAmpiq3sX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2B4Z3Ynr4GsNE1S6EiMWZF",
+    "is_local": false,
+    "name": "Not The Same",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          },
+          "href": "https://api.spotify.com/v1/artists/6mDl7lQiLxT0iQ8LYhAlWy",
+          "id": "6mDl7lQiLxT0iQ8LYhAlWy",
+          "name": "Zerb",
+          "type": "artist",
+          "uri": "spotify:artist:6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          },
+          "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+          "id": "69GGBxA162lTqCwzJG5jLp",
+          "name": "The Chainsmokers",
+          "type": "artist",
+          "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZhFCxPekpmV12n2xMeF2z",
+          "id": "4ZhFCxPekpmV12n2xMeF2z",
+          "name": "Ink",
+          "type": "artist",
+          "uri": "spotify:artist:4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7yO1vbedliKtwQ65jAjBQr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27386662f0bf0b8df09e7e6ee34",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0286662f0bf0b8df09e7e6ee34",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485186662f0bf0b8df09e7e6ee34",
+          "width": 64
+        }
+      ],
+      "name": "Addicted",
+      "release_date": "2024-03-29",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7yO1vbedliKtwQ65jAjBQr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mDl7lQiLxT0iQ8LYhAlWy",
+        "id": "6mDl7lQiLxT0iQ8LYhAlWy",
+        "name": "Zerb",
+        "type": "artist",
+        "uri": "spotify:artist:6mDl7lQiLxT0iQ8LYhAlWy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+        "id": "69GGBxA162lTqCwzJG5jLp",
+        "name": "The Chainsmokers",
+        "type": "artist",
+        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ZhFCxPekpmV12n2xMeF2z",
+        "id": "4ZhFCxPekpmV12n2xMeF2z",
+        "name": "Ink",
+        "type": "artist",
+        "uri": "spotify:artist:4ZhFCxPekpmV12n2xMeF2z"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5ZUIPLoTLJZrPQh2kFZEUM",
+    "is_local": false,
+    "name": "Addicted",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+          },
+          "href": "https://api.spotify.com/v1/artists/1k0BkkbwTGZGBqrNWwuucL",
+          "id": "1k0BkkbwTGZGBqrNWwuucL",
+          "name": "LOSTBOYJAY",
+          "type": "artist",
+          "uri": "spotify:artist:1k0BkkbwTGZGBqrNWwuucL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2aJE1EikJGFwNq0NdGHcZP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4dcf918ee0da38ca4068ca7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4dcf918ee0da38ca4068ca7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a4dcf918ee0da38ca4068ca7",
+          "width": 64
+        }
+      ],
+      "name": "COULD BE WRONG",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2aJE1EikJGFwNq0NdGHcZP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1k0BkkbwTGZGBqrNWwuucL",
+        "id": "1k0BkkbwTGZGBqrNWwuucL",
+        "name": "LOSTBOYJAY",
+        "type": "artist",
+        "uri": "spotify:artist:1k0BkkbwTGZGBqrNWwuucL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5zuex7tbGFz0gSHlrMvQdu",
+    "is_local": false,
+    "name": "COULD BE WRONG",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kLzaeSHrmS7okc5XNE6lv",
+          "id": "5kLzaeSHrmS7okc5XNE6lv",
+          "name": "Butch",
+          "type": "artist",
+          "uri": "spotify:artist:5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          },
+          "href": "https://api.spotify.com/v1/artists/7btR5VXutQv39SDEzcfXEk",
+          "id": "7btR5VXutQv39SDEzcfXEk",
+          "name": "Nic Fanciulli",
+          "type": "artist",
+          "uri": "spotify:artist:7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Dh81kJfGeinI3r7YMNX3E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc570242fe60da95f8cca4b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc570242fe60da95f8cca4b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fc570242fe60da95f8cca4b4",
+          "width": 64
+        }
+      ],
+      "name": "I Want You",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:3Dh81kJfGeinI3r7YMNX3E"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5kLzaeSHrmS7okc5XNE6lv",
+        "id": "5kLzaeSHrmS7okc5XNE6lv",
+        "name": "Butch",
+        "type": "artist",
+        "uri": "spotify:artist:5kLzaeSHrmS7okc5XNE6lv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        "href": "https://api.spotify.com/v1/artists/7btR5VXutQv39SDEzcfXEk",
+        "id": "7btR5VXutQv39SDEzcfXEk",
+        "name": "Nic Fanciulli",
+        "type": "artist",
+        "uri": "spotify:artist:7btR5VXutQv39SDEzcfXEk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5UM6P3y6794GYNOzZvj2zh",
+    "is_local": false,
+    "name": "I Want You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HxX6imltnNXJyQhu4nsiO",
+          "id": "0HxX6imltnNXJyQhu4nsiO",
+          "name": "LF SYSTEM",
+          "type": "artist",
+          "uri": "spotify:artist:0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/528LrHfHcB7PMAvyp8Obhp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ced808ef1567eaf901041438",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ced808ef1567eaf901041438",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ced808ef1567eaf901041438",
+          "width": 64
+        }
+      ],
+      "name": "Afraid To Feel",
+      "release_date": "2022-05-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:528LrHfHcB7PMAvyp8Obhp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HxX6imltnNXJyQhu4nsiO",
+        "id": "0HxX6imltnNXJyQhu4nsiO",
+        "name": "LF SYSTEM",
+        "type": "artist",
+        "uri": "spotify:artist:0HxX6imltnNXJyQhu4nsiO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/40SBS57su9xLiE1WqkXOVr",
+    "is_local": false,
+    "name": "Afraid To Feel",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8JYDELi85NGgYy30MbRa",
+          "id": "0L8JYDELi85NGgYy30MbRa",
+          "name": "Nyday",
+          "type": "artist",
+          "uri": "spotify:artist:0L8JYDELi85NGgYy30MbRa"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5S38bASdBmefKuzwPDZNwY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273acce56f205a76dc453f78f57",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02acce56f205a76dc453f78f57",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851acce56f205a76dc453f78f57",
+          "width": 64
+        }
+      ],
+      "name": "Anything For You",
+      "release_date": "2023-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5S38bASdBmefKuzwPDZNwY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8JYDELi85NGgYy30MbRa",
+        "id": "0L8JYDELi85NGgYy30MbRa",
+        "name": "Nyday",
+        "type": "artist",
+        "uri": "spotify:artist:0L8JYDELi85NGgYy30MbRa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2e3XgvAcLWhLM0ZO3gtl9j",
+    "is_local": false,
+    "name": "Anything For You",
+    "preview_url": null
+  }
+]
