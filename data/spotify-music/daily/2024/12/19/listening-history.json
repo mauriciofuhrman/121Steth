@@ -4,6 +4,294 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
+          "id": "4SsVbpTthjScTS7U2hmr1X",
+          "name": "Arcángel",
+          "type": "artist",
+          "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6LOhj1aK7vkGHJXtKU16PN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e0950bcdb5495e2038e0d14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e0950bcdb5495e2038e0d14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e0950bcdb5495e2038e0d14",
+          "width": 64
+        }
+      ],
+      "name": "La Jumpa",
+      "release_date": "2022-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6LOhj1aK7vkGHJXtKU16PN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
+        "id": "4SsVbpTthjScTS7U2hmr1X",
+        "name": "Arcángel",
+        "type": "artist",
+        "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5MxFWjuqQIsbNWbMdMdbli",
+    "is_local": false,
+    "name": "La Jumpa",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          },
+          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "type": "artist",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "type": "artist",
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1woYXxyyxTQJ0E0AhZE6mj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297306976e3eb8aad53b754eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
+          "width": 64
+        }
+      ],
+      "name": "I Had Some Help",
+      "release_date": "2024-05-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1woYXxyyxTQJ0E0AhZE6mj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "name": "Morgan Wallen",
+        "type": "artist",
+        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7221xIgOnuakPdLqT0F3nP",
+    "is_local": false,
+    "name": "I Had Some Help (Feat. Morgan Wallen)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          },
+          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "type": "artist",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "type": "artist",
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1woYXxyyxTQJ0E0AhZE6mj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297306976e3eb8aad53b754eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197306976e3eb8aad53b754eb",
+          "width": 64
+        }
+      ],
+      "name": "I Had Some Help",
+      "release_date": "2024-05-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1woYXxyyxTQJ0E0AhZE6mj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "name": "Morgan Wallen",
+        "type": "artist",
+        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7221xIgOnuakPdLqT0F3nP",
+    "is_local": false,
+    "name": "I Had Some Help (Feat. Morgan Wallen)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1aw0Cdl1DIrtUrUA6fGbAR",
+          "id": "1aw0Cdl1DIrtUrUA6fGbAR",
+          "name": "Dread Mar I",
+          "type": "artist",
+          "uri": "spotify:artist:1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1nqhr6N5KbIaUbsTXq5WCa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738dede181c935e3f5cdd246c7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028dede181c935e3f5cdd246c7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518dede181c935e3f5cdd246c7",
+          "width": 64
+        }
+      ],
+      "name": "Vivi En Do",
+      "release_date": "2010-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:1nqhr6N5KbIaUbsTXq5WCa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1aw0Cdl1DIrtUrUA6fGbAR",
+        "id": "1aw0Cdl1DIrtUrUA6fGbAR",
+        "name": "Dread Mar I",
+        "type": "artist",
+        "uri": "spotify:artist:1aw0Cdl1DIrtUrUA6fGbAR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1B4XhExXA4NswSQPetDuEg",
+    "is_local": false,
+    "name": "Arbol Sin Hojas",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
           },
           "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
