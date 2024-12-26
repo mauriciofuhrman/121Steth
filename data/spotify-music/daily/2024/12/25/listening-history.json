@@ -1,0 +1,401 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0DwClY2t9YAWHBROMIgrXb",
+    "is_local": false,
+    "name": "Ho Hey",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell",
+          "type": "artist",
+          "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Gf1yE895FKK4YWVRuAeg8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511917a0f3f4152622a040913f",
+          "width": 64
+        }
+      ],
+      "name": "Long Way Down (Deluxe)",
+      "release_date": "2013-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0Gf1yE895FKK4YWVRuAeg8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "type": "artist",
+        "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
+    "is_local": false,
+    "name": "Another Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7LRZfujsTLyy814AnMSdtT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a2c9ac2d39bc5c2e22b9555",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a2c9ac2d39bc5c2e22b9555",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a2c9ac2d39bc5c2e22b9555",
+          "width": 64
+        }
+      ],
+      "name": "Pink Skies",
+      "release_date": "2024-05-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7LRZfujsTLyy814AnMSdtT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ZJ4vzLQekI0WntDbanNC7",
+    "is_local": false,
+    "name": "Pink Skies",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1U0Z7QjSzlg3gMeUOuUldz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02647ad18a07e9e939e399e5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851647ad18a07e9e939e399e5a1",
+          "width": 64
+        }
+      ],
+      "name": "The Great American Bar Scene",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:1U0Z7QjSzlg3gMeUOuUldz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3c9EsIo34kil8Oj1reaozB",
+    "is_local": false,
+    "name": "American Nights",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6X9k3hSsvQck2OfKYdBbXr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a",
+          "width": 64
+        }
+      ],
+      "name": "A Night At The Opera (Deluxe Remastered Version)",
+      "release_date": "1975-11-21",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6X9k3hSsvQck2OfKYdBbXr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "type": "artist",
+        "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7tFiyTwD0nx5a1eklYtX2J",
+    "is_local": false,
+    "name": "Bohemian Rhapsody - Remastered 2011",
+    "preview_url": null
+  }
+]
