@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          },
+          "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+          "id": "65c5si0ePAwkOCn4M35Ho7",
+          "name": "Sérgio Mendes",
+          "type": "artist",
+          "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/09HBh8LHnAjxwMPWmIWgDb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b415fc6505fe00219d017df4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b415fc6505fe00219d017df4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b415fc6505fe00219d017df4",
+          "width": 64
+        }
+      ],
+      "name": "Brasileiro",
+      "release_date": "1992-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:09HBh8LHnAjxwMPWmIWgDb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+        "id": "65c5si0ePAwkOCn4M35Ho7",
+        "name": "Sérgio Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/36SJ7ZFx8J1f1RsewmUwMX",
+    "is_local": false,
+    "name": "Magalenha",
+    "preview_url": null
+  }
+]
