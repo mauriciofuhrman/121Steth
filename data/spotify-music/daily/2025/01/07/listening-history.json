@@ -4,6 +4,502 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4rG0MhkU6UojACJxkMHIXB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021dc7483a9fcfce54822a2f19",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511dc7483a9fcfce54822a2f19",
+          "width": 64
+        }
+      ],
+      "name": "Planet Pit (Deluxe Version)",
+      "release_date": "2011-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:4rG0MhkU6UojACJxkMHIXB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+        "id": "4D75GcNG95ebPtNvoNVXhz",
+        "name": "AFROJACK",
+        "type": "artist",
+        "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        "href": "https://api.spotify.com/v1/artists/21E3waRsmPlU7jZsS13rcj",
+        "id": "21E3waRsmPlU7jZsS13rcj",
+        "name": "Ne-Yo",
+        "type": "artist",
+        "uri": "spotify:artist:21E3waRsmPlU7jZsS13rcj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ruutHJcECI7cos2n5TqpO",
+        "id": "1ruutHJcECI7cos2n5TqpO",
+        "name": "Nayer",
+        "type": "artist",
+        "uri": "spotify:artist:1ruutHJcECI7cos2n5TqpO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4QNpBfC0zvjKqPJcyqBy9W",
+    "is_local": false,
+    "name": "Give Me Everything (feat. Nayer)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "width": 64
+        }
+      ],
+      "name": "The Fame Monster (Deluxe Edition)",
+      "release_date": "2009-11-05",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
+    "is_local": false,
+    "name": "Bad Romance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          },
+          "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+          "id": "65c5si0ePAwkOCn4M35Ho7",
+          "name": "Sérgio Mendes",
+          "type": "artist",
+          "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/09HBh8LHnAjxwMPWmIWgDb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b415fc6505fe00219d017df4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b415fc6505fe00219d017df4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b415fc6505fe00219d017df4",
+          "width": 64
+        }
+      ],
+      "name": "Brasileiro",
+      "release_date": "1992-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:09HBh8LHnAjxwMPWmIWgDb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+        "id": "65c5si0ePAwkOCn4M35Ho7",
+        "name": "Sérgio Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/36SJ7ZFx8J1f1RsewmUwMX",
+    "is_local": false,
+    "name": "Magalenha",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist",
+          "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1OEGfToF7QbjUgyxMAnGXg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ffb343926530168be4724dd4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ffb343926530168be4724dd4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ffb343926530168be4724dd4",
+          "width": 64
+        }
+      ],
+      "name": "Levels",
+      "release_date": "2011-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:1OEGfToF7QbjUgyxMAnGXg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "name": "Avicii",
+        "type": "artist",
+        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5UqCQaDshqbIk3pkhy4Pjg",
+    "is_local": false,
+    "name": "Levels - Radio Edit",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "width": 64
+        }
+      ],
+      "name": "The Fame Monster (Deluxe Edition)",
+      "release_date": "2009-11-05",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
+    "is_local": false,
+    "name": "Bad Romance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          },
+          "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+          "id": "65c5si0ePAwkOCn4M35Ho7",
+          "name": "Sérgio Mendes",
+          "type": "artist",
+          "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/09HBh8LHnAjxwMPWmIWgDb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b415fc6505fe00219d017df4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b415fc6505fe00219d017df4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b415fc6505fe00219d017df4",
+          "width": 64
+        }
+      ],
+      "name": "Brasileiro",
+      "release_date": "1992-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:09HBh8LHnAjxwMPWmIWgDb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        "href": "https://api.spotify.com/v1/artists/65c5si0ePAwkOCn4M35Ho7",
+        "id": "65c5si0ePAwkOCn4M35Ho7",
+        "name": "Sérgio Mendes",
+        "type": "artist",
+        "uri": "spotify:artist:65c5si0ePAwkOCn4M35Ho7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/36SJ7ZFx8J1f1RsewmUwMX",
+    "is_local": false,
+    "name": "Magalenha",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Pfep8fkqFHQ87DjvWu54J",
+          "id": "6Pfep8fkqFHQ87DjvWu54J",
+          "name": "G3 GELO",
+          "type": "artist",
+          "uri": "spotify:artist:6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3xB16GTlwKloB2Ip22N2an",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9de80682fe4907050ada1ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9de80682fe4907050ada1ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e9de80682fe4907050ada1ff",
+          "width": 64
+        }
+      ],
+      "name": "Tweaker",
+      "release_date": "2025-01-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3xB16GTlwKloB2Ip22N2an"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Pfep8fkqFHQ87DjvWu54J",
+        "id": "6Pfep8fkqFHQ87DjvWu54J",
+        "name": "G3 GELO",
+        "type": "artist",
+        "uri": "spotify:artist:6Pfep8fkqFHQ87DjvWu54J"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5nk6BxN9bM5rLNkA3pMOzn",
+    "is_local": false,
+    "name": "Tweaker",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1U0Z7QjSzlg3gMeUOuUldz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02647ad18a07e9e939e399e5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851647ad18a07e9e939e399e5a1",
+          "width": 64
+        }
+      ],
+      "name": "The Great American Bar Scene",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:1U0Z7QjSzlg3gMeUOuUldz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+        "id": "0hEurMDQu99nJRq8pTxO14",
+        "name": "John Mayer",
+        "type": "artist",
+        "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1vj47xD8v9wIhQrmQY2Dkv",
+    "is_local": false,
+    "name": "Better Days (feat. John Mayer)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
           },
           "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
