@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo",
+          "name": "Andrea Bocelli",
+          "type": "artist",
+          "uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3uARqNN4bYqts3Ltg5Jku3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e69f0cf9685328522e66e14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e69f0cf9685328522e66e14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e69f0cf9685328522e66e14",
+          "width": 64
+        }
+      ],
+      "name": "Bocelli (Remastered)",
+      "release_date": "1995-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3uARqNN4bYqts3Ltg5Jku3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        "href": "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+        "id": "3EA9hVIzKfFiQI0Kikz2wo",
+        "name": "Andrea Bocelli",
+        "type": "artist",
+        "uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7zrpoAJte9o12TzawqgdD0",
+    "is_local": false,
+    "name": "Con Te Partirò",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo",
+          "name": "Andrea Bocelli",
+          "type": "artist",
+          "uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3uARqNN4bYqts3Ltg5Jku3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e69f0cf9685328522e66e14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e69f0cf9685328522e66e14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e69f0cf9685328522e66e14",
+          "width": 64
+        }
+      ],
+      "name": "Bocelli (Remastered)",
+      "release_date": "1995-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3uARqNN4bYqts3Ltg5Jku3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        "href": "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+        "id": "3EA9hVIzKfFiQI0Kikz2wo",
+        "name": "Andrea Bocelli",
+        "type": "artist",
+        "uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7zrpoAJte9o12TzawqgdD0",
+    "is_local": false,
+    "name": "Con Te Partirò",
+    "preview_url": null
+  }
+]
