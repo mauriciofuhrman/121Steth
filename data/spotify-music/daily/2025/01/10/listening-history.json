@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+          },
+          "href": "https://api.spotify.com/v1/artists/00OF0nwYaoBSO3AnPVq3vE",
+          "id": "00OF0nwYaoBSO3AnPVq3vE",
+          "name": "Johnny Stimson",
+          "type": "artist",
+          "uri": "spotify:artist:00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/43zBgYIu8JoTnfwxM3RUYh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27398de77f662a83fd37eed5f90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0298de77f662a83fd37eed5f90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485198de77f662a83fd37eed5f90",
+          "width": 64
+        }
+      ],
+      "name": "So. Good.",
+      "release_date": "2015-04-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:43zBgYIu8JoTnfwxM3RUYh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        },
+        "href": "https://api.spotify.com/v1/artists/00OF0nwYaoBSO3AnPVq3vE",
+        "id": "00OF0nwYaoBSO3AnPVq3vE",
+        "name": "Johnny Stimson",
+        "type": "artist",
+        "uri": "spotify:artist:00OF0nwYaoBSO3AnPVq3vE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1GJNXjCzhaqivYTKVvm5lh",
+    "is_local": false,
+    "name": "So. Good.",
+    "preview_url": null
+  }
+]
