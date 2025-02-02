@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AUl0ykLLpvTktob97x9hO",
+          "id": "6AUl0ykLLpvTktob97x9hO",
+          "name": "Tee Grizzley",
+          "type": "artist",
+          "uri": "spotify:artist:6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3YuHePPmc5VN4usLuIBT91",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a64fac177809a71bf0a2ffee",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a64fac177809a71bf0a2ffee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a64fac177809a71bf0a2ffee",
+          "width": 64
+        }
+      ],
+      "name": "From The D To The A (feat. Lil Yachty)",
+      "release_date": "2017-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3YuHePPmc5VN4usLuIBT91"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AUl0ykLLpvTktob97x9hO",
+        "id": "6AUl0ykLLpvTktob97x9hO",
+        "name": "Tee Grizzley",
+        "type": "artist",
+        "uri": "spotify:artist:6AUl0ykLLpvTktob97x9hO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+        "id": "6icQOAFXDZKsumw3YXyusw",
+        "name": "Lil Yachty",
+        "type": "artist",
+        "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2NyrXRn4tancYPW6JwtTl2",
+    "is_local": false,
+    "name": "From The D To The A (feat. Lil Yachty)",
+    "preview_url": null
+  }
+]
