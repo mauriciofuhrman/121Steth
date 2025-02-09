@@ -1,0 +1,146 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5oT8PMXGWiPlhcl930fkII",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e955f0f0a0471ace604ecdf6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e955f0f0a0471ace604ecdf6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e955f0f0a0471ace604ecdf6",
+          "width": 64
+        }
+      ],
+      "name": "100 GIGS",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:5oT8PMXGWiPlhcl930fkII"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "type": "artist",
+        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1qIwin7JMVuX70qN6wD8ww",
+    "is_local": false,
+    "name": "It's Up (feat. Young Thug & 21 Savage)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+          "id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "Bob Sinclar",
+          "type": "artist",
+          "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/65crznT6OSNgS5riyglAKu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273522b4cb1dd67178f9d10f15e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02522b4cb1dd67178f9d10f15e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851522b4cb1dd67178f9d10f15e",
+          "width": 64
+        }
+      ],
+      "name": "Love Generation (Edit)",
+      "release_date": "2005-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:65crznT6OSNgS5riyglAKu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id": "5YFS41yoX0YuFY39fq21oN",
+        "name": "Bob Sinclar",
+        "type": "artist",
+        "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cSQyZg5t274Y3Nv0uuwjd",
+        "id": "2cSQyZg5t274Y3Nv0uuwjd",
+        "name": "Gary Pine",
+        "type": "artist",
+        "uri": "spotify:artist:2cSQyZg5t274Y3Nv0uuwjd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7iee007QypdrTXbLVF5KuF",
+    "is_local": false,
+    "name": "Love Generation - Edit",
+    "preview_url": null
+  }
+]
