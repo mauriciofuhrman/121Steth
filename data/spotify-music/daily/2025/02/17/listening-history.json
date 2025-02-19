@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+          "id": "4tX2TplrkIP4v05BNC903e",
+          "name": "Tom Petty and the Heartbreakers",
+          "type": "artist",
+          "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3q6Bz38jmqRDkXI7j5Hb9Y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c3a1b46b6b846dfdfbc6a7d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c3a1b46b6b846dfdfbc6a7d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d",
+          "width": 64
+        }
+      ],
+      "name": "Greatest Hits",
+      "release_date": "2008-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:3q6Bz38jmqRDkXI7j5Hb9Y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+        "id": "4tX2TplrkIP4v05BNC903e",
+        "name": "Tom Petty and the Heartbreakers",
+        "type": "artist",
+        "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3dmqIB2Qxe2XZobw9gXxJ6",
+    "is_local": false,
+    "name": "Mary Jane's Last Dance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
           },
           "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
