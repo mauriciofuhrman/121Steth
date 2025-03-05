@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vQ0GE3mI0dAaxIMYe5g7z",
+          "id": "3vQ0GE3mI0dAaxIMYe5g7z",
+          "name": "Paulo Londra",
+          "type": "artist",
+          "uri": "spotify:artist:3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0qJkFmVwwNXP6fvSemDZqn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf7e54f668d6a31dd6566f24",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf7e54f668d6a31dd6566f24",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cf7e54f668d6a31dd6566f24",
+          "width": 64
+        }
+      ],
+      "name": "Homerun",
+      "release_date": "2019-05-23",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:0qJkFmVwwNXP6fvSemDZqn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        "href": "https://api.spotify.com/v1/artists/3vQ0GE3mI0dAaxIMYe5g7z",
+        "id": "3vQ0GE3mI0dAaxIMYe5g7z",
+        "name": "Paulo Londra",
+        "type": "artist",
+        "uri": "spotify:artist:3vQ0GE3mI0dAaxIMYe5g7z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/132ALUzVLmqYB4UsBj5qD6",
+    "is_local": false,
+    "name": "Adan y Eva",
+    "preview_url": null
+  }
+]
