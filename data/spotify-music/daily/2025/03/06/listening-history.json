@@ -4,56 +4,911 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
           },
-          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
+          "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin",
           "type": "artist",
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "href": "https://api.spotify.com/v1/albums/6P5QHz4XtxOmS5EuiGIPut",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "url": "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "url": "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "url": "https://i.scdn.co/image/ab67616d0000485190a50cfe99a4c19ff3cbfbdb",
           "width": 64
         }
       ],
-      "name": "DeBÍ TiRAR MáS FOToS",
-      "release_date": "2025-01-05",
-      "release_date_precision": "day",
-      "total_tracks": 17,
+      "name": "Led Zeppelin III (Remaster)",
+      "release_date": "1970",
+      "release_date_precision": "year",
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+      "uri": "spotify:album:6P5QHz4XtxOmS5EuiGIPut"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         },
-        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-        "id": "4q3ewBCX7sLwd24euuV69X",
-        "name": "Bad Bunny",
+        "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+        "id": "36QJpDe2go2KgaRleHCDTp",
+        "name": "Led Zeppelin",
         "type": "artist",
-        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/78lgmZwycJ3nzsdgmPPGNx",
+    "is_local": false,
+    "name": "Immigrant Song - Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+          "id": "6FBDaR13swtiWwGhX1WQsP",
+          "name": "blink-182",
+          "type": "artist",
+          "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/652N05EcNH1a4bIlUixQE2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026da502e35a7a3e48de2b0f74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+          "width": 64
+        }
+      ],
+      "name": "Enema Of The State",
+      "release_date": "1999-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:652N05EcNH1a4bIlUixQE2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2m1hi0nfMR9vdGC8UcrnwU",
+    "is_local": false,
+    "name": "All The Small Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cBh5lVMg222FFuRU7EfDE",
+          "id": "2cBh5lVMg222FFuRU7EfDE",
+          "name": "Sophie Ellis-Bextor",
+          "type": "artist",
+          "uri": "spotify:artist:2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/68ishLKwqH5oH79kUteEHG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b736151ed1c04f2d41d5f69e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b736151ed1c04f2d41d5f69e",
+          "width": 64
+        }
+      ],
+      "name": "Read My Lips (Deluxe Version)",
+      "release_date": "2002-06-06",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:68ishLKwqH5oH79kUteEHG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        "href": "https://api.spotify.com/v1/artists/2cBh5lVMg222FFuRU7EfDE",
+        "id": "2cBh5lVMg222FFuRU7EfDE",
+        "name": "Sophie Ellis-Bextor",
+        "type": "artist",
+        "uri": "spotify:artist:2cBh5lVMg222FFuRU7EfDE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4tKGFmENO69tZR9ahgZu48",
+    "is_local": false,
+    "name": "Murder On The Dancefloor",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "width": 64
+        }
+      ],
+      "name": "The Fame Monster (Deluxe Edition)",
+      "release_date": "2009-11-05",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2lTm559tuIvatlT1u0JYG2",
+    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
     "is_local": false,
-    "name": "BAILE INoLVIDABLE",
+    "name": "Bad Romance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "type": "artist",
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ylbxH7EqpsmHZCRuiYewS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851491678beaffcefac517a699e",
+          "width": 64
+        }
+      ],
+      "name": "Si Antes Te Hubiera Conocido",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ylbxH7EqpsmHZCRuiYewS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "type": "artist",
+        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WatFBLVB0x077xWeoVc2k",
+    "is_local": false,
+    "name": "Si Antes Te Hubiera Conocido",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TcnmlCSxihzWOQJ8k0rNS",
+          "id": "6TcnmlCSxihzWOQJ8k0rNS",
+          "name": "Third Eye Blind",
+          "type": "artist",
+          "uri": "spotify:artist:6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2gToC0XAblE9h3UZD6aAaQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734139c9208eeed67d2a211beb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024139c9208eeed67d2a211beb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514139c9208eeed67d2a211beb",
+          "width": 64
+        }
+      ],
+      "name": "Third Eye Blind",
+      "release_date": "1997-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2gToC0XAblE9h3UZD6aAaQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        },
+        "href": "https://api.spotify.com/v1/artists/6TcnmlCSxihzWOQJ8k0rNS",
+        "id": "6TcnmlCSxihzWOQJ8k0rNS",
+        "name": "Third Eye Blind",
+        "type": "artist",
+        "uri": "spotify:artist:6TcnmlCSxihzWOQJ8k0rNS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/42et6fnHCw1HIPSrdPprMl",
+    "is_local": false,
+    "name": "Semi-Charmed Life",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p4FqHnazRucYQHyDCdBrJ",
+          "id": "2p4FqHnazRucYQHyDCdBrJ",
+          "name": "Simple Plan",
+          "type": "artist",
+          "uri": "spotify:artist:2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3W6TEVlmaP22E4KvWY9HrS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbee462a3aa4e7ea05e07aa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbee462a3aa4e7ea05e07aa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fbee462a3aa4e7ea05e07aa5",
+          "width": 64
+        }
+      ],
+      "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+      "release_date": "2002-03-19",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:3W6TEVlmaP22E4KvWY9HrS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2p4FqHnazRucYQHyDCdBrJ",
+        "id": "2p4FqHnazRucYQHyDCdBrJ",
+        "name": "Simple Plan",
+        "type": "artist",
+        "uri": "spotify:artist:2p4FqHnazRucYQHyDCdBrJ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6otiaV2fagE3s8IvP6WkwG",
+    "is_local": false,
+    "name": "I'm Just a Kid",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E",
+          "id": "1SQRv42e4PjEYfPhS0Tk9E",
+          "name": "The Kinks",
+          "type": "artist",
+          "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6HrqKlhAQiv4GjFjwmuxDQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b662e4bab01440eb4f31793",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b662e4bab01440eb4f31793",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b662e4bab01440eb4f31793",
+          "width": 64
+        }
+      ],
+      "name": "Kinks (Deluxe Edition)",
+      "release_date": "1964-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 56,
+      "type": "album",
+      "uri": "spotify:album:6HrqKlhAQiv4GjFjwmuxDQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E",
+        "id": "1SQRv42e4PjEYfPhS0Tk9E",
+        "name": "The Kinks",
+        "type": "artist",
+        "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6tZdL3Zp8JgrfDbsSeSV1S",
+    "is_local": false,
+    "name": "You Really Got Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TcnmlCSxihzWOQJ8k0rNS",
+          "id": "6TcnmlCSxihzWOQJ8k0rNS",
+          "name": "Third Eye Blind",
+          "type": "artist",
+          "uri": "spotify:artist:6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2gToC0XAblE9h3UZD6aAaQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734139c9208eeed67d2a211beb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024139c9208eeed67d2a211beb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514139c9208eeed67d2a211beb",
+          "width": 64
+        }
+      ],
+      "name": "Third Eye Blind",
+      "release_date": "1997-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2gToC0XAblE9h3UZD6aAaQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        },
+        "href": "https://api.spotify.com/v1/artists/6TcnmlCSxihzWOQJ8k0rNS",
+        "id": "6TcnmlCSxihzWOQJ8k0rNS",
+        "name": "Third Eye Blind",
+        "type": "artist",
+        "uri": "spotify:artist:6TcnmlCSxihzWOQJ8k0rNS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/42et6fnHCw1HIPSrdPprMl",
+    "is_local": false,
+    "name": "Semi-Charmed Life",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          },
+          "href": "https://api.spotify.com/v1/artists/39T6qqI0jDtSWWioX8eGJz",
+          "id": "39T6qqI0jDtSWWioX8eGJz",
+          "name": "The Doobie Brothers",
+          "type": "artist",
+          "uri": "spotify:artist:39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2x1Yi30lsWJUoBj1kmovnm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0291b51fa9b5967fb34c044498",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485191b51fa9b5967fb34c044498",
+          "width": 64
+        }
+      ],
+      "name": "Toulouse Street",
+      "release_date": "1972",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2x1Yi30lsWJUoBj1kmovnm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        "href": "https://api.spotify.com/v1/artists/39T6qqI0jDtSWWioX8eGJz",
+        "id": "39T6qqI0jDtSWWioX8eGJz",
+        "name": "The Doobie Brothers",
+        "type": "artist",
+        "uri": "spotify:artist:39T6qqI0jDtSWWioX8eGJz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7Ar4G7Ci11gpt6sfH9Cgz5",
+    "is_local": false,
+    "name": "Listen to the Music",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Di4m5k1BtMJ0R44bWNutu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0293c65b02f4a72cd6eccf446d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d",
+          "width": 64
+        }
+      ],
+      "name": "News Of The World (Deluxe Remastered Version)",
+      "release_date": "1977-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6Di4m5k1BtMJ0R44bWNutu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "type": "artist",
+        "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/54flyrjcdnQdco7300avMJ",
+    "is_local": false,
+    "name": "We Will Rock You - Remastered 2011",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+          "id": "6FBDaR13swtiWwGhX1WQsP",
+          "name": "blink-182",
+          "type": "artist",
+          "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/652N05EcNH1a4bIlUixQE2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026da502e35a7a3e48de2b0f74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+          "width": 64
+        }
+      ],
+      "name": "Enema Of The State",
+      "release_date": "1999-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:652N05EcNH1a4bIlUixQE2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2m1hi0nfMR9vdGC8UcrnwU",
+    "is_local": false,
+    "name": "All The Small Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vdU5KvV0nDAjPRfpRKjRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vdU5KvV0nDAjPRfpRKjRL",
+          "id": "1vdU5KvV0nDAjPRfpRKjRL",
+          "name": "Skyhooks",
+          "type": "artist",
+          "uri": "spotify:artist:1vdU5KvV0nDAjPRfpRKjRL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2lZJkkYypFSVqkstX1B5vu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27338cb4beac7ea30548ced8235",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0238cb4beac7ea30548ced8235",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485138cb4beac7ea30548ced8235",
+          "width": 64
+        }
+      ],
+      "name": "Living In The 70's (2024 Remaster)",
+      "release_date": "1974-10-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2lZJkkYypFSVqkstX1B5vu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vdU5KvV0nDAjPRfpRKjRL"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vdU5KvV0nDAjPRfpRKjRL",
+        "id": "1vdU5KvV0nDAjPRfpRKjRL",
+        "name": "Skyhooks",
+        "type": "artist",
+        "uri": "spotify:artist:1vdU5KvV0nDAjPRfpRKjRL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/43rtnegL5YHTZ7i3Ge2LQL",
+    "is_local": false,
+    "name": "Living In The 70's - 2024 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2th8vLqYKk3joxETdAZ2OB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2th8vLqYKk3joxETdAZ2OB",
+          "id": "2th8vLqYKk3joxETdAZ2OB",
+          "name": "Sunnyboys",
+          "type": "artist",
+          "uri": "spotify:artist:2th8vLqYKk3joxETdAZ2OB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3avNYPQrtAxtqlBRrw9wJo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e40b3fca9ebfde4e99f21f68",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e40b3fca9ebfde4e99f21f68",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e40b3fca9ebfde4e99f21f68",
+          "width": 64
+        }
+      ],
+      "name": "Sunnyboys (Expanded Edition)",
+      "release_date": "1988-12-19",
+      "release_date_precision": "day",
+      "total_tracks": 37,
+      "type": "album",
+      "uri": "spotify:album:3avNYPQrtAxtqlBRrw9wJo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2th8vLqYKk3joxETdAZ2OB"
+        },
+        "href": "https://api.spotify.com/v1/artists/2th8vLqYKk3joxETdAZ2OB",
+        "id": "2th8vLqYKk3joxETdAZ2OB",
+        "name": "Sunnyboys",
+        "type": "artist",
+        "uri": "spotify:artist:2th8vLqYKk3joxETdAZ2OB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0cK7vBvgmRQVJpqgNwehch",
+    "is_local": false,
+    "name": "Alone with You - 2014 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+          "id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "Nirvana",
+          "type": "artist",
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2guirTSEqLizK7j9i1MTTZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e175a19e530c898d167d39bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e175a19e530c898d167d39bf",
+          "width": 64
+        }
+      ],
+      "name": "Nevermind (Remastered)",
+      "release_date": "1991-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+        "id": "6olE6TJLqED3rqDCT0FyPh",
+        "name": "Nirvana",
+        "type": "artist",
+        "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ghIJDpPoe3CfHMGu71E6T",
+    "is_local": false,
+    "name": "Smells Like Teen Spirit",
     "preview_url": null
   }
 ]
