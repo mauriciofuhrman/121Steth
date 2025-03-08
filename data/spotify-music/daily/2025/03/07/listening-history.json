@@ -4,6 +4,415 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6V6WCgi7waF55bJmylC4H5",
+          "id": "6V6WCgi7waF55bJmylC4H5",
+          "name": "Gloria Gaynor",
+          "type": "artist",
+          "uri": "spotify:artist:6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2BU2SNYoIPtZvGEJckdIhx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a6479db910d22f5aa4546af1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a6479db910d22f5aa4546af1",
+          "width": 64
+        }
+      ],
+      "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+      "release_date": "2000-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2BU2SNYoIPtZvGEJckdIhx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6V6WCgi7waF55bJmylC4H5",
+        "id": "6V6WCgi7waF55bJmylC4H5",
+        "name": "Gloria Gaynor",
+        "type": "artist",
+        "uri": "spotify:artist:6V6WCgi7waF55bJmylC4H5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7cv28LXcjAC3GsXbUvXKbX",
+    "is_local": false,
+    "name": "I Will Survive - Single Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7IouDrXPdAZwT1NzVV3vef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba30859a1ca79c5a372d177a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a",
+          "width": 64
+        }
+      ],
+      "name": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:7IouDrXPdAZwT1NzVV3vef"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/76TbnpxuGqxsiw13fB6ZLl",
+    "is_local": false,
+    "name": "Sober Side of Sorry",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+          "id": "0EdvGhlC1FkGItLOWQzG4J",
+          "name": "Sublime",
+          "type": "artist",
+          "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/14eK347GdWO4mBBx78tsut",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738fc4b0dcfb9509553f195c85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028fc4b0dcfb9509553f195c85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518fc4b0dcfb9509553f195c85",
+          "width": 64
+        }
+      ],
+      "name": "Sublime",
+      "release_date": "1996-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:14eK347GdWO4mBBx78tsut"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        "href": "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+        "id": "0EdvGhlC1FkGItLOWQzG4J",
+        "name": "Sublime",
+        "type": "artist",
+        "uri": "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hnMS47jN0etwvFPzYk11f",
+    "is_local": false,
+    "name": "Santeria",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UjifI1TYefXWn9GdqDOHl",
+          "id": "5UjifI1TYefXWn9GdqDOHl",
+          "name": "Social House",
+          "type": "artist",
+          "uri": "spotify:artist:5UjifI1TYefXWn9GdqDOHl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3p81zUBFZ3zdzxceXKeVSK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273013314e9861a2c4a796b2176",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02013314e9861a2c4a796b2176",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851013314e9861a2c4a796b2176",
+          "width": 64
+        }
+      ],
+      "name": "Magic In The Hamptons (feat. Lil Yachty)",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3p81zUBFZ3zdzxceXKeVSK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        },
+        "href": "https://api.spotify.com/v1/artists/5UjifI1TYefXWn9GdqDOHl",
+        "id": "5UjifI1TYefXWn9GdqDOHl",
+        "name": "Social House",
+        "type": "artist",
+        "uri": "spotify:artist:5UjifI1TYefXWn9GdqDOHl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+        "id": "6icQOAFXDZKsumw3YXyusw",
+        "name": "Lil Yachty",
+        "type": "artist",
+        "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Yer0p7uB2lVBUAtANuuQp",
+    "is_local": false,
+    "name": "Magic In The Hamptons (feat. Lil Yachty)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Hb64DQZIhDCgyHKrzBXOL",
+          "id": "3Hb64DQZIhDCgyHKrzBXOL",
+          "name": "Daði Freyr",
+          "type": "artist",
+          "uri": "spotify:artist:3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3wnnkEyvrINGbPfVbIzAXs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0240d0f2a4d4c9b5b7ac978f4b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485140d0f2a4d4c9b5b7ac978f4b",
+          "width": 64
+        }
+      ],
+      "name": "Think About Things",
+      "release_date": "2020-04-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3wnnkEyvrINGbPfVbIzAXs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Hb64DQZIhDCgyHKrzBXOL",
+        "id": "3Hb64DQZIhDCgyHKrzBXOL",
+        "name": "Daði Freyr",
+        "type": "artist",
+        "uri": "spotify:artist:3Hb64DQZIhDCgyHKrzBXOL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/77yGu0p7APK39lotu7CLk5",
+    "is_local": false,
+    "name": "Think About Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+          "id": "3VRyybsQu0MDG0F2LBxnv7",
+          "name": "Noizu",
+          "type": "artist",
+          "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19OOCxedf9ejRmbGV83P5x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf234a44d54467c78fb779a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf234a44d54467c78fb779a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cf234a44d54467c78fb779a5",
+          "width": 64
+        }
+      ],
+      "name": "Moon Groove",
+      "release_date": "2022-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:19OOCxedf9ejRmbGV83P5x"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+        "id": "3VRyybsQu0MDG0F2LBxnv7",
+        "name": "Noizu",
+        "type": "artist",
+        "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0TAIIxetpsMUEPOHZkQO9J",
+    "is_local": false,
+    "name": "Moon Groove",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist",
+          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0UMMIkurRUmkruZ3KGBLtG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6e0948bbb0681ff29cdbae8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
+          "width": 64
+        }
+      ],
+      "name": "2014 Forest Hills Drive",
+      "release_date": "2014-12-09",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0UMMIkurRUmkruZ3KGBLtG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "type": "artist",
+        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4tqcoej1zPvwePZCzuAjJd",
+    "is_local": false,
+    "name": "Wet Dreamz",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
           },
           "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
