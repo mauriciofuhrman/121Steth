@@ -1,0 +1,126 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+          },
+          "href": "https://api.spotify.com/v1/artists/1IxQVSOg5GFGdGfL7zjpau",
+          "id": "1IxQVSOg5GFGdGfL7zjpau",
+          "name": "The Wolfe Tones",
+          "type": "artist",
+          "uri": "spotify:artist:1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1izln1wMAOFer2o0MIpLrY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27395ba66375bfe427168e82b8a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0295ba66375bfe427168e82b8a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485195ba66375bfe427168e82b8a",
+          "width": 64
+        }
+      ],
+      "name": "At Their Very Best Live",
+      "release_date": "2010-07-09",
+      "release_date_precision": "day",
+      "total_tracks": 37,
+      "type": "album",
+      "uri": "spotify:album:1izln1wMAOFer2o0MIpLrY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        },
+        "href": "https://api.spotify.com/v1/artists/1IxQVSOg5GFGdGfL7zjpau",
+        "id": "1IxQVSOg5GFGdGfL7zjpau",
+        "name": "The Wolfe Tones",
+        "type": "artist",
+        "uri": "spotify:artist:1IxQVSOg5GFGdGfL7zjpau"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Lw9Idcf0blvxUyhLLvwd1",
+    "is_local": false,
+    "name": "Grace",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5lJqux7orBlA1QzyiBGti1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+          "width": 64
+        }
+      ],
+      "name": "YHLQMDLG",
+      "release_date": "2020-02-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5lJqux7orBlA1QzyiBGti1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+        "id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "type": "artist",
+        "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/69vlMrzHwATKzupwNcUPyK",
+    "is_local": false,
+    "name": "La Santa",
+    "preview_url": null
+  }
+]
