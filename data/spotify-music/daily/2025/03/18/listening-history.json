@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AvkHD7M6kp9dDv84BZXr0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AvkHD7M6kp9dDv84BZXr0",
+          "id": "6AvkHD7M6kp9dDv84BZXr0",
+          "name": "El Barbaro",
+          "type": "artist",
+          "uri": "spotify:artist:6AvkHD7M6kp9dDv84BZXr0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6VOpY0eDVg1np4hRZNL7C6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0c0c1ed8e48ec16814801e4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0c0c1ed8e48ec16814801e4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e0c0c1ed8e48ec16814801e4",
+          "width": 64
+        }
+      ],
+      "name": "CHARM",
+      "release_date": "2025-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6VOpY0eDVg1np4hRZNL7C6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AvkHD7M6kp9dDv84BZXr0"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AvkHD7M6kp9dDv84BZXr0",
+        "id": "6AvkHD7M6kp9dDv84BZXr0",
+        "name": "El Barbaro",
+        "type": "artist",
+        "uri": "spotify:artist:6AvkHD7M6kp9dDv84BZXr0"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0Bt0yvbqefUoohUAh6R3lT",
+    "is_local": false,
+    "name": "CHARM",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
           },
           "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
