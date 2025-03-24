@@ -13,6 +13,63 @@
           "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
+      "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+          "width": 64
+        }
+      ],
+      "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "release_date": "1991-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:30Perjew8HyGkdSmqguYyg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
+    "is_local": false,
+    "name": "Under the Bridge",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
       "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
       "images": [
         {
@@ -168,130 +225,6 @@
     "href": "https://api.spotify.com/v1/tracks/3ZOEytgrvLwQaqXreDs2Jx",
     "is_local": false,
     "name": "Can't Stop",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-          },
-          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "type": "artist",
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
-          "width": 64
-        }
-      ],
-      "name": "DeBÍ TiRAR MáS FOToS",
-      "release_date": "2025-01-05",
-      "release_date_precision": "day",
-      "total_tracks": 17,
-      "type": "album",
-      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-        "id": "4q3ewBCX7sLwd24euuV69X",
-        "name": "Bad Bunny",
-        "type": "artist",
-        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        },
-        "href": "https://api.spotify.com/v1/artists/1uZVxckdGGKhFMpCnupXmP",
-        "id": "1uZVxckdGGKhFMpCnupXmP",
-        "name": "Los Pleneros de la Cresta",
-        "type": "artist",
-        "uri": "spotify:artist:1uZVxckdGGKhFMpCnupXmP"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6VNXmo59yDYgcwLS17UNAW",
-    "is_local": false,
-    "name": "CAFé CON RON",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-          },
-          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "type": "artist",
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
-          "width": 64
-        }
-      ],
-      "name": "DeBÍ TiRAR MáS FOToS",
-      "release_date": "2025-01-05",
-      "release_date_precision": "day",
-      "total_tracks": 17,
-      "type": "album",
-      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-        "id": "4q3ewBCX7sLwd24euuV69X",
-        "name": "Bad Bunny",
-        "type": "artist",
-        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2lTm559tuIvatlT1u0JYG2",
-    "is_local": false,
-    "name": "BAILE INoLVIDABLE",
     "preview_url": null
   }
 ]
