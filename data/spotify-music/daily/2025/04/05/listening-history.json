@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL",
+          "name": "Eagles",
+          "type": "artist",
+          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/51B7LbLWgYLKBVSpkan8Z7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c13acd642ba9f6f5f127aa1b",
+          "width": 64
+        }
+      ],
+      "name": "Eagles (2013 Remaster)",
+      "release_date": "1972-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:51B7LbLWgYLKBVSpkan8Z7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+        "id": "0ECwFtbIWEVNwjlrfc6xoL",
+        "name": "Eagles",
+        "type": "artist",
+        "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4yugZvBYaoREkJKtbG08Qr",
+    "is_local": false,
+    "name": "Take It Easy - 2013 Remaster",
+    "preview_url": null
+  }
+]
