@@ -4,6 +4,73 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4Q7cRXio6mF2ImVUCcezPO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e286ee36b4015afa8832356a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e286ee36b4015afa8832356a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e286ee36b4015afa8832356a",
+          "width": 64
+        }
+      ],
+      "name": "For All The Dogs Scary Hours Edition",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:4Q7cRXio6mF2ImVUCcezPO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "type": "artist",
+        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2ut4BOQSqxLpcX5MtPjzYa",
+    "is_local": false,
+    "name": "Evil Ways (feat. J. Cole)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
           },
           "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
@@ -84,234 +151,6 @@
     "href": "https://api.spotify.com/v1/tracks/2tudvzsrR56uom6smgOcSf",
     "is_local": false,
     "name": "Like That",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-          },
-          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "type": "artist",
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4BrJhFl3j50A69ZktbzZAg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f68d3148a46b457e05f2acde",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f68d3148a46b457e05f2acde",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f68d3148a46b457e05f2acde",
-          "width": 64
-        }
-      ],
-      "name": "Amorfoda",
-      "release_date": "2018-02-15",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:4BrJhFl3j50A69ZktbzZAg"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-        "id": "4q3ewBCX7sLwd24euuV69X",
-        "name": "Bad Bunny",
-        "type": "artist",
-        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/68QcquxCS39cQGTsRrJWIR",
-    "is_local": false,
-    "name": "Amorfoda",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-          },
-          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "type": "artist",
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
-          "width": 64
-        }
-      ],
-      "name": "DeBÍ TiRAR MáS FOToS",
-      "release_date": "2025-01-05",
-      "release_date_precision": "day",
-      "total_tracks": 17,
-      "type": "album",
-      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-        "id": "4q3ewBCX7sLwd24euuV69X",
-        "name": "Bad Bunny",
-        "type": "artist",
-        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2lTm559tuIvatlT1u0JYG2",
-    "is_local": false,
-    "name": "BAILE INoLVIDABLE",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-          },
-          "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-          "id": "0ECwFtbIWEVNwjlrfc6xoL",
-          "name": "Eagles",
-          "type": "artist",
-          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/2widuo17g5CEC66IbzveRu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
-          "width": 64
-        }
-      ],
-      "name": "Hotel California (2013 Remaster)",
-      "release_date": "1976-12-08",
-      "release_date_precision": "day",
-      "total_tracks": 9,
-      "type": "album",
-      "uri": "spotify:album:2widuo17g5CEC66IbzveRu"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        },
-        "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-        "id": "0ECwFtbIWEVNwjlrfc6xoL",
-        "name": "Eagles",
-        "type": "artist",
-        "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/40riOy7x9W7GXjyGp4pjAv",
-    "is_local": false,
-    "name": "Hotel California - 2013 Remaster",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-          },
-          "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-          "id": "0ECwFtbIWEVNwjlrfc6xoL",
-          "name": "Eagles",
-          "type": "artist",
-          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/51B7LbLWgYLKBVSpkan8Z7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851c13acd642ba9f6f5f127aa1b",
-          "width": 64
-        }
-      ],
-      "name": "Eagles (2013 Remaster)",
-      "release_date": "1972-06-01",
-      "release_date_precision": "day",
-      "total_tracks": 10,
-      "type": "album",
-      "uri": "spotify:album:51B7LbLWgYLKBVSpkan8Z7"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        },
-        "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-        "id": "0ECwFtbIWEVNwjlrfc6xoL",
-        "name": "Eagles",
-        "type": "artist",
-        "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4yugZvBYaoREkJKtbG08Qr",
-    "is_local": false,
-    "name": "Take It Easy - 2013 Remaster",
     "preview_url": null
   }
 ]
