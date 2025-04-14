@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1G391cbiT3v3Cywg8T7DM1",
+    "is_local": false,
+    "name": "Scar Tissue",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+          "width": 64
+        }
+      ],
+      "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "release_date": "1991-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:30Perjew8HyGkdSmqguYyg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
+    "is_local": false,
+    "name": "Under the Bridge",
+    "preview_url": null
+  }
+]
