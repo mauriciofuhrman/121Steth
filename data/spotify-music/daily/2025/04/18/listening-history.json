@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "type": "artist",
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ylbxH7EqpsmHZCRuiYewS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851491678beaffcefac517a699e",
+          "width": 64
+        }
+      ],
+      "name": "Si Antes Te Hubiera Conocido",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ylbxH7EqpsmHZCRuiYewS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "type": "artist",
+        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WatFBLVB0x077xWeoVc2k",
+    "is_local": false,
+    "name": "Si Antes Te Hubiera Conocido",
+    "preview_url": null
+  }
+]
