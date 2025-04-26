@@ -4,6 +4,398 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GVuCyb4PlArufUZDUnRQi",
+          "id": "1GVuCyb4PlArufUZDUnRQi",
+          "name": "southstar",
+          "type": "artist",
+          "uri": "spotify:artist:1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4fmtd5CduUYx2bmMOvXwX4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731b5f2557a7fe884d0e3d8b2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021b5f2557a7fe884d0e3d8b2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511b5f2557a7fe884d0e3d8b2a",
+          "width": 64
+        }
+      ],
+      "name": "Miss You",
+      "release_date": "2022-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4fmtd5CduUYx2bmMOvXwX4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        "href": "https://api.spotify.com/v1/artists/1GVuCyb4PlArufUZDUnRQi",
+        "id": "1GVuCyb4PlArufUZDUnRQi",
+        "name": "southstar",
+        "type": "artist",
+        "uri": "spotify:artist:1GVuCyb4PlArufUZDUnRQi"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4tRhRLBxIZ34Iw0eCuiC03",
+    "is_local": false,
+    "name": "Miss You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1CEODgTmTwLyabvwd7HBty",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e21cc1db05580b6f2d2a3b6e",
+          "width": 64
+        }
+      ],
+      "name": "Viva La Vida or Death and All His Friends",
+      "release_date": "2008-06-06",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1CEODgTmTwLyabvwd7HBty"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1mea3bSkSGXuIRvnydlB5b",
+    "is_local": false,
+    "name": "Viva La Vida",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1CEODgTmTwLyabvwd7HBty",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e21cc1db05580b6f2d2a3b6e",
+          "width": 64
+        }
+      ],
+      "name": "Viva La Vida or Death and All His Friends",
+      "release_date": "2008-06-06",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1CEODgTmTwLyabvwd7HBty"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1mea3bSkSGXuIRvnydlB5b",
+    "is_local": false,
+    "name": "Viva La Vida",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jeg7JBX9J9097esK752iR",
+          "id": "6jeg7JBX9J9097esK752iR",
+          "name": "Smiley",
+          "type": "artist",
+          "uri": "spotify:artist:6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2ioMOjxtndeNFrssEFnIjF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273029c7ad2659fcc983ba27b51",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02029c7ad2659fcc983ba27b51",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851029c7ad2659fcc983ba27b51",
+          "width": 64
+        }
+      ],
+      "name": "Buy or Bye 2",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2ioMOjxtndeNFrssEFnIjF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jeg7JBX9J9097esK752iR",
+        "id": "6jeg7JBX9J9097esK752iR",
+        "name": "Smiley",
+        "type": "artist",
+        "uri": "spotify:artist:6jeg7JBX9J9097esK752iR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/22ruOqBqBRiZDiXFud4OXa",
+    "is_local": false,
+    "name": "Over The Top (feat. Drake)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bQ3wFgekuIMIcWJuxkqLK",
+          "id": "5bQ3wFgekuIMIcWJuxkqLK",
+          "name": "Chrystal",
+          "type": "artist",
+          "uri": "spotify:artist:5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1uRVM0wBdtyEuU582EeKJM",
+          "id": "1uRVM0wBdtyEuU582EeKJM",
+          "name": "NOTION",
+          "type": "artist",
+          "uri": "spotify:artist:1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/15gT6ikjvzrlIxQ5eTpqLJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029041b9965925059507fb44af",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
+          "width": 64
+        }
+      ],
+      "name": "The Days (NOTION Remix)",
+      "release_date": "2024-11-08",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:15gT6ikjvzrlIxQ5eTpqLJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5bQ3wFgekuIMIcWJuxkqLK",
+        "id": "5bQ3wFgekuIMIcWJuxkqLK",
+        "name": "Chrystal",
+        "type": "artist",
+        "uri": "spotify:artist:5bQ3wFgekuIMIcWJuxkqLK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uRVM0wBdtyEuU582EeKJM",
+        "id": "1uRVM0wBdtyEuU582EeKJM",
+        "name": "NOTION",
+        "type": "artist",
+        "uri": "spotify:artist:1uRVM0wBdtyEuU582EeKJM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2FAZskT9yRjp2Oow9szJD8",
+    "is_local": false,
+    "name": "The Days - NOTION Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bQ3wFgekuIMIcWJuxkqLK",
+          "id": "5bQ3wFgekuIMIcWJuxkqLK",
+          "name": "Chrystal",
+          "type": "artist",
+          "uri": "spotify:artist:5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1uRVM0wBdtyEuU582EeKJM",
+          "id": "1uRVM0wBdtyEuU582EeKJM",
+          "name": "NOTION",
+          "type": "artist",
+          "uri": "spotify:artist:1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/15gT6ikjvzrlIxQ5eTpqLJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029041b9965925059507fb44af",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
+          "width": 64
+        }
+      ],
+      "name": "The Days (NOTION Remix)",
+      "release_date": "2024-11-08",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:15gT6ikjvzrlIxQ5eTpqLJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        "href": "https://api.spotify.com/v1/artists/5bQ3wFgekuIMIcWJuxkqLK",
+        "id": "5bQ3wFgekuIMIcWJuxkqLK",
+        "name": "Chrystal",
+        "type": "artist",
+        "uri": "spotify:artist:5bQ3wFgekuIMIcWJuxkqLK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        "href": "https://api.spotify.com/v1/artists/1uRVM0wBdtyEuU582EeKJM",
+        "id": "1uRVM0wBdtyEuU582EeKJM",
+        "name": "NOTION",
+        "type": "artist",
+        "uri": "spotify:artist:1uRVM0wBdtyEuU582EeKJM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2FAZskT9yRjp2Oow9szJD8",
+    "is_local": false,
+    "name": "The Days - NOTION Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
           },
           "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
