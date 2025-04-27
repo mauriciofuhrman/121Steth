@@ -4,6 +4,207 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/00dwwnz3V4kRfu3UFYpJLz",
+          "id": "00dwwnz3V4kRfu3UFYpJLz",
+          "name": "Cherub",
+          "type": "artist",
+          "uri": "spotify:artist:00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/070DVvXuLD3fM3KYs47tas",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738544567bdc5afbafaffc3449",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028544567bdc5afbafaffc3449",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518544567bdc5afbafaffc3449",
+          "width": 64
+        }
+      ],
+      "name": "Year of the Caprese",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:070DVvXuLD3fM3KYs47tas"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        },
+        "href": "https://api.spotify.com/v1/artists/00dwwnz3V4kRfu3UFYpJLz",
+        "id": "00dwwnz3V4kRfu3UFYpJLz",
+        "name": "Cherub",
+        "type": "artist",
+        "uri": "spotify:artist:00dwwnz3V4kRfu3UFYpJLz"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/44CZRkOxv7UItaAUmh8PgN",
+    "is_local": false,
+    "name": "Doses & Mimosas",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
+          "id": "0XeEobZplHxzM9QzFQWLiR",
+          "name": "Eslabon Armado",
+          "type": "artist",
+          "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+          "id": "12GqGscKJx3aE4t07u7eVZ",
+          "name": "Peso Pluma",
+          "type": "artist",
+          "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Mm1P5CEEAiuJqBclr2EyU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732071a0c79802d9375a53bfef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022071a0c79802d9375a53bfef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512071a0c79802d9375a53bfef",
+          "width": 64
+        }
+      ],
+      "name": "Ella Baila Sola",
+      "release_date": "2023-03-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3Mm1P5CEEAiuJqBclr2EyU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
+        "id": "0XeEobZplHxzM9QzFQWLiR",
+        "name": "Eslabon Armado",
+        "type": "artist",
+        "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+        "id": "12GqGscKJx3aE4t07u7eVZ",
+        "name": "Peso Pluma",
+        "type": "artist",
+        "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3dnP0JxCgygwQH9Gm7q7nb",
+    "is_local": false,
+    "name": "Ella Baila Sola",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jeg7JBX9J9097esK752iR",
+          "id": "6jeg7JBX9J9097esK752iR",
+          "name": "Smiley",
+          "type": "artist",
+          "uri": "spotify:artist:6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2ioMOjxtndeNFrssEFnIjF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273029c7ad2659fcc983ba27b51",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02029c7ad2659fcc983ba27b51",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851029c7ad2659fcc983ba27b51",
+          "width": 64
+        }
+      ],
+      "name": "Buy or Bye 2",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2ioMOjxtndeNFrssEFnIjF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jeg7JBX9J9097esK752iR",
+        "id": "6jeg7JBX9J9097esK752iR",
+        "name": "Smiley",
+        "type": "artist",
+        "uri": "spotify:artist:6jeg7JBX9J9097esK752iR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/22ruOqBqBRiZDiXFud4OXa",
+    "is_local": false,
+    "name": "Over The Top (feat. Drake)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
           },
           "href": "https://api.spotify.com/v1/artists/5bQ3wFgekuIMIcWJuxkqLK",
