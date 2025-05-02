@@ -4,6 +4,83 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Alemán",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pV5zH2LzjOUHaAvENdMMa",
+          "id": "6pV5zH2LzjOUHaAvENdMMa",
+          "name": "Neton Vega",
+          "type": "artist",
+          "uri": "spotify:artist:6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PgvJGHxtoablFQjDI2pQF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ae64174efffec9d44d5152a8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ae64174efffec9d44d5152a8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ae64174efffec9d44d5152a8",
+          "width": 64
+        }
+      ],
+      "name": "Te Quería Ver",
+      "release_date": "2025-01-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3PgvJGHxtoablFQjDI2pQF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+        "id": "4QFG9KrGWEbr6hNA58CAqE",
+        "name": "Alemán",
+        "type": "artist",
+        "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        "href": "https://api.spotify.com/v1/artists/6pV5zH2LzjOUHaAvENdMMa",
+        "id": "6pV5zH2LzjOUHaAvENdMMa",
+        "name": "Neton Vega",
+        "type": "artist",
+        "uri": "spotify:artist:6pV5zH2LzjOUHaAvENdMMa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/78HEzDEs1QUnHB2DbxgC1s",
+    "is_local": false,
+    "name": "Te Quería Ver",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
           },
           "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
