@@ -1,0 +1,183 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2z3NlPY0n0gHJPCPqrzA6V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27358599e61e8a0487443d31bb6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0258599e61e8a0487443d31bb6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485158599e61e8a0487443d31bb6",
+          "width": 64
+        }
+      ],
+      "name": "Sneakin’",
+      "release_date": "2016-10-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2z3NlPY0n0gHJPCPqrzA6V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "type": "artist",
+        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4ckuS4Nj4FZ7i3Def3Br8W",
+    "is_local": false,
+    "name": "Sneakin’",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan",
+          "type": "artist",
+          "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/50ZenUP4O2Q5eCy2NRNvuz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ee35072df1af802cca09918",
+          "width": 64
+        }
+      ],
+      "name": "Stick Season",
+      "release_date": "2022-10-14",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+        "id": "2RQXRUsr4IW1f3mKyKsy4B",
+        "name": "Noah Kahan",
+        "type": "artist",
+        "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0mflMxspEfB0VbI1kyLiAv",
+    "is_local": false,
+    "name": "Stick Season",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3oKRxpszQKUjjaHz388fVA",
+          "id": "3oKRxpszQKUjjaHz388fVA",
+          "name": "Parcels",
+          "type": "artist",
+          "uri": "spotify:artist:3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4ckyPfMqe26PrOgEWdjWns",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738a39d1a2a747e9c7336a25ce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028a39d1a2a747e9c7336a25ce",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518a39d1a2a747e9c7336a25ce",
+          "width": 64
+        }
+      ],
+      "name": "Live Vol. 1",
+      "release_date": "2020-04-29",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:4ckyPfMqe26PrOgEWdjWns"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oKRxpszQKUjjaHz388fVA",
+        "id": "3oKRxpszQKUjjaHz388fVA",
+        "name": "Parcels",
+        "type": "artist",
+        "uri": "spotify:artist:3oKRxpszQKUjjaHz388fVA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3R1DPDoWdFdPeBj4aLwqBo",
+    "is_local": false,
+    "name": "Bemyself - from Hansa Studios, Berlin",
+    "preview_url": null
+  }
+]
