@@ -1,0 +1,793 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd",
+          "type": "artist",
+          "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0bCAjiUamIFqKJsekOYuRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a84d71391df7469c5ab8539",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a84d71391df7469c5ab8539",
+          "width": 64
+        }
+      ],
+      "name": "Wish You Were Here",
+      "release_date": "1975-09-12",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:0bCAjiUamIFqKJsekOYuRw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6mFkJmJqdDVQ1REhVfGgd1",
+    "is_local": false,
+    "name": "Wish You Were Here",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/26HAAGfOhnc0CqqcHoaQGD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321b550b66cf1391c6642088c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221b550b66cf1391c6642088c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121b550b66cf1391c6642088c",
+          "width": 64
+        }
+      ],
+      "name": "Cleopatra",
+      "release_date": "2016-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:26HAAGfOhnc0CqqcHoaQGD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/14AyWf6y7KlWWLfAjdKMKI",
+    "is_local": false,
+    "name": "Ophelia",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5B6XfyHHYawyLkEvNvhSPh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3aa0e6ca22a382007f61e4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3aa0e6ca22a382007f61e4d",
+          "width": 64
+        }
+      ],
+      "name": "Walking On A Dream (10th Anniversary Edition)",
+      "release_date": "2008-10-03",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5B6XfyHHYawyLkEvNvhSPh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5r5cp9IpziiIsR6b93vcnQ",
+    "is_local": false,
+    "name": "Walking On A Dream",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3oKRxpszQKUjjaHz388fVA",
+          "id": "3oKRxpszQKUjjaHz388fVA",
+          "name": "Parcels",
+          "type": "artist",
+          "uri": "spotify:artist:3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5v7PsESglCFeVcb7wNEWIW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735293681f1d72c22430e382e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025293681f1d72c22430e382e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515293681f1d72c22430e382e0",
+          "width": 64
+        }
+      ],
+      "name": "Tieduprightnow",
+      "release_date": "2018-04-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5v7PsESglCFeVcb7wNEWIW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oKRxpszQKUjjaHz388fVA",
+        "id": "3oKRxpszQKUjjaHz388fVA",
+        "name": "Parcels",
+        "type": "artist",
+        "uri": "spotify:artist:3oKRxpszQKUjjaHz388fVA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/66tkDkPsznE5zIHNt4QkXB",
+    "is_local": false,
+    "name": "Tieduprightnow",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+          "name": "The Lumineers",
+          "type": "artist",
+          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2MTEiVNgRgIvVIrJAqHNBu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f350c13195ce048876b5fea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4",
+          "width": 64
+        }
+      ],
+      "name": "The Lumineers",
+      "release_date": "2012-04-03",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2MTEiVNgRgIvVIrJAqHNBu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id": "16oZKvXb6WkQlVAjwo2Wbg",
+        "name": "The Lumineers",
+        "type": "artist",
+        "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wG82w1L31yQhgGiWt6gIb",
+    "is_local": false,
+    "name": "Stubborn Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5B6XfyHHYawyLkEvNvhSPh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3aa0e6ca22a382007f61e4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3aa0e6ca22a382007f61e4d",
+          "width": 64
+        }
+      ],
+      "name": "Walking On A Dream (10th Anniversary Edition)",
+      "release_date": "2008-10-03",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5B6XfyHHYawyLkEvNvhSPh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3zEN0ii6s4DHHBpnTp3RP7",
+    "is_local": false,
+    "name": "We Are The People",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          },
+          "href": "https://api.spotify.com/v1/artists/2D4FOOOtWycb3Aw9nY5n3c",
+          "id": "2D4FOOOtWycb3Aw9nY5n3c",
+          "name": "Declan McKenna",
+          "type": "artist",
+          "uri": "spotify:artist:2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3HJiLDJgWA9Z0MvCxlzHYQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec8be21d32e663885fbb244e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec8be21d32e663885fbb244e",
+          "width": 64
+        }
+      ],
+      "name": "What Do You Think About the Car?",
+      "release_date": "2017-04-13",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3HJiLDJgWA9Z0MvCxlzHYQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        },
+        "href": "https://api.spotify.com/v1/artists/2D4FOOOtWycb3Aw9nY5n3c",
+        "id": "2D4FOOOtWycb3Aw9nY5n3c",
+        "name": "Declan McKenna",
+        "type": "artist",
+        "uri": "spotify:artist:2D4FOOOtWycb3Aw9nY5n3c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4sNG6zQBmtq7M8aeeKJRMQ",
+    "is_local": false,
+    "name": "Brazil",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          },
+          "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+          "id": "1hzfo8twXdOegF3xireCYs",
+          "name": "Milky Chance",
+          "type": "artist",
+          "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3AWjk0oVV9YAY9r9boiffN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273266539b00fd32cbcb7579f6c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02266539b00fd32cbcb7579f6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851266539b00fd32cbcb7579f6c",
+          "width": 64
+        }
+      ],
+      "name": "Sadnecessary (Bonus Track Version)",
+      "release_date": "2014-10-14",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3AWjk0oVV9YAY9r9boiffN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+        "id": "1hzfo8twXdOegF3xireCYs",
+        "name": "Milky Chance",
+        "type": "artist",
+        "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5U0AcKclgf0AbG11AUFLht",
+    "is_local": false,
+    "name": "Down By The River",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5LNX3esjvdBJ6hN4XDvCJn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8a77225ad852699c908ac4b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8a77225ad852699c908ac4b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8a77225ad852699c908ac4b",
+          "width": 64
+        }
+      ],
+      "name": "I Love Life, Thank You",
+      "release_date": "2022-07-22",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5LNX3esjvdBJ6hN4XDvCJn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+        "id": "4LLpKhyESsyAXpc4laK94U",
+        "name": "Mac Miller",
+        "type": "artist",
+        "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2z9iuAxKv4TTeCrPAxxKg9",
+    "is_local": false,
+    "name": "Love Lost",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4NtEHyzC02jvTLMERHn6Rw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f0412555b7e080fac2b825f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028f0412555b7e080fac2b825f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518f0412555b7e080fac2b825f",
+          "width": 64
+        }
+      ],
+      "name": "The Thrill (feat. Empire of the Sun)",
+      "release_date": "2020-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4NtEHyzC02jvTLMERHn6Rw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+        "id": "137W8MRPWKqSmrBGDBFSop",
+        "name": "Wiz Khalifa",
+        "type": "artist",
+        "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/56oGoEjA9eTZYgsttEFKY3",
+    "is_local": false,
+    "name": "The Thrill",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          },
+          "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+          "id": "1hzfo8twXdOegF3xireCYs",
+          "name": "Milky Chance",
+          "type": "artist",
+          "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3AWjk0oVV9YAY9r9boiffN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273266539b00fd32cbcb7579f6c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02266539b00fd32cbcb7579f6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851266539b00fd32cbcb7579f6c",
+          "width": 64
+        }
+      ],
+      "name": "Sadnecessary (Bonus Track Version)",
+      "release_date": "2014-10-14",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3AWjk0oVV9YAY9r9boiffN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        "href": "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+        "id": "1hzfo8twXdOegF3xireCYs",
+        "name": "Milky Chance",
+        "type": "artist",
+        "uri": "spotify:artist:1hzfo8twXdOegF3xireCYs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2UAWVtEwFLJqdJsT8FCzKX",
+    "is_local": false,
+    "name": "Flashed Junk Mind",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3mVCQqgwEvwD7lHy9KHi7R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d0c7c131a979c9e5436f89ce",
+          "width": 64
+        }
+      ],
+      "name": "...Nothing Like The Sun",
+      "release_date": "1987-10-16",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3mVCQqgwEvwD7lHy9KHi7R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+        "id": "0Ty63ceoRnnJKVEYP0VQpk",
+        "name": "Sting",
+        "type": "artist",
+        "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4KFM3A5QF2IMcc6nHsu3Wp",
+    "is_local": false,
+    "name": "Englishman In New York",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/43BxCL6t4c73BQnIJtry5v",
+          "id": "43BxCL6t4c73BQnIJtry5v",
+          "name": "James Hype",
+          "type": "artist",
+          "uri": "spotify:artist:43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          },
+          "href": "https://api.spotify.com/v1/artists/45ruzGUmIr8WLjLOPJ9mGU",
+          "id": "45ruzGUmIr8WLjLOPJ9mGU",
+          "name": "Miggy Dela Rosa",
+          "type": "artist",
+          "uri": "spotify:artist:45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6moZ4sNThthUAwCklyuPY8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cc861b5c9c7cdef61b010b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cc861b5c9c7cdef61b010b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cc861b5c9c7cdef61b010b4",
+          "width": 64
+        }
+      ],
+      "name": "Ferrari",
+      "release_date": "2022-04-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6moZ4sNThthUAwCklyuPY8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        "href": "https://api.spotify.com/v1/artists/43BxCL6t4c73BQnIJtry5v",
+        "id": "43BxCL6t4c73BQnIJtry5v",
+        "name": "James Hype",
+        "type": "artist",
+        "uri": "spotify:artist:43BxCL6t4c73BQnIJtry5v"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        "href": "https://api.spotify.com/v1/artists/45ruzGUmIr8WLjLOPJ9mGU",
+        "id": "45ruzGUmIr8WLjLOPJ9mGU",
+        "name": "Miggy Dela Rosa",
+        "type": "artist",
+        "uri": "spotify:artist:45ruzGUmIr8WLjLOPJ9mGU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4zN21mbAuaD0WqtmaTZZeP",
+    "is_local": false,
+    "name": "Ferrari",
+    "preview_url": null
+  }
+]
