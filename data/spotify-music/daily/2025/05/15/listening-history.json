@@ -1,0 +1,605 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+          "id": "2mLA48B366zkELXYx7hcDN",
+          "name": "Peggy Gou",
+          "type": "artist",
+          "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5pnr4GOQkBuGuYPeiLw1T6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b58857b06c0d9ebf76458dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b58857b06c0d9ebf76458dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b58857b06c0d9ebf76458dc1",
+          "width": 64
+        }
+      ],
+      "name": "I Hear You",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5pnr4GOQkBuGuYPeiLw1T6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+        "id": "2mLA48B366zkELXYx7hcDN",
+        "name": "Peggy Gou",
+        "type": "artist",
+        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1BktkzhQ6rhP1jTREtUdPK",
+    "is_local": false,
+    "name": "(It Goes Like) Nanana - Edit",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+          "id": "1zNqDE7qDGCsyzJwohVaoX",
+          "name": "Anne-Marie",
+          "type": "artist",
+          "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMd49uBDJfhf30Ak2QR5s",
+          "id": "6AMd49uBDJfhf30Ak2QR5s",
+          "name": "Coi Leray",
+          "type": "artist",
+          "uri": "spotify:artist:6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/327tc3Eruk1HP1w62iqROy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020b4ef75c3728599aa4104f7a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510b4ef75c3728599aa4104f7a",
+          "width": 64
+        }
+      ],
+      "name": "Baby Don't Hurt Me",
+      "release_date": "2023-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:327tc3Eruk1HP1w62iqROy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+        "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "name": "David Guetta",
+        "type": "artist",
+        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        "href": "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+        "id": "1zNqDE7qDGCsyzJwohVaoX",
+        "name": "Anne-Marie",
+        "type": "artist",
+        "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AMd49uBDJfhf30Ak2QR5s",
+        "id": "6AMd49uBDJfhf30Ak2QR5s",
+        "name": "Coi Leray",
+        "type": "artist",
+        "uri": "spotify:artist:6AMd49uBDJfhf30Ak2QR5s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3BKD1PwArikchz2Zrlp1qi",
+    "is_local": false,
+    "name": "Baby Don't Hurt Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gwpcMTbLWtBUlOijbVpuu",
+          "id": "4gwpcMTbLWtBUlOijbVpuu",
+          "name": "Capital Cities",
+          "type": "artist",
+          "uri": "spotify:artist:4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3rLiil7YBkoGXLrFtwYcju",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b03e92f4e7dcd9db3a06c869",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b03e92f4e7dcd9db3a06c869",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b03e92f4e7dcd9db3a06c869",
+          "width": 64
+        }
+      ],
+      "name": "In A Tidal Wave of Mystery",
+      "release_date": "2013-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3rLiil7YBkoGXLrFtwYcju"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gwpcMTbLWtBUlOijbVpuu",
+        "id": "4gwpcMTbLWtBUlOijbVpuu",
+        "name": "Capital Cities",
+        "type": "artist",
+        "uri": "spotify:artist:4gwpcMTbLWtBUlOijbVpuu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5JVbvCHX10U2pLa5DEqGav",
+    "is_local": false,
+    "name": "Safe and Sound",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209a90531b85be7899c3234c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/20I8RduZC2PWMWTDCZuuAN",
+    "is_local": false,
+    "name": "Take Me Out",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+          "id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "Bob Sinclar",
+          "type": "artist",
+          "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5a5yqCyb7xF3Hklvlwc3t3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8",
+          "width": 64
+        }
+      ],
+      "name": "World, Hold On (FISHER Rework)",
+      "release_date": "2022-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id": "5YFS41yoX0YuFY39fq21oN",
+        "name": "Bob Sinclar",
+        "type": "artist",
+        "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SwhNukah1MYpLR594PnuC",
+        "id": "2SwhNukah1MYpLR594PnuC",
+        "name": "Steve Edwards",
+        "type": "artist",
+        "uri": "spotify:artist:2SwhNukah1MYpLR594PnuC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6quGF3Kvzd5WYEEuCmvCe1",
+    "is_local": false,
+    "name": "World, Hold On - FISHER Rework",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LRoIwlKmHjgvigdNGBHNo",
+          "id": "2LRoIwlKmHjgvigdNGBHNo",
+          "name": "Feid",
+          "type": "artist",
+          "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7pijRxgRaBirPz6wDaJIp9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0273456ed697350847810e52b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485173456ed697350847810e52b3",
+          "width": 64
+        }
+      ],
+      "name": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+      "release_date": "2022-09-14",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7pijRxgRaBirPz6wDaJIp9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        "href": "https://api.spotify.com/v1/artists/2LRoIwlKmHjgvigdNGBHNo",
+        "id": "2LRoIwlKmHjgvigdNGBHNo",
+        "name": "Feid",
+        "type": "artist",
+        "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0T2pB7P1VdXPhLdQZ488uH",
+    "is_local": false,
+    "name": "Normal",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "type": "artist",
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ylbxH7EqpsmHZCRuiYewS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851491678beaffcefac517a699e",
+          "width": 64
+        }
+      ],
+      "name": "Si Antes Te Hubiera Conocido",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5ylbxH7EqpsmHZCRuiYewS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "type": "artist",
+        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6WatFBLVB0x077xWeoVc2k",
+    "is_local": false,
+    "name": "Si Antes Te Hubiera Conocido",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5TFD2bmFKGhoCRbX61nXY5",
+    "is_local": false,
+    "name": "NUEVAYoL",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DeOmVSmpv7WknXoo1OS8p",
+          "id": "3DeOmVSmpv7WknXoo1OS8p",
+          "name": "Alleh",
+          "type": "artist",
+          "uri": "spotify:artist:3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          },
+          "href": "https://api.spotify.com/v1/artists/4eq1q0o9XPyNq9RG3fNDD1",
+          "id": "4eq1q0o9XPyNq9RG3fNDD1",
+          "name": "Yorghaki",
+          "type": "artist",
+          "uri": "spotify:artist:4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0sWJ3v0FROzcNzyjNYUs6t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736abd0fcf50a20ac09a028c92",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026abd0fcf50a20ac09a028c92",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516abd0fcf50a20ac09a028c92",
+          "width": 64
+        }
+      ],
+      "name": "LA CIUDAD",
+      "release_date": "2024-12-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0sWJ3v0FROzcNzyjNYUs6t"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DeOmVSmpv7WknXoo1OS8p",
+        "id": "3DeOmVSmpv7WknXoo1OS8p",
+        "name": "Alleh",
+        "type": "artist",
+        "uri": "spotify:artist:3DeOmVSmpv7WknXoo1OS8p"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        "href": "https://api.spotify.com/v1/artists/4eq1q0o9XPyNq9RG3fNDD1",
+        "id": "4eq1q0o9XPyNq9RG3fNDD1",
+        "name": "Yorghaki",
+        "type": "artist",
+        "uri": "spotify:artist:4eq1q0o9XPyNq9RG3fNDD1"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4DnrAI8WyUY6gkOwl8GlPN",
+    "is_local": false,
+    "name": "capaz (merengueton)",
+    "preview_url": null
+  }
+]
