@@ -1,0 +1,441 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TEJudQY2pXxVHPE3gD2EU",
+          "id": "4TEJudQY2pXxVHPE3gD2EU",
+          "name": "BlocBoy JB",
+          "type": "artist",
+          "uri": "spotify:artist:4TEJudQY2pXxVHPE3gD2EU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6NrsgXTJ3x2RRR8b0v2M7S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27359ba1bf8385cb016e62a26c0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0259ba1bf8385cb016e62a26c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485159ba1bf8385cb016e62a26c0",
+          "width": 64
+        }
+      ],
+      "name": "Simi",
+      "release_date": "2018-05-04",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6NrsgXTJ3x2RRR8b0v2M7S"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TEJudQY2pXxVHPE3gD2EU",
+        "id": "4TEJudQY2pXxVHPE3gD2EU",
+        "name": "BlocBoy JB",
+        "type": "artist",
+        "uri": "spotify:artist:4TEJudQY2pXxVHPE3gD2EU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6HJ34Zyw6bg8yGm28AxLXf",
+    "is_local": false,
+    "name": "Look Alive (feat. Drake)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jxGLrn1I14RIeRYodOpLN",
+          "id": "6jxGLrn1I14RIeRYodOpLN",
+          "name": "Łaszewo",
+          "type": "artist",
+          "uri": "spotify:artist:6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4XoiPhxyT8riRh4V2enQZP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273404e21b818749b70fefda91c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02404e21b818749b70fefda91c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851404e21b818749b70fefda91c",
+          "width": 64
+        }
+      ],
+      "name": "messy",
+      "release_date": "2025-02-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4XoiPhxyT8riRh4V2enQZP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jxGLrn1I14RIeRYodOpLN",
+        "id": "6jxGLrn1I14RIeRYodOpLN",
+        "name": "Łaszewo",
+        "type": "artist",
+        "uri": "spotify:artist:6jxGLrn1I14RIeRYodOpLN"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3CPhCNH8rV1czzGSmXm9TH",
+    "is_local": false,
+    "name": "messy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow",
+          "type": "artist",
+          "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6VCO0fDBGbRW8mCEvV95af",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fcf4adae77baba5d0169e8e8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fcf4adae77baba5d0169e8e8",
+          "width": 64
+        }
+      ],
+      "name": "Lovin On Me",
+      "release_date": "2023-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6VCO0fDBGbRW8mCEvV95af"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+        "id": "2LIk90788K0zvyj2JJVwkJ",
+        "name": "Jack Harlow",
+        "type": "artist",
+        "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4xhsWYTOGcal8zt0J161CU",
+    "is_local": false,
+    "name": "Lovin On Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+          "id": "6FBDaR13swtiWwGhX1WQsP",
+          "name": "blink-182",
+          "type": "artist",
+          "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/652N05EcNH1a4bIlUixQE2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026da502e35a7a3e48de2b0f74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+          "width": 64
+        }
+      ],
+      "name": "Enema Of The State",
+      "release_date": "1999-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:652N05EcNH1a4bIlUixQE2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2m1hi0nfMR9vdGC8UcrnwU",
+    "is_local": false,
+    "name": "All The Small Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ozpmkWcCHwsQ4QTnxOOdT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6adfbd3f091d6f2b9af6507",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6adfbd3f091d6f2b9af6507",
+          "width": 64
+        }
+      ],
+      "name": "What A Time To Be Alive",
+      "release_date": "2015-09-20",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1ozpmkWcCHwsQ4QTnxOOdT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/76kyKtPLsFbQkdQ86QrkF4",
+    "is_local": false,
+    "name": "Plastic Bag",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6jlrjFR9mJV3jd1IPSplXU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0211b21e8b868800918d21bb77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485111b21e8b868800918d21bb77",
+          "width": 64
+        }
+      ],
+      "name": "Thank Me Later",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6jlrjFR9mJV3jd1IPSplXU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "type": "artist",
+        "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/75L0qdzRnhwV62UXoNq3pE",
+    "is_local": false,
+    "name": "Up All Night",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+          "id": "5gznATMVO85ZcLTkE9ULU7",
+          "name": "Lenny Kravitz",
+          "type": "artist",
+          "uri": "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MCNMOCRsh6nxs7PNzc0zN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1157b7dcd21bae0c2c75d89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f1157b7dcd21bae0c2c75d89",
+          "width": 64
+        }
+      ],
+      "name": "5",
+      "release_date": "1998-05-12",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:6MCNMOCRsh6nxs7PNzc0zN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        "href": "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+        "id": "5gznATMVO85ZcLTkE9ULU7",
+        "name": "Lenny Kravitz",
+        "type": "artist",
+        "uri": "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1OxcIUqVmVYxT6427tbhDW",
+    "is_local": false,
+    "name": "Fly Away",
+    "preview_url": null
+  }
+]
