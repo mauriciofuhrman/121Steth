@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+          "id": "2QsynagSdAqZj3U9HgDzjD",
+          "name": "Bob Marley & The Wailers",
+          "type": "artist",
+          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/655KljKIXl42fiNDMKivbY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d",
+          "width": 64
+        }
+      ],
+      "name": "Exodus",
+      "release_date": "1977-06-03",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:655KljKIXl42fiNDMKivbY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "type": "artist",
+        "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3GIChxHmuLmBm5PTNZGDtj",
+    "is_local": false,
+    "name": "Jamming",
+    "preview_url": null
+  }
+]
