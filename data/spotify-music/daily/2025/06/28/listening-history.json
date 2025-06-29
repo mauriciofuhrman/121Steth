@@ -1,0 +1,907 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+          "id": "7MhMgCo0Bl0Kukl93PZbYS",
+          "name": "Blur",
+          "type": "artist",
+          "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7HvIrSkKGJCzd8AKyjTJ6Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6",
+          "width": 64
+        }
+      ],
+      "name": "Blur (Special Edition)",
+      "release_date": "1997-02-10",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:7HvIrSkKGJCzd8AKyjTJ6Q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        },
+        "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+        "id": "7MhMgCo0Bl0Kukl93PZbYS",
+        "name": "Blur",
+        "type": "artist",
+        "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1FTSo4v6BOZH9QxKc3MbVM",
+    "is_local": false,
+    "name": "Song 2 - 2012 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          },
+          "href": "https://api.spotify.com/v1/artists/3CGuwWgoCYSO5Z72H5G2Ec",
+          "id": "3CGuwWgoCYSO5Z72H5G2Ec",
+          "name": "Kita Alexander",
+          "type": "artist",
+          "uri": "spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5WAQTwGucEJPQLgh235Pbz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a6e3a7e65879142b2a5fe3e7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a6e3a7e65879142b2a5fe3e7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a6e3a7e65879142b2a5fe3e7",
+          "width": 64
+        }
+      ],
+      "name": "Atmosphere",
+      "release_date": "2023-08-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5WAQTwGucEJPQLgh235Pbz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CGuwWgoCYSO5Z72H5G2Ec",
+        "id": "3CGuwWgoCYSO5Z72H5G2Ec",
+        "name": "Kita Alexander",
+        "type": "artist",
+        "uri": "spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/63HwAAXuSV2tzIUPoHOwZa",
+    "is_local": false,
+    "name": "Atmosphere",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+          "width": 64
+        }
+      ],
+      "name": "Currents",
+      "release_date": "2015-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6K4t31amVTZDgR3sKmwUJJ",
+    "is_local": false,
+    "name": "The Less I Know The Better",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209a90531b85be7899c3234c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/20I8RduZC2PWMWTDCZuuAN",
+    "is_local": false,
+    "name": "Take Me Out",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "type": "artist",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1klALx0u4AavZNEvC4LrTL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ce8b4e42588bf18182a1ad2",
+          "width": 64
+        }
+      ],
+      "name": "The Beatles (Remastered)",
+      "release_date": "1968-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1klALx0u4AavZNEvC4LrTL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "type": "artist",
+        "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5jgFfDIR6FR0gvlA56Nakr",
+    "is_local": false,
+    "name": "Blackbird - Remastered 2009",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "type": "artist",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1klALx0u4AavZNEvC4LrTL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ce8b4e42588bf18182a1ad2",
+          "width": 64
+        }
+      ],
+      "name": "The Beatles (Remastered)",
+      "release_date": "1968-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:1klALx0u4AavZNEvC4LrTL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "type": "artist",
+        "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5jgFfDIR6FR0gvlA56Nakr",
+    "is_local": false,
+    "name": "Blackbird - Remastered 2009",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+          "id": "7tm9Tuc70geXOOyKhtZHIj",
+          "name": "Chris Lorenzo",
+          "type": "artist",
+          "uri": "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4QNJtrJyZlV4CMzvQqPcjW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27327b52d52b3673bd8ce243184",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0227b52d52b3673bd8ce243184",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485127b52d52b3673bd8ce243184",
+          "width": 64
+        }
+      ],
+      "name": "California Dreamin' (feat. High Jinx)",
+      "release_date": "2021-10-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4QNJtrJyZlV4CMzvQqPcjW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        "href": "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+        "id": "7tm9Tuc70geXOOyKhtZHIj",
+        "name": "Chris Lorenzo",
+        "type": "artist",
+        "uri": "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XFmkmsCbCoR7wlqaZdt64",
+        "id": "0XFmkmsCbCoR7wlqaZdt64",
+        "name": "High Jinx",
+        "type": "artist",
+        "uri": "spotify:artist:0XFmkmsCbCoR7wlqaZdt64"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ASOMWcJUrwEpjJy4GEijz",
+    "is_local": false,
+    "name": "California Dreamin' (feat. High Jinx)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+          "id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "HAYLA",
+          "type": "artist",
+          "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4bIEy1wDeaEklS1BanbsmR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336b6992af3531fb34813327c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236b6992af3531fb34813327c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136b6992af3531fb34813327c",
+          "width": 64
+        }
+      ],
+      "name": "Where You Are",
+      "release_date": "2023-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4bIEy1wDeaEklS1BanbsmR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+        "id": "4yX6mpMyBGf9UfvBB8JJrc",
+        "name": "HAYLA",
+        "type": "artist",
+        "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4qDpLaFGf5ampf2DXD2TMA",
+    "is_local": false,
+    "name": "Where You Are",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FBRY66KVaAiddGVefikLB",
+          "id": "0FBRY66KVaAiddGVefikLB",
+          "name": "WEISS",
+          "type": "artist",
+          "uri": "spotify:artist:0FBRY66KVaAiddGVefikLB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1DhXzsPrJjFpwOKRPV2Hpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27357c3c61f3173dee907e7b410",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0257c3c61f3173dee907e7b410",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485157c3c61f3173dee907e7b410",
+          "width": 64
+        }
+      ],
+      "name": "Feel My Needs",
+      "release_date": "2018-05-04",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1DhXzsPrJjFpwOKRPV2Hpu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FBRY66KVaAiddGVefikLB",
+        "id": "0FBRY66KVaAiddGVefikLB",
+        "name": "WEISS",
+        "type": "artist",
+        "uri": "spotify:artist:0FBRY66KVaAiddGVefikLB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7nionv2ijjqUlg9m5iWPTc",
+    "is_local": false,
+    "name": "Feel My Needs",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GuqTQbuixFHD6eBkFwVcb",
+          "id": "1GuqTQbuixFHD6eBkFwVcb",
+          "name": "Sammy Virji",
+          "type": "artist",
+          "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/628CN0UzuPsstc678cQ5Sn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5b8fa0ff5dee9da54847694",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5b8fa0ff5dee9da54847694",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d5b8fa0ff5dee9da54847694",
+          "width": 64
+        }
+      ],
+      "name": "If U Need It",
+      "release_date": "2023-11-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:628CN0UzuPsstc678cQ5Sn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        "href": "https://api.spotify.com/v1/artists/1GuqTQbuixFHD6eBkFwVcb",
+        "id": "1GuqTQbuixFHD6eBkFwVcb",
+        "name": "Sammy Virji",
+        "type": "artist",
+        "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5CaUUACiQFEf4zR5WoeIrp",
+    "is_local": false,
+    "name": "If U Need It",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          },
+          "href": "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+          "id": "052B9SONfhoScw7dgYWw5o",
+          "name": "Biscits",
+          "type": "artist",
+          "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1bPzfiNL4MaiHWD9bxknaO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273390f9e478936003960df4b95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02390f9e478936003960df4b95",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851390f9e478936003960df4b95",
+          "width": 64
+        }
+      ],
+      "name": "Freak",
+      "release_date": "2024-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        "href": "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+        "id": "052B9SONfhoScw7dgYWw5o",
+        "name": "Biscits",
+        "type": "artist",
+        "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5XXriU0XC0HPH60GIJYpIA",
+    "is_local": false,
+    "name": "Freak",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5x0R3zoC09GMiRJomoexLV",
+          "id": "5x0R3zoC09GMiRJomoexLV",
+          "name": "nimino",
+          "type": "artist",
+          "uri": "spotify:artist:5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/05iJvxOa8h8GjGPe5JnvDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27306ca7b28be5af019242a6d19",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0206ca7b28be5af019242a6d19",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485106ca7b28be5af019242a6d19",
+          "width": 64
+        }
+      ],
+      "name": "I Only Smoke When I Drink",
+      "release_date": "2024-08-22",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:05iJvxOa8h8GjGPe5JnvDG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        "href": "https://api.spotify.com/v1/artists/5x0R3zoC09GMiRJomoexLV",
+        "id": "5x0R3zoC09GMiRJomoexLV",
+        "name": "nimino",
+        "type": "artist",
+        "uri": "spotify:artist:5x0R3zoC09GMiRJomoexLV"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/39glDGcpBhLVMSsQhvtqHR",
+    "is_local": false,
+    "name": "I Only Smoke When I Drink",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1v6MeV1kAPbXmFeF60LtZE",
+          "id": "1v6MeV1kAPbXmFeF60LtZE",
+          "name": "Lodgerz",
+          "type": "artist",
+          "uri": "spotify:artist:1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5vPtAiKazM8CA6NboCmaag",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27362ebe39a7594ab2834467096",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0262ebe39a7594ab2834467096",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485162ebe39a7594ab2834467096",
+          "width": 64
+        }
+      ],
+      "name": "Delante",
+      "release_date": "2024-01-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5vPtAiKazM8CA6NboCmaag"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1v6MeV1kAPbXmFeF60LtZE",
+        "id": "1v6MeV1kAPbXmFeF60LtZE",
+        "name": "Lodgerz",
+        "type": "artist",
+        "uri": "spotify:artist:1v6MeV1kAPbXmFeF60LtZE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3m0cKFBobiuIuNDzOCQJSN",
+    "is_local": false,
+    "name": "Delante",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+          "id": "1CoZyIx7UvdxT5c8UkMzHd",
+          "name": "Jorja Smith",
+          "type": "artist",
+          "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6wRMM8MLrOYDmyUnSiNzQa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375a8297bf55d707e9905be6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275a8297bf55d707e9905be6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175a8297bf55d707e9905be6d",
+          "width": 64
+        }
+      ],
+      "name": "falling or flying (Deluxe)",
+      "release_date": "2024-10-11",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:6wRMM8MLrOYDmyUnSiNzQa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+        "id": "1CoZyIx7UvdxT5c8UkMzHd",
+        "name": "Jorja Smith",
+        "type": "artist",
+        "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2AlCe2DDxELeESF5IP3t9K",
+    "is_local": false,
+    "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+    "preview_url": null
+  }
+]
