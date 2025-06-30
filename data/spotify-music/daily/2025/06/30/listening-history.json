@@ -1,0 +1,173 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3utq2FgD1pkmIoaWfjXWAU",
+    "is_local": false,
+    "name": "Scenes from an Italian Restaurant",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7jvcSnCnugLcisBCNBm60s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb995d2871f084b34afae3b3",
+          "width": 64
+        }
+      ],
+      "name": "Brothers in Arms",
+      "release_date": "1985-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:7jvcSnCnugLcisBCNBm60s"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4yqtwO7MQIIXqoiRBPHAgR",
+    "is_local": false,
+    "name": "Money for Nothing",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7jvcSnCnugLcisBCNBm60s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fb995d2871f084b34afae3b3",
+          "width": 64
+        }
+      ],
+      "name": "Brothers in Arms",
+      "release_date": "1985-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:7jvcSnCnugLcisBCNBm60s"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/423o3ZHIaBtGXyhF1uH41a",
+    "is_local": false,
+    "name": "Walk of Life",
+    "preview_url": null
+  }
+]
