@@ -1,0 +1,230 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+          "width": 64
+        }
+      ],
+      "name": "Parachutes",
+      "release_date": "2000-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6ZG5lRT77aJ3btmArcykra"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg",
+    "is_local": false,
+    "name": "Yellow",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+          "id": "0gadJ2b9A4SKsB1RFkBb66",
+          "name": "Passenger",
+          "type": "artist",
+          "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/52ukyDfkPmF4X6EcSYVfVJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0242859c496ab80d9867ef21b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485142859c496ab80d9867ef21b6",
+          "width": 64
+        }
+      ],
+      "name": "All The Little Lights",
+      "release_date": "2012-08-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:52ukyDfkPmF4X6EcSYVfVJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        "href": "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+        "id": "0gadJ2b9A4SKsB1RFkBb66",
+        "name": "Passenger",
+        "type": "artist",
+        "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1KxwZYyzWNyZSRyErj2ojT",
+    "is_local": false,
+    "name": "Let Her Go",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+          "id": "0gadJ2b9A4SKsB1RFkBb66",
+          "name": "Passenger",
+          "type": "artist",
+          "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/52ukyDfkPmF4X6EcSYVfVJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0242859c496ab80d9867ef21b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485142859c496ab80d9867ef21b6",
+          "width": 64
+        }
+      ],
+      "name": "All The Little Lights",
+      "release_date": "2012-08-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:52ukyDfkPmF4X6EcSYVfVJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        "href": "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+        "id": "0gadJ2b9A4SKsB1RFkBb66",
+        "name": "Passenger",
+        "type": "artist",
+        "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1KxwZYyzWNyZSRyErj2ojT",
+    "is_local": false,
+    "name": "Let Her Go",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+          "width": 64
+        }
+      ],
+      "name": "Parachutes",
+      "release_date": "2000-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6ZG5lRT77aJ3btmArcykra"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg",
+    "is_local": false,
+    "name": "Yellow",
+    "preview_url": null
+  }
+]
