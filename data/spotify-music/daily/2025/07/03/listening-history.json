@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+          "id": "4phGZZrJZRo4ElhRtViYdl",
+          "name": "Jason Mraz",
+          "type": "artist",
+          "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1UwzOp5hn3lAbOqsAfXBw8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27333091fbb40edc2249e682bf2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0233091fbb40edc2249e682bf2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485133091fbb40edc2249e682bf2",
+          "width": 64
+        }
+      ],
+      "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+      "release_date": "2008-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 26,
+      "type": "album",
+      "uri": "spotify:album:1UwzOp5hn3lAbOqsAfXBw8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id": "4phGZZrJZRo4ElhRtViYdl",
+        "name": "Jason Mraz",
+        "type": "artist",
+        "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3S0OXQeoh0w6AY8WQVckRW",
+    "is_local": false,
+    "name": "I'm Yours",
+    "preview_url": null
+  }
+]
