@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+          "width": 64
+        }
+      ],
+      "name": "Dire Straits",
+      "release_date": "1978-10-07",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ",
+    "is_local": false,
+    "name": "Sultans of Swing",
+    "preview_url": null
+  }
+]
