@@ -51,9 +51,9 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4U45aEWtQhrm8A5mxPaFZ7",
+    "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
     "is_local": false,
-    "name": "Vienna",
+    "name": "Only the Good Die Young",
     "preview_url": null
   },
   {
@@ -61,14 +61,631 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
-          "id": "2HPaUgqeutzr3jx5a9WyDV",
-          "name": "PARTYNEXTDOOR",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
         },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/16GUMo6u3D2qo9a19AkYct",
+    "is_local": false,
+    "name": "Movin' Out (Anthony's Song)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+          "width": 64
+        }
+      ],
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64UioB4Nmwgn2f4cbIpAkl",
+    "is_local": false,
+    "name": "It's Still Rock and Roll to Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HPnwQJAEvTY910q4RNeOu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d81c87cd4fa07351a5d14a71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d81c87cd4fa07351a5d14a71",
+          "width": 64
+        }
+      ],
+      "name": "River Of Dreams",
+      "release_date": "1993-08-10",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4HPnwQJAEvTY910q4RNeOu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/30qVCFYKBtAENjTIBA8FPZ",
+    "is_local": false,
+    "name": "The River of Dreams",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+          "width": 64
+        }
+      ],
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1zQiK0HaNo8mPMo89W8hlK",
+    "is_local": false,
+    "name": "Sleeping With the Television On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/50bajZpetfL5T0iRCOR74J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5e5f24cf490dfc7041eafc3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e5e5f24cf490dfc7041eafc3",
+          "width": 64
+        }
+      ],
+      "name": "The Nylon Curtain",
+      "release_date": "1982-06-23",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:50bajZpetfL5T0iRCOR74J"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/59xhCcRskqyMtKzdvLZDfV",
+    "is_local": false,
+    "name": "Allentown",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7GiLfxL1su3MSqz7pmKMZi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1731f2c0e1c2c8957f35c76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1731f2c0e1c2c8957f35c76",
+          "width": 64
+        }
+      ],
+      "name": "Turnstiles",
+      "release_date": "1976-05-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7GiLfxL1su3MSqz7pmKMZi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3YNFRvI0WnbvFdxUCQiKjR",
+    "is_local": false,
+    "name": "Say Goodbye to Hollywood",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+          "width": 64
+        }
+      ],
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6g4vHtdGqD5eEgpf7nKISk",
+    "is_local": false,
+    "name": "Don't Ask Me Why",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/274rMlKrr22086ohmwAJZA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028039be895428386c4bc90851",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518039be895428386c4bc90851",
+          "width": 64
+        }
+      ],
+      "name": "Cold Spring Harbor",
+      "release_date": "1971-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:274rMlKrr22086ohmwAJZA"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Ih66KRL5Lb9wfeTYfbzQ8",
+    "is_local": false,
+    "name": "Everybody Loves You Now",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+          "id": "7dnB1wSxbYa8CejeVg98hz",
+          "name": "Meat Loaf",
+          "type": "artist",
+          "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mvI80w5r78niBmwtu7RF9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734111af27787499f6d8752e9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514111af27787499f6d8752e9f",
+          "width": 64
+        }
+      ],
+      "name": "Bat Out Of Hell",
+      "release_date": "1977-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6mvI80w5r78niBmwtu7RF9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+        "id": "7dnB1wSxbYa8CejeVg98hz",
+        "name": "Meat Loaf",
+        "type": "artist",
+        "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2g7gviEeJr6pyxO7G35EWQ",
+    "is_local": false,
+    "name": "Paradise By the Dashboard Light",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/17FBoXK1NU2rvJBbzdzw0r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e0b64c8be3c4e804abcb2696",
+          "width": 64
+        }
+      ],
+      "name": "FUTURE",
+      "release_date": "2017-06-30",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:17FBoXK1NU2rvJBbzdzw0r"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0VgkVdmE4gld66l8iyGjgx",
+    "is_local": false,
+    "name": "Mask Off",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          },
+          "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+          "id": "46SHBwWsqBkxI7EeeBEQG7",
+          "name": "Kodak Black",
+          "type": "artist",
+          "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/51wp3EOOp2mBIjhZjR7W0i",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02583ce93dc89d84218f233ea7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851583ce93dc89d84218f233ea7",
+          "width": 64
+        }
+      ],
+      "name": "Project Baby 2: All Grown Up",
+      "release_date": "2017-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:51wp3EOOp2mBIjhZjR7W0i"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+        "id": "46SHBwWsqBkxI7EeeBEQG7",
+        "name": "Kodak Black",
+        "type": "artist",
+        "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1WIZiOuNO3woKfdlSK2gNn",
+    "is_local": false,
+    "name": "Transportin'",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
@@ -80,30 +697,30 @@
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+      "href": "https://api.spotify.com/v1/albums/3DxEfEe94nVL6iXCT80rFv",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273cc392813bfd8f63d4d5f4a95",
+          "url": "https://i.scdn.co/image/ab67616d0000b2732959403a8f8a186fc25a22e6",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02cc392813bfd8f63d4d5f4a95",
+          "url": "https://i.scdn.co/image/ab67616d00001e022959403a8f8a186fc25a22e6",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851cc392813bfd8f63d4d5f4a95",
+          "url": "https://i.scdn.co/image/ab67616d000048512959403a8f8a186fc25a22e6",
           "width": 64
         }
       ],
-      "name": "$ome $exy $ongs 4 U",
-      "release_date": "2025-02-14",
+      "name": "Summer Sixteen",
+      "release_date": "2016-02-05",
       "release_date_precision": "day",
-      "total_tracks": 21,
+      "total_tracks": 1,
       "type": "album",
-      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+      "uri": "spotify:album:3DxEfEe94nVL6iXCT80rFv"
     },
     "artists": [
       {
@@ -118,9 +735,371 @@
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/5Nz7hI3cCOHmMR4vSLJ1An",
+    "href": "https://api.spotify.com/v1/tracks/17Q87zeXgsAi9iQQbMu9v0",
     "is_local": false,
-    "name": "GIMME A HUG",
+    "name": "Summer Sixteen",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4kdfjhj9xNkYU0R8xlDy8k",
+    "is_local": false,
+    "name": "6 Man",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/40GMAhriYJRO1rsY4YdrZb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+          "width": 64
+        }
+      ],
+      "name": "Views",
+      "release_date": "2016-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3NxAG2ni1lLa8RKL6a0INc",
+    "is_local": false,
+    "name": "Childs Play",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+          "id": "6USv9qhCn6zfxlBQIYJ9qs",
+          "name": "Dominic Fike",
+          "type": "artist",
+          "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BubKJqf6Uc4fNae5kLJJ7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cfc824b65a3b1755d98a7e23",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cfc824b65a3b1755d98a7e23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cfc824b65a3b1755d98a7e23",
+          "width": 64
+        }
+      ],
+      "name": "What Could Possibly Go Wrong",
+      "release_date": "2020-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:1BubKJqf6Uc4fNae5kLJJ7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+        "id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "name": "Dominic Fike",
+        "type": "artist",
+        "uri": "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4keHa1UN3c9OWHVv3BE5ra",
+    "is_local": false,
+    "name": "Politics & Violence",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GInfEJXl2kGPhSsVqEqXh",
+          "id": "0GInfEJXl2kGPhSsVqEqXh",
+          "name": "Morgan Seatree",
+          "type": "artist",
+          "uri": "spotify:artist:0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+          "id": "1moxjboGR7GNWYIMWsRjgG",
+          "name": "Florence + The Machine",
+          "type": "artist",
+          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zs9KJ2YsEjRzafvTdYTsk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27384673b6094ab58850c189e5d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0284673b6094ab58850c189e5d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485184673b6094ab58850c189e5d",
+          "width": 64
+        }
+      ],
+      "name": "Say My Name (Remix)",
+      "release_date": "2024-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5zs9KJ2YsEjRzafvTdYTsk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GInfEJXl2kGPhSsVqEqXh",
+        "id": "0GInfEJXl2kGPhSsVqEqXh",
+        "name": "Morgan Seatree",
+        "type": "artist",
+        "uri": "spotify:artist:0GInfEJXl2kGPhSsVqEqXh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "name": "Florence + The Machine",
+        "type": "artist",
+        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6GOOcBV0wLoHrH5D9AWA32",
+    "is_local": false,
+    "name": "Say My Name - Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Vw2uoVkLAJFVViJ1QyK1D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+          "width": 64
+        }
+      ],
+      "name": "Storm Front",
+      "release_date": "1989-10-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1Vw2uoVkLAJFVViJ1QyK1D"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/39cFQHfY6tsdMRmSbFse3X",
+    "is_local": false,
+    "name": "The Downeaster 'Alexa'",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4U45aEWtQhrm8A5mxPaFZ7",
+    "is_local": false,
+    "name": "Vienna",
     "preview_url": null
   },
   {
