@@ -13,30 +13,30 @@
           "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/69wjSAZXZiD2EBia3b3gxL",
+      "href": "https://api.spotify.com/v1/albums/3R3x4zIabsvpD3yxqLaUpc",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d00001e02814cbc4746358a25c84c62e7",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7",
           "width": 64
         }
       ],
-      "name": "Piano Man (Legacy Edition)",
-      "release_date": "1973-11-07",
+      "name": "An Innocent Man",
+      "release_date": "1983-08-08",
       "release_date_precision": "day",
-      "total_tracks": 33,
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:69wjSAZXZiD2EBia3b3gxL"
+      "uri": "spotify:album:3R3x4zIabsvpD3yxqLaUpc"
     },
     "artists": [
       {
@@ -51,9 +51,9 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7ek9Wxo39iQxMA8CODBUxk",
+    "href": "https://api.spotify.com/v1/tracks/1Gg14U26oq94uWcG7khccX",
     "is_local": false,
-    "name": "You're My Home",
+    "name": "An Innocent Man",
     "preview_url": null
   },
   {
@@ -70,30 +70,30 @@
           "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/69wjSAZXZiD2EBia3b3gxL",
+      "href": "https://api.spotify.com/v1/albums/1Vw2uoVkLAJFVViJ1QyK1D",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+          "url": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
           "width": 64
         }
       ],
-      "name": "Piano Man (Legacy Edition)",
-      "release_date": "1973-11-07",
+      "name": "Storm Front",
+      "release_date": "1989-10-17",
       "release_date_precision": "day",
-      "total_tracks": 33,
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:69wjSAZXZiD2EBia3b3gxL"
+      "uri": "spotify:album:1Vw2uoVkLAJFVViJ1QyK1D"
     },
     "artists": [
       {
@@ -108,9 +108,351 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7ek9Wxo39iQxMA8CODBUxk",
+    "href": "https://api.spotify.com/v1/tracks/16LYB0chkPiblx33djiNTt",
     "is_local": false,
-    "name": "You're My Home",
+    "name": "I Go to Extremes",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
+          "width": 64
+        }
+      ],
+      "name": "52nd Street",
+      "release_date": "1978-10-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/22wxe2Yc9JzihICXYLGAQ7",
+    "is_local": false,
+    "name": "Big Shot",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "width": 64
+        }
+      ],
+      "name": "Is This It",
+      "release_date": "2001-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hm4HTk9encxT0LYC0J6oI",
+    "is_local": false,
+    "name": "Someday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7LbR1L8thzNldHceu3tj1a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273434c7d9d4e7db4c7d1fef8ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02434c7d9d4e7db4c7d1fef8ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851434c7d9d4e7db4c7d1fef8ff",
+          "width": 64
+        }
+      ],
+      "name": "The Human Fear",
+      "release_date": "2025-01-10",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7LbR1L8thzNldHceu3tj1a"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TNdQw9rHynqZ6wur56bpr",
+    "is_local": false,
+    "name": "Audacious",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bfa99afb5ef0d26d5064b23b",
+          "width": 64
+        }
+      ],
+      "name": "The New Abnormal",
+      "release_date": "2020-04-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ruzrDWcT0vuJIOMW7gMnW",
+    "is_local": false,
+    "name": "The Adults Are Talking",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+          "id": "6FBDaR13swtiWwGhX1WQsP",
+          "name": "blink-182",
+          "type": "artist",
+          "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/652N05EcNH1a4bIlUixQE2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026da502e35a7a3e48de2b0f74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74",
+          "width": 64
+        }
+      ],
+      "name": "Enema Of The State",
+      "release_date": "1999-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:652N05EcNH1a4bIlUixQE2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4LJhJ6DQS7NwE7UKtvcM52",
+    "is_local": false,
+    "name": "What's My Age Again?",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ppF24fU5pqbPrPuK5zVnS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e58d58919ffc7451cf4a6b56",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e58d58919ffc7451cf4a6b56",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e58d58919ffc7451cf4a6b56",
+          "width": 64
+        }
+      ],
+      "name": "Tonight",
+      "release_date": "2009-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6ppF24fU5pqbPrPuK5zVnS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4VP8QiCeaZq8BeTIUrMQOG",
+    "is_local": false,
+    "name": "No You Girls",
     "preview_url": null
   }
 ]
