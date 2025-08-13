@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YEnrpAWWaNRFumgde1lLH",
+          "id": "2YEnrpAWWaNRFumgde1lLH",
+          "name": "Oden & Fatzo",
+          "type": "artist",
+          "uri": "spotify:artist:2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4STmXOXUF3UieHU46NWLVt",
+          "id": "4STmXOXUF3UieHU46NWLVt",
+          "name": "Poppy Baskcomb",
+          "type": "artist",
+          "uri": "spotify:artist:4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6MsZpxCoyp11InGYChBvtZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ca8f2b5e560e343d30cb0130",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ca8f2b5e560e343d30cb0130",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ca8f2b5e560e343d30cb0130",
+          "width": 64
+        }
+      ],
+      "name": "Tell Me What You Want",
+      "release_date": "2024-06-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6MsZpxCoyp11InGYChBvtZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YEnrpAWWaNRFumgde1lLH",
+        "id": "2YEnrpAWWaNRFumgde1lLH",
+        "name": "Oden & Fatzo",
+        "type": "artist",
+        "uri": "spotify:artist:2YEnrpAWWaNRFumgde1lLH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4STmXOXUF3UieHU46NWLVt",
+        "id": "4STmXOXUF3UieHU46NWLVt",
+        "name": "Poppy Baskcomb",
+        "type": "artist",
+        "uri": "spotify:artist:4STmXOXUF3UieHU46NWLVt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7pPMx57fvpINMYGE0eZFhp",
+    "is_local": false,
+    "name": "Tell Me What You Want",
+    "preview_url": null
+  }
+]
