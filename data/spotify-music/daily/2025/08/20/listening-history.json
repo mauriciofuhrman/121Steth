@@ -4,200 +4,56 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/6X1x82kppWZmDzlXXK3y3q",
+      "href": "https://api.spotify.com/v1/albums/50bajZpetfL5T0iRCOR74J",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5e5f24cf490dfc7041eafc3",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02c7ea04a9b455e3f68ef82550",
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5e5f24cf490dfc7041eafc3",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+          "url": "https://i.scdn.co/image/ab67616d00004851e5e5f24cf490dfc7041eafc3",
           "width": 64
         }
       ],
-      "name": "Take Care (Deluxe)",
-      "release_date": "2011-11-15",
+      "name": "The Nylon Curtain",
+      "release_date": "1982-06-23",
       "release_date_precision": "day",
-      "total_tracks": 19,
+      "total_tracks": 9,
       "type": "album",
-      "uri": "spotify:album:6X1x82kppWZmDzlXXK3y3q"
+      "uri": "spotify:album:50bajZpetfL5T0iRCOR74J"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
-        "id": "55Aa2cqylxrFIXC767Z865",
-        "name": "Lil Wayne",
-        "type": "artist",
-        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/0m1KYWlT6LhFRBDVq9UNx4",
-    "is_local": false,
-    "name": "HYFR (Hell Ya Fucking Right)",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/0bNfrGST1xSPZ3V3g5jjHT",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
-          "width": 64
-        }
-      ],
-      "name": "What Did I Miss?",
-      "release_date": "2025-07-05",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:0bNfrGST1xSPZ3V3g5jjHT"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/57GsLpRtEtrzcPGPop20rS",
-    "is_local": false,
-    "name": "What Did I Miss?",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-          },
-          "href": "https://api.spotify.com/v1/artists/4mnrcwjD8rgFeOzvXmkcw3",
-          "id": "4mnrcwjD8rgFeOzvXmkcw3",
-          "name": "Badger",
-          "type": "artist",
-          "uri": "spotify:artist:4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-          },
-          "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
-          "id": "7o95ZoZt5ZYn31e9z1Hc0a",
-          "name": "Natasha Bedingfield",
-          "type": "artist",
-          "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/3boWgDZHAI5tHYwdLuMuwq",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27300f75805e619ec91836d28f9",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0200f75805e619ec91836d28f9",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485100f75805e619ec91836d28f9",
-          "width": 64
-        }
-      ],
-      "name": "These Words",
-      "release_date": "2024-04-05",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:3boWgDZHAI5tHYwdLuMuwq"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        "href": "https://api.spotify.com/v1/artists/4mnrcwjD8rgFeOzvXmkcw3",
-        "id": "4mnrcwjD8rgFeOzvXmkcw3",
-        "name": "Badger",
-        "type": "artist",
-        "uri": "spotify:artist:4mnrcwjD8rgFeOzvXmkcw3"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        },
-        "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
-        "id": "7o95ZoZt5ZYn31e9z1Hc0a",
-        "name": "Natasha Bedingfield",
-        "type": "artist",
-        "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7leW1Dmvs9A4oDh9i5Qwpz",
+    "href": "https://api.spotify.com/v1/tracks/59xhCcRskqyMtKzdvLZDfV",
     "is_local": false,
-    "name": "These Words",
+    "name": "Allentown",
     "preview_url": null
   },
   {
@@ -205,56 +61,56 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED",
-          "id": "2tbvDi9eXf9XXp06LupkED",
-          "name": "Alice Deejay",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:2tbvDi9eXf9XXp06LupkED"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/7wyEph8JrTyNFNPmRCu3pU",
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2738d897b8994ce008298200408",
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e028d897b8994ce008298200408",
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048518d897b8994ce008298200408",
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
           "width": 64
         }
       ],
-      "name": "Who Needs Guitars Anyway?",
-      "release_date": "2000-10-01",
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
       "release_date_precision": "day",
-      "total_tracks": 14,
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:7wyEph8JrTyNFNPmRCu3pU"
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED",
-        "id": "2tbvDi9eXf9XXp06LupkED",
-        "name": "Alice Deejay",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:2tbvDi9eXf9XXp06LupkED"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/5XVjNRubJUW0iPhhSWpLCj",
+    "href": "https://api.spotify.com/v1/tracks/57hJxdJGm8kZMU0xPGNBAA",
     "is_local": false,
-    "name": "Better Off Alone",
+    "name": "All for Leyna",
     "preview_url": null
   },
   {
@@ -262,76 +118,56 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/0GInfEJXl2kGPhSsVqEqXh",
-          "id": "0GInfEJXl2kGPhSsVqEqXh",
-          "name": "Morgan Seatree",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-          },
-          "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
-          "id": "1moxjboGR7GNWYIMWsRjgG",
-          "name": "Florence + The Machine",
-          "type": "artist",
-          "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5zs9KJ2YsEjRzafvTdYTsk",
+      "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27384673b6094ab58850c189e5d",
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0284673b6094ab58850c189e5d",
+          "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485184673b6094ab58850c189e5d",
+          "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
           "width": 64
         }
       ],
-      "name": "Say My Name (Remix)",
-      "release_date": "2024-12-06",
+      "name": "52nd Street",
+      "release_date": "1978-10-13",
       "release_date_precision": "day",
-      "total_tracks": 1,
+      "total_tracks": 9,
       "type": "album",
-      "uri": "spotify:album:5zs9KJ2YsEjRzafvTdYTsk"
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/0GInfEJXl2kGPhSsVqEqXh",
-        "id": "0GInfEJXl2kGPhSsVqEqXh",
-        "name": "Morgan Seatree",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:0GInfEJXl2kGPhSsVqEqXh"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
-        "id": "1moxjboGR7GNWYIMWsRjgG",
-        "name": "Florence + The Machine",
-        "type": "artist",
-        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6GOOcBV0wLoHrH5D9AWA32",
+    "href": "https://api.spotify.com/v1/tracks/4ZoBC5MhSEzuknIgAkBaoT",
     "is_local": false,
-    "name": "Say My Name - Remix",
+    "name": "My Life",
     "preview_url": null
   },
   {
@@ -339,113 +175,170 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "href": "https://api.spotify.com/v1/albums/57nvMIu4PQLLXRbmKESigL",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "url": "https://i.scdn.co/image/ab67616d0000b273c709d60c4fa67bb4f28a1a59",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "url": "https://i.scdn.co/image/ab67616d00001e02c709d60c4fa67bb4f28a1a59",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "url": "https://i.scdn.co/image/ab67616d00004851c709d60c4fa67bb4f28a1a59",
           "width": 64
         }
       ],
-      "name": "The Fame Monster (Deluxe Edition)",
-      "release_date": "2009-11-05",
+      "name": "Streetlife Serenade",
+      "release_date": "1974-10-11",
       "release_date_precision": "day",
-      "total_tracks": 23,
+      "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+      "uri": "spotify:album:57nvMIu4PQLLXRbmKESigL"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
-        "id": "1HY2Jd0NmPuamShAr6KMms",
-        "name": "Lady Gaga",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
-    "is_local": false,
-    "name": "Bad Romance",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-          },
-          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
-          "id": "0L8ExT028jH3ddEcZwqJJ5",
-          "name": "Red Hot Chili Peppers",
-          "type": "artist",
-          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
-          "width": 64
-        }
-      ],
-      "name": "Stadium Arcadium",
-      "release_date": "2006-05-09",
-      "release_date_precision": "day",
-      "total_tracks": 29,
-      "type": "album",
-      "uri": "spotify:album:7xl50xr9NDkd3i2kBbzsNZ"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        },
-        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
-        "id": "0L8ExT028jH3ddEcZwqJJ5",
-        "name": "Red Hot Chili Peppers",
-        "type": "artist",
-        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/10Nmj3JCNoMeBQ87uw5j8k",
+    "href": "https://api.spotify.com/v1/tracks/60m29Z8TtocKOqDlQEbwUS",
     "is_local": false,
-    "name": "Dani California",
+    "name": "The Entertainer",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+          "width": 64
+        }
+      ],
+      "name": "The Stranger (Legacy Edition)",
+      "release_date": "1977",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3utq2FgD1pkmIoaWfjXWAU",
+    "is_local": false,
+    "name": "Scenes from an Italian Restaurant",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/69wjSAZXZiD2EBia3b3gxL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+          "width": 64
+        }
+      ],
+      "name": "Piano Man (Legacy Edition)",
+      "release_date": "1973-11-07",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:69wjSAZXZiD2EBia3b3gxL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7ek9Wxo39iQxMA8CODBUxk",
+    "is_local": false,
+    "name": "You're My Home",
     "preview_url": null
   },
   {
@@ -500,9 +393,66 @@
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4EqThdGyMJDkrXXKC6rVnz",
+    "href": "https://api.spotify.com/v1/tracks/5dpGwO76CAPXE2ReVxwI6r",
     "is_local": false,
-    "name": "Bullet",
+    "name": "Love Illumination",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+          "id": "7oPftvlwr6VrsViSDV7fJY",
+          "name": "Green Day",
+          "type": "artist",
+          "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4uG8q3GPuWHQlRbswMIRS6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+          "width": 64
+        }
+      ],
+      "name": "Dookie",
+      "release_date": "1994-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4uG8q3GPuWHQlRbswMIRS6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+        "id": "7oPftvlwr6VrsViSDV7fJY",
+        "name": "Green Day",
+        "type": "artist",
+        "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6L89mwZXSOwYl76YXfX13s",
+    "is_local": false,
+    "name": "Basket Case",
     "preview_url": null
   },
   {
@@ -567,56 +517,56 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-          "id": "0epOFNiUfyON9EYx7Tpr6V",
-          "name": "The Strokes",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
           "width": 64
         }
       ],
-      "name": "Is This It",
-      "release_date": "2001-07-30",
+      "name": "52nd Street",
+      "release_date": "1978-10-13",
       "release_date_precision": "day",
-      "total_tracks": 11,
+      "total_tracks": 9,
       "type": "album",
-      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-        "id": "0epOFNiUfyON9EYx7Tpr6V",
-        "name": "The Strokes",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/3SUusuA9jH1v6PVwtYMbdv",
+    "href": "https://api.spotify.com/v1/tracks/22wxe2Yc9JzihICXYLGAQ7",
     "is_local": false,
-    "name": "Last Nite",
+    "name": "Big Shot",
     "preview_url": null
   },
   {
@@ -624,56 +574,284 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
           },
-          "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
-          "id": "0oSGxfWSnnOXhD2fKuz2Gy",
-          "name": "David Bowie",
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
           "type": "artist",
-          "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/4I5zzKYd2SKDgZ9DRf5LVk",
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851204f41d52743c6a9efd62985",
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
           "width": 64
         }
       ],
-      "name": "\"Heroes\" (2017 Remaster)",
-      "release_date": "1977",
-      "release_date_precision": "year",
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
       "total_tracks": 10,
       "type": "album",
-      "uri": "spotify:album:4I5zzKYd2SKDgZ9DRf5LVk"
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         },
-        "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
-        "id": "0oSGxfWSnnOXhD2fKuz2Gy",
-        "name": "David Bowie",
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
         "type": "artist",
-        "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7Jh1bpe76CNTCgdgAdBw4Z",
+    "href": "https://api.spotify.com/v1/tracks/2ltjiNTxrM53MQl5tmp1Cv",
     "is_local": false,
-    "name": "Heroes - 2017 Remaster",
+    "name": "Sometimes a Fantasy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+          "width": 64
+        }
+      ],
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1zQiK0HaNo8mPMo89W8hlK",
+    "is_local": false,
+    "name": "Sleeping With the Television On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
+          "width": 64
+        }
+      ],
+      "name": "52nd Street",
+      "release_date": "1978-10-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/70Znjq5VPKFrwlB7O26SWT",
+    "is_local": false,
+    "name": "Zanzibar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7GiLfxL1su3MSqz7pmKMZi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1731f2c0e1c2c8957f35c76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1731f2c0e1c2c8957f35c76",
+          "width": 64
+        }
+      ],
+      "name": "Turnstiles",
+      "release_date": "1976-05-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7GiLfxL1su3MSqz7pmKMZi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4zVPevC2rE84lySHxX61Yr",
+    "is_local": false,
+    "name": "Miami 2017 (Seen the Lights Go Out On Broadway)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3R3x4zIabsvpD3yxqLaUpc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02814cbc4746358a25c84c62e7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7",
+          "width": 64
+        }
+      ],
+      "name": "An Innocent Man",
+      "release_date": "1983-08-08",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3R3x4zIabsvpD3yxqLaUpc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3nulzAA8PNw1nZcUbrNxcf",
+    "is_local": false,
+    "name": "Keeping the Faith",
     "preview_url": null
   }
 ]
