@@ -4,6 +4,988 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209a90531b85be7899c3234c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/20I8RduZC2PWMWTDCZuuAN",
+    "is_local": false,
+    "name": "Take Me Out",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+          "id": "0GM7qgcRCORpGnfcN2tCiB",
+          "name": "Tainy",
+          "type": "artist",
+          "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
+          "id": "2QWIScpFDNxmS6ZEMIUvgm",
+          "name": "Julieta Venegas",
+          "type": "artist",
+          "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4589OIFRZp41qbsp7TWFCx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273abe9c2b5f03653d6b87696e6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02abe9c2b5f03653d6b87696e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851abe9c2b5f03653d6b87696e6",
+          "width": 64
+        }
+      ],
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "release_date": "2021-10-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4589OIFRZp41qbsp7TWFCx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+        "id": "0GM7qgcRCORpGnfcN2tCiB",
+        "name": "Tainy",
+        "type": "artist",
+        "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
+        "id": "2QWIScpFDNxmS6ZEMIUvgm",
+        "name": "Julieta Venegas",
+        "type": "artist",
+        "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4gzsuuZypVbxs0Af1LSZyB",
+    "is_local": false,
+    "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5lJqux7orBlA1QzyiBGti1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+          "width": 64
+        }
+      ],
+      "name": "YHLQMDLG",
+      "release_date": "2020-02-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5lJqux7orBlA1QzyiBGti1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+        "id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "type": "artist",
+        "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/69vlMrzHwATKzupwNcUPyK",
+    "is_local": false,
+    "name": "La Santa",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+          "id": "0GM7qgcRCORpGnfcN2tCiB",
+          "name": "Tainy",
+          "type": "artist",
+          "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/06S3Qjh4QWLtn6c7CVhYh7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024aef420e62863ebf622c27f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514aef420e62863ebf622c27f5",
+          "width": 64
+        }
+      ],
+      "name": "Callaita",
+      "release_date": "2019-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:06S3Qjh4QWLtn6c7CVhYh7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+        "id": "0GM7qgcRCORpGnfcN2tCiB",
+        "name": "Tainy",
+        "type": "artist",
+        "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2TH65lNHgvLxCKXM3apjxI",
+    "is_local": false,
+    "name": "Callaita",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7CjJb2mikwAWA1V6kewFBF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851519266cd05491a5b5bc22d1e",
+          "width": 64
+        }
+      ],
+      "name": "X 100PRE",
+      "release_date": "2018-12-23",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7CjJb2mikwAWA1V6kewFBF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/278kSqsZIiYp8p3QjYAqa8",
+    "is_local": false,
+    "name": "NI BIEN NI MAL",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+          "id": "7An4yvF7hDYDolN4m5zKBp",
+          "name": "Soda Stereo",
+          "type": "artist",
+          "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/75LbseLsPdTkMO9oUD9J8n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851017ed8a01b6648a9d1fe2f58",
+          "width": 64
+        }
+      ],
+      "name": "Originales - 20 Exitos",
+      "release_date": "1983",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:75LbseLsPdTkMO9oUD9J8n"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        },
+        "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+        "id": "7An4yvF7hDYDolN4m5zKBp",
+        "name": "Soda Stereo",
+        "type": "artist",
+        "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2WD9ggmpZE7Wodh3qVVCgg",
+    "is_local": false,
+    "name": "De Música Ligera",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3HFbH1loOUbqCyPsLuHLLh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510f35726025e0f025da4c688f",
+          "width": 64
+        }
+      ],
+      "name": "Room On Fire",
+      "release_date": "2003-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3HFbH1loOUbqCyPsLuHLLh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/57Xjny5yNzAcsxnusKmAfA",
+    "is_local": false,
+    "name": "Reptilia",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis",
+          "type": "artist",
+          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6nznHVahdEzZ7Qwv9TrOW4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c7f630ec2596908408758c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c7f630ec2596908408758c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c7f630ec2596908408758c2",
+          "width": 64
+        }
+      ],
+      "name": "Time Flies... 1994-2009 (Remastered)",
+      "release_date": "2025-06-13",
+      "release_date_precision": "day",
+      "total_tracks": 26,
+      "type": "album",
+      "uri": "spotify:album:6nznHVahdEzZ7Qwv9TrOW4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "name": "Oasis",
+        "type": "artist",
+        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1gYNo6sCys1dJEIFcgqlYr",
+    "is_local": false,
+    "name": "Don't Look Back in Anger - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+          "id": "6IFXsrXBpwbIqtOUOiAa3p",
+          "name": "Rick Springfield",
+          "type": "artist",
+          "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4KKFWTePKtgb6mOwFDqxYa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a57b8b911a372d77dfc1ba7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024a57b8b911a372d77dfc1ba7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514a57b8b911a372d77dfc1ba7",
+          "width": 64
+        }
+      ],
+      "name": "Working Class Dog",
+      "release_date": "1981-03-13",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4KKFWTePKtgb6mOwFDqxYa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        },
+        "href": "https://api.spotify.com/v1/artists/6IFXsrXBpwbIqtOUOiAa3p",
+        "id": "6IFXsrXBpwbIqtOUOiAa3p",
+        "name": "Rick Springfield",
+        "type": "artist",
+        "uri": "spotify:artist:6IFXsrXBpwbIqtOUOiAa3p"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5RsUlxLto4NZbhJpqJbHfN",
+    "is_local": false,
+    "name": "Jessie's Girl",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1bt6q2SruMsBtcerNVtpZB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0257df7ce0eac715cf70e519a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7",
+          "width": 64
+        }
+      ],
+      "name": "Rumours",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1bt6q2SruMsBtcerNVtpZB"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/07GvNcU1WdyZJq3XxP0kZa",
+    "is_local": false,
+    "name": "Go Your Own Way - 2004 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+          "id": "7dnB1wSxbYa8CejeVg98hz",
+          "name": "Meat Loaf",
+          "type": "artist",
+          "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mvI80w5r78niBmwtu7RF9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734111af27787499f6d8752e9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514111af27787499f6d8752e9f",
+          "width": 64
+        }
+      ],
+      "name": "Bat Out Of Hell",
+      "release_date": "1977-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6mvI80w5r78niBmwtu7RF9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+        "id": "7dnB1wSxbYa8CejeVg98hz",
+        "name": "Meat Loaf",
+        "type": "artist",
+        "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2g7gviEeJr6pyxO7G35EWQ",
+    "is_local": false,
+    "name": "Paradise By the Dashboard Light",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra",
+          "type": "artist",
+          "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3gNsjaUsu9cRckgUFx5NsY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c21d73934bb9760a2f791a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c21d73934bb9760a2f791a2",
+          "width": 64
+        }
+      ],
+      "name": "That's Life",
+      "release_date": "1966-11",
+      "release_date_precision": "month",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3gNsjaUsu9cRckgUFx5NsY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4FmCUATNIarCQh72JYdvnm",
+    "is_local": false,
+    "name": "That's Life",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra",
+          "type": "artist",
+          "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width": 64
+        }
+      ],
+      "name": "Nothing But The Best (2008 Remastered)",
+      "release_date": "2008-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2YkIDPL5lGhRhomCq4S2RO",
+    "is_local": false,
+    "name": "My Way - 2008 Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HPnwQJAEvTY910q4RNeOu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d81c87cd4fa07351a5d14a71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d81c87cd4fa07351a5d14a71",
+          "width": 64
+        }
+      ],
+      "name": "River Of Dreams",
+      "release_date": "1993-08-10",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4HPnwQJAEvTY910q4RNeOu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/00p615Q4EFYMIAr055wqRu",
+    "is_local": false,
+    "name": "All About Soul",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+          "width": 64
+        }
+      ],
+      "name": "Glass Houses",
+      "release_date": "1980-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/57hJxdJGm8kZMU0xPGNBAA",
+    "is_local": false,
+    "name": "All for Leyna",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
           },
           "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
