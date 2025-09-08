@@ -4,6 +4,378 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+          "id": "3GBPw9NK25X1Wt2OUvOwY3",
+          "name": "Jack Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Jl7i9Vo0Ht4co9SqTFjQy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e0232d637e8313d3ef4923e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e0232d637e8313d3ef4923e",
+          "width": 64
+        }
+      ],
+      "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3Jl7i9Vo0Ht4co9SqTFjQy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "type": "artist",
+        "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6shRGWCtBUOPFLFTTqXZIC",
+    "is_local": false,
+    "name": "Upside Down",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          },
+          "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo",
+          "type": "artist",
+          "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/47oyrKaeobswT4T8zyaxdM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273238d888f4282893ed8f83f2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02238d888f4282893ed8f83f2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851238d888f4282893ed8f83f2a",
+          "width": 64
+        }
+      ],
+      "name": "Kids in Love",
+      "release_date": "2017-11-03",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:47oyrKaeobswT4T8zyaxdM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+        "id": "23fqKkggKUBHNkbKtXEls4",
+        "name": "Kygo",
+        "type": "artist",
+        "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        "href": "https://api.spotify.com/v1/artists/360IAlyVv4PCEVjgyMZrxK",
+        "id": "360IAlyVv4PCEVjgyMZrxK",
+        "name": "Miguel",
+        "type": "artist",
+        "uri": "spotify:artist:360IAlyVv4PCEVjgyMZrxK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6xTU6B6nFwKKTSZ9ySXS80",
+    "is_local": false,
+    "name": "Remind Me to Forget",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c53ZFyajVMTo08HmvoB6b",
+          "id": "7c53ZFyajVMTo08HmvoB6b",
+          "name": "zzoilo",
+          "type": "artist",
+          "uri": "spotify:artist:7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+          "id": "7eLcDZDYHXZCebtQmVFL25",
+          "name": "Aitana",
+          "type": "artist",
+          "uri": "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4TWsxSw8df17aja6JSaar5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273545c930fa9fada545b01f71d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02545c930fa9fada545b01f71d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851545c930fa9fada545b01f71d",
+          "width": 64
+        }
+      ],
+      "name": "Mon Amour (Remix)",
+      "release_date": "2021-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4TWsxSw8df17aja6JSaar5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        "href": "https://api.spotify.com/v1/artists/7c53ZFyajVMTo08HmvoB6b",
+        "id": "7c53ZFyajVMTo08HmvoB6b",
+        "name": "zzoilo",
+        "type": "artist",
+        "uri": "spotify:artist:7c53ZFyajVMTo08HmvoB6b"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        "href": "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+        "id": "7eLcDZDYHXZCebtQmVFL25",
+        "name": "Aitana",
+        "type": "artist",
+        "uri": "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5TMLavqGRKNxgzMBrVpC9R",
+    "is_local": false,
+    "name": "Mon Amour - Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+          "width": 64
+        }
+      ],
+      "name": "Currents",
+      "release_date": "2015-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2X485T9Z5Ly0xyaghN73ed",
+    "is_local": false,
+    "name": "Let It Happen",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+          "id": "2oX42qP5ineK3hrhBECLmj",
+          "name": "Andy Grammer",
+          "type": "artist",
+          "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2wp1jec3BcuaaXyM8VucWZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef49291de801a09453197222",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef49291de801a09453197222",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ef49291de801a09453197222",
+          "width": 64
+        }
+      ],
+      "name": "Andy Grammer",
+      "release_date": "2011-06-14",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2wp1jec3BcuaaXyM8VucWZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+        "id": "2oX42qP5ineK3hrhBECLmj",
+        "name": "Andy Grammer",
+        "type": "artist",
+        "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2kebNtlS7DqWE54Z66FZIt",
+    "is_local": false,
+    "name": "Keep Your Head Up",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp",
+          "id": "4lxfqrEsLX6N1N4OCSkILp",
+          "name": "Phil Collins",
+          "type": "artist",
+          "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1cM3r0WQZWNkCpEbmFjLln",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6954c1f074f66907a8c5483",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6954c1f074f66907a8c5483",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6954c1f074f66907a8c5483",
+          "width": 64
+        }
+      ],
+      "name": "Face Value (Deluxe Editon)",
+      "release_date": "1981-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:1cM3r0WQZWNkCpEbmFjLln"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp",
+        "id": "4lxfqrEsLX6N1N4OCSkILp",
+        "name": "Phil Collins",
+        "type": "artist",
+        "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/18AXbzPzBS8Y3AkgSxzJPb",
+    "is_local": false,
+    "name": "In The Air Tonight - 2015 Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
           },
           "href": "https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF",
