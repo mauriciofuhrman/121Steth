@@ -4,6 +4,653 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+          "id": "5C4PDR4LnhZTbVnKWXuDKD",
+          "name": "Morat",
+          "type": "artist",
+          "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/43mAHKPa4iB2er88lxD9Q8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27390fa215e791c13fe9bacb8bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0290fa215e791c13fe9bacb8bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485190fa215e791c13fe9bacb8bc",
+          "width": 64
+        }
+      ],
+      "name": "Balas Perdidas",
+      "release_date": "2018-10-25",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:43mAHKPa4iB2er88lxD9Q8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+        "id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "name": "Morat",
+        "type": "artist",
+        "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        "href": "https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7",
+        "id": "0UWZUmn7sybxMCqrw9tGa7",
+        "name": "Juanes",
+        "type": "artist",
+        "uri": "spotify:artist:0UWZUmn7sybxMCqrw9tGa7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1mlGScrDQqHqmhdIqE8MmA",
+    "is_local": false,
+    "name": "Besos En Guerra",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+          "id": "5C4PDR4LnhZTbVnKWXuDKD",
+          "name": "Morat",
+          "type": "artist",
+          "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/43mAHKPa4iB2er88lxD9Q8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27390fa215e791c13fe9bacb8bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0290fa215e791c13fe9bacb8bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485190fa215e791c13fe9bacb8bc",
+          "width": 64
+        }
+      ],
+      "name": "Balas Perdidas",
+      "release_date": "2018-10-25",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:43mAHKPa4iB2er88lxD9Q8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+        "id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "name": "Morat",
+        "type": "artist",
+        "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        "href": "https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7",
+        "id": "0UWZUmn7sybxMCqrw9tGa7",
+        "name": "Juanes",
+        "type": "artist",
+        "uri": "spotify:artist:0UWZUmn7sybxMCqrw9tGa7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1mlGScrDQqHqmhdIqE8MmA",
+    "is_local": false,
+    "name": "Besos En Guerra",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+          "id": "5C4PDR4LnhZTbVnKWXuDKD",
+          "name": "Morat",
+          "type": "artist",
+          "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/50eHcXc4qede9mUKCYOuoz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c929d54495f38b910f48643",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c929d54495f38b910f48643",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c929d54495f38b910f48643",
+          "width": 64
+        }
+      ],
+      "name": "Sobre El Amor Y Sus Efectos Secundarios",
+      "release_date": "2016-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:50eHcXc4qede9mUKCYOuoz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
+        "id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "name": "Morat",
+        "type": "artist",
+        "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7M6CFruBrM5x7u0lTMtm6r",
+    "is_local": false,
+    "name": "Cómo Te Atreves",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+          "id": "1mux8L6xg2Cmrc7k0wQczl",
+          "name": "Bacilos",
+          "type": "artist",
+          "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bM009J81OBNisrMbFwBJj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1f4c211ce1ef95454bbbcc4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1f4c211ce1ef95454bbbcc4",
+          "width": 64
+        }
+      ],
+      "name": "Caraluna",
+      "release_date": "2002-06-25",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2bM009J81OBNisrMbFwBJj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+        "id": "1mux8L6xg2Cmrc7k0wQczl",
+        "name": "Bacilos",
+        "type": "artist",
+        "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5fSDXbY8o9pA3TKwAbfwML",
+    "is_local": false,
+    "name": "Mi Primer Millon",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+          "id": "1mux8L6xg2Cmrc7k0wQczl",
+          "name": "Bacilos",
+          "type": "artist",
+          "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bM009J81OBNisrMbFwBJj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1f4c211ce1ef95454bbbcc4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1f4c211ce1ef95454bbbcc4",
+          "width": 64
+        }
+      ],
+      "name": "Caraluna",
+      "release_date": "2002-06-25",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2bM009J81OBNisrMbFwBJj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+        "id": "1mux8L6xg2Cmrc7k0wQczl",
+        "name": "Bacilos",
+        "type": "artist",
+        "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7DhYjNLksXZhbRQeheAums",
+    "is_local": false,
+    "name": "Caraluna",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV",
+          "id": "43mhFhQ4JAknA7Ik1bOZuV",
+          "name": "Pat Benatar",
+          "type": "artist",
+          "uri": "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7HlWbMlmhASeeZ61ZiHpWJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731b83255ef342451b977987aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021b83255ef342451b977987aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511b83255ef342451b977987aa",
+          "width": 64
+        }
+      ],
+      "name": "Crimes Of Passion",
+      "release_date": "1980-08-05",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7HlWbMlmhASeeZ61ZiHpWJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        },
+        "href": "https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV",
+        "id": "43mhFhQ4JAknA7Ik1bOZuV",
+        "name": "Pat Benatar",
+        "type": "artist",
+        "uri": "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0vOkmmJEtjuFZDzrQSFzEE",
+    "is_local": false,
+    "name": "Hit Me With Your Best Shot",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+          "id": "7dnB1wSxbYa8CejeVg98hz",
+          "name": "Meat Loaf",
+          "type": "artist",
+          "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mvI80w5r78niBmwtu7RF9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734111af27787499f6d8752e9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514111af27787499f6d8752e9f",
+          "width": 64
+        }
+      ],
+      "name": "Bat Out Of Hell",
+      "release_date": "1977-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6mvI80w5r78niBmwtu7RF9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7dnB1wSxbYa8CejeVg98hz",
+        "id": "7dnB1wSxbYa8CejeVg98hz",
+        "name": "Meat Loaf",
+        "type": "artist",
+        "uri": "spotify:artist:7dnB1wSxbYa8CejeVg98hz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2g7gviEeJr6pyxO7G35EWQ",
+    "is_local": false,
+    "name": "Paradise By the Dashboard Light",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra",
+          "type": "artist",
+          "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3i67sGIVw8EBlgfSRv3Lj2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b81d66d1416afa139d12767b",
+          "width": 64
+        }
+      ],
+      "name": "Nothing But The Best (2008 Remastered)",
+      "release_date": "2008-05-13",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:3i67sGIVw8EBlgfSRv3Lj2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "type": "artist",
+        "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2YkIDPL5lGhRhomCq4S2RO",
+    "is_local": false,
+    "name": "My Way - 2008 Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70",
+          "width": 64
+        }
+      ],
+      "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "release_date": "1991-09-24",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:30Perjew8HyGkdSmqguYyg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
+    "is_local": false,
+    "name": "Under the Bridge",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis",
+          "type": "artist",
+          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6nznHVahdEzZ7Qwv9TrOW4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c7f630ec2596908408758c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c7f630ec2596908408758c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c7f630ec2596908408758c2",
+          "width": 64
+        }
+      ],
+      "name": "Time Flies... 1994-2009 (Remastered)",
+      "release_date": "2025-06-13",
+      "release_date_precision": "day",
+      "total_tracks": 26,
+      "type": "album",
+      "uri": "spotify:album:6nznHVahdEzZ7Qwv9TrOW4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "name": "Oasis",
+        "type": "artist",
+        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1gYNo6sCys1dJEIFcgqlYr",
+    "is_local": false,
+    "name": "Don't Look Back in Anger - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
           },
           "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
