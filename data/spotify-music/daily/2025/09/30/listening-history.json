@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c53ZFyajVMTo08HmvoB6b",
+          "id": "7c53ZFyajVMTo08HmvoB6b",
+          "name": "zzoilo",
+          "type": "artist",
+          "uri": "spotify:artist:7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+          "id": "7eLcDZDYHXZCebtQmVFL25",
+          "name": "Aitana",
+          "type": "artist",
+          "uri": "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4TWsxSw8df17aja6JSaar5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273545c930fa9fada545b01f71d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02545c930fa9fada545b01f71d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851545c930fa9fada545b01f71d",
+          "width": 64
+        }
+      ],
+      "name": "Mon Amour (Remix)",
+      "release_date": "2021-08-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4TWsxSw8df17aja6JSaar5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        "href": "https://api.spotify.com/v1/artists/7c53ZFyajVMTo08HmvoB6b",
+        "id": "7c53ZFyajVMTo08HmvoB6b",
+        "name": "zzoilo",
+        "type": "artist",
+        "uri": "spotify:artist:7c53ZFyajVMTo08HmvoB6b"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        "href": "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+        "id": "7eLcDZDYHXZCebtQmVFL25",
+        "name": "Aitana",
+        "type": "artist",
+        "uri": "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5TMLavqGRKNxgzMBrVpC9R",
+    "is_local": false,
+    "name": "Mon Amour - Remix",
+    "preview_url": null
+  }
+]
