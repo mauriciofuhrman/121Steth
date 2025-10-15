@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3a8tAZFJxlmBwOtrf5L1oC",
+    "is_local": false,
+    "name": "6 God",
+    "preview_url": null
+  }
+]
