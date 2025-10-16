@@ -13,30 +13,30 @@
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "href": "https://api.spotify.com/v1/albums/6jlrjFR9mJV3jd1IPSplXU",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d00001e0211b21e8b868800918d21bb77",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "url": "https://i.scdn.co/image/ab67616d0000485111b21e8b868800918d21bb77",
           "width": 64
         }
       ],
-      "name": "If You're Reading This It's Too Late",
-      "release_date": "2015-02-12",
+      "name": "Thank Me Later",
+      "release_date": "2010-01-01",
       "release_date_precision": "day",
-      "total_tracks": 17,
+      "total_tracks": 14,
       "type": "album",
-      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+      "uri": "spotify:album:6jlrjFR9mJV3jd1IPSplXU"
     },
     "artists": [
       {
@@ -51,9 +51,1132 @@
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/3a8tAZFJxlmBwOtrf5L1oC",
+    "href": "https://api.spotify.com/v1/tracks/6BdgtqiV3oXNqBikezwdvC",
     "is_local": false,
-    "name": "6 God",
+    "name": "Over",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4hUCtGcc0hRYXFhKSETlll",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4046985c8b4f9478e0af14e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4046985c8b4f9478e0af14e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4046985c8b4f9478e0af14e",
+          "width": 64
+        }
+      ],
+      "name": "This fffire",
+      "release_date": "2004-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4hUCtGcc0hRYXFhKSETlll"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/46gSk82duJtX3TTA182ruG",
+    "is_local": false,
+    "name": "This fffire - New Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4hUCtGcc0hRYXFhKSETlll",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4046985c8b4f9478e0af14e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4046985c8b4f9478e0af14e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4046985c8b4f9478e0af14e",
+          "width": 64
+        }
+      ],
+      "name": "This fffire",
+      "release_date": "2004-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4hUCtGcc0hRYXFhKSETlll"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/46gSk82duJtX3TTA182ruG",
+    "is_local": false,
+    "name": "This fffire - New Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5d1c06a8172d4861367953c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5NQQyIX2DVsiBKwRBBUfNW",
+    "is_local": false,
+    "name": "Michael",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+          "id": "7MhMgCo0Bl0Kukl93PZbYS",
+          "name": "Blur",
+          "type": "artist",
+          "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7HvIrSkKGJCzd8AKyjTJ6Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6",
+          "width": 64
+        }
+      ],
+      "name": "Blur (Special Edition)",
+      "release_date": "1997-02-10",
+      "release_date_precision": "day",
+      "total_tracks": 32,
+      "type": "album",
+      "uri": "spotify:album:7HvIrSkKGJCzd8AKyjTJ6Q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        },
+        "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+        "id": "7MhMgCo0Bl0Kukl93PZbYS",
+        "name": "Blur",
+        "type": "artist",
+        "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1FTSo4v6BOZH9QxKc3MbVM",
+    "is_local": false,
+    "name": "Song 2 - 2012 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5d1c06a8172d4861367953c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6gaWfLDoeG1eoiDAVBN4i8",
+    "is_local": false,
+    "name": "The Dark Of The Matinée",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "width": 64
+        }
+      ],
+      "name": "Is This It",
+      "release_date": "2001-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hm4HTk9encxT0LYC0J6oI",
+    "is_local": false,
+    "name": "Someday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/59D4DOkspUbWyMmbAPQkxZ",
+    "is_local": false,
+    "name": "VOY A LLeVARTE PA PR",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3RQQmkQEvNCY4prGKE6oc5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+          "width": 64
+        }
+      ],
+      "name": "Un Verano Sin Ti",
+      "release_date": "2022-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6Xom58OOXk2SoU711L2IXO",
+    "is_local": false,
+    "name": "Moscow Mule",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0iKo4pNNjHHdKUcFARlfCa",
+    "is_local": false,
+    "name": "EL CLúB",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+          "id": "0GM7qgcRCORpGnfcN2tCiB",
+          "name": "Tainy",
+          "type": "artist",
+          "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2X6WyzpxY70eUn3lnewB7d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f885fb64a381318a1c9c14e4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f885fb64a381318a1c9c14e4",
+          "width": 64
+        }
+      ],
+      "name": "DATA",
+      "release_date": "2023-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:2X6WyzpxY70eUn3lnewB7d"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+        "id": "0GM7qgcRCORpGnfcN2tCiB",
+        "name": "Tainy",
+        "type": "artist",
+        "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/46YjJXVXWHlQ21odKktg5e",
+    "is_local": false,
+    "name": "MOJABI GHOST",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3sK8wGT43QFpWrvNQsrQya",
+    "is_local": false,
+    "name": "DtMF",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7tCuCjhxzjX2XCz4JiiAsp",
+    "is_local": false,
+    "name": "TURiSTA",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7CjJb2mikwAWA1V6kewFBF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02519266cd05491a5b5bc22d1e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851519266cd05491a5b5bc22d1e",
+          "width": 64
+        }
+      ],
+      "name": "X 100PRE",
+      "release_date": "2018-12-23",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7CjJb2mikwAWA1V6kewFBF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/35wvL50xvKpCHEJPxLOLPI",
+    "is_local": false,
+    "name": "Si Estuviésemos Juntos",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3G7agPwWfcORnWCAGMDOpm",
+    "is_local": false,
+    "name": "LA MuDANZA",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+          "id": "6XkjpgcEsYab502Vr1bBeW",
+          "name": "Grupo Frontera",
+          "type": "artist",
+          "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7aGzSSUD8S6IhPCsZSiuMT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02716c0b0ad51594ff788b5f06",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851716c0b0ad51594ff788b5f06",
+          "width": 64
+        }
+      ],
+      "name": "un x100to",
+      "release_date": "2023-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7aGzSSUD8S6IhPCsZSiuMT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+        "id": "6XkjpgcEsYab502Vr1bBeW",
+        "name": "Grupo Frontera",
+        "type": "artist",
+        "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6pD0ufEQq0xdHSsRbg9LBK",
+    "is_local": false,
+    "name": "un x100to",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3RQQmkQEvNCY4prGKE6oc5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+          "width": 64
+        }
+      ],
+      "name": "Un Verano Sin Ti",
+      "release_date": "2022-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5Eax0qFko2dh7Rl2lYs3bx",
+    "is_local": false,
+    "name": "Efecto",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6J5kc12BW5HuP3d7C3vvx8",
+    "is_local": false,
+    "name": "EoO",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers",
+          "type": "artist",
+          "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6NmYJszy5BaEm1WF4tJL7Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5efed2f29ab39ebab066e2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f5efed2f29ab39ebab066e2a",
+          "width": 64
+        }
+      ],
+      "name": "LA PANTERA NEGRA",
+      "release_date": "2024-08-22",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:6NmYJszy5BaEm1WF4tJL7Z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+        "id": "7iK8PXO48WeuP03g8YR51W",
+        "name": "Myke Towers",
+        "type": "artist",
+        "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0eeX8L0DWvGth1F6xVkvv7",
+    "is_local": false,
+    "name": "ADIVINO",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Hg0e997pObvZ91w1FCPFk",
+    "is_local": false,
+    "name": "LO QUE LE PASÓ A HAWAii",
     "preview_url": null
   }
 ]
