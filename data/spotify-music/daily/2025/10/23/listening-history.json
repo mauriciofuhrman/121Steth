@@ -4,6 +4,405 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5d1c06a8172d4861367953c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7h0jDykw4RpWFqUhZQuElW",
+    "is_local": false,
+    "name": "Darts Of Pleasure",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0vi5ePiEHrGZJF7QhnDW2z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5d1c06a8172d4861367953c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5d1c06a8172d4861367953c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c",
+          "width": 64
+        }
+      ],
+      "name": "Franz Ferdinand",
+      "release_date": "2004-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0vi5ePiEHrGZJF7QhnDW2z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Obu3jvFSfgLF3pSbi64Vj",
+    "is_local": false,
+    "name": "This Fire",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3C2MFZ2iHotUQOSBzdSvM7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851370c12f82872c9cfaee80193",
+          "width": 64
+        }
+      ],
+      "name": "Lonerism",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3C2MFZ2iHotUQOSBzdSvM7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6qZjm61s6u8Ead9sWxCDro",
+    "is_local": false,
+    "name": "Elephant",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "width": 64
+        }
+      ],
+      "name": "Is This It",
+      "release_date": "2001-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3SUusuA9jH1v6PVwtYMbdv",
+    "is_local": false,
+    "name": "Last Nite",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+          "width": 64
+        }
+      ],
+      "name": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1dUHF4RyMmMTveJ0Rby6Xm",
+    "is_local": false,
+    "name": "Can’t Take A Joke",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
+          "width": 64
+        }
+      ],
+      "name": "Favourite Worst Nightmare (Standard Version)",
+      "release_date": "2007-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/58ge6dfP91o9oXMzq3XkIS",
+    "is_local": false,
+    "name": "505",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
           },
           "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
