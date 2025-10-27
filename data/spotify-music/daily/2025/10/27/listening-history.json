@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "width": 64
+        }
+      ],
+      "name": "Is This It",
+      "release_date": "2001-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hm4HTk9encxT0LYC0J6oI",
+    "is_local": false,
+    "name": "Someday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis",
+          "type": "artist",
+          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6nznHVahdEzZ7Qwv9TrOW4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273320f3140b83ab6111627f840",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02320f3140b83ab6111627f840",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851320f3140b83ab6111627f840",
+          "width": 64
+        }
+      ],
+      "name": "Time Flies... 1994-2009 (Remastered)",
+      "release_date": "2025-06-13",
+      "release_date_precision": "day",
+      "total_tracks": 26,
+      "type": "album",
+      "uri": "spotify:album:6nznHVahdEzZ7Qwv9TrOW4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "name": "Oasis",
+        "type": "artist",
+        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1gYNo6sCys1dJEIFcgqlYr",
+    "is_local": false,
+    "name": "Don't Look Back in Anger - Remastered",
+    "preview_url": null
+  }
+]
