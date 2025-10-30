@@ -1,0 +1,146 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HabM2PUM519iIxervGWSb",
+          "id": "6HabM2PUM519iIxervGWSb",
+          "name": "Prospa",
+          "type": "artist",
+          "uri": "spotify:artist:6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WR2sls6n0N1usqywvysnX",
+          "id": "1WR2sls6n0N1usqywvysnX",
+          "name": "RAHH",
+          "type": "artist",
+          "uri": "spotify:artist:1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3lOIzDGjuWw1kXWNTML6px",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2793a69787d9219a3dc4c5a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2793a69787d9219a3dc4c5a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d2793a69787d9219a3dc4c5a",
+          "width": 64
+        }
+      ],
+      "name": "This Rhythm (feat. RAHH)",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3lOIzDGjuWw1kXWNTML6px"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HabM2PUM519iIxervGWSb",
+        "id": "6HabM2PUM519iIxervGWSb",
+        "name": "Prospa",
+        "type": "artist",
+        "uri": "spotify:artist:6HabM2PUM519iIxervGWSb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WR2sls6n0N1usqywvysnX",
+        "id": "1WR2sls6n0N1usqywvysnX",
+        "name": "RAHH",
+        "type": "artist",
+        "uri": "spotify:artist:1WR2sls6n0N1usqywvysnX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4NtQwxR7o3ixPVKLyOTS66",
+    "is_local": false,
+    "name": "This Rhythm (feat. RAHH)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again..",
+          "type": "artist",
+          "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5q2iMctlDvEMYVIawF6Vop",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737622b889949b07f15c6b57e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027622b889949b07f15c6b57e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517622b889949b07f15c6b57e2",
+          "width": 64
+        }
+      ],
+      "name": "Actual Life 3 (January 1 - September 9 2022)",
+      "release_date": "2022-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5q2iMctlDvEMYVIawF6Vop"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "type": "artist",
+        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WtrH1zNpzoPSz6XpwCh6y",
+        "id": "3WtrH1zNpzoPSz6XpwCh6y",
+        "name": "Delilah Montagu",
+        "type": "artist",
+        "uri": "spotify:artist:3WtrH1zNpzoPSz6XpwCh6y"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5w9upngVRHNjdZcRC7Xxr2",
+    "is_local": false,
+    "name": "Delilah (pull me out of this)",
+    "preview_url": null
+  }
+]
