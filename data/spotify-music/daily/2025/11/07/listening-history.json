@@ -1,0 +1,1332 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+          "id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "Bob Sinclar",
+          "type": "artist",
+          "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5a5yqCyb7xF3Hklvlwc3t3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8",
+          "width": 64
+        }
+      ],
+      "name": "World, Hold On (FISHER Rework)",
+      "release_date": "2022-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id": "5YFS41yoX0YuFY39fq21oN",
+        "name": "Bob Sinclar",
+        "type": "artist",
+        "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SwhNukah1MYpLR594PnuC",
+        "id": "2SwhNukah1MYpLR594PnuC",
+        "name": "Steve Edwards",
+        "type": "artist",
+        "uri": "spotify:artist:2SwhNukah1MYpLR594PnuC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6quGF3Kvzd5WYEEuCmvCe1",
+    "is_local": false,
+    "name": "World, Hold On - FISHER Rework",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YEnrpAWWaNRFumgde1lLH",
+          "id": "2YEnrpAWWaNRFumgde1lLH",
+          "name": "Oden & Fatzo",
+          "type": "artist",
+          "uri": "spotify:artist:2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3L1NLn5rcrmV4uVqgaoTI7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ade3f3d0fb1a94a5b289efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ade3f3d0fb1a94a5b289efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ade3f3d0fb1a94a5b289efd",
+          "width": 64
+        }
+      ],
+      "name": "Lauren (I Can't Stay Forever)",
+      "release_date": "2021-10-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3L1NLn5rcrmV4uVqgaoTI7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YEnrpAWWaNRFumgde1lLH",
+        "id": "2YEnrpAWWaNRFumgde1lLH",
+        "name": "Oden & Fatzo",
+        "type": "artist",
+        "uri": "spotify:artist:2YEnrpAWWaNRFumgde1lLH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/33tYADyL2aZctrvR59K1bQ",
+    "is_local": false,
+    "name": "Lauren (I Can't Stay Forever)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MdFJmUQf3ckA99IhFF9my",
+          "id": "2MdFJmUQf3ckA99IhFF9my",
+          "name": "Ely Oaks",
+          "type": "artist",
+          "uri": "spotify:artist:2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6SgbKsntdtOnmohYEeHi9o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e2c3a9218378061c1a1b2b0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e2c3a9218378061c1a1b2b0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e2c3a9218378061c1a1b2b0",
+          "width": 64
+        }
+      ],
+      "name": "Running Around",
+      "release_date": "2025-01-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6SgbKsntdtOnmohYEeHi9o"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        "href": "https://api.spotify.com/v1/artists/2MdFJmUQf3ckA99IhFF9my",
+        "id": "2MdFJmUQf3ckA99IhFF9my",
+        "name": "Ely Oaks",
+        "type": "artist",
+        "uri": "spotify:artist:2MdFJmUQf3ckA99IhFF9my"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7yNQ5oPcuCC4wTqTcMRIrE",
+    "is_local": false,
+    "name": "Running Around",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+          "id": "3VRyybsQu0MDG0F2LBxnv7",
+          "name": "Noizu",
+          "type": "artist",
+          "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4QCh5emLRWuIg8CUzprNXm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c0c35544b3c51b9b8896f87",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023c0c35544b3c51b9b8896f87",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513c0c35544b3c51b9b8896f87",
+          "width": 64
+        }
+      ],
+      "name": "Summer 91 (Looking Back)",
+      "release_date": "2021-01-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:4QCh5emLRWuIg8CUzprNXm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+        "id": "3VRyybsQu0MDG0F2LBxnv7",
+        "name": "Noizu",
+        "type": "artist",
+        "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4FEcEwbE2vsqhxbTPtiNTL",
+    "is_local": false,
+    "name": "Summer 91 (Looking Back)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+          },
+          "href": "https://api.spotify.com/v1/artists/29MTNlaVntQaQiDyj8KGwx",
+          "id": "29MTNlaVntQaQiDyj8KGwx",
+          "name": "Obskür",
+          "type": "artist",
+          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6zkyKkJPiRV3EiAuTg6aQC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf296a0d39e679f43bcceb79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf296a0d39e679f43bcceb79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cf296a0d39e679f43bcceb79",
+          "width": 64
+        }
+      ],
+      "name": "Bayside",
+      "release_date": "2020-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:6zkyKkJPiRV3EiAuTg6aQC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        "href": "https://api.spotify.com/v1/artists/29MTNlaVntQaQiDyj8KGwx",
+        "id": "29MTNlaVntQaQiDyj8KGwx",
+        "name": "Obskür",
+        "type": "artist",
+        "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hYW4hKuPkfaLbzTpg9hQB",
+    "is_local": false,
+    "name": "Bayside - Radio Edit",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+          "id": "4E0HD2PMY8kQJIjlShrLUS",
+          "name": "PAWSA",
+          "type": "artist",
+          "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/17zk2lz0xesn8Y4YncohZa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022ae2ed5bc30ffd941d29d4ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512ae2ed5bc30ffd941d29d4ac",
+          "width": 64
+        }
+      ],
+      "name": "TOO COOL TO BE CARELESS",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:17zk2lz0xesn8Y4YncohZa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "type": "artist",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6KqM3xmPIDonsTjCSGrrr5",
+    "is_local": false,
+    "name": "TOO COOL TO BE CARELESS",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+          },
+          "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+          "id": "4csQIMQm6vI2A2SCVDuM2z",
+          "name": "Hayden James",
+          "type": "artist",
+          "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5gOU7SYwgPAmw6tDUdsT9Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27312be0d681f5fb61d7a27e993",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0212be0d681f5fb61d7a27e993",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485112be0d681f5fb61d7a27e993",
+          "width": 64
+        }
+      ],
+      "name": "Something About You",
+      "release_date": "2015-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5gOU7SYwgPAmw6tDUdsT9Q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        "href": "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+        "id": "4csQIMQm6vI2A2SCVDuM2z",
+        "name": "Hayden James",
+        "type": "artist",
+        "uri": "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5n9DJWUiwuKuPE9sCVbQ0n",
+    "is_local": false,
+    "name": "Something About You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5eKQYtDqVmrHPZoKHG1LlH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+          "width": 64
+        }
+      ],
+      "name": "Somebody (2024)",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fAwPpS78sokZdpktoSUE8",
+        "id": "5fAwPpS78sokZdpktoSUE8",
+        "name": "Sante Sansone",
+        "type": "artist",
+        "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0agQ9vIV7NP4dntGKLcCXO",
+    "is_local": false,
+    "name": "Somebody (2024)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1voOnpa4pILlDPVsrIFl8b",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c9103bcebb6bf4ca93c7ad3d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c9103bcebb6bf4ca93c7ad3d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c9103bcebb6bf4ca93c7ad3d",
+          "width": 64
+        }
+      ],
+      "name": "You Little Beauty",
+      "release_date": "2019-05-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1voOnpa4pILlDPVsrIFl8b"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1gRQxbfL4ULWyTosgXSbWT",
+    "is_local": false,
+    "name": "You Little Beauty",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+          "id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "D.O.D",
+          "type": "artist",
+          "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S9LNSZusH3XflT3g32bqB",
+          "id": "4S9LNSZusH3XflT3g32bqB",
+          "name": "Carla Monroe",
+          "type": "artist",
+          "uri": "spotify:artist:4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0R8Q1Ssj8x17w30NUas7yu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce09321ad586bf258a394f43",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce09321ad586bf258a394f43",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ce09321ad586bf258a394f43",
+          "width": 64
+        }
+      ],
+      "name": "Still Sleepless",
+      "release_date": "2021-09-17",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:0R8Q1Ssj8x17w30NUas7yu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+        "id": "0Cs47vvRsPgEfliBU9KDiB",
+        "name": "D.O.D",
+        "type": "artist",
+        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4S9LNSZusH3XflT3g32bqB",
+        "id": "4S9LNSZusH3XflT3g32bqB",
+        "name": "Carla Monroe",
+        "type": "artist",
+        "uri": "spotify:artist:4S9LNSZusH3XflT3g32bqB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4vyG9ZhHT8MKJE5mTICMFC",
+    "is_local": false,
+    "name": "Still Sleepless",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+          "id": "6nS5roXSAGhTGr34W6n7Et",
+          "name": "Disclosure",
+          "type": "artist",
+          "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NrprO4CludRmaWtpqud10",
+          "id": "2NrprO4CludRmaWtpqud10",
+          "name": "Rivo",
+          "type": "artist",
+          "uri": "spotify:artist:2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3QIGpfgWXKujfMaecgKV9u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b18753eb7552e25b7f134c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b18753eb7552e25b7f134c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b18753eb7552e25b7f134c4",
+          "width": 64
+        }
+      ],
+      "name": "You & Me (Rivo Remix)",
+      "release_date": "2023-12-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3QIGpfgWXKujfMaecgKV9u"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+        "id": "6nS5roXSAGhTGr34W6n7Et",
+        "name": "Disclosure",
+        "type": "artist",
+        "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        "href": "https://api.spotify.com/v1/artists/14L5rpGTLVUz1pD8fUeJB1",
+        "id": "14L5rpGTLVUz1pD8fUeJB1",
+        "name": "Eliza Doolittle",
+        "type": "artist",
+        "uri": "spotify:artist:14L5rpGTLVUz1pD8fUeJB1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NrprO4CludRmaWtpqud10",
+        "id": "2NrprO4CludRmaWtpqud10",
+        "name": "Rivo",
+        "type": "artist",
+        "uri": "spotify:artist:2NrprO4CludRmaWtpqud10"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0xoYZ45fgTfyQYREZPN7Sa",
+    "is_local": false,
+    "name": "You & Me - Rivo Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+          "id": "2CnJJITnV40TB5UtCRhwIZ",
+          "name": "Wakyin",
+          "type": "artist",
+          "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6YoX9Sp63sr8NvOEjHk8uV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c1faf936b87bdf93bee8d7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c1faf936b87bdf93bee8d7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c1faf936b87bdf93bee8d7e",
+          "width": 64
+        }
+      ],
+      "name": "Beso (Fruta Fresca)",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6YoX9Sp63sr8NvOEjHk8uV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2CnJJITnV40TB5UtCRhwIZ",
+        "id": "2CnJJITnV40TB5UtCRhwIZ",
+        "name": "Wakyin",
+        "type": "artist",
+        "uri": "spotify:artist:2CnJJITnV40TB5UtCRhwIZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+        "id": "4vhNDa5ycK0ST968ek7kRr",
+        "name": "Carlos Vives",
+        "type": "artist",
+        "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0r3nMF80NSIuPIxeod4aoG",
+    "is_local": false,
+    "name": "Beso (Fruta Fresca)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit",
+          "type": "artist",
+          "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2pHm3ZP2R3phzCYi7ilGN2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac2be70b09319ac92b074fde",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac2be70b09319ac92b074fde",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ac2be70b09319ac92b074fde",
+          "width": 64
+        }
+      ],
+      "name": "Comfort In Chaos",
+      "release_date": "2024-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2pHm3ZP2R3phzCYi7ilGN2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href": "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "type": "artist",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+        "id": "4yX6mpMyBGf9UfvBB8JJrc",
+        "name": "HAYLA",
+        "type": "artist",
+        "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3pUz2qJe5nqZemi3hhIxMk",
+    "is_local": false,
+    "name": "Where You Are",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+          "id": "1PzAgFVk9v8cxn9flrqrv5",
+          "name": "Joshwa",
+          "type": "artist",
+          "uri": "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3KOSUwiUlteX08HipIYu5e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734fdb72fc56fd9688f29d6148",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024fdb72fc56fd9688f29d6148",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514fdb72fc56fd9688f29d6148",
+          "width": 64
+        }
+      ],
+      "name": "Magalenha",
+      "release_date": "2023-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3KOSUwiUlteX08HipIYu5e"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id": "1PzAgFVk9v8cxn9flrqrv5",
+        "name": "Joshwa",
+        "type": "artist",
+        "uri": "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/67UgMiTgtwjGFoiACzup1g",
+    "is_local": false,
+    "name": "Magalenha",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+          "id": "4TvhRzxIL1le2PWCeUqxQw",
+          "name": "The Blessed Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0WGs5bQx4HefdubdFh1kfE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc161028cf8ca72c2b7192b0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc161028cf8ca72c2b7192b0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc161028cf8ca72c2b7192b0",
+          "width": 64
+        }
+      ],
+      "name": "Godspeed",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:0WGs5bQx4HefdubdFh1kfE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+        "id": "4TvhRzxIL1le2PWCeUqxQw",
+        "name": "The Blessed Madonna",
+        "type": "artist",
+        "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        "href": "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+        "id": "4DWuml4Jf6K81b5rAPwMb6",
+        "name": "Clementine Douglas",
+        "type": "artist",
+        "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4HvBJocC5MDYL4yGnQe5jq",
+    "is_local": false,
+    "name": "Happier (feat. Clementine Douglas)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+          "id": "4VNQWV2y1E97Eqo2D5UTjx",
+          "name": "Gorgon City",
+          "type": "artist",
+          "uri": "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/34yu5063EpoaKKir1m0q9e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b30c1bbc9c7812b46a5d06c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b30c1bbc9c7812b46a5d06c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b30c1bbc9c7812b46a5d06c",
+          "width": 64
+        }
+      ],
+      "name": "Salvation",
+      "release_date": "2023-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:34yu5063EpoaKKir1m0q9e"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id": "4VNQWV2y1E97Eqo2D5UTjx",
+        "name": "Gorgon City",
+        "type": "artist",
+        "uri": "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3hQSct6Ay5azm9dfFxHixY",
+    "is_local": false,
+    "name": "Voodoo",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "type": "artist",
+          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7iLgRk89HhZw9QZvQjjATj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec7898a4ed10f186b8db8a3a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec7898a4ed10f186b8db8a3a",
+          "width": 64
+        }
+      ],
+      "name": "On The 6 (25th Anniversary Edition)",
+      "release_date": "2024-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7iLgRk89HhZw9QZvQjjATj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5GHVp2CCufZ8MJzYE82W7R",
+    "is_local": false,
+    "name": "Waiting for Tonight - Radio Edit",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  }
+]
