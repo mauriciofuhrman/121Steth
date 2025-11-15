@@ -4,6 +4,505 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Ge9GwmWnOQsohwPTrXyHc",
+          "id": "4Ge9GwmWnOQsohwPTrXyHc",
+          "name": "Gordo",
+          "type": "artist",
+          "uri": "spotify:artist:4Ge9GwmWnOQsohwPTrXyHc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6KoGMkF6Fp3W9C339E5eVx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27317d04695bea0b63bfdc2be44",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0217d04695bea0b63bfdc2be44",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485117d04695bea0b63bfdc2be44",
+          "width": 64
+        }
+      ],
+      "name": "DIAMANTE",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6KoGMkF6Fp3W9C339E5eVx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Ge9GwmWnOQsohwPTrXyHc",
+        "id": "4Ge9GwmWnOQsohwPTrXyHc",
+        "name": "Gordo",
+        "type": "artist",
+        "uri": "spotify:artist:4Ge9GwmWnOQsohwPTrXyHc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/02YMpD1xbZZzpZbuZNvmD7",
+    "is_local": false,
+    "name": "Sideways",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+          "width": 64
+        }
+      ],
+      "name": "Her Loss",
+      "release_date": "2022-11-04",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "type": "artist",
+        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7l2nxyx7IkBX5orhkALg0V",
+    "is_local": false,
+    "name": "Privileged Rappers",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+          "id": "2HPaUgqeutzr3jx5a9WyDV",
+          "name": "PARTYNEXTDOOR",
+          "type": "artist",
+          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+          "width": 64
+        }
+      ],
+      "name": "$ome $exy $ongs 4 U",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5Nz7hI3cCOHmMR4vSLJ1An",
+    "is_local": false,
+    "name": "GIMME A HUG",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+          "id": "2HPaUgqeutzr3jx5a9WyDV",
+          "name": "PARTYNEXTDOOR",
+          "type": "artist",
+          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+          "width": 64
+        }
+      ],
+      "name": "$ome $exy $ongs 4 U",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+        "id": "2HPaUgqeutzr3jx5a9WyDV",
+        "name": "PARTYNEXTDOOR",
+        "type": "artist",
+        "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+        "name": "Yebba",
+        "type": "artist",
+        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0NUqi0ps17YpLUC3kgsZq0",
+    "is_local": false,
+    "name": "DIE TRYING",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6X1x82kppWZmDzlXXK3y3q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c7ea04a9b455e3f68ef82550",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+          "width": 64
+        }
+      ],
+      "name": "Take Care (Deluxe)",
+      "release_date": "2011-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:6X1x82kppWZmDzlXXK3y3q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "type": "artist",
+        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0m1KYWlT6LhFRBDVq9UNx4",
+    "is_local": false,
+    "name": "HYFR (Hell Ya Fucking Right)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+          "id": "2HPaUgqeutzr3jx5a9WyDV",
+          "name": "PARTYNEXTDOOR",
+          "type": "artist",
+          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+          "width": 64
+        }
+      ],
+      "name": "$ome $exy $ongs 4 U",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+        "id": "2HPaUgqeutzr3jx5a9WyDV",
+        "name": "PARTYNEXTDOOR",
+        "type": "artist",
+        "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2kZoOj1n5vk9BuF0sih58M",
+    "is_local": false,
+    "name": "SOMEBODY LOVES ME",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1lXY618HWkwYKJWBRYR4MK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+          "width": 64
+        }
+      ],
+      "name": "More Life",
+      "release_date": "2017-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:1lXY618HWkwYKJWBRYR4MK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/05KOgYg8PGeJyyWBPi5ja8",
+    "is_local": false,
+    "name": "Free Smoke",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
           },
           "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
