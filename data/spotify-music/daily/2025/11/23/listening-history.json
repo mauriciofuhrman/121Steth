@@ -1,0 +1,796 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+          "id": "3TaUSUXn41GixL7zbvrIDt",
+          "name": "A-Trak",
+          "type": "artist",
+          "uri": "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+          "id": "3cnAJv9gydgm52KFIsdvO8",
+          "name": "Ferreck Dawn",
+          "type": "artist",
+          "uri": "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7GnbITNZyR4bk4pzCzIlMJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27344eb092dfc403f09c0de01c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0244eb092dfc403f09c0de01c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485144eb092dfc403f09c0de01c2",
+          "width": 64
+        }
+      ],
+      "name": "Coming Home",
+      "release_date": "2020-02-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7GnbITNZyR4bk4pzCzIlMJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id": "3TaUSUXn41GixL7zbvrIDt",
+        "name": "A-Trak",
+        "type": "artist",
+        "uri": "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        "href": "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+        "id": "3cnAJv9gydgm52KFIsdvO8",
+        "name": "Ferreck Dawn",
+        "type": "artist",
+        "uri": "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0eOcjJgpO8XdJbPMYJgKqq",
+    "is_local": false,
+    "name": "Coming Home",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again..",
+          "type": "artist",
+          "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6o86bV7TAt5x4exc2qLDqC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f0e63e38a0ea92314ab9d7f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020f0e63e38a0ea92314ab9d7f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510f0e63e38a0ea92314ab9d7f",
+          "width": 64
+        }
+      ],
+      "name": "Actual Life (April 14 - December 17 2020)",
+      "release_date": "2021-04-15",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6o86bV7TAt5x4exc2qLDqC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "type": "artist",
+        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+        "id": "4TvhRzxIL1le2PWCeUqxQw",
+        "name": "The Blessed Madonna",
+        "type": "artist",
+        "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5Z8Dj3LtbyCMiwE86rhg2f",
+    "is_local": false,
+    "name": "Marea (we’ve lost dancing)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          },
+          "href": "https://api.spotify.com/v1/artists/0w1sbtZVQoK6GzV4A4OkCv",
+          "id": "0w1sbtZVQoK6GzV4A4OkCv",
+          "name": "Mau P",
+          "type": "artist",
+          "uri": "spotify:artist:0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/37k9VMEhAj9tO9g7MTkHWk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739817d1e5946cd167070971cb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029817d1e5946cd167070971cb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519817d1e5946cd167070971cb",
+          "width": 64
+        }
+      ],
+      "name": "The Less I Know The Better",
+      "release_date": "2025-02-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:37k9VMEhAj9tO9g7MTkHWk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        "href": "https://api.spotify.com/v1/artists/0w1sbtZVQoK6GzV4A4OkCv",
+        "id": "0w1sbtZVQoK6GzV4A4OkCv",
+        "name": "Mau P",
+        "type": "artist",
+        "uri": "spotify:artist:0w1sbtZVQoK6GzV4A4OkCv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7lDGg8CFySbkKUrjgzcLlY",
+    "is_local": false,
+    "name": "The Less I Know The Better",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+          "id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "Bob Sinclar",
+          "type": "artist",
+          "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER",
+          "type": "artist",
+          "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5a5yqCyb7xF3Hklvlwc3t3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8",
+          "width": 64
+        }
+      ],
+      "name": "World, Hold On (FISHER Rework)",
+      "release_date": "2022-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id": "5YFS41yoX0YuFY39fq21oN",
+        "name": "Bob Sinclar",
+        "type": "artist",
+        "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SwhNukah1MYpLR594PnuC",
+        "id": "2SwhNukah1MYpLR594PnuC",
+        "name": "Steve Edwards",
+        "type": "artist",
+        "uri": "spotify:artist:2SwhNukah1MYpLR594PnuC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VJ0briNOlXRtJUAzoUJdt",
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "type": "artist",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6quGF3Kvzd5WYEEuCmvCe1",
+    "is_local": false,
+    "name": "World, Hold On - FISHER Rework",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4eLPsYPBmXABThSJ821sqY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+          "width": 64
+        }
+      ],
+      "name": "DAMN.",
+      "release_date": "2017-04-14",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qBKjEOanahMxlRojwCzhI",
+        "id": "3qBKjEOanahMxlRojwCzhI",
+        "name": "Zacari",
+        "type": "artist",
+        "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6PGoSes0D9eUDeeAafB2As",
+    "is_local": false,
+    "name": "LOVE. FEAT. ZACARI.",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4EUf4YyNjuXypWY6W5wEDm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6efeff81a318670a292090f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e6efeff81a318670a292090f",
+          "width": 64
+        }
+      ],
+      "name": "Globalization",
+      "release_date": "2014-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4EUf4YyNjuXypWY6W5wEDm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2OjoIDVPQKT9B7loZbPEfp",
+        "id": "2OjoIDVPQKT9B7loZbPEfp",
+        "name": "Claudia Leitte",
+        "type": "artist",
+        "uri": "spotify:artist:2OjoIDVPQKT9B7loZbPEfp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1PCvKFPWnTXAe2oaReVUcr",
+    "is_local": false,
+    "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+          "width": 64
+        }
+      ],
+      "name": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5Psnhdkyanjpgc2P8A5TSM",
+    "is_local": false,
+    "name": "Emotionless",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+          "width": 64
+        }
+      ],
+      "name": "Certified Lover Boy",
+      "release_date": "2021-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2HSmyk2qMN8WQjuGhaQgCk",
+    "is_local": false,
+    "name": "Champagne Poetry",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2YaDRtIlQiZ5WDDB2YuEOC",
+    "is_local": false,
+    "name": "You & The 6",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ozpmkWcCHwsQ4QTnxOOdT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6adfbd3f091d6f2b9af6507",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d6adfbd3f091d6f2b9af6507",
+          "width": 64
+        }
+      ],
+      "name": "What A Time To Be Alive",
+      "release_date": "2015-09-20",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1ozpmkWcCHwsQ4QTnxOOdT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0GR7iJLhj80KD5LkA14ZRn",
+    "is_local": false,
+    "name": "Digital Dash",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/78NIQe42qKXahAeZAb3w0h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf05fc616cf7e38c0e52b888",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf05fc616cf7e38c0e52b888",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cf05fc616cf7e38c0e52b888",
+          "width": 64
+        }
+      ],
+      "name": "No Face",
+      "release_date": "2024-08-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:78NIQe42qKXahAeZAb3w0h"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1560osUcXrnov6yuOjXvc1",
+    "is_local": false,
+    "name": "No Face",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+          "width": 64
+        }
+      ],
+      "name": "Dark Lane Demo Tapes",
+      "release_date": "2020-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1I55Ea0zVoSKs6MqW7DQ3i",
+    "is_local": false,
+    "name": "War",
+    "preview_url": null
+  }
+]
