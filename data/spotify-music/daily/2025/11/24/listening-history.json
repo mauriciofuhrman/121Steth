@@ -4,6 +4,217 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SZko61aMnmgvNhfhgTuD3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+          "width": 64
+        }
+      ],
+      "name": "Graduation",
+      "release_date": "2007-09-11",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4SZko61aMnmgvNhfhgTuD3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LQoZQIV0mIs0y0XQb0Sw2",
+        "id": "0LQoZQIV0mIs0y0XQb0Sw2",
+        "name": "Chris Martin",
+        "type": "artist",
+        "uri": "spotify:artist:0LQoZQIV0mIs0y0XQb0Sw2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/4iz9lGMjU1lXS51oPmUmTe",
+    "is_local": false,
+    "name": "Homecoming",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+          "id": "6nS5roXSAGhTGr34W6n7Et",
+          "name": "Disclosure",
+          "type": "artist",
+          "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NrprO4CludRmaWtpqud10",
+          "id": "2NrprO4CludRmaWtpqud10",
+          "name": "Rivo",
+          "type": "artist",
+          "uri": "spotify:artist:2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3QIGpfgWXKujfMaecgKV9u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b18753eb7552e25b7f134c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b18753eb7552e25b7f134c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b18753eb7552e25b7f134c4",
+          "width": 64
+        }
+      ],
+      "name": "You & Me (Rivo Remix)",
+      "release_date": "2023-12-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3QIGpfgWXKujfMaecgKV9u"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+        "id": "6nS5roXSAGhTGr34W6n7Et",
+        "name": "Disclosure",
+        "type": "artist",
+        "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        "href": "https://api.spotify.com/v1/artists/14L5rpGTLVUz1pD8fUeJB1",
+        "id": "14L5rpGTLVUz1pD8fUeJB1",
+        "name": "Eliza Doolittle",
+        "type": "artist",
+        "uri": "spotify:artist:14L5rpGTLVUz1pD8fUeJB1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NrprO4CludRmaWtpqud10",
+        "id": "2NrprO4CludRmaWtpqud10",
+        "name": "Rivo",
+        "type": "artist",
+        "uri": "spotify:artist:2NrprO4CludRmaWtpqud10"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0xoYZ45fgTfyQYREZPN7Sa",
+    "is_local": false,
+    "name": "You & Me - Rivo Remix",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
           },
           "href": "https://api.spotify.com/v1/artists/20cmhoGvN0eyzhmsHJH1Mg",
