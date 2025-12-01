@@ -1,0 +1,987 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+          "width": 64
+        }
+      ],
+      "name": "Certified Lover Boy",
+      "release_date": "2021-09-03",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "type": "artist",
+        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+        "id": "1sBkRIssrMs1AbVkOJbc7a",
+        "name": "Rick Ross",
+        "type": "artist",
+        "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/50ceCGZ3oD3U5caQV5bP6f",
+    "is_local": false,
+    "name": "You Only Live Twice (with Lil Wayne & Rick Ross)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6X1x82kppWZmDzlXXK3y3q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c7ea04a9b455e3f68ef82550",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+          "width": 64
+        }
+      ],
+      "name": "Take Care (Deluxe)",
+      "release_date": "2011-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:6X1x82kppWZmDzlXXK3y3q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "type": "artist",
+        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0m1KYWlT6LhFRBDVq9UNx4",
+    "is_local": false,
+    "name": "HYFR (Hell Ya Fucking Right)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/79XrkTOfV1AqySNjVlygpW",
+    "is_local": false,
+    "name": "Energy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/79qV4McLzhs8U3FyRKnocz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dc98872a3cf00117e4623e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dc98872a3cf00117e4623e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
+          "width": 64
+        }
+      ],
+      "name": "Back To Back",
+      "release_date": "2015-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:79qV4McLzhs8U3FyRKnocz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5lFDtgWsjRJu8fPOAyJIAK",
+    "is_local": false,
+    "name": "Back To Back",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2durxb17bXcmQJHSt8JAdO",
+    "is_local": false,
+    "name": "No Tellin'",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5oT8PMXGWiPlhcl930fkII",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e955f0f0a0471ace604ecdf6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e955f0f0a0471ace604ecdf6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e955f0f0a0471ace604ecdf6",
+          "width": 64
+        }
+      ],
+      "name": "100 GIGS",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:5oT8PMXGWiPlhcl930fkII"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1eroCliWpJrEu1V7VSObcO",
+    "is_local": false,
+    "name": "Circadian Rhythm",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kVUvbeRdcrqQ3oHk5hPdx",
+          "id": "3kVUvbeRdcrqQ3oHk5hPdx",
+          "name": "GROUPLOVE",
+          "type": "artist",
+          "uri": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3oylWMc9TTC6Nx4I6U3axc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d84a9bbcba91cb6a4a212b1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d84a9bbcba91cb6a4a212b1b",
+          "width": 64
+        }
+      ],
+      "name": "Never Trust a Happy Song",
+      "release_date": "2011-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3oylWMc9TTC6Nx4I6U3axc"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3kVUvbeRdcrqQ3oHk5hPdx",
+        "id": "3kVUvbeRdcrqQ3oHk5hPdx",
+        "name": "GROUPLOVE",
+        "type": "artist",
+        "uri": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0GO8y8jQk1PkHzS31d699N",
+    "is_local": false,
+    "name": "Tongue Tied",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          },
+          "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+          "id": "536BYVgOnRky0xjsPT96zl",
+          "name": "Two Door Cinema Club",
+          "type": "artist",
+          "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7DxmOS2dKJgTfLLRNOP4ch",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273852930b799f484bf60faacb2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02852930b799f484bf60faacb2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851852930b799f484bf60faacb2",
+          "width": 64
+        }
+      ],
+      "name": "Tourist History",
+      "release_date": "2010-02-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7DxmOS2dKJgTfLLRNOP4ch"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        },
+        "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+        "id": "536BYVgOnRky0xjsPT96zl",
+        "name": "Two Door Cinema Club",
+        "type": "artist",
+        "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4iZxeyibg6w4EFCOoAQ6Eh",
+    "is_local": false,
+    "name": "What You Know",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4p5WgeiPSPpqPDs7T6OkWf",
+          "id": "4p5WgeiPSPpqPDs7T6OkWf",
+          "name": "ANOTR",
+          "type": "artist",
+          "uri": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0NmQAh2m9ayLitCrFaIjiN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bc468eb72512a5d0a7d47493",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bc468eb72512a5d0a7d47493",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bc468eb72512a5d0a7d47493",
+          "width": 64
+        }
+      ],
+      "name": "On A Trip",
+      "release_date": "2025-01-31",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0NmQAh2m9ayLitCrFaIjiN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        "href": "https://api.spotify.com/v1/artists/4p5WgeiPSPpqPDs7T6OkWf",
+        "id": "4p5WgeiPSPpqPDs7T6OkWf",
+        "name": "ANOTR",
+        "type": "artist",
+        "uri": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YZ5AExR68U3ZblH6HcO6B",
+        "id": "5YZ5AExR68U3ZblH6HcO6B",
+        "name": "Leven Kali",
+        "type": "artist",
+        "uri": "spotify:artist:5YZ5AExR68U3ZblH6HcO6B"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        "href": "https://api.spotify.com/v1/artists/4vhZgo4uiuMnCgnSJEb7yb",
+        "id": "4vhZgo4uiuMnCgnSJEb7yb",
+        "name": "Erik Bandt",
+        "type": "artist",
+        "uri": "spotify:artist:4vhZgo4uiuMnCgnSJEb7yb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5mg9TnSnfc89gcYStpOsVL",
+    "is_local": false,
+    "name": "How You Feel (ft Leven Kali)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Di8r9df6xjyj6CVOqbGVz",
+          "id": "2Di8r9df6xjyj6CVOqbGVz",
+          "name": "Marshall Jefferson",
+          "type": "artist",
+          "uri": "spotify:artist:2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oO1IaDOBSeI96HbnCa5pZ",
+          "id": "0oO1IaDOBSeI96HbnCa5pZ",
+          "name": "Solardo",
+          "type": "artist",
+          "uri": "spotify:artist:0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3wXxLmmbbiQn8ndz1L2Wxo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3f76f860585366e7a571c2c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3f76f860585366e7a571c2c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c3f76f860585366e7a571c2c",
+          "width": 64
+        }
+      ],
+      "name": "Move Your Body",
+      "release_date": "2019-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3wXxLmmbbiQn8ndz1L2Wxo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Di8r9df6xjyj6CVOqbGVz",
+        "id": "2Di8r9df6xjyj6CVOqbGVz",
+        "name": "Marshall Jefferson",
+        "type": "artist",
+        "uri": "spotify:artist:2Di8r9df6xjyj6CVOqbGVz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oO1IaDOBSeI96HbnCa5pZ",
+        "id": "0oO1IaDOBSeI96HbnCa5pZ",
+        "name": "Solardo",
+        "type": "artist",
+        "uri": "spotify:artist:0oO1IaDOBSeI96HbnCa5pZ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3OrcEhLzxv1YX597jGjEI7",
+    "is_local": false,
+    "name": "Move Your Body",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HabM2PUM519iIxervGWSb",
+          "id": "6HabM2PUM519iIxervGWSb",
+          "name": "Prospa",
+          "type": "artist",
+          "uri": "spotify:artist:6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zf8Awb8y1X9qwL4oiVRd6",
+          "id": "4zf8Awb8y1X9qwL4oiVRd6",
+          "name": "Josh Baker",
+          "type": "artist",
+          "uri": "spotify:artist:4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WR2sls6n0N1usqywvysnX",
+          "id": "1WR2sls6n0N1usqywvysnX",
+          "name": "RAHH",
+          "type": "artist",
+          "uri": "spotify:artist:1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7hRW5l0Tm5GCEpFHRYwxfT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e139fad7e2df4cf8103513c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e139fad7e2df4cf8103513c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e139fad7e2df4cf8103513c",
+          "width": 64
+        }
+      ],
+      "name": "You Don't Own Me (feat. RAHH)",
+      "release_date": "2025-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7hRW5l0Tm5GCEpFHRYwxfT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HabM2PUM519iIxervGWSb",
+        "id": "6HabM2PUM519iIxervGWSb",
+        "name": "Prospa",
+        "type": "artist",
+        "uri": "spotify:artist:6HabM2PUM519iIxervGWSb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        "href": "https://api.spotify.com/v1/artists/4zf8Awb8y1X9qwL4oiVRd6",
+        "id": "4zf8Awb8y1X9qwL4oiVRd6",
+        "name": "Josh Baker",
+        "type": "artist",
+        "uri": "spotify:artist:4zf8Awb8y1X9qwL4oiVRd6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        },
+        "href": "https://api.spotify.com/v1/artists/1WR2sls6n0N1usqywvysnX",
+        "id": "1WR2sls6n0N1usqywvysnX",
+        "name": "RAHH",
+        "type": "artist",
+        "uri": "spotify:artist:1WR2sls6n0N1usqywvysnX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1TsDNh8OuRcGfNX4Dz8oVl",
+    "is_local": false,
+    "name": "You Don't Own Me (feat. RAHH)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3DmcV2cmZdX9olNRHcRUZ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02eef1231340b1f14dde4816f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851eef1231340b1f14dde4816f0",
+          "width": 64
+        }
+      ],
+      "name": "Chemistry",
+      "release_date": "2025-07-11",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:3DmcV2cmZdX9olNRHcRUZ2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name": "Chris Lake",
+        "type": "artist",
+        "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0jqbEIAvdjUOi5Za48pzQG",
+        "id": "0jqbEIAvdjUOi5Za48pzQG",
+        "name": "Abel Balder",
+        "type": "artist",
+        "uri": "spotify:artist:0jqbEIAvdjUOi5Za48pzQG"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0zVYrhlpgLHLqnEtv38Fko",
+    "is_local": false,
+    "name": "Ease My Mind",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          },
+          "href": "https://api.spotify.com/v1/artists/041iTeoMIwXMlShuQPIVKo",
+          "id": "041iTeoMIwXMlShuQPIVKo",
+          "name": "Klangkarussell",
+          "type": "artist",
+          "uri": "spotify:artist:041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BBqa3UQfVawVGQN0aIcs4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735fd7e8ba59af4dd5bb900747",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025fd7e8ba59af4dd5bb900747",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515fd7e8ba59af4dd5bb900747",
+          "width": 64
+        }
+      ],
+      "name": "Sonnentanz",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1BBqa3UQfVawVGQN0aIcs4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        "href": "https://api.spotify.com/v1/artists/041iTeoMIwXMlShuQPIVKo",
+        "id": "041iTeoMIwXMlShuQPIVKo",
+        "name": "Klangkarussell",
+        "type": "artist",
+        "uri": "spotify:artist:041iTeoMIwXMlShuQPIVKo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/39AZSw4A8hCFWunEg2k89Z",
+        "id": "39AZSw4A8hCFWunEg2k89Z",
+        "name": "Will Heard",
+        "type": "artist",
+        "uri": "spotify:artist:39AZSw4A8hCFWunEg2k89Z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5NKfB21hWeirObQjEN44x1",
+    "is_local": false,
+    "name": "Sonnentanz - Sun Don't Shine",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again..",
+          "type": "artist",
+          "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0SFtIrRytNI4kcf93Tbhdf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a871bc3a84418ad1240a5d4e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a871bc3a84418ad1240a5d4e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a871bc3a84418ad1240a5d4e",
+          "width": 64
+        }
+      ],
+      "name": "Actual Life 2 (February 2 - October 15 2021)",
+      "release_date": "2021-11-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0SFtIrRytNI4kcf93Tbhdf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "type": "artist",
+        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1vW12BfxjOQKYElBm9ttW9",
+    "is_local": false,
+    "name": "Billie (loving arms)",
+    "preview_url": null
+  }
+]
