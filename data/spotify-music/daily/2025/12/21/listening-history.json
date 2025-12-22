@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2CUT0104gySOIvqwtXeFsX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fec1b815bb3c50a64a90fd10",
+          "width": 64
+        }
+      ],
+      "name": "The Blueprint 3",
+      "release_date": "2009-09-08",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2CUT0104gySOIvqwtXeFsX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAY-Z",
+        "type": "artist",
+        "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+        },
+        "href": "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn",
+        "id": "1zV9UjTUevjp5VUddqIUUn",
+        "name": "Mr Hudson",
+        "type": "artist",
+        "uri": "spotify:artist:1zV9UjTUevjp5VUddqIUUn"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/35srNkJVToAzYiZzron1FY",
+    "is_local": false,
+    "name": "Young Forever",
+    "preview_url": null
+  }
+]
