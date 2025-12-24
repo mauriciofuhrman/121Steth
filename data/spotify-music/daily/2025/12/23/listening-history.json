@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7BfKzWvOnw7aAUU4NLLRD0",
+          "id": "7BfKzWvOnw7aAUU4NLLRD0",
+          "name": "T Bird and the Breaks",
+          "type": "artist",
+          "uri": "spotify:artist:7BfKzWvOnw7aAUU4NLLRD0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dd5eNzeiJQpREX86dJD3R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a52d93cdc6b21d425cb63cec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a52d93cdc6b21d425cb63cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a52d93cdc6b21d425cb63cec",
+          "width": 64
+        }
+      ],
+      "name": "Learn About It",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:7dd5eNzeiJQpREX86dJD3R"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+        },
+        "href": "https://api.spotify.com/v1/artists/7BfKzWvOnw7aAUU4NLLRD0",
+        "id": "7BfKzWvOnw7aAUU4NLLRD0",
+        "name": "T Bird and the Breaks",
+        "type": "artist",
+        "uri": "spotify:artist:7BfKzWvOnw7aAUU4NLLRD0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7gfrqFrXskxVw6EuuSpebD",
+    "is_local": false,
+    "name": "Blackberry Brandy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
           },
           "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
