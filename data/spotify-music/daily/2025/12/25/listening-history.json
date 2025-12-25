@@ -1,0 +1,900 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+          "id": "0hEurMDQu99nJRq8pTxO14",
+          "name": "John Mayer",
+          "type": "artist",
+          "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2JmfwvRDitJlTUoLCkp61z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273779063301154e835a91a35e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02779063301154e835a91a35e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851779063301154e835a91a35e0",
+          "width": 64
+        }
+      ],
+      "name": "Sob Rock",
+      "release_date": "2021-07-16",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2JmfwvRDitJlTUoLCkp61z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+        "id": "0hEurMDQu99nJRq8pTxO14",
+        "name": "John Mayer",
+        "type": "artist",
+        "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4T6FWA703h6H7zk1FoSARw",
+    "is_local": false,
+    "name": "New Light",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2R7iJz5uaHjLEVnMkloO18",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de0cd11d7b31c3bd1fd5983d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d",
+          "width": 64
+        }
+      ],
+      "name": "Mylo Xyloto",
+      "release_date": "2011-10-24",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2R7iJz5uaHjLEVnMkloO18"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "type": "artist",
+        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2U8g9wVcUu9wsg6i7sFSv8",
+    "is_local": false,
+    "name": "Every Teardrop Is a Waterfall",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Hb64DQZIhDCgyHKrzBXOL",
+          "id": "3Hb64DQZIhDCgyHKrzBXOL",
+          "name": "Daði Freyr",
+          "type": "artist",
+          "uri": "spotify:artist:3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3wnnkEyvrINGbPfVbIzAXs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0240d0f2a4d4c9b5b7ac978f4b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485140d0f2a4d4c9b5b7ac978f4b",
+          "width": 64
+        }
+      ],
+      "name": "Think About Things",
+      "release_date": "2020-04-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3wnnkEyvrINGbPfVbIzAXs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3Hb64DQZIhDCgyHKrzBXOL",
+        "id": "3Hb64DQZIhDCgyHKrzBXOL",
+        "name": "Daði Freyr",
+        "type": "artist",
+        "uri": "spotify:artist:3Hb64DQZIhDCgyHKrzBXOL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/77yGu0p7APK39lotu7CLk5",
+    "is_local": false,
+    "name": "Think About Things",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+          "id": "3VRyybsQu0MDG0F2LBxnv7",
+          "name": "Noizu",
+          "type": "artist",
+          "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19OOCxedf9ejRmbGV83P5x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf234a44d54467c78fb779a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf234a44d54467c78fb779a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cf234a44d54467c78fb779a5",
+          "width": 64
+        }
+      ],
+      "name": "Moon Groove",
+      "release_date": "2022-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:19OOCxedf9ejRmbGV83P5x"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3VRyybsQu0MDG0F2LBxnv7",
+        "id": "3VRyybsQu0MDG0F2LBxnv7",
+        "name": "Noizu",
+        "type": "artist",
+        "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0TAIIxetpsMUEPOHZkQO9J",
+    "is_local": false,
+    "name": "Moon Groove",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+          "id": "4phGZZrJZRo4ElhRtViYdl",
+          "name": "Jason Mraz",
+          "type": "artist",
+          "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/04G0YylSjvDQZrjOfE5jA5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02125b1a330b6f6100ab19dbed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851125b1a330b6f6100ab19dbed",
+          "width": 64
+        }
+      ],
+      "name": "We Sing. We Dance. We Steal Things.",
+      "release_date": "2008-05-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:04G0YylSjvDQZrjOfE5jA5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+        "id": "4phGZZrJZRo4ElhRtViYdl",
+        "name": "Jason Mraz",
+        "type": "artist",
+        "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1EzrEOXmMH3G43AXT1y7pA",
+    "is_local": false,
+    "name": "I'm Yours",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+          "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+          "name": "Young Stoner Life",
+          "type": "artist",
+          "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3ihwKkIMJWmmp1huNH0iWC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2266dd2fbf606608dc079a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2266dd2fbf606608dc079a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a2266dd2fbf606608dc079a1",
+          "width": 64
+        }
+      ],
+      "name": "Slime Language 2",
+      "release_date": "2021-04-16",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+        "name": "Young Stoner Life",
+        "type": "artist",
+        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "type": "artist",
+        "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6rTInqW3YECMkQsBEHw4sd",
+    "is_local": false,
+    "name": "Solid (feat. Drake)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+          "width": 64
+        }
+      ],
+      "name": "Currents",
+      "release_date": "2015-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6K4t31amVTZDgR3sKmwUJJ",
+    "is_local": false,
+    "name": "The Less I Know The Better",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+          "id": "3gd8FJtBJtkRxdfbTu19U2",
+          "name": "Mumford & Sons",
+          "type": "artist",
+          "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1BnR65tSdg6ps8m3M8pezF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27307989cd8699c9aaa2c232d08",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0207989cd8699c9aaa2c232d08",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485107989cd8699c9aaa2c232d08",
+          "width": 64
+        }
+      ],
+      "name": "Sigh No More",
+      "release_date": "2009-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1BnR65tSdg6ps8m3M8pezF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "name": "Mumford & Sons",
+        "type": "artist",
+        "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2kXjRzwcTZhGLnVjUud8l3",
+    "is_local": false,
+    "name": "Little Lion Man",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ll74bqtkcXlKE7wwkMq4g",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851428d2255141c2119409a31b2",
+          "width": 64
+        }
+      ],
+      "name": "Late Registration",
+      "release_date": "2005-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/46OFHBw45fNi7QNjSetITR",
+    "is_local": false,
+    "name": "Hey Mama",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist",
+          "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6zRk8SdWozgrlByoZJkCjM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f43d41b89d1ed18551a84c35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f43d41b89d1ed18551a84c35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f43d41b89d1ed18551a84c35",
+          "width": 64
+        }
+      ],
+      "name": "[BUMP] Pick Me Up",
+      "release_date": "2022-04-15",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:6zRk8SdWozgrlByoZJkCjM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
+        "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+        "name": "Bas",
+        "type": "artist",
+        "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "type": "artist",
+        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "type": "artist",
+        "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2cny5OSTr2976U3o018GoV",
+    "is_local": false,
+    "name": "[The Jackie] (with J. Cole & Lil Tjay)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/02uWB8Kekadkl3yGBoOOcx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214d91ebdd6d7e2931322cc1a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114d91ebdd6d7e2931322cc1a",
+          "width": 64
+        }
+      ],
+      "name": "DS4EVER",
+      "release_date": "2022-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "type": "artist",
+        "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+        "id": "46SHBwWsqBkxI7EeeBEQG7",
+        "name": "Kodak Black",
+        "type": "artist",
+        "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3ABFD8SzXwMbUspLFxbbwK",
+    "is_local": false,
+    "name": "how you did that (feat. Kodak Black)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist",
+          "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Mp3A4tFDAiaMeGFJUzo1c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273679122de6d6208d8e1314b00",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02679122de6d6208d8e1314b00",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851679122de6d6208d8e1314b00",
+          "width": 64
+        }
+      ],
+      "name": "California",
+      "release_date": "2018-03-23",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:1Mp3A4tFDAiaMeGFJUzo1c"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+        "id": "5fMUXHkw8R8eOP2RNVYEZX",
+        "name": "Diplo",
+        "type": "artist",
+        "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+        "id": "6Xgp2XMz1fhVYe7i6yNAax",
+        "name": "Trippie Redd",
+        "type": "artist",
+        "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7lxOjQyVsHQ8toQeT7IgCc",
+    "is_local": false,
+    "name": "Wish",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "type": "artist",
+          "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/47y3PbX8oIDCkYAFylCJz0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aab2c3c3f1f3207137d915c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aab2c3c3f1f3207137d915c9",
+          "width": 64
+        }
+      ],
+      "name": "Man On The Moon: The End Of Day",
+      "release_date": "2009-09-15",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:47y3PbX8oIDCkYAFylCJz0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1cdC9TCqyLwAlsw3fVJaJS",
+    "is_local": false,
+    "name": "Soundtrack 2 My Life",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist",
+          "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1HjSyGjmLNjRAKgT9t1cna",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1d47c00ddecbfb810c807ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1d47c00ddecbfb810c807ed",
+          "width": 64
+        }
+      ],
+      "name": "Making Mirrors",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1HjSyGjmLNjRAKgT9t1cna"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "type": "artist",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "type": "artist",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4wCmqSrbyCgxEXROQE6vtV",
+    "is_local": false,
+    "name": "Somebody That I Used To Know",
+    "preview_url": null
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+          "id": "4bL2B6hmLlMWnUEZnorEtG",
+          "name": "Felix Jaehn",
+          "type": "artist",
+          "uri": "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2S56F6bIk01HboGbJJJ1IQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739713f1939e377cf85a2a5b16",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029713f1939e377cf85a2a5b16",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519713f1939e377cf85a2a5b16",
+          "width": 64
+        }
+      ],
+      "name": "I",
+      "release_date": "2018-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:2S56F6bIk01HboGbJJJ1IQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+        "id": "4bL2B6hmLlMWnUEZnorEtG",
+        "name": "Felix Jaehn",
+        "type": "artist",
+        "uri": "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2TL8gYTNgD6nXkyuUdDrMg",
+        "id": "2TL8gYTNgD6nXkyuUdDrMg",
+        "name": "Jasmine Thompson",
+        "type": "artist",
+        "uri": "spotify:artist:2TL8gYTNgD6nXkyuUdDrMg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3c8iiZGfEammKJuWTErE5x",
+    "is_local": false,
+    "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+          "id": "3DbwFQlvLxRSi2uX8mf81A",
+          "name": "Sexyy Red",
+          "type": "artist",
+          "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5PmtX9B5vNa4uaiXQVn4Gx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c7eda8880dbfd0930bf9491",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027c7eda8880dbfd0930bf9491",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517c7eda8880dbfd0930bf9491",
+          "width": 64
+        }
+      ],
+      "name": "In Sexyy We Trust",
+      "release_date": "2024-05-24",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5PmtX9B5vNa4uaiXQVn4Gx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+        "id": "3DbwFQlvLxRSi2uX8mf81A",
+        "name": "Sexyy Red",
+        "type": "artist",
+        "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1TgStpMGTflN84asKJ8VU3",
+    "is_local": false,
+    "name": "U My Everything (feat. Drake)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          },
+          "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+          "id": "46SHBwWsqBkxI7EeeBEQG7",
+          "name": "Kodak Black",
+          "type": "artist",
+          "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5mG8oNkNKM2my7t9ywra96",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021541a676423805fc68ff3e66",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511541a676423805fc68ff3e66",
+          "width": 64
+        }
+      ],
+      "name": "Painting Pictures",
+      "release_date": "2017-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:5mG8oNkNKM2my7t9ywra96"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        "href": "https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7",
+        "id": "46SHBwWsqBkxI7EeeBEQG7",
+        "name": "Kodak Black",
+        "type": "artist",
+        "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0bXFIF7iL17TYLyx8JHziM",
+    "is_local": false,
+    "name": "Patty Cake",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gsWAHLeT0w7es6FofOXk1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+          "width": 64
+        }
+      ],
+      "name": "The Life Of Pablo",
+      "release_date": "2016-06-10",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1eQBEelI2NCy7AUTerX0KS",
+    "is_local": false,
+    "name": "Ultralight Beam",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "type": "artist",
+          "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7c1wEzhXamUm7Lh9zqVMl9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738337dd45f445c35f7292a81e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028337dd45f445c35f7292a81e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518337dd45f445c35f7292a81e",
+          "width": 64
+        }
+      ],
+      "name": "One Thing At A Time",
+      "release_date": "2023-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 36,
+      "type": "album",
+      "uri": "spotify:album:7c1wEzhXamUm7Lh9zqVMl9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "name": "Morgan Wallen",
+        "type": "artist",
+        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1T4OU4uHe6Hi3LD3oSqbHL",
+    "is_local": false,
+    "name": "’98 Braves",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+          "id": "2jw70GZXlAI8QzWeY2bgRc",
+          "name": "Nelly Furtado",
+          "type": "artist",
+          "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2yboV2QBcVGEhcRlYuPpDT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+          "width": 64
+        }
+      ],
+      "name": "Loose",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:2yboV2QBcVGEhcRlYuPpDT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+        "id": "2jw70GZXlAI8QzWeY2bgRc",
+        "name": "Nelly Furtado",
+        "type": "artist",
+        "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+        "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+        "name": "Timbaland",
+        "type": "artist",
+        "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2gam98EZKrF9XuOkU13ApN",
+    "is_local": false,
+    "name": "Promiscuous",
+    "preview_url": null
+  }
+]
