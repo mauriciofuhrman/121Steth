@@ -4,6 +4,576 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+          "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+          "name": "The Fray",
+          "type": "artist",
+          "uri": "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1IM3GwptCGYjRkzCBolyFK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0259b8b957f164ce660919f1f4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485159b8b957f164ce660919f1f4",
+          "width": 64
+        }
+      ],
+      "name": "How To Save A Life",
+      "release_date": "2005-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1IM3GwptCGYjRkzCBolyFK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        },
+        "href": "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+        "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+        "name": "The Fray",
+        "type": "artist",
+        "uri": "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1N62wozuHCvczCkY4QidpP",
+    "is_local": false,
+    "name": "Over My Head (Cable Car)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          },
+          "href": "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
+          "id": "5B6H1Dq77AV1LZWrbNsuH5",
+          "name": "Jarabe De Palo",
+          "type": "artist",
+          "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mD9lN6mqu4313KpY1RfIp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27347a83522c634e84f937a897e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0247a83522c634e84f937a897e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485147a83522c634e84f937a897e",
+          "width": 64
+        }
+      ],
+      "name": "La Flaca",
+      "release_date": "1996",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:6mD9lN6mqu4313KpY1RfIp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        },
+        "href": "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
+        "id": "5B6H1Dq77AV1LZWrbNsuH5",
+        "name": "Jarabe De Palo",
+        "type": "artist",
+        "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LsbizbOeNa4x6qsi2jAMb",
+    "is_local": false,
+    "name": "La flaca",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
+          "id": "7okwEbXzyT2VffBmyQBWLz",
+          "name": "Maná",
+          "type": "artist",
+          "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7ydFJUb1tmZPd6p4xIe10V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022f770148868be769ff9f7a90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512f770148868be769ff9f7a90",
+          "width": 64
+        }
+      ],
+      "name": "Sueños Líquidos",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:7ydFJUb1tmZPd6p4xIe10V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
+        "id": "7okwEbXzyT2VffBmyQBWLz",
+        "name": "Maná",
+        "type": "artist",
+        "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0mvocLIWUnT10znvIXwHGr",
+    "is_local": false,
+    "name": "En El Muelle de San Blas",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          },
+          "href": "https://api.spotify.com/v1/artists/60uh2KYYSCqAgJNxcU4DA0",
+          "id": "60uh2KYYSCqAgJNxcU4DA0",
+          "name": "Hombres G",
+          "type": "artist",
+          "uri": "spotify:artist:60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6clqMga4PMBcBlWCR6idis",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b716dc7e3dfc9c236ec0f03c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b716dc7e3dfc9c236ec0f03c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b716dc7e3dfc9c236ec0f03c",
+          "width": 64
+        }
+      ],
+      "name": "La Cagaste... Burt Lancaster",
+      "release_date": "1986",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6clqMga4PMBcBlWCR6idis"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        "href": "https://api.spotify.com/v1/artists/60uh2KYYSCqAgJNxcU4DA0",
+        "id": "60uh2KYYSCqAgJNxcU4DA0",
+        "name": "Hombres G",
+        "type": "artist",
+        "uri": "spotify:artist:60uh2KYYSCqAgJNxcU4DA0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3quyxN3SapEsojxk1Uw10K",
+    "is_local": false,
+    "name": "El ataque de las chicas cocodrilo",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
+          "id": "7okwEbXzyT2VffBmyQBWLz",
+          "name": "Maná",
+          "type": "artist",
+          "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7ydFJUb1tmZPd6p4xIe10V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732f770148868be769ff9f7a90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022f770148868be769ff9f7a90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512f770148868be769ff9f7a90",
+          "width": 64
+        }
+      ],
+      "name": "Sueños Líquidos",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:7ydFJUb1tmZPd6p4xIe10V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
+        "id": "7okwEbXzyT2VffBmyQBWLz",
+        "name": "Maná",
+        "type": "artist",
+        "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/78DVpEWwmJFC25KGz8fJuE",
+    "is_local": false,
+    "name": "Clavado en Un Bar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          },
+          "href": "https://api.spotify.com/v1/artists/60uh2KYYSCqAgJNxcU4DA0",
+          "id": "60uh2KYYSCqAgJNxcU4DA0",
+          "name": "Hombres G",
+          "type": "artist",
+          "uri": "spotify:artist:60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2iMF2NlOZMfBTdHyubrg6y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734bebefadddafd8c9e20a8c35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024bebefadddafd8c9e20a8c35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514bebefadddafd8c9e20a8c35",
+          "width": 64
+        }
+      ],
+      "name": "Hombres G (Edición 30 Aniversario)",
+      "release_date": "1985",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2iMF2NlOZMfBTdHyubrg6y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        "href": "https://api.spotify.com/v1/artists/60uh2KYYSCqAgJNxcU4DA0",
+        "id": "60uh2KYYSCqAgJNxcU4DA0",
+        "name": "Hombres G",
+        "type": "artist",
+        "uri": "spotify:artist:60uh2KYYSCqAgJNxcU4DA0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Wrzhfa5bNlqvsnCztz190",
+    "is_local": false,
+    "name": "Devuélveme a mi chica",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+          "id": "1mux8L6xg2Cmrc7k0wQczl",
+          "name": "Bacilos",
+          "type": "artist",
+          "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2bM009J81OBNisrMbFwBJj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1f4c211ce1ef95454bbbcc4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1f4c211ce1ef95454bbbcc4",
+          "width": 64
+        }
+      ],
+      "name": "Caraluna",
+      "release_date": "2002",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2bM009J81OBNisrMbFwBJj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+        "id": "1mux8L6xg2Cmrc7k0wQczl",
+        "name": "Bacilos",
+        "type": "artist",
+        "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7DhYjNLksXZhbRQeheAums",
+    "is_local": false,
+    "name": "Caraluna",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+          "width": 64
+        }
+      ],
+      "name": "Dire Straits",
+      "release_date": "1978-10-07",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ",
+    "is_local": false,
+    "name": "Sultans of Swing",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+          "id": "7An4yvF7hDYDolN4m5zKBp",
+          "name": "Soda Stereo",
+          "type": "artist",
+          "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/75LbseLsPdTkMO9oUD9J8n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273017ed8a01b6648a9d1fe2f58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851017ed8a01b6648a9d1fe2f58",
+          "width": 64
+        }
+      ],
+      "name": "Originales - 20 Exitos",
+      "release_date": "1983",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:75LbseLsPdTkMO9oUD9J8n"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        },
+        "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+        "id": "7An4yvF7hDYDolN4m5zKBp",
+        "name": "Soda Stereo",
+        "type": "artist",
+        "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2WD9ggmpZE7Wodh3qVVCgg",
+    "is_local": false,
+    "name": "De Música Ligera",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02280b72ca76b4734debfc190e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/56KqaFSGTb7ifpt16t5Y1N",
+    "is_local": false,
+    "name": "Rock the Casbah - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
           },
           "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
@@ -453,462 +1023,6 @@
     "href": "https://api.spotify.com/v1/tracks/3PzsbWSQdLCKDLxn7YZfkM",
     "is_local": false,
     "name": "I'm On Fire",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-          },
-          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-          "id": "2DaxqgrOhkeH0fpeiQq2f4",
-          "name": "Oasis",
-          "type": "artist",
-          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6nznHVahdEzZ7Qwv9TrOW4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273320f3140b83ab6111627f840",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02320f3140b83ab6111627f840",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851320f3140b83ab6111627f840",
-          "width": 64
-        }
-      ],
-      "name": "Time Flies... 1994-2009 (Remastered)",
-      "release_date": "2025-06-13",
-      "release_date_precision": "day",
-      "total_tracks": 26,
-      "type": "album",
-      "uri": "spotify:album:6nznHVahdEzZ7Qwv9TrOW4"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        },
-        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-        "id": "2DaxqgrOhkeH0fpeiQq2f4",
-        "name": "Oasis",
-        "type": "artist",
-        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1gYNo6sCys1dJEIFcgqlYr",
-    "is_local": false,
-    "name": "Don't Look Back in Anger - Remastered",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-          },
-          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
-          "id": "1yAwtBaoHLEDWAnWR87hBT",
-          "name": "Modest Mouse",
-          "type": "artist",
-          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
-          "width": 64
-        }
-      ],
-      "name": "Good News For People Who Love Bad News",
-      "release_date": "2004-04-05",
-      "release_date_precision": "day",
-      "total_tracks": 16,
-      "type": "album",
-      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        },
-        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
-        "id": "1yAwtBaoHLEDWAnWR87hBT",
-        "name": "Modest Mouse",
-        "type": "artist",
-        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
-    "is_local": false,
-    "name": "Float On",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-          },
-          "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
-          "id": "7Ln80lUS6He07XvHI8qqHH",
-          "name": "Arctic Monkeys",
-          "type": "artist",
-          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
-          "width": 64
-        }
-      ],
-      "name": "Favourite Worst Nightmare (Standard Version)",
-      "release_date": "2007-04-24",
-      "release_date_precision": "day",
-      "total_tracks": 12,
-      "type": "album",
-      "uri": "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        },
-        "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
-        "id": "7Ln80lUS6He07XvHI8qqHH",
-        "name": "Arctic Monkeys",
-        "type": "artist",
-        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/7e8utCy2JlSB8dRHKi49xM",
-    "is_local": false,
-    "name": "Fluorescent Adolescent",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-          },
-          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
-          "id": "4W48hZAnAHVOC2c8WH8pcq",
-          "name": "The Temper Trap",
-          "type": "artist",
-          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
-          "width": 64
-        }
-      ],
-      "name": "Conditions",
-      "release_date": "2009-06-19",
-      "release_date_precision": "day",
-      "total_tracks": 10,
-      "type": "album",
-      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
-        "id": "4W48hZAnAHVOC2c8WH8pcq",
-        "name": "The Temper Trap",
-        "type": "artist",
-        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
-    "is_local": false,
-    "name": "Sweet Disposition",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-          },
-          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
-          "id": "3PhoLpVuITZKcymswpck5b",
-          "name": "Elton John",
-          "type": "artist",
-          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/0OmYuz9hwn1XoqmDaU0yJ7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
-          "width": 64
-        }
-      ],
-      "name": "Too Low For Zero",
-      "release_date": "1983-05-30",
-      "release_date_precision": "day",
-      "total_tracks": 13,
-      "type": "album",
-      "uri": "spotify:album:0OmYuz9hwn1XoqmDaU0yJ7"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
-        "id": "3PhoLpVuITZKcymswpck5b",
-        "name": "Elton John",
-        "type": "artist",
-        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1jDJFeK9x3OZboIAHsY9k2",
-    "is_local": false,
-    "name": "I'm Still Standing",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zxDewzd2j1ZdSBGaYcr0y",
-          "id": "1zxDewzd2j1ZdSBGaYcr0y",
-          "name": "The Outfield",
-          "type": "artist",
-          "uri": "spotify:artist:1zxDewzd2j1ZdSBGaYcr0y"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5FfkiNcXAvagExRCLd8nn4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27301ed248b4ac01c868e688322",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0201ed248b4ac01c868e688322",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485101ed248b4ac01c868e688322",
-          "width": 64
-        }
-      ],
-      "name": "Super Hits",
-      "release_date": "1998-07-03",
-      "release_date_precision": "day",
-      "total_tracks": 10,
-      "type": "album",
-      "uri": "spotify:album:5FfkiNcXAvagExRCLd8nn4"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        },
-        "href": "https://api.spotify.com/v1/artists/1zxDewzd2j1ZdSBGaYcr0y",
-        "id": "1zxDewzd2j1ZdSBGaYcr0y",
-        "name": "The Outfield",
-        "type": "artist",
-        "uri": "spotify:artist:1zxDewzd2j1ZdSBGaYcr0y"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/5dRQUolXAVX3BbCiIxmSsf",
-    "is_local": false,
-    "name": "Your Love",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-          },
-          "href": "https://api.spotify.com/v1/artists/7xkAwz0bQTGDSbkofyQt3U",
-          "id": "7xkAwz0bQTGDSbkofyQt3U",
-          "name": "Belinda Carlisle",
-          "type": "artist",
-          "uri": "spotify:artist:7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/34SBayfOPJb9ztyCTvS3no",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2733d7a9b3dd60f47955a0cb234",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e023d7a9b3dd60f47955a0cb234",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048513d7a9b3dd60f47955a0cb234",
-          "width": 64
-        }
-      ],
-      "name": "Heaven On Earth (Deluxe Edition)",
-      "release_date": "1987",
-      "release_date_precision": "year",
-      "total_tracks": 28,
-      "type": "album",
-      "uri": "spotify:album:34SBayfOPJb9ztyCTvS3no"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        },
-        "href": "https://api.spotify.com/v1/artists/7xkAwz0bQTGDSbkofyQt3U",
-        "id": "7xkAwz0bQTGDSbkofyQt3U",
-        "name": "Belinda Carlisle",
-        "type": "artist",
-        "uri": "spotify:artist:7xkAwz0bQTGDSbkofyQt3U"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/3EvpaRZkKWxsgDIO2zMH7g",
-    "is_local": false,
-    "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-          },
-          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-          "id": "2DaxqgrOhkeH0fpeiQq2f4",
-          "name": "Oasis",
-          "type": "artist",
-          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6nznHVahdEzZ7Qwv9TrOW4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273320f3140b83ab6111627f840",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02320f3140b83ab6111627f840",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851320f3140b83ab6111627f840",
-          "width": 64
-        }
-      ],
-      "name": "Time Flies... 1994-2009 (Remastered)",
-      "release_date": "2025-06-13",
-      "release_date_precision": "day",
-      "total_tracks": 26,
-      "type": "album",
-      "uri": "spotify:album:6nznHVahdEzZ7Qwv9TrOW4"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        },
-        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-        "id": "2DaxqgrOhkeH0fpeiQq2f4",
-        "name": "Oasis",
-        "type": "artist",
-        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/1WurBf1lmtahpv7BUKaSQj",
-    "is_local": false,
-    "name": "Live Forever - Remastered",
     "preview_url": null
   }
 ]
