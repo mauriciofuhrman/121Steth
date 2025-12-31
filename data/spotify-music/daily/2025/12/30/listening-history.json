@@ -4,6 +4,633 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival",
+          "type": "artist",
+          "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/372cMadhAGlNuDnc8TssqF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251f311c2fb06ad2789e3ff91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151f311c2fb06ad2789e3ff91",
+          "width": 64
+        }
+      ],
+      "name": "Pendulum (Expanded Edition)",
+      "release_date": "1970-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:372cMadhAGlNuDnc8TssqF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+        "id": "3IYUhFvPQItj6xySrBmZkd",
+        "name": "Creedence Clearwater Revival",
+        "type": "artist",
+        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LawezPeJhN4AWuSB0GtAU",
+    "is_local": false,
+    "name": "Have You Ever Seen The Rain",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "type": "artist",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ETFjACtuP2ADo6LFhL6HN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+          "width": 64
+        }
+      ],
+      "name": "Abbey Road (Remastered)",
+      "release_date": "1969-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ETFjACtuP2ADo6LFhL6HN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "type": "artist",
+        "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2EqlS6tkEnglzr7tkKAAYD",
+    "is_local": false,
+    "name": "Come Together - Remastered 2009",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+          "id": "4bthk9UfsYUYdcFyqxmSUU",
+          "name": "Tears For Fears",
+          "type": "artist",
+          "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7y7459SFZReE5Wec4hejv5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029565c4df27be4aee5edc8009",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519565c4df27be4aee5edc8009",
+          "width": 64
+        }
+      ],
+      "name": "Songs From The Big Chair",
+      "release_date": "1985-02-25",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7y7459SFZReE5Wec4hejv5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+        "id": "4bthk9UfsYUYdcFyqxmSUU",
+        "name": "Tears For Fears",
+        "type": "artist",
+        "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2gQaQUhDCNGfBVXTvxAmXQ",
+    "is_local": false,
+    "name": "Shout",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5W9OT0a5iZlBr83a9WMKFY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e",
+          "width": 64
+        }
+      ],
+      "name": "Synchronicity (Remastered 2003)",
+      "release_date": "1983-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5W9OT0a5iZlBr83a9WMKFY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1JSTJqkT5qHq8MDJnJbRE1",
+    "is_local": false,
+    "name": "Every Breath You Take",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd",
+          "type": "artist",
+          "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4LH4d3cOWNNsVw41Gqt2kv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
+          "width": 64
+        }
+      ],
+      "name": "The Dark Side of the Moon",
+      "release_date": "1973-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0vFOzaXqZHahrZp6enQwQb",
+    "is_local": false,
+    "name": "Money",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          },
+          "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+          "id": "711MCceyCBcFnzjGY4Q7Un",
+          "name": "AC/DC",
+          "type": "artist",
+          "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6mUdeDZCsExyJLMdAfDuwh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ff191d7fbdb5a13eaf84132b",
+          "width": 64
+        }
+      ],
+      "name": "Back In Black",
+      "release_date": "1980-07-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        },
+        "href": "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+        "id": "711MCceyCBcFnzjGY4Q7Un",
+        "name": "AC/DC",
+        "type": "artist",
+        "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2SiXAy7TuUkycRVbbWDEpo",
+    "is_local": false,
+    "name": "You Shook Me All Night Long",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bPU7cvfoD20ixGD9Qnqki",
+          "id": "7bPU7cvfoD20ixGD9Qnqki",
+          "name": "Stealers Wheel",
+          "type": "artist",
+          "uri": "spotify:artist:7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ApN9lqru1t3Xh1IaEGTll",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5ce236c22035a02cf87d4de",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a5ce236c22035a02cf87d4de",
+          "width": 64
+        }
+      ],
+      "name": "Stealers Wheel",
+      "release_date": "1972-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5ApN9lqru1t3Xh1IaEGTll"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bPU7cvfoD20ixGD9Qnqki",
+        "id": "7bPU7cvfoD20ixGD9Qnqki",
+        "name": "Stealers Wheel",
+        "type": "artist",
+        "uri": "spotify:artist:7bPU7cvfoD20ixGD9Qnqki"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3Vby4nGmtbDo7HDJamOWkT",
+    "is_local": false,
+    "name": "Stuck In The Middle With You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          },
+          "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+          "id": "0f3EsoviYnRKTkmayI3cux",
+          "name": "Men At Work",
+          "type": "artist",
+          "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HDJMKkwAMVFewqfZcmf84",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2",
+          "width": 64
+        }
+      ],
+      "name": "Business As Usual",
+      "release_date": "1981-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4HDJMKkwAMVFewqfZcmf84"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        },
+        "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+        "id": "0f3EsoviYnRKTkmayI3cux",
+        "name": "Men At Work",
+        "type": "artist",
+        "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZZq9396zv8pcn5GYVhxUi",
+    "is_local": false,
+    "name": "Down Under",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "type": "artist",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+          "width": 64
+        }
+      ],
+      "name": "Appetite For Destruction",
+      "release_date": "1987-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "type": "artist",
+        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6eN1f9KNmiWEhpE2RhQqB5",
+    "is_local": false,
+    "name": "Paradise City",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "type": "artist",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+          "width": 64
+        }
+      ],
+      "name": "Appetite For Destruction",
+      "release_date": "1987-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "type": "artist",
+        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0G21yYKMZoHa30cYVi1iA8",
+    "is_local": false,
+    "name": "Welcome To The Jungle",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "type": "artist",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+          "width": 64
+        }
+      ],
+      "name": "Appetite For Destruction",
+      "release_date": "1987-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "type": "artist",
+        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0G21yYKMZoHa30cYVi1iA8",
+    "is_local": false,
+    "name": "Welcome To The Jungle",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
           },
           "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
