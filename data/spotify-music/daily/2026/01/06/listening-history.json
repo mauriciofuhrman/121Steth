@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "type": "artist",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ETFjACtuP2ADo6LFhL6HN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc30583ba717007b00cceb25",
+          "width": 64
+        }
+      ],
+      "name": "Abbey Road (Remastered)",
+      "release_date": "1969-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ETFjACtuP2ADo6LFhL6HN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "type": "artist",
+        "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2EqlS6tkEnglzr7tkKAAYD",
+    "is_local": false,
+    "name": "Come Together - Remastered 2009",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  }
+]
