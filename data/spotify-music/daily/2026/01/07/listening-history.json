@@ -1,0 +1,488 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+          "id": "3eqjTLE0HfPfh78zjh6TqT",
+          "name": "Bruce Springsteen",
+          "type": "artist",
+          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a43a6482e327d623bb0c0f77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77",
+          "width": 64
+        }
+      ],
+      "name": "Born In The U.S.A.",
+      "release_date": "1984-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7FwBtcecmlpc1sLySPXeGE",
+    "is_local": false,
+    "name": "Dancing In the Dark",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+          "id": "4AYkFtEBnNnGuoo8HaHErd",
+          "name": "Madness",
+          "type": "artist",
+          "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2P1bkVHSonLBBSKvrBbdbw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273df294840f002d6727d04e29c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02df294840f002d6727d04e29c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851df294840f002d6727d04e29c",
+          "width": 64
+        }
+      ],
+      "name": "Madness",
+      "release_date": "1983-01",
+      "release_date_precision": "month",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2P1bkVHSonLBBSKvrBbdbw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+        "id": "4AYkFtEBnNnGuoo8HaHErd",
+        "name": "Madness",
+        "type": "artist",
+        "uri": "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qV6e4ITnfGmA6m6Vklvbi",
+    "is_local": false,
+    "name": "Our House",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+          },
+          "href": "https://api.spotify.com/v1/artists/51l0uqRxGaczYr4271pVIC",
+          "id": "51l0uqRxGaczYr4271pVIC",
+          "name": "The Bangles",
+          "type": "artist",
+          "uri": "spotify:artist:51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4yaX6Gmlvo42PnGgBdhzGf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fed4a89ebe66064c67f2f4ea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fed4a89ebe66064c67f2f4ea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fed4a89ebe66064c67f2f4ea",
+          "width": 64
+        }
+      ],
+      "name": "The Essential Bangles",
+      "release_date": "2004",
+      "release_date_precision": "year",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4yaX6Gmlvo42PnGgBdhzGf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        },
+        "href": "https://api.spotify.com/v1/artists/51l0uqRxGaczYr4271pVIC",
+        "id": "51l0uqRxGaczYr4271pVIC",
+        "name": "The Bangles",
+        "type": "artist",
+        "uri": "spotify:artist:51l0uqRxGaczYr4271pVIC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Jwc3ODLQxtbnS8M9TflSP",
+    "is_local": false,
+    "name": "Walk Like an Egyptian",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          },
+          "href": "https://api.spotify.com/v1/artists/77ziqFxp5gaInVrF2lj4ht",
+          "id": "77ziqFxp5gaInVrF2lj4ht",
+          "name": "Sech",
+          "type": "artist",
+          "uri": "spotify:artist:77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7Hw9RJbQPN0gUx4xjgFLhj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273427b8b4d04aef8ed09293b87",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02427b8b4d04aef8ed09293b87",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851427b8b4d04aef8ed09293b87",
+          "width": 64
+        }
+      ],
+      "name": "Ignorantes",
+      "release_date": "2020-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7Hw9RJbQPN0gUx4xjgFLhj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        "href": "https://api.spotify.com/v1/artists/77ziqFxp5gaInVrF2lj4ht",
+        "id": "77ziqFxp5gaInVrF2lj4ht",
+        "name": "Sech",
+        "type": "artist",
+        "uri": "spotify:artist:77ziqFxp5gaInVrF2lj4ht"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3wYRLYuO1M88d8woWUIxct",
+    "is_local": false,
+    "name": "Ignorantes",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/79qV4McLzhs8U3FyRKnocz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dc98872a3cf00117e4623e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dc98872a3cf00117e4623e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dc98872a3cf00117e4623e5",
+          "width": 64
+        }
+      ],
+      "name": "Back To Back",
+      "release_date": "2015-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:79qV4McLzhs8U3FyRKnocz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/5lFDtgWsjRJu8fPOAyJIAK",
+    "is_local": false,
+    "name": "Back To Back",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+          "width": 64
+        }
+      ],
+      "name": "Dark Lane Demo Tapes",
+      "release_date": "2020-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        "href": "https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD",
+        "id": "699OTQXzgjhIYAHMy9RyPD",
+        "name": "Playboi Carti",
+        "type": "artist",
+        "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6Kj17Afjo1OKJYpf5VzCeo",
+    "is_local": false,
+    "name": "Pain 1993 (with Playboi Carti)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+          "id": "6jGMq4yGs7aQzuGsMgVgZR",
+          "name": "Lil Tjay",
+          "type": "artist",
+          "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3MEKpJ7wSSp6Z661ThjrUJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025af0305457ff290e06dcc4c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515af0305457ff290e06dcc4c2",
+          "width": 64
+        }
+      ],
+      "name": "Destined 2 Win",
+      "release_date": "2021-04-02",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3MEKpJ7wSSp6Z661ThjrUJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "type": "artist",
+        "uri": "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3pGRj6u9DCE9PQips45eJ1",
+    "is_local": false,
+    "name": "None of Your Love - Bonus",
+    "preview_url": null
+  }
+]
