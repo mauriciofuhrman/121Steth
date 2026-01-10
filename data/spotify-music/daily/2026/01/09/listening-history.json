@@ -4,6 +4,120 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "type": "artist",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
+          "width": 64
+        }
+      ],
+      "name": "Appetite For Destruction",
+      "release_date": "1987-07-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "type": "artist",
+        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6eN1f9KNmiWEhpE2RhQqB5",
+    "is_local": false,
+    "name": "Paradise City",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6jlrjFR9mJV3jd1IPSplXU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0211b21e8b868800918d21bb77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485111b21e8b868800918d21bb77",
+          "width": 64
+        }
+      ],
+      "name": "Thank Me Later",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6jlrjFR9mJV3jd1IPSplXU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6BdgtqiV3oXNqBikezwdvC",
+    "is_local": false,
+    "name": "Over",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
           },
           "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
