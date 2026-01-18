@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+          },
+          "href": "https://api.spotify.com/v1/artists/49DW3KvkyjHO35mK1JnSyS",
+          "id": "49DW3KvkyjHO35mK1JnSyS",
+          "name": "The Cult",
+          "type": "artist",
+          "uri": "spotify:artist:49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2hallpchkYldMa5lGGf1Ko",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c5dbd89210073351c9a6fdd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c5dbd89210073351c9a6fdd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c5dbd89210073351c9a6fdd",
+          "width": 64
+        }
+      ],
+      "name": "Love",
+      "release_date": "1985-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2hallpchkYldMa5lGGf1Ko"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        },
+        "href": "https://api.spotify.com/v1/artists/49DW3KvkyjHO35mK1JnSyS",
+        "id": "49DW3KvkyjHO35mK1JnSyS",
+        "name": "The Cult",
+        "type": "artist",
+        "uri": "spotify:artist:49DW3KvkyjHO35mK1JnSyS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3qLZ866ZfaK0B0R5FIqXLG",
+    "is_local": false,
+    "name": "She Sells Sanctuary",
+    "preview_url": null
+  }
+]
