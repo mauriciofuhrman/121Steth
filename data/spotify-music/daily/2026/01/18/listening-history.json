@@ -1,0 +1,746 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis",
+          "type": "artist",
+          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6tOe4eAF8xNhEkl9WyvsE4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027a4c8c59851c88f6794c3cbf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf",
+          "width": 64
+        }
+      ],
+      "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+      "release_date": "1995",
+      "release_date_precision": "year",
+      "total_tracks": 40,
+      "type": "album",
+      "uri": "spotify:album:6tOe4eAF8xNhEkl9WyvsE4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "name": "Oasis",
+        "type": "artist",
+        "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/12dU3vAh6AFoJkisorfoUl",
+    "is_local": false,
+    "name": "Don't Look Back In Anger - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+          "id": "1GLtl8uqKmnyCWxHmw9tL4",
+          "name": "The Kooks",
+          "type": "artist",
+          "uri": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4MhInH4XT7ReDV5fCZjaSz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e8b31b2e7cec192c603eece",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e8b31b2e7cec192c603eece",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e8b31b2e7cec192c603eece",
+          "width": 64
+        }
+      ],
+      "name": "Inside In / Inside Out",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4MhInH4XT7ReDV5fCZjaSz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        },
+        "href": "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+        "id": "1GLtl8uqKmnyCWxHmw9tL4",
+        "name": "The Kooks",
+        "type": "artist",
+        "uri": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2RUhtNBh43RtSg0WBPPq3m",
+    "is_local": false,
+    "name": "Naive",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "type": "artist",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3C2MFZ2iHotUQOSBzdSvM7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851370c12f82872c9cfaee80193",
+          "width": 64
+        }
+      ],
+      "name": "Lonerism",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3C2MFZ2iHotUQOSBzdSvM7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "name": "Tame Impala",
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0LtOwyZoSNZKJWHqjzADpW",
+    "is_local": false,
+    "name": "Feels Like We Only Go Backwards",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+          "width": 64
+        }
+      ],
+      "name": "Random Access Memories",
+      "release_date": "2013-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+        "id": "1rAv1GhTQ2rmG94p9lU3rB",
+        "name": "Julian Casablancas",
+        "type": "artist",
+        "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2cGxRwrMyEAp8dEbuZaVv6",
+    "is_local": false,
+    "name": "Instant Crush (feat. Julian Casablancas)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+          "id": "7gP3bB2nilZXLfPHJhMdvc",
+          "name": "Foster The People",
+          "type": "artist",
+          "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7Kmmw7Z5D2UD5MVwdm10sT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02121d5f92cf90576907dfb1e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5",
+          "width": 64
+        }
+      ],
+      "name": "Torches",
+      "release_date": "2011-05-23",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7Kmmw7Z5D2UD5MVwdm10sT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+        "id": "7gP3bB2nilZXLfPHJhMdvc",
+        "name": "Foster The People",
+        "type": "artist",
+        "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT",
+    "is_local": false,
+    "name": "Pumped Up Kicks",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+          "id": "5NGO30tJxFlKixkPSgXcFE",
+          "name": "The Police",
+          "type": "artist",
+          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1H9g6j4Wwj6wh6p8YHVtkf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436",
+          "width": 64
+        }
+      ],
+      "name": "Outlandos D'Amour (Remastered 2003)",
+      "release_date": "1978-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1H9g6j4Wwj6wh6p8YHVtkf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        },
+        "href": "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+        "id": "5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police",
+        "type": "artist",
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3EYOJ48Et32uATr9ZmLnAo",
+    "is_local": false,
+    "name": "Roxanne",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
+          "width": 64
+        }
+      ],
+      "name": "Is This It",
+      "release_date": "2001-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hm4HTk9encxT0LYC0J6oI",
+    "is_local": false,
+    "name": "Someday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0aULg7LximLNhI6lLzxcXI",
+          "id": "0aULg7LximLNhI6lLzxcXI",
+          "name": "RØZ",
+          "type": "artist",
+          "uri": "spotify:artist:0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y33YrC415THaEjOYhzDUH",
+          "id": "5Y33YrC415THaEjOYhzDUH",
+          "name": "Natt Calma",
+          "type": "artist",
+          "uri": "spotify:artist:5Y33YrC415THaEjOYhzDUH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oSRId8yJK5I7KMtD5gp3q",
+          "id": "1oSRId8yJK5I7KMtD5gp3q",
+          "name": "Mau Moctezuma",
+          "type": "artist",
+          "uri": "spotify:artist:1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2ktxw6j04fB9NmqOv5ck0z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f0704a127870e66023b9199a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f0704a127870e66023b9199a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f0704a127870e66023b9199a",
+          "width": 64
+        }
+      ],
+      "name": "CORA DE HIELO",
+      "release_date": "2024-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2ktxw6j04fB9NmqOv5ck0z"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0aULg7LximLNhI6lLzxcXI",
+        "id": "0aULg7LximLNhI6lLzxcXI",
+        "name": "RØZ",
+        "type": "artist",
+        "uri": "spotify:artist:0aULg7LximLNhI6lLzxcXI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Y33YrC415THaEjOYhzDUH",
+        "id": "5Y33YrC415THaEjOYhzDUH",
+        "name": "Natt Calma",
+        "type": "artist",
+        "uri": "spotify:artist:5Y33YrC415THaEjOYhzDUH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        "href": "https://api.spotify.com/v1/artists/1oSRId8yJK5I7KMtD5gp3q",
+        "id": "1oSRId8yJK5I7KMtD5gp3q",
+        "name": "Mau Moctezuma",
+        "type": "artist",
+        "uri": "spotify:artist:1oSRId8yJK5I7KMtD5gp3q"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4ZzxVQZcZWcLjfiOA3hRH8",
+    "is_local": false,
+    "name": "CORA DE HIELO",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+          "id": "0GM7qgcRCORpGnfcN2tCiB",
+          "name": "Tainy",
+          "type": "artist",
+          "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2X6WyzpxY70eUn3lnewB7d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f885fb64a381318a1c9c14e4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f885fb64a381318a1c9c14e4",
+          "width": 64
+        }
+      ],
+      "name": "DATA",
+      "release_date": "2023-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:2X6WyzpxY70eUn3lnewB7d"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+        "id": "0GM7qgcRCORpGnfcN2tCiB",
+        "name": "Tainy",
+        "type": "artist",
+        "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/46YjJXVXWHlQ21odKktg5e",
+    "is_local": false,
+    "name": "MOJABI GHOST",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e3f1ba3de4659708c25d0f39",
+          "width": 64
+        }
+      ],
+      "name": "The New Abnormal",
+      "release_date": "2020-04-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ruzrDWcT0vuJIOMW7gMnW",
+    "is_local": false,
+    "name": "The Adults Are Talking",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FlOCziOXI157pvUREAh3E",
+          "id": "6FlOCziOXI157pvUREAh3E",
+          "name": "Los Campesinos!",
+          "type": "artist",
+          "uri": "spotify:artist:6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3l0njASnHN0qcO4iMXJVNj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273338787fb2b8b8233872e7861",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02338787fb2b8b8233872e7861",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851338787fb2b8b8233872e7861",
+          "width": 64
+        }
+      ],
+      "name": "Hold On Now, Youngster... (Remastered Deluxe Edition)",
+      "release_date": "2008-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3l0njASnHN0qcO4iMXJVNj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FlOCziOXI157pvUREAh3E",
+        "id": "6FlOCziOXI157pvUREAh3E",
+        "name": "Los Campesinos!",
+        "type": "artist",
+        "uri": "spotify:artist:6FlOCziOXI157pvUREAh3E"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1sIOUk8T8yxYL0lJptiyt6",
+    "is_local": false,
+    "name": "Death To Los Campesinos! - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+          "width": 64
+        }
+      ],
+      "name": "Californication (Deluxe Edition)",
+      "release_date": "1999-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P",
+    "is_local": false,
+    "name": "Otherside",
+    "preview_url": null
+  }
+]
