@@ -4,6 +4,291 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+          "id": "4tpUmLEVLCGFr93o8hFFIB",
+          "name": "Blondie",
+          "type": "artist",
+          "uri": "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/18fOLsMG8Msf1DEaW0E71K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213cbe3e4dfa81fe5b91f2f1c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113cbe3e4dfa81fe5b91f2f1c",
+          "width": 64
+        }
+      ],
+      "name": "Call Me",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:18fOLsMG8Msf1DEaW0E71K"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+        "id": "4tpUmLEVLCGFr93o8hFFIB",
+        "name": "Blondie",
+        "type": "artist",
+        "uri": "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7HKxTNVlkHsfMLhigmhC0I",
+    "is_local": false,
+    "name": "Call Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+          "width": 64
+        }
+      ],
+      "name": "Stadium Arcadium",
+      "release_date": "2006-05-09",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:7xl50xr9NDkd3i2kBbzsNZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2aibwv5hGXSgw7Yru8IYTO",
+    "is_local": false,
+    "name": "Snow (Hey Oh)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4qtMQSCoDtgCbqAcEZr6Mx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739974ec3fa91e4bb2500d3338",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029974ec3fa91e4bb2500d3338",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519974ec3fa91e4bb2500d3338",
+          "width": 64
+        }
+      ],
+      "name": "Money For Nothing (2022 Remaster)",
+      "release_date": "1988",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4qtMQSCoDtgCbqAcEZr6Mx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1ml1uvYYq9uChP1fZd6MtG",
+    "is_local": false,
+    "name": "Money For Nothing (Single Edit) - 2022 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+          "width": 64
+        }
+      ],
+      "name": "Dire Straits",
+      "release_date": "1978-10-07",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ",
+    "is_local": false,
+    "name": "Sultans of Swing",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+          "id": "5ypxebeHEIXjMtJb17uJlI",
+          "name": "Jet",
+          "type": "artist",
+          "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6svS1vGX5qyK9mhz8ijzxs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273866c0774471b4d4a5129bb83",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02866c0774471b4d4a5129bb83",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851866c0774471b4d4a5129bb83",
+          "width": 64
+        }
+      ],
+      "name": "Get Born (Deluxe Edition)",
+      "release_date": "2003-09-14",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:6svS1vGX5qyK9mhz8ijzxs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ypxebeHEIXjMtJb17uJlI",
+        "id": "5ypxebeHEIXjMtJb17uJlI",
+        "name": "Jet",
+        "type": "artist",
+        "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/72zZfHPYx43shcP3eKkYi5",
+    "is_local": false,
+    "name": "Are You Gonna Be My Girl",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
           },
           "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
