@@ -1,0 +1,525 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again..",
+          "type": "artist",
+          "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5q2iMctlDvEMYVIawF6Vop",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737622b889949b07f15c6b57e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027622b889949b07f15c6b57e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517622b889949b07f15c6b57e2",
+          "width": 64
+        }
+      ],
+      "name": "Actual Life 3 (January 1 - September 9 2022)",
+      "release_date": "2022-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5q2iMctlDvEMYVIawF6Vop"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        "href": "https://api.spotify.com/v1/artists/4oLeXFyACqeem2VImYeBFe",
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "type": "artist",
+        "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WtrH1zNpzoPSz6XpwCh6y",
+        "id": "3WtrH1zNpzoPSz6XpwCh6y",
+        "name": "Delilah Montagu",
+        "type": "artist",
+        "uri": "spotify:artist:3WtrH1zNpzoPSz6XpwCh6y"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5w9upngVRHNjdZcRC7Xxr2",
+    "is_local": false,
+    "name": "Delilah (pull me out of this)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517",
+          "width": 64
+        }
+      ],
+      "name": "Stadium Arcadium",
+      "release_date": "2006-05-09",
+      "release_date_precision": "day",
+      "total_tracks": 29,
+      "type": "album",
+      "uri": "spotify:album:7xl50xr9NDkd3i2kBbzsNZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2aibwv5hGXSgw7Yru8IYTO",
+    "is_local": false,
+    "name": "Snow (Hey Oh)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
+          "width": 64
+        }
+      ],
+      "name": "If You're Reading This It's Too Late",
+      "release_date": "2015-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/12d5QFwzh60IIHlsSnAvps",
+    "is_local": false,
+    "name": "10 Bands",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/06me0leRR3AuF4IFiEytml",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0284bfd0d363f0179ac7c97fa5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485184bfd0d363f0179ac7c97fa5",
+          "width": 64
+        }
+      ],
+      "name": "Push Ups",
+      "release_date": "2024-04-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:06me0leRR3AuF4IFiEytml"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3eh51r6rFWAlGQRlHx9QnQ",
+    "is_local": false,
+    "name": "Push Ups",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7dqpveMVcWgbzqYrOdkFTD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c1e02d4becb7c5bbca01e2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029c1e02d4becb7c5bbca01e2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a",
+          "width": 64
+        }
+      ],
+      "name": "Care Package",
+      "release_date": "2019-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7dqpveMVcWgbzqYrOdkFTD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0FnxK9FEAQyPJ284QcieNb",
+    "is_local": false,
+    "name": "5 Am in Toronto",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3zKS1jwGRc0qWJBrSQcBLm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02be955a885d12b9e3ad44d122",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851be955a885d12b9e3ad44d122",
+          "width": 64
+        }
+      ],
+      "name": "Behind Barz (Bonus)",
+      "release_date": "2019-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3zKS1jwGRc0qWJBrSQcBLm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/621hMmYrgWG3caSFtbZg2p",
+    "is_local": false,
+    "name": "Behind Barz - Bonus",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+          "id": "2UZMlIwnkgAEDBsw1Rejkn",
+          "name": "Tom Petty",
+          "type": "artist",
+          "uri": "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5d71Imt5CIb7LpQwDMQ093",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136572e6726714544f5bed456",
+          "width": 64
+        }
+      ],
+      "name": "Full Moon Fever",
+      "release_date": "1989-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5d71Imt5CIb7LpQwDMQ093"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        },
+        "href": "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+        "id": "2UZMlIwnkgAEDBsw1Rejkn",
+        "name": "Tom Petty",
+        "type": "artist",
+        "uri": "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7gSQv1OHpkIoAdUiRLdmI6",
+    "is_local": false,
+    "name": "I Won't Back Down",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Fmb52lZ6Jv7FMWXXTPO3K",
+          "id": "1Fmb52lZ6Jv7FMWXXTPO3K",
+          "name": "Joan Jett & the Blackhearts",
+          "type": "artist",
+          "uri": "spotify:artist:1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/555qwe1qUgLdee80TZ2CQt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c73b2e0a6aa490736f19751",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023c73b2e0a6aa490736f19751",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513c73b2e0a6aa490736f19751",
+          "width": 64
+        }
+      ],
+      "name": "I Love Rock 'N' Roll (Expanded Edition)",
+      "release_date": "1981-11-18",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:555qwe1qUgLdee80TZ2CQt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Fmb52lZ6Jv7FMWXXTPO3K",
+        "id": "1Fmb52lZ6Jv7FMWXXTPO3K",
+        "name": "Joan Jett & the Blackhearts",
+        "type": "artist",
+        "uri": "spotify:artist:1Fmb52lZ6Jv7FMWXXTPO3K"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Cdvbe2G4hZsnhNMKyGrie",
+    "is_local": false,
+    "name": "I Love Rock 'N Roll",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits",
+          "type": "artist",
+          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+          "width": 64
+        }
+      ],
+      "name": "Dire Straits",
+      "release_date": "1978-10-07",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        },
+        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "name": "Dire Straits",
+        "type": "artist",
+        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ",
+    "is_local": false,
+    "name": "Sultans of Swing",
+    "preview_url": null
+  }
+]
