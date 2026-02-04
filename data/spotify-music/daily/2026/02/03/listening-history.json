@@ -4,76 +4,133 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
           },
-          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
-          "id": "2HPaUgqeutzr3jx5a9WyDV",
-          "name": "PARTYNEXTDOOR",
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
           "type": "artist",
-          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+      "href": "https://api.spotify.com/v1/albums/0aX0UXrHG2ceYIxTQcqJdA",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+          "url": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
+          "url": "https://i.scdn.co/image/ab67616d00001e02a6224f2f93c0ab4b2e01b44b",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+          "url": "https://i.scdn.co/image/ab67616d00004851a6224f2f93c0ab4b2e01b44b",
           "width": 64
         }
       ],
-      "name": "$ome $exy $ongs 4 U",
-      "release_date": "2025-02-14",
+      "name": "Cosa Nuestra",
+      "release_date": "2024-11-15",
       "release_date_precision": "day",
-      "total_tracks": 21,
+      "total_tracks": 18,
       "type": "album",
-      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
+      "uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
-        "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
-        "id": "2HPaUgqeutzr3jx5a9WyDV",
-        "name": "PARTYNEXTDOOR",
+        "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
         "type": "artist",
-        "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2eQFYGegTZaObk2kuBz83Z",
+    "is_local": false,
+    "name": "Tú Con Él",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ylFfzx32ICw4L1A7YWNLN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514891d9b25d8919448388f3bb",
+          "width": 64
+        }
+      ],
+      "name": "OASIS",
+      "release_date": "2019-06-28",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:6ylFfzx32ICw4L1A7YWNLN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+        "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name": "J Balvin",
+        "type": "artist",
+        "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
         "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
       }
     ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/4u43I0LP2Xf85OAS85eG0R",
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/25ZAibhr3bdlMCLmubZDVt",
     "is_local": false,
-    "name": "CN TOWER",
+    "name": "QUE PRETENDES",
     "preview_url": null
   },
   {
@@ -81,304 +138,66 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
           },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
           "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+      "href": "https://api.spotify.com/v1/albums/3RQQmkQEvNCY4prGKE6oc5",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+          "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+          "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+          "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
           "width": 64
         }
       ],
-      "name": "Scorpion",
-      "release_date": "2018-06-29",
-      "release_date_precision": "day",
-      "total_tracks": 25,
-      "type": "album",
-      "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7rC5Pl8rQSX4myONQHYPBK",
-    "is_local": false,
-    "name": "Mob Ties",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
-          "width": 64
-        }
-      ],
-      "name": "Certified Lover Boy",
-      "release_date": "2021-09-03",
-      "release_date_precision": "day",
-      "total_tracks": 21,
-      "type": "album",
-      "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2tUL6dZf1mywCj5WvCPZw6",
-    "is_local": false,
-    "name": "No Friends In The Industry",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-          "width": 64
-        }
-      ],
-      "name": "If You're Reading This It's Too Late",
-      "release_date": "2015-02-12",
-      "release_date_precision": "day",
-      "total_tracks": 17,
-      "type": "album",
-      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/12d5QFwzh60IIHlsSnAvps",
-    "is_local": false,
-    "name": "10 Bands",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-          },
-          "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
-          "id": "2HPaUgqeutzr3jx5a9WyDV",
-          "name": "PARTYNEXTDOOR",
-          "type": "artist",
-          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
-          "width": 64
-        }
-      ],
-      "name": "$ome $exy $ongs 4 U",
-      "release_date": "2025-02-14",
-      "release_date_precision": "day",
-      "total_tracks": 21,
-      "type": "album",
-      "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/1YHQQFtKqFSFrqL4cNvstU",
-    "is_local": false,
-    "name": "SMALL TOWN FAME",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4czdORdCWP9umpbhFXK2fW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048517d384516b23347e92a587ed1",
-          "width": 64
-        }
-      ],
-      "name": "For All The Dogs",
-      "release_date": "2023-10-06",
+      "name": "Un Verano Sin Ti",
+      "release_date": "2022-05-06",
       "release_date_precision": "day",
       "total_tracks": 23,
       "type": "album",
-      "uri": "spotify:album:4czdORdCWP9umpbhFXK2fW"
+      "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
         "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
-        "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
-        "id": "6icQOAFXDZKsumw3YXyusw",
-        "name": "Lil Yachty",
+        "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+        "id": "0GM7qgcRCORpGnfcN2tCiB",
+        "name": "Tainy",
         "type": "artist",
-        "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/17IBDpAl3J39swaoPlfGpp",
+    "href": "https://api.spotify.com/v1/tracks/71wFwRo8xGc4lrcyKwsvba",
     "is_local": false,
-    "name": "Another Late Night (feat. Lil Yachty)",
+    "name": "Callaita",
     "preview_url": null
   },
   {
@@ -386,267 +205,76 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            "spotify": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
           },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "href": "https://api.spotify.com/v1/artists/3DeOmVSmpv7WknXoo1OS8p",
+          "id": "3DeOmVSmpv7WknXoo1OS8p",
+          "name": "Alleh",
           "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          "uri": "spotify:artist:3DeOmVSmpv7WknXoo1OS8p"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            "spotify": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
           },
-          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-          "id": "1URnnhqYAYcrqrcwql10ft",
-          "name": "21 Savage",
+          "href": "https://api.spotify.com/v1/artists/4eq1q0o9XPyNq9RG3fNDD1",
+          "id": "4eq1q0o9XPyNq9RG3fNDD1",
+          "name": "Yorghaki",
           "type": "artist",
-          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+          "uri": "spotify:artist:4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+      "href": "https://api.spotify.com/v1/albums/18Fki3SqVPkAlPosQoQe5L",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+          "url": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+          "url": "https://i.scdn.co/image/ab67616d00001e0253596a050e8369c51da11029",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+          "url": "https://i.scdn.co/image/ab67616d0000485153596a050e8369c51da11029",
           "width": 64
         }
       ],
-      "name": "Her Loss",
-      "release_date": "2022-11-04",
-      "release_date_precision": "day",
-      "total_tracks": 16,
-      "type": "album",
-      "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-        "id": "1URnnhqYAYcrqrcwql10ft",
-        "name": "21 Savage",
-        "type": "artist",
-        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/34tz0eDhGuFErIuW3q4mPX",
-    "is_local": false,
-    "name": "On BS",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-          },
-          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-          "id": "1URnnhqYAYcrqrcwql10ft",
-          "name": "21 Savage",
-          "type": "artist",
-          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
-          "width": 64
-        }
-      ],
-      "name": "Her Loss",
-      "release_date": "2022-11-04",
-      "release_date_precision": "day",
-      "total_tracks": 16,
-      "type": "album",
-      "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
-        "id": "1URnnhqYAYcrqrcwql10ft",
-        "name": "21 Savage",
-        "type": "artist",
-        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/7l2nxyx7IkBX5orhkALg0V",
-    "is_local": false,
-    "name": "Privileged Rappers",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/0ptlfJfwGTy0Yvrk14JK1I",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512090f4f6cc406e6d3c306733",
-          "width": 64
-        }
-      ],
-      "name": "If You're Reading This It's Too Late",
-      "release_date": "2015-02-12",
-      "release_date_precision": "day",
-      "total_tracks": 17,
-      "type": "album",
-      "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/4kdfjhj9xNkYU0R8xlDy8k",
-    "is_local": false,
-    "name": "6 Man",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-          },
-          "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
-          "id": "3qm84nBOXUEQ2vnTfUTTFC",
-          "name": "Guns N' Roses",
-          "type": "artist",
-          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/28yHV3Gdg30AiB8h8em1eW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0221ebf49b3292c3f0f575f0f5",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485121ebf49b3292c3f0f575f0f5",
-          "width": 64
-        }
-      ],
-      "name": "Appetite For Destruction",
-      "release_date": "1987-07-21",
+      "name": "LA CIUDAD",
+      "release_date": "2024-12-24",
       "release_date_precision": "day",
       "total_tracks": 12,
       "type": "album",
-      "uri": "spotify:album:28yHV3Gdg30AiB8h8em1eW"
+      "uri": "spotify:album:18Fki3SqVPkAlPosQoQe5L"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "spotify": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         },
-        "href": "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
-        "id": "3qm84nBOXUEQ2vnTfUTTFC",
-        "name": "Guns N' Roses",
+        "href": "https://api.spotify.com/v1/artists/3DeOmVSmpv7WknXoo1OS8p",
+        "id": "3DeOmVSmpv7WknXoo1OS8p",
+        "name": "Alleh",
         "type": "artist",
-        "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        "uri": "spotify:artist:3DeOmVSmpv7WknXoo1OS8p"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        "href": "https://api.spotify.com/v1/artists/4eq1q0o9XPyNq9RG3fNDD1",
+        "id": "4eq1q0o9XPyNq9RG3fNDD1",
+        "name": "Yorghaki",
+        "type": "artist",
+        "uri": "spotify:artist:4eq1q0o9XPyNq9RG3fNDD1"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6eN1f9KNmiWEhpE2RhQqB5",
+    "href": "https://api.spotify.com/v1/tracks/3yO6Ca0Luwc23F94yX9tJJ",
     "is_local": false,
-    "name": "Paradise City",
+    "name": "una noche",
     "preview_url": null
   },
   {
@@ -654,113 +282,56 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
           },
-          "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
-          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
-          "name": "Dire Straits",
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
           "type": "artist",
-          "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+      "href": "https://api.spotify.com/v1/albums/4s05NbwGgw5SO42AdsN5Oo",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27305b07080bdc2dd0e2cf6f008",
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0205b07080bdc2dd0e2cf6f008",
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0a875d7f1bfe4ec4aaffa48",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485105b07080bdc2dd0e2cf6f008",
+          "url": "https://i.scdn.co/image/ab67616d00004851b0a875d7f1bfe4ec4aaffa48",
           "width": 64
         }
       ],
-      "name": "Dire Straits",
-      "release_date": "1978-10-07",
+      "name": "Odisea",
+      "release_date": "2017-08-25",
       "release_date_precision": "day",
-      "total_tracks": 9,
+      "total_tracks": 16,
       "type": "album",
-      "uri": "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+      "uri": "spotify:album:4s05NbwGgw5SO42AdsN5Oo"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
-        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
-        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
-        "name": "Dire Straits",
+        "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+        "id": "1i8SpTcr7yvPOmcqrbnVXY",
+        "name": "Ozuna",
         "type": "artist",
-        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+        "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
       }
     ],
     "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6cr6UDpkjEaMQ80OjWqEBQ",
+    "href": "https://api.spotify.com/v1/tracks/1m69ELEgE6k5ZWsap40ozt",
     "is_local": false,
-    "name": "Sultans of Swing",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-          },
-          "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
-          "id": "0f3EsoviYnRKTkmayI3cux",
-          "name": "Men At Work",
-          "type": "artist",
-          "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4HDJMKkwAMVFewqfZcmf84",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2",
-          "width": 64
-        }
-      ],
-      "name": "Business As Usual",
-      "release_date": "1981-11-09",
-      "release_date_precision": "day",
-      "total_tracks": 10,
-      "type": "album",
-      "uri": "spotify:album:4HDJMKkwAMVFewqfZcmf84"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        },
-        "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
-        "id": "0f3EsoviYnRKTkmayI3cux",
-        "name": "Men At Work",
-        "type": "artist",
-        "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/3ZZq9396zv8pcn5GYVhxUi",
-    "is_local": false,
-    "name": "Down Under",
+    "name": "Se Preparó",
     "preview_url": null
   }
 ]
