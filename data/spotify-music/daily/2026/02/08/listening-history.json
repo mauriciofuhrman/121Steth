@@ -1,0 +1,287 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jc496ljiyrS3ECrD7QiqL",
+          "id": "3jc496ljiyrS3ECrD7QiqL",
+          "name": "Gipsy Kings",
+          "type": "artist",
+          "uri": "spotify:artist:3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6prKtGIdYwaR9rhNElZEWt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27372765b7b297c0ce4d2b20655",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0272765b7b297c0ce4d2b20655",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485172765b7b297c0ce4d2b20655",
+          "width": 64
+        }
+      ],
+      "name": "Mosaique",
+      "release_date": "1989-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6prKtGIdYwaR9rhNElZEWt"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        },
+        "href": "https://api.spotify.com/v1/artists/3jc496ljiyrS3ECrD7QiqL",
+        "id": "3jc496ljiyrS3ECrD7QiqL",
+        "name": "Gipsy Kings",
+        "type": "artist",
+        "uri": "spotify:artist:3jc496ljiyrS3ECrD7QiqL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/06UAZUY5qyFy50poO0nLBY",
+    "is_local": false,
+    "name": "Volare",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "type": "artist",
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0yY0fT7zibMEffhBJD9Nab",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026c0294796e2ee5cf87a47b5f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516c0294796e2ee5cf87a47b5f",
+          "width": 64
+        }
+      ],
+      "name": "Tropicoqueta",
+      "release_date": "2025-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "type": "artist",
+        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/73scB4Q4fcOmnsBVZPmk32",
+    "is_local": false,
+    "name": "Si Antes Te Hubiera Conocido",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3G7agPwWfcORnWCAGMDOpm",
+    "is_local": false,
+    "name": "LA MuDANZA",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+          "width": 64
+        }
+      ],
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "release_date": "2025-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "type": "artist",
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3G7agPwWfcORnWCAGMDOpm",
+    "is_local": false,
+    "name": "LA MuDANZA",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6p2HnfM955TI1bX34dkLnI",
+          "id": "6p2HnfM955TI1bX34dkLnI",
+          "name": "The Backseat Lovers",
+          "type": "artist",
+          "uri": "spotify:artist:6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3TSMSh5dai7WEnEGOoMXBZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028386795a636d72e74c958590",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518386795a636d72e74c958590",
+          "width": 64
+        }
+      ],
+      "name": "When We Were Friends",
+      "release_date": "2019-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3TSMSh5dai7WEnEGOoMXBZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6p2HnfM955TI1bX34dkLnI",
+        "id": "6p2HnfM955TI1bX34dkLnI",
+        "name": "The Backseat Lovers",
+        "type": "artist",
+        "uri": "spotify:artist:6p2HnfM955TI1bX34dkLnI"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1170VohRSx6GwE6QDCHPPH",
+    "is_local": false,
+    "name": "Kilby Girl",
+    "preview_url": null
+  }
+]
