@@ -1,0 +1,126 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4EUf4YyNjuXypWY6W5wEDm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6efeff81a318670a292090f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e6efeff81a318670a292090f",
+          "width": 64
+        }
+      ],
+      "name": "Globalization",
+      "release_date": "2014-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4EUf4YyNjuXypWY6W5wEDm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        },
+        "href": "https://api.spotify.com/v1/artists/3s73tswJycj6HTBNNN393z",
+        "id": "3s73tswJycj6HTBNNN393z",
+        "name": "John Ryan",
+        "type": "artist",
+        "uri": "spotify:artist:3s73tswJycj6HTBNNN393z"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4Y7XAxTANhu3lmnLAzhWJW",
+    "is_local": false,
+    "name": "Fireball (feat. John Ryan)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+          "id": "3eqjTLE0HfPfh78zjh6TqT",
+          "name": "Bruce Springsteen",
+          "type": "artist",
+          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a43a6482e327d623bb0c0f77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77",
+          "width": 64
+        }
+      ],
+      "name": "Born In The U.S.A.",
+      "release_date": "1984-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3PzsbWSQdLCKDLxn7YZfkM",
+    "is_local": false,
+    "name": "I'm On Fire",
+    "preview_url": null
+  }
+]
