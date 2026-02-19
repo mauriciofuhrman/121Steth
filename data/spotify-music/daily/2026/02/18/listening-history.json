@@ -4,66 +4,284 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
           },
-          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
-          "id": "0QHgL1lAIqAw0HtD7YldmP",
-          "name": "DJ Khaled",
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
           "type": "artist",
-          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "href": "https://api.spotify.com/v1/albums/5qHyKDjwycRj1fJyPLt2HQ",
+      "href": "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2738c624614f33197bace0e11c4",
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e028c624614f33197bace0e11c4",
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048518c624614f33197bace0e11c4",
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2466b83507515291acce4",
           "width": 64
         }
       ],
-      "name": "Major Key",
-      "release_date": "2016-08-05",
+      "name": "Is This It",
+      "release_date": "2001-07-30",
       "release_date_precision": "day",
-      "total_tracks": 14,
+      "total_tracks": 11,
       "type": "album",
-      "uri": "spotify:album:5qHyKDjwycRj1fJyPLt2HQ"
+      "uri": "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
     },
     "artists": [
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
-        "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
-        "id": "0QHgL1lAIqAw0HtD7YldmP",
-        "name": "DJ Khaled",
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
         "type": "artist",
-        "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
       }
     ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/5TqBAOIBe0bQA0spNdcG3k",
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hm4HTk9encxT0LYC0J6oI",
     "is_local": false,
-    "name": "For Free (feat. Drake)",
+    "name": "Someday",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02280b72ca76b4734debfc190e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/56KqaFSGTb7ifpt16t5Y1N",
+    "is_local": false,
+    "name": "Rock the Casbah - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
+          "width": 64
+        }
+      ],
+      "name": "Favourite Worst Nightmare (Standard Version)",
+      "release_date": "2007-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7e8utCy2JlSB8dRHKi49xM",
+    "is_local": false,
+    "name": "Fluorescent Adolescent",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
+          "width": 64
+        }
+      ],
+      "name": "Favourite Worst Nightmare (Standard Version)",
+      "release_date": "2007-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7e8utCy2JlSB8dRHKi49xM",
+    "is_local": false,
+    "name": "Fluorescent Adolescent",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc",
+          "width": 64
+        }
+      ],
+      "name": "Three Imaginary Boys (Deluxe Edition)",
+      "release_date": "1979-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "The Cure",
+        "type": "artist",
+        "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+    "is_local": false,
+    "name": "Boys Don't Cry - Single Version",
     "preview_url": null
   },
   {
@@ -118,66 +336,9 @@
       }
     ],
     "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/2YaDRtIlQiZ5WDDB2YuEOC",
+    "href": "https://api.spotify.com/v1/tracks/7JXZq0JgG2zTrSOAgY8VMC",
     "is_local": false,
-    "name": "You & The 6",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-          },
-          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "type": "artist",
-          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/06me0leRR3AuF4IFiEytml",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0284bfd0d363f0179ac7c97fa5",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485184bfd0d363f0179ac7c97fa5",
-          "width": 64
-        }
-      ],
-      "name": "Push Ups",
-      "release_date": "2024-04-19",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:06me0leRR3AuF4IFiEytml"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
-        "id": "3TVXtAsR1Inumwj472S9r4",
-        "name": "Drake",
-        "type": "artist",
-        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "explicit": true,
-    "href": "https://api.spotify.com/v1/tracks/3eh51r6rFWAlGQRlHx9QnQ",
-    "is_local": false,
-    "name": "Push Ups",
+    "name": "Jungle",
     "preview_url": null
   }
 ]
