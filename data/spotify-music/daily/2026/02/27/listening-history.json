@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0l8zYqoUeBYg47Gmevq9HZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+          "width": 64
+        }
+      ],
+      "name": "The Art of Loving",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0l8zYqoUeBYg47Gmevq9HZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6sGIMrtIzQjdzNndVxe397",
+    "is_local": false,
+    "name": "So Easy (To Fall In Love)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eMzbeca8z31KcAKRGaGpJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eMzbeca8z31KcAKRGaGpJ",
+          "id": "5eMzbeca8z31KcAKRGaGpJ",
+          "name": "MOTO BANDIT",
+          "type": "artist",
+          "uri": "spotify:artist:5eMzbeca8z31KcAKRGaGpJ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5WbYRfybe7bsIRzfIEVLI7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733aee8f26559756ed1a708a4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023aee8f26559756ed1a708a4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513aee8f26559756ed1a708a4d",
+          "width": 64
+        }
+      ],
+      "name": "OBSERVATIONS 1",
+      "release_date": "2020-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5WbYRfybe7bsIRzfIEVLI7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5eMzbeca8z31KcAKRGaGpJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5eMzbeca8z31KcAKRGaGpJ",
+        "id": "5eMzbeca8z31KcAKRGaGpJ",
+        "name": "MOTO BANDIT",
+        "type": "artist",
+        "uri": "spotify:artist:5eMzbeca8z31KcAKRGaGpJ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0PlzNhXnpmnR7bJLlHQtRU",
+    "is_local": false,
+    "name": "OBSERVATIONS 1",
+    "preview_url": null
+  }
+]
