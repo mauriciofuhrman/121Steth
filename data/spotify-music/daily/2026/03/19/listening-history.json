@@ -4,6 +4,1099 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          },
+          "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "type": "artist",
+          "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0BwWUstDMUbgq2NYONRqlu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+          "width": 64
+        }
+      ],
+      "name": "Rumours (Super Deluxe)",
+      "release_date": "1977-02-04",
+      "release_date_precision": "day",
+      "total_tracks": 58,
+      "type": "album",
+      "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        },
+        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "type": "artist",
+        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5e9TFTbltYBg2xThimr0rU",
+    "is_local": false,
+    "name": "The Chain - 2004 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          },
+          "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+          "id": "536BYVgOnRky0xjsPT96zl",
+          "name": "Two Door Cinema Club",
+          "type": "artist",
+          "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7DxmOS2dKJgTfLLRNOP4ch",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273852930b799f484bf60faacb2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02852930b799f484bf60faacb2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851852930b799f484bf60faacb2",
+          "width": 64
+        }
+      ],
+      "name": "Tourist History",
+      "release_date": "2010-02-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7DxmOS2dKJgTfLLRNOP4ch"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        },
+        "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+        "id": "536BYVgOnRky0xjsPT96zl",
+        "name": "Two Door Cinema Club",
+        "type": "artist",
+        "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4iZxeyibg6w4EFCOoAQ6Eh",
+    "is_local": false,
+    "name": "What You Know",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival",
+          "type": "artist",
+          "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31q47gQszFt0CddSyMksgO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029f39192f9f8ca1c90847b3e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5",
+          "width": 64
+        }
+      ],
+      "name": "Willy And The Poor Boys (Expanded Edition)",
+      "release_date": "1969-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:31q47gQszFt0CddSyMksgO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+        "id": "3IYUhFvPQItj6xySrBmZkd",
+        "name": "Creedence Clearwater Revival",
+        "type": "artist",
+        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4BP3uh0hFLFRb5cjsgLqDh",
+    "is_local": false,
+    "name": "Fortunate Son",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02280b72ca76b4734debfc190e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/56KqaFSGTb7ifpt16t5Y1N",
+    "is_local": false,
+    "name": "Rock the Casbah - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+          "id": "2qk9voo8llSGYcZ6xrBzKx",
+          "name": "Kings of Leon",
+          "type": "artist",
+          "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5CZR6ljD0x9fTiS4mh9wMp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022519d01c0cca06f134eeadd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+          "width": 64
+        }
+      ],
+      "name": "Only By The Night",
+      "release_date": "2008-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5CZR6ljD0x9fTiS4mh9wMp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+        "id": "2qk9voo8llSGYcZ6xrBzKx",
+        "name": "Kings of Leon",
+        "type": "artist",
+        "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5VGlqQANWDKJFl0MBG3sg2",
+    "is_local": false,
+    "name": "Use Somebody",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+          "width": 64
+        }
+      ],
+      "name": "Random Access Memories",
+      "release_date": "2013-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+        "id": "1rAv1GhTQ2rmG94p9lU3rB",
+        "name": "Julian Casablancas",
+        "type": "artist",
+        "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2cGxRwrMyEAp8dEbuZaVv6",
+    "is_local": false,
+    "name": "Instant Crush (feat. Julian Casablancas)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02280b72ca76b4734debfc190e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/39shmbIHICJ2Wxnk1fPSdz",
+    "is_local": false,
+    "name": "Should I Stay or Should I Go - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc",
+          "width": 64
+        }
+      ],
+      "name": "Three Imaginary Boys (Deluxe Edition)",
+      "release_date": "1979-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "The Cure",
+        "type": "artist",
+        "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+    "is_local": false,
+    "name": "Boys Don't Cry - Single Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0kUGW2gfvAtD4yNmylxsLF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736408595a62639bbe6d040675",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026408595a62639bbe6d040675",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516408595a62639bbe6d040675",
+          "width": 64
+        }
+      ],
+      "name": "Streets of London",
+      "release_date": "2025-07-02",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0kUGW2gfvAtD4yNmylxsLF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/76O7oz3bvW0WCBqXs9Tkuf",
+    "is_local": false,
+    "name": "River Washed Hair",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          },
+          "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
+          "type": "artist",
+          "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6PbnGueEO6LGodPfvNldYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733bd1de7368f5f1efd1d787b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023bd1de7368f5f1efd1d787b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513bd1de7368f5f1efd1d787b3",
+          "width": 64
+        }
+      ],
+      "name": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6PbnGueEO6LGodPfvNldYf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/3EvZ03hGAFwGZ2Ebcu86YH",
+    "is_local": false,
+    "name": "Tourniquet",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4hUCtGcc0hRYXFhKSETlll",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4046985c8b4f9478e0af14e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4046985c8b4f9478e0af14e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4046985c8b4f9478e0af14e",
+          "width": 64
+        }
+      ],
+      "name": "This fffire",
+      "release_date": "2004-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4hUCtGcc0hRYXFhKSETlll"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/46gSk82duJtX3TTA182ruG",
+    "is_local": false,
+    "name": "This fffire - New Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "type": "artist",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2OBSz5Nlto0Q5CtYPzPY7c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+          "width": 64
+        }
+      ],
+      "name": "Weezer",
+      "release_date": "2001-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2OBSz5Nlto0Q5CtYPzPY7c"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+        "id": "3jOstUTkEu2JkjvRdBA5Gu",
+        "name": "Weezer",
+        "type": "artist",
+        "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2MLHyLy5z5l5YRp7momlgw",
+    "is_local": false,
+    "name": "Island In The Sun",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+          "id": "0C0XlULifJtAgn6ZNCW2eu",
+          "name": "The Killers",
+          "type": "artist",
+          "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4piJq7R3gjUOxnYs6lDCTg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+          "width": 64
+        }
+      ],
+      "name": "Hot Fuss",
+      "release_date": "2004",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4piJq7R3gjUOxnYs6lDCTg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+        "id": "0C0XlULifJtAgn6ZNCW2eu",
+        "name": "The Killers",
+        "type": "artist",
+        "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6PwjJ58I4t7Mae9xfZ9l9v",
+    "is_local": false,
+    "name": "Somebody Told Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+          "id": "7oPftvlwr6VrsViSDV7fJY",
+          "name": "Green Day",
+          "type": "artist",
+          "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7d3nOmFvL51roNElAdpi9d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac9a652335cf34de9a65292a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac9a652335cf34de9a65292a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ac9a652335cf34de9a65292a",
+          "width": 64
+        }
+      ],
+      "name": "Insomniac",
+      "release_date": "1995-10-10",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:7d3nOmFvL51roNElAdpi9d"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+        "id": "7oPftvlwr6VrsViSDV7fJY",
+        "name": "Green Day",
+        "type": "artist",
+        "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1nLnpLXvl68RZCSjfkyiaa",
+    "is_local": false,
+    "name": "Brain Stew",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc",
+          "width": 64
+        }
+      ],
+      "name": "Three Imaginary Boys (Deluxe Edition)",
+      "release_date": "1979-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "The Cure",
+        "type": "artist",
+        "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+    "is_local": false,
+    "name": "Boys Don't Cry - Single Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90",
+          "width": 64
+        }
+      ],
+      "name": "Favourite Worst Nightmare (Standard Version)",
+      "release_date": "2007-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/58ge6dfP91o9oXMzq3XkIS",
+    "is_local": false,
+    "name": "505",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+          "id": "3eqjTLE0HfPfh78zjh6TqT",
+          "name": "Bruce Springsteen",
+          "type": "artist",
+          "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a43a6482e327d623bb0c0f77",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77",
+          "width": 64
+        }
+      ],
+      "name": "Born In The U.S.A.",
+      "release_date": "1984-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "type": "artist",
+        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7FwBtcecmlpc1sLySPXeGE",
+    "is_local": false,
+    "name": "Dancing In the Dark",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
           },
           "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
