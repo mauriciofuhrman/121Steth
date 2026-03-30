@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+          "width": 64
+        }
+      ],
+      "name": "Random Access Memories",
+      "release_date": "2013-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+        "id": "1rAv1GhTQ2rmG94p9lU3rB",
+        "name": "Julian Casablancas",
+        "type": "artist",
+        "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2cGxRwrMyEAp8dEbuZaVv6",
+    "is_local": false,
+    "name": "Instant Crush (feat. Julian Casablancas)",
+    "preview_url": null
+  }
+]
