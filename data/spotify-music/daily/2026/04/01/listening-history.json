@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Bv6OJO0L5gcf20DMww54a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+          "width": 64
+        }
+      ],
+      "name": "Man I Need",
+      "release_date": "2025-08-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0Bv6OJO0L5gcf20DMww54a"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qbmS6ep2hbBRaEZFpn7BX",
+    "is_local": false,
+    "name": "Man I Need",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          },
+          "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+          "id": "0f3EsoviYnRKTkmayI3cux",
+          "name": "Men At Work",
+          "type": "artist",
+          "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HDJMKkwAMVFewqfZcmf84",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2",
+          "width": 64
+        }
+      ],
+      "name": "Business As Usual",
+      "release_date": "1981-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4HDJMKkwAMVFewqfZcmf84"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        },
+        "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+        "id": "0f3EsoviYnRKTkmayI3cux",
+        "name": "Men At Work",
+        "type": "artist",
+        "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZZq9396zv8pcn5GYVhxUi",
+    "is_local": false,
+    "name": "Down Under",
+    "preview_url": null
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Bv6OJO0L5gcf20DMww54a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+          "width": 64
+        }
+      ],
+      "name": "Man I Need",
+      "release_date": "2025-08-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0Bv6OJO0L5gcf20DMww54a"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qbmS6ep2hbBRaEZFpn7BX",
+    "is_local": false,
+    "name": "Man I Need",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dwdTW1Lfiq0cM8nBAqIIz",
+          "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+          "name": "Of Monsters and Men",
+          "type": "artist",
+          "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4p9dVvZDaZliSjTCbFRhJy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cb3f67e8026e2e493a1e8262",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262",
+          "width": 64
+        }
+      ],
+      "name": "My Head Is An Animal",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4p9dVvZDaZliSjTCbFRhJy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dwdTW1Lfiq0cM8nBAqIIz",
+        "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+        "name": "Of Monsters and Men",
+        "type": "artist",
+        "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2ihCaVdNZmnHZWt0fvAM7B",
+    "is_local": false,
+    "name": "Little Talks",
+    "preview_url": null
+  }
+]
