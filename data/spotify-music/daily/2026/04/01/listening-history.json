@@ -4,6 +4,415 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+          "id": "7gP3bB2nilZXLfPHJhMdvc",
+          "name": "Foster The People",
+          "type": "artist",
+          "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7Kmmw7Z5D2UD5MVwdm10sT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02121d5f92cf90576907dfb1e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5",
+          "width": 64
+        }
+      ],
+      "name": "Torches",
+      "release_date": "2011-05-23",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7Kmmw7Z5D2UD5MVwdm10sT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+        "id": "7gP3bB2nilZXLfPHJhMdvc",
+        "name": "Foster The People",
+        "type": "artist",
+        "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT",
+    "is_local": false,
+    "name": "Pumped Up Kicks",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+          "id": "2qk9voo8llSGYcZ6xrBzKx",
+          "name": "Kings of Leon",
+          "type": "artist",
+          "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5CZR6ljD0x9fTiS4mh9wMp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022519d01c0cca06f134eeadd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+          "width": 64
+        }
+      ],
+      "name": "Only By The Night",
+      "release_date": "2008-09-23",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5CZR6ljD0x9fTiS4mh9wMp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+        "id": "2qk9voo8llSGYcZ6xrBzKx",
+        "name": "Kings of Leon",
+        "type": "artist",
+        "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0ntQJM78wzOLVeCUAW7Y45",
+    "is_local": false,
+    "name": "Sex on Fire",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Bv6OJO0L5gcf20DMww54a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e3d69e17dde129037a1f09e2",
+          "width": 64
+        }
+      ],
+      "name": "Man I Need",
+      "release_date": "2025-08-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0Bv6OJO0L5gcf20DMww54a"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1qbmS6ep2hbBRaEZFpn7BX",
+    "is_local": false,
+    "name": "Man I Need",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0l8zYqoUeBYg47Gmevq9HZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+          "width": 64
+        }
+      ],
+      "name": "The Art of Loving",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0l8zYqoUeBYg47Gmevq9HZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6sGIMrtIzQjdzNndVxe397",
+    "is_local": false,
+    "name": "So Easy (To Fall In Love)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zlR5ttMfMNmwf2lecU9Cc",
+          "id": "6zlR5ttMfMNmwf2lecU9Cc",
+          "name": "Sam Fender",
+          "type": "artist",
+          "uri": "spotify:artist:6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4gwfCCNRxAB1P62hlDCelM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27370722c52a53ef4a56f0c2eb0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0270722c52a53ef4a56f0c2eb0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485170722c52a53ef4a56f0c2eb0",
+          "width": 64
+        }
+      ],
+      "name": "People Watching (Deluxe Edition)",
+      "release_date": "2025-12-05",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:4gwfCCNRxAB1P62hlDCelM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zlR5ttMfMNmwf2lecU9Cc",
+        "id": "6zlR5ttMfMNmwf2lecU9Cc",
+        "name": "Sam Fender",
+        "type": "artist",
+        "uri": "spotify:artist:6zlR5ttMfMNmwf2lecU9Cc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0MUXBhPUDF8or0kfQ0EHwV",
+    "is_local": false,
+    "name": "Rein Me In (with Olivia Dean)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0l8zYqoUeBYg47Gmevq9HZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+          "width": 64
+        }
+      ],
+      "name": "The Art of Loving",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0l8zYqoUeBYg47Gmevq9HZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6sGIMrtIzQjdzNndVxe397",
+    "is_local": false,
+    "name": "So Easy (To Fall In Love)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
           },
           "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
