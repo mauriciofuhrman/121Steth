@@ -4,6 +4,177 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          },
+          "href": "https://api.spotify.com/v1/artists/2D4FOOOtWycb3Aw9nY5n3c",
+          "id": "2D4FOOOtWycb3Aw9nY5n3c",
+          "name": "Declan McKenna",
+          "type": "artist",
+          "uri": "spotify:artist:2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3HJiLDJgWA9Z0MvCxlzHYQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27311b78d26863f111044c4060f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0211b78d26863f111044c4060f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485111b78d26863f111044c4060f",
+          "width": 64
+        }
+      ],
+      "name": "What Do You Think About the Car?",
+      "release_date": "2017-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3HJiLDJgWA9Z0MvCxlzHYQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        },
+        "href": "https://api.spotify.com/v1/artists/2D4FOOOtWycb3Aw9nY5n3c",
+        "id": "2D4FOOOtWycb3Aw9nY5n3c",
+        "name": "Declan McKenna",
+        "type": "artist",
+        "uri": "spotify:artist:2D4FOOOtWycb3Aw9nY5n3c"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4sNG6zQBmtq7M8aeeKJRMQ",
+    "is_local": false,
+    "name": "Brazil",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0fIDUXVyJ1JISqB4HP4D5H",
+    "is_local": false,
+    "name": "Sweet Disposition",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap",
+          "type": "artist",
+          "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/19Y9Ra9z9sTbPZO0tJXZZk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ff39c2f14c0088b77af749a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ff39c2f14c0088b77af749a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ff39c2f14c0088b77af749a",
+          "width": 64
+        }
+      ],
+      "name": "Conditions",
+      "release_date": "2009-06-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:19Y9Ra9z9sTbPZO0tJXZZk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+        "id": "4W48hZAnAHVOC2c8WH8pcq",
+        "name": "The Temper Trap",
+        "type": "artist",
+        "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7cIHtga6bZuzpg8cu71xlD",
+    "is_local": false,
+    "name": "Love Lost",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
           },
           "href": "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
