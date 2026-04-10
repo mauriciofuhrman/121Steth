@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+          "id": "3FUY2gzHeIiaesXtOAdB7A",
+          "name": "Train",
+          "type": "artist",
+          "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6j6Zgm7vzAZegr48UppFVT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a0278d4109c0f974821aa33",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a0278d4109c0f974821aa33",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a0278d4109c0f974821aa33",
+          "width": 64
+        }
+      ],
+      "name": "Drops Of Jupiter",
+      "release_date": "2001-03-27",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:6j6Zgm7vzAZegr48UppFVT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+        "id": "3FUY2gzHeIiaesXtOAdB7A",
+        "name": "Train",
+        "type": "artist",
+        "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hKdd3qO7cWr2Jo0Bcs0MA",
+    "is_local": false,
+    "name": "Drops of Jupiter (Tell Me)",
+    "preview_url": null
+  }
+]

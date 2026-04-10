@@ -1,0 +1,136 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          },
+          "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+          "id": "0f3EsoviYnRKTkmayI3cux",
+          "name": "Men At Work",
+          "type": "artist",
+          "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4HDJMKkwAMVFewqfZcmf84",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2",
+          "width": 64
+        }
+      ],
+      "name": "Business As Usual",
+      "release_date": "1981-11-09",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4HDJMKkwAMVFewqfZcmf84"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        },
+        "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+        "id": "0f3EsoviYnRKTkmayI3cux",
+        "name": "Men At Work",
+        "type": "artist",
+        "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZZq9396zv8pcn5GYVhxUi",
+    "is_local": false,
+    "name": "Down Under",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          },
+          "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist",
+          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3YNKd21Z57lbdZimG7DP2Q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27302b0327e0d514a5ba0f8ae14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0202b0327e0d514a5ba0f8ae14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485102b0327e0d514a5ba0f8ae14",
+          "width": 64
+        }
+      ],
+      "name": "The Thrill",
+      "release_date": "2020-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3YNKd21Z57lbdZimG7DP2Q"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+        "id": "137W8MRPWKqSmrBGDBFSop",
+        "name": "Wiz Khalifa",
+        "type": "artist",
+        "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        "href": "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "type": "artist",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/42F7AY5a40owYmUeq0QQTl",
+    "is_local": false,
+    "name": "The Thrill",
+    "preview_url": null
+  }
+]
