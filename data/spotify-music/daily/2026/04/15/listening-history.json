@@ -1,0 +1,525 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "type": "artist",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+          "width": 64
+        }
+      ],
+      "name": "Good News For People Who Love Bad News",
+      "release_date": "2004-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0TGTGuc2vXv6ZECoAf52N0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT",
+        "id": "1yAwtBaoHLEDWAnWR87hBT",
+        "name": "Modest Mouse",
+        "type": "artist",
+        "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2lwwrWVKdf3LR9lbbhnr6R",
+    "is_local": false,
+    "name": "Float On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          },
+          "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "type": "artist",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e3f1ba3de4659708c25d0f39",
+          "width": 64
+        }
+      ],
+      "name": "The New Abnormal",
+      "release_date": "2020-04-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+        "id": "0epOFNiUfyON9EYx7Tpr6V",
+        "name": "The Strokes",
+        "type": "artist",
+        "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ruzrDWcT0vuJIOMW7gMnW",
+    "is_local": false,
+    "name": "The Adults Are Talking",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+          },
+          "href": "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+          "id": "6u11Qbko2N2hP4lTBYjX86",
+          "name": "Peter Bjorn and John",
+          "type": "artist",
+          "uri": "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5g4E06cxsFEMFE9hSekAt2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029cf4ac84b224a02f34d2e4f6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519cf4ac84b224a02f34d2e4f6",
+          "width": 64
+        }
+      ],
+      "name": "Writer's Block",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5g4E06cxsFEMFE9hSekAt2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        },
+        "href": "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+        "id": "6u11Qbko2N2hP4lTBYjX86",
+        "name": "Peter Bjorn and John",
+        "type": "artist",
+        "uri": "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dyx5SzxPPaD8xQIid5Wjj",
+    "is_local": false,
+    "name": "Young Folks",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+          "width": 64
+        }
+      ],
+      "name": "Random Access Memories",
+      "release_date": "2013-05-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "type": "artist",
+        "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+        "id": "1rAv1GhTQ2rmG94p9lU3rB",
+        "name": "Julian Casablancas",
+        "type": "artist",
+        "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2cGxRwrMyEAp8dEbuZaVv6",
+    "is_local": false,
+    "name": "Instant Crush (feat. Julian Casablancas)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          },
+          "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+          "id": "22bE4uQ6baNwSHPVcDxLCe",
+          "name": "The Rolling Stones",
+          "type": "artist",
+          "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/72qrnM4yUNMDDlWiqKc8iY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bad7062c3fd2f2d037989694",
+          "width": 64
+        }
+      ],
+      "name": "Aftermath",
+      "release_date": "1966-04-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:72qrnM4yUNMDDlWiqKc8iY"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+        "id": "22bE4uQ6baNwSHPVcDxLCe",
+        "name": "The Rolling Stones",
+        "type": "artist",
+        "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/63T7DJ1AFDD6Bn8VzG6JE8",
+    "is_local": false,
+    "name": "Paint It, Black",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "type": "artist",
+          "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6deiaArbeoqp1xPEGdEKp1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+          "width": 64
+        }
+      ],
+      "name": "By the Way (Deluxe Edition)",
+      "release_date": "2002-07-09",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:6deiaArbeoqp1xPEGdEKp1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "type": "artist",
+        "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3ZOEytgrvLwQaqXreDs2Jx",
+    "is_local": false,
+    "name": "Can't Stop",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand",
+          "type": "artist",
+          "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4hUCtGcc0hRYXFhKSETlll",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4046985c8b4f9478e0af14e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4046985c8b4f9478e0af14e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4046985c8b4f9478e0af14e",
+          "width": 64
+        }
+      ],
+      "name": "This fffire",
+      "release_date": "2004-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4hUCtGcc0hRYXFhKSETlll"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+        "id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "name": "Franz Ferdinand",
+        "type": "artist",
+        "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/46gSk82duJtX3TTA182ruG",
+    "is_local": false,
+    "name": "This fffire - New Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          },
+          "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "type": "artist",
+          "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0l8zYqoUeBYg47Gmevq9HZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519a336bfb6d40bbd90a507417",
+          "width": 64
+        }
+      ],
+      "name": "The Art of Loving",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0l8zYqoUeBYg47Gmevq9HZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        "href": "https://api.spotify.com/v1/artists/00x1fYSGhdqScXBRpSj3DW",
+        "id": "00x1fYSGhdqScXBRpSj3DW",
+        "name": "Olivia Dean",
+        "type": "artist",
+        "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6sGIMrtIzQjdzNndVxe397",
+    "is_local": false,
+    "name": "So Easy (To Fall In Love)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+          "id": "7oPftvlwr6VrsViSDV7fJY",
+          "name": "Green Day",
+          "type": "artist",
+          "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4uG8q3GPuWHQlRbswMIRS6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d",
+          "width": 64
+        }
+      ],
+      "name": "Dookie",
+      "release_date": "1994-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4uG8q3GPuWHQlRbswMIRS6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+        "id": "7oPftvlwr6VrsViSDV7fJY",
+        "name": "Green Day",
+        "type": "artist",
+        "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6L89mwZXSOwYl76YXfX13s",
+    "is_local": false,
+    "name": "Basket Case",
+    "preview_url": null
+  }
+]
