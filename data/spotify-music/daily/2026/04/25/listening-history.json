@@ -13,6 +13,63 @@
           "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
+      "href": "https://api.spotify.com/v1/albums/4csPGLYTb7kt85U377UCuC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273004ef2b236eb0bc7c2d83184",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02004ef2b236eb0bc7c2d83184",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851004ef2b236eb0bc7c2d83184",
+          "width": 64
+        }
+      ],
+      "name": "Turn the Lights Back On",
+      "release_date": "2024-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4csPGLYTb7kt85U377UCuC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1KTemUlHzS0SvVtTjY1NTw",
+    "is_local": false,
+    "name": "Turn the Lights Back On",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
       "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
       "images": [
         {
