@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          },
+          "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "type": "artist",
+          "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/01sfgrNbnnPUEyz6GZYlt9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735966dfc026a261d899bc9d54",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025966dfc026a261d899bc9d54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515966dfc026a261d899bc9d54",
+          "width": 64
+        }
+      ],
+      "name": "Dua Lipa (Deluxe)",
+      "release_date": "2017-06-02",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:01sfgrNbnnPUEyz6GZYlt9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/76cy1WJvNGJTj78UqeA5zr",
+    "is_local": false,
+    "name": "IDGAF",
+    "preview_url": null
+  }
+]
