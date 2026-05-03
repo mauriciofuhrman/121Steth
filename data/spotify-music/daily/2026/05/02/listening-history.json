@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+          "id": "5nCi3BB41mBaMH9gfr6Su0",
+          "name": "fun.",
+          "type": "artist",
+          "uri": "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7iycyHwOW2plljYIK6I1Zo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305fb4e9947c6edaf3836766e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205fb4e9947c6edaf3836766e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105fb4e9947c6edaf3836766e",
+          "width": 64
+        }
+      ],
+      "name": "Some Nights",
+      "release_date": "2012-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7iycyHwOW2plljYIK6I1Zo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+        "id": "5nCi3BB41mBaMH9gfr6Su0",
+        "name": "fun.",
+        "type": "artist",
+        "uri": "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6t6oULCRS6hnI7rm0h5gwl",
+    "is_local": false,
+    "name": "Some Nights",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          },
+          "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+          "id": "74XFHRwlV6OrjEM0A2NCMF",
+          "name": "Paramore",
+          "type": "artist",
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4sgYpkIASM1jVlNC8Wp9oF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02532033d0d90736f661c13d35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35",
+          "width": 64
+        }
+      ],
+      "name": "Paramore",
+      "release_date": "2013-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:4sgYpkIASM1jVlNC8Wp9oF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+        "id": "74XFHRwlV6OrjEM0A2NCMF",
+        "name": "Paramore",
+        "type": "artist",
+        "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1yjY7rpaAQvKwpdUliHx0d",
+    "is_local": false,
+    "name": "Still into You",
+    "preview_url": null
+  }
+]
