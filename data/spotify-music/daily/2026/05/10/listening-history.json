@@ -4,6 +4,405 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f",
+          "width": 64
+        }
+      ],
+      "name": "21",
+      "release_date": "2011-01-24",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0Lg1uZvI312TPqxNWShFXL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1zwMYTA5nlNjZxYrvBB2pV",
+    "is_local": false,
+    "name": "Someone Like You",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO",
+          "id": "6dJeKm76NjfXBNTpHmOhfO",
+          "name": "Selena Gomez & The Scene",
+          "type": "artist",
+          "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5lm8loAsSpprr19lwSY16V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273847e9e5d22cca026fbe067c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02847e9e5d22cca026fbe067c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851847e9e5d22cca026fbe067c2",
+          "width": 64
+        }
+      ],
+      "name": "Kiss & Tell",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5lm8loAsSpprr19lwSY16V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO",
+        "id": "6dJeKm76NjfXBNTpHmOhfO",
+        "name": "Selena Gomez & The Scene",
+        "type": "artist",
+        "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1YaVmBh7EAeR54FIjuFcb5",
+    "is_local": false,
+    "name": "Naturally",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          },
+          "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+          "id": "74XFHRwlV6OrjEM0A2NCMF",
+          "name": "Paramore",
+          "type": "artist",
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4sgYpkIASM1jVlNC8Wp9oF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02532033d0d90736f661c13d35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35",
+          "width": 64
+        }
+      ],
+      "name": "Paramore",
+      "release_date": "2013-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:4sgYpkIASM1jVlNC8Wp9oF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+        "id": "74XFHRwlV6OrjEM0A2NCMF",
+        "name": "Paramore",
+        "type": "artist",
+        "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1j8z4TTjJ1YOdoFEDwJTQa",
+    "is_local": false,
+    "name": "Ain't It Fun",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0RpddSzUHfncUWNJXKOsjy",
+          "id": "0RpddSzUHfncUWNJXKOsjy",
+          "name": "Neon Trees",
+          "type": "artist",
+          "uri": "spotify:artist:0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7xpjpdislqMXOCw5xsDt4g",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27326ca7305db69aa21efcf2b7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0226ca7305db69aa21efcf2b7a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485126ca7305db69aa21efcf2b7a",
+          "width": 64
+        }
+      ],
+      "name": "Habits",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7xpjpdislqMXOCw5xsDt4g"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0RpddSzUHfncUWNJXKOsjy",
+        "id": "0RpddSzUHfncUWNJXKOsjy",
+        "name": "Neon Trees",
+        "type": "artist",
+        "uri": "spotify:artist:0RpddSzUHfncUWNJXKOsjy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1fBl642IhJOE5U319Gy2Go",
+    "is_local": false,
+    "name": "Animal",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6OfCOPtcPuhlAovGJ52uZO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0285235715597dcd07bb9e0f84",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485185235715597dcd07bb9e0f84",
+          "width": 64
+        }
+      ],
+      "name": "Pink Friday ... Roman Reloaded",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:6OfCOPtcPuhlAovGJ52uZO"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "type": "artist",
+        "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/1oHNvJVbFkexQc0BpQp7Y4",
+    "is_local": false,
+    "name": "Starships",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4RaAjieYFIZRF8uh6GY43r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a511f69870fa68e7ba78c099",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a511f69870fa68e7ba78c099",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a511f69870fa68e7ba78c099",
+          "width": 64
+        }
+      ],
+      "name": "Pitbull Starring In Rebelution",
+      "release_date": "2009-08-31",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4RaAjieYFIZRF8uh6GY43r"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0OPyDgTRuIdCJ9B4bYSths",
+    "is_local": false,
+    "name": "Hotel Room Service",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/21HMAUrbbYSj9NiPPlGumy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02008b06ec71019afd70153889",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851008b06ec71019afd70153889",
+          "width": 64
+        }
+      ],
+      "name": "Jazz (Deluxe Remastered Version)",
+      "release_date": "1978-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:21HMAUrbbYSj9NiPPlGumy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "type": "artist",
+        "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7hQJA50XrCWABAu5v6QZ4i",
+    "is_local": false,
+    "name": "Don't Stop Me Now - Remastered 2011",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
           },
           "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
