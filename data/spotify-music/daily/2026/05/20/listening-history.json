@@ -1,0 +1,783 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6EVYTRG1drKdO8OnIQBeEj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851deec12a28d1e336c5052e9aa",
+          "width": 64
+        }
+      ],
+      "name": "My Everything (Deluxe)",
+      "release_date": "2014-08-22",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7xoUc6faLbCqZO6fQEYprd",
+    "is_local": false,
+    "name": "One Last Time",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7apLPYT8szV1IqTxyVSy5P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02caa23612279c2d059a0d3a82",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851caa23612279c2d059a0d3a82",
+          "width": 64
+        }
+      ],
+      "name": "B.o.B Presents: The Adventures of Bobby Ray",
+      "release_date": "2010-04-27",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7apLPYT8szV1IqTxyVSy5P"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+        "id": "5ndkK3dpZLKtBklKjxNQwT",
+        "name": "B.o.B",
+        "type": "artist",
+        "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+        "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+        "name": "Hayley Williams",
+        "type": "artist",
+        "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/6lV2MSQmRIkycDScNtrBXO",
+    "is_local": false,
+    "name": "Airplanes (feat. Hayley Williams of Paramore)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0r2BUyPTmpbfuz4rR39mLl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd3978ebe35d93a07249b97f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd3978ebe35d93a07249b97f",
+          "width": 64
+        }
+      ],
+      "name": "One Of The Boys",
+      "release_date": "2008-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0r2BUyPTmpbfuz4rR39mLl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1y4eb6hmAvsqlDOl3fx9kk",
+    "is_local": false,
+    "name": "Hot N Cold",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3jB9yFDwRe3KhtGnHXJntk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e9a057052d59004caf47e22",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e9a057052d59004caf47e22",
+          "width": 64
+        }
+      ],
+      "name": "PRISM",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3jB9yFDwRe3KhtGnHXJntk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/27tNWlhdAryQY04Gb2ZhUI",
+    "is_local": false,
+    "name": "Roar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+          "id": "2oX42qP5ineK3hrhBECLmj",
+          "name": "Andy Grammer",
+          "type": "artist",
+          "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2wp1jec3BcuaaXyM8VucWZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef49291de801a09453197222",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef49291de801a09453197222",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ef49291de801a09453197222",
+          "width": 64
+        }
+      ],
+      "name": "Andy Grammer",
+      "release_date": "2011-06-14",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2wp1jec3BcuaaXyM8VucWZ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+        "id": "2oX42qP5ineK3hrhBECLmj",
+        "name": "Andy Grammer",
+        "type": "artist",
+        "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/00V8KJuZ0a089fa25Lc9t7",
+    "is_local": false,
+    "name": "Fine By Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist",
+          "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4OXnPSBtZo8PBFiTOfuumP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9ff0a5f40d3406aed5e5e3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9ff0a5f40d3406aed5e5e3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9ff0a5f40d3406aed5e5e3b",
+          "width": 64
+        }
+      ],
+      "name": "Good Girl Gone Bad",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4OXnPSBtZo8PBFiTOfuumP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "type": "artist",
+        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAŸ-Z",
+        "type": "artist",
+        "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2yPoXCs7BSIUrucMdK5PzV",
+    "is_local": false,
+    "name": "Umbrella",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/58ufpQsJ1DS5kq4hhzQDiI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+          "width": 64
+        }
+      ],
+      "name": "Unorthodox Jukebox",
+      "release_date": "2012-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/55h7vJchibLdUkxdlX3fK7",
+    "is_local": false,
+    "name": "Treasure",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist",
+          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0fhmJYVhW0e4i33pCLPA5i",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0299da48a530f6ca2ef86da3cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485199da48a530f6ca2ef86da3cc",
+          "width": 64
+        }
+      ],
+      "name": "Cole World: The Sideline Story",
+      "release_date": "2011-09-27",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0fhmJYVhW0e4i33pCLPA5i"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "type": "artist",
+        "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2wAJTrFhCnQyNSD3oUgTZO",
+    "is_local": false,
+    "name": "Work Out",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+          "id": "5nCi3BB41mBaMH9gfr6Su0",
+          "name": "fun.",
+          "type": "artist",
+          "uri": "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7iycyHwOW2plljYIK6I1Zo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305fb4e9947c6edaf3836766e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205fb4e9947c6edaf3836766e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105fb4e9947c6edaf3836766e",
+          "width": 64
+        }
+      ],
+      "name": "Some Nights",
+      "release_date": "2012-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7iycyHwOW2plljYIK6I1Zo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        "href": "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+        "id": "5nCi3BB41mBaMH9gfr6Su0",
+        "name": "fun.",
+        "type": "artist",
+        "uri": "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs",
+        "id": "6ueGR6SWhUJfvEhqkvMsVs",
+        "name": "Janelle Monáe",
+        "type": "artist",
+        "uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7a86XRg84qjasly9f6bPSD",
+    "is_local": false,
+    "name": "We Are Young (feat. Janelle Monáe)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY",
+          "name": "Cyndi Lauper",
+          "type": "artist",
+          "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1FvdZ1oizXwF9bxogujoF0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce023ce7dfdd5199bcdfd5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce023ce7dfdd5199bcdfd5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ce023ce7dfdd5199bcdfd5a1",
+          "width": 64
+        }
+      ],
+      "name": "She's So Unusual",
+      "release_date": "1983-10-14",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1FvdZ1oizXwF9bxogujoF0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+        "id": "2BTZIqw0ntH9MvilQ3ewNY",
+        "name": "Cyndi Lauper",
+        "type": "artist",
+        "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4y1LsJpmMti1PfRQV9AWWe",
+    "is_local": false,
+    "name": "Girls Just Want to Have Fun",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY",
+          "name": "Cyndi Lauper",
+          "type": "artist",
+          "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1FvdZ1oizXwF9bxogujoF0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce023ce7dfdd5199bcdfd5a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce023ce7dfdd5199bcdfd5a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ce023ce7dfdd5199bcdfd5a1",
+          "width": 64
+        }
+      ],
+      "name": "She's So Unusual",
+      "release_date": "1983-10-14",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1FvdZ1oizXwF9bxogujoF0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+        "id": "2BTZIqw0ntH9MvilQ3ewNY",
+        "name": "Cyndi Lauper",
+        "type": "artist",
+        "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4y1LsJpmMti1PfRQV9AWWe",
+    "is_local": false,
+    "name": "Girls Just Want to Have Fun",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7o9Nl7K1Al6NNAHX6jn6iG",
+          "id": "7o9Nl7K1Al6NNAHX6jn6iG",
+          "name": "Travie McCoy",
+          "type": "artist",
+          "uri": "spotify:artist:7o9Nl7K1Al6NNAHX6jn6iG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1PruwGvQDfgh6CTSFWPNtn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27337ce3dd20c2318e13c6608ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0237ce3dd20c2318e13c6608ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485137ce3dd20c2318e13c6608ed",
+          "width": 64
+        }
+      ],
+      "name": "Billionaire (feat. Bruno Mars)",
+      "release_date": "2010-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1PruwGvQDfgh6CTSFWPNtn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        "href": "https://api.spotify.com/v1/artists/7o9Nl7K1Al6NNAHX6jn6iG",
+        "id": "7o9Nl7K1Al6NNAHX6jn6iG",
+        "name": "Travie McCoy",
+        "type": "artist",
+        "uri": "spotify:artist:7o9Nl7K1Al6NNAHX6jn6iG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "type": "artist",
+        "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/2M9ULmQwTaTGmAdXaXpfz5",
+    "is_local": false,
+    "name": "Billionaire (feat. Bruno Mars)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+          "id": "3FUY2gzHeIiaesXtOAdB7A",
+          "name": "Train",
+          "type": "artist",
+          "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zseibu9WEsPaZmkJUMkz1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bde344cc54eedc35050f4c61",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bde344cc54eedc35050f4c61",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bde344cc54eedc35050f4c61",
+          "width": 64
+        }
+      ],
+      "name": "California 37",
+      "release_date": "2012-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5zseibu9WEsPaZmkJUMkz1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+        "id": "3FUY2gzHeIiaesXtOAdB7A",
+        "name": "Train",
+        "type": "artist",
+        "uri": "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0KAiuUOrLTIkzkpfpn9jb9",
+    "is_local": false,
+    "name": "Drive By",
+    "preview_url": null
+  }
+]
