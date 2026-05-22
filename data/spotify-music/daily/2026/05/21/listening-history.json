@@ -1,0 +1,820 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist",
+          "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2g1EakEaW7fPTZC6vBmBCn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bef074de9ca825bddaeb9f46",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bef074de9ca825bddaeb9f46",
+          "width": 64
+        }
+      ],
+      "name": "Talk That Talk",
+      "release_date": "2011-11-18",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2g1EakEaW7fPTZC6vBmBCn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "type": "artist",
+        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "type": "artist",
+        "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6qn9YLKt13AGvpq9jfO8py",
+    "is_local": false,
+    "name": "We Found Love",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3jB9yFDwRe3KhtGnHXJntk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e9a057052d59004caf47e22",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e9a057052d59004caf47e22",
+          "width": 64
+        }
+      ],
+      "name": "PRISM",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3jB9yFDwRe3KhtGnHXJntk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/27tNWlhdAryQY04Gb2ZhUI",
+    "is_local": false,
+    "name": "Roar",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2eRJUtI7nXrQ5uYQ7tzTo9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027da123c944790bfab54b2522",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517da123c944790bfab54b2522",
+          "width": 64
+        }
+      ],
+      "name": "ARTPOP",
+      "release_date": "2013-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2eRJUtI7nXrQ5uYQ7tzTo9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5ka2ajep9OAvU5Sgduhiex",
+    "is_local": false,
+    "name": "Applause",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MF9fzBmfXghAz953czmBC",
+          "id": "6MF9fzBmfXghAz953czmBC",
+          "name": "Taio Cruz",
+          "type": "artist",
+          "uri": "spotify:artist:6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/159jpldDCgsgH6KGgjy63c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a9006ae892a2255a865c0f7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a9006ae892a2255a865c0f7a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a9006ae892a2255a865c0f7a",
+          "width": 64
+        }
+      ],
+      "name": "Rokstarr",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:159jpldDCgsgH6KGgjy63c"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        "href": "https://api.spotify.com/v1/artists/6MF9fzBmfXghAz953czmBC",
+        "id": "6MF9fzBmfXghAz953czmBC",
+        "name": "Taio Cruz",
+        "type": "artist",
+        "uri": "spotify:artist:6MF9fzBmfXghAz953czmBC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+        "id": "3ipn9JLAPI5GUEo4y4jcoi",
+        "name": "Ludacris",
+        "type": "artist",
+        "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1CdqVF1ywD0ZO1zXtB9yWa",
+    "is_local": false,
+    "name": "Break Your Heart",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist",
+          "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5QG3tjE5L9F6O2vCAPph38",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485131548865f7c729290b96c794",
+          "width": 64
+        }
+      ],
+      "name": "Loud",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5QG3tjE5L9F6O2vCAPph38"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "type": "artist",
+        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/7ySUcLPVX7KudhnmNcgY2D",
+    "is_local": false,
+    "name": "S&M",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          },
+          "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "type": "artist",
+          "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6Kssm2LosQ0WyLukFZkEG5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02aadb13ae608f6af20528409b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851aadb13ae608f6af20528409b",
+          "width": 64
+        }
+      ],
+      "name": "Demi",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6Kssm2LosQ0WyLukFZkEG5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "type": "artist",
+        "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/34MJ07N9Bhu6iKPaxSVnCT",
+    "is_local": false,
+    "name": "Neon Lights",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2KkMVsxymoNR7hRmBcMttd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ba15b951a5cff36133ca5bd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ba15b951a5cff36133ca5bd",
+          "width": 64
+        }
+      ],
+      "name": "Born This Way",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2KkMVsxymoNR7hRmBcMttd"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0JNdS1n0ifOP25XvhwAMgM",
+    "is_local": false,
+    "name": "The Edge Of Glory",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+          },
+          "href": "https://api.spotify.com/v1/artists/69CLILkCLdR4JOoQieAFm2",
+          "id": "69CLILkCLdR4JOoQieAFm2",
+          "name": "Jordana Bryant",
+          "type": "artist",
+          "uri": "spotify:artist:69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7ecUyjChyeFAjmiurWiZ1p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27388374df708a2f45c39ffb8cb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0288374df708a2f45c39ffb8cb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485188374df708a2f45c39ffb8cb",
+          "width": 64
+        }
+      ],
+      "name": "Rearview",
+      "release_date": "2026-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7ecUyjChyeFAjmiurWiZ1p"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        },
+        "href": "https://api.spotify.com/v1/artists/69CLILkCLdR4JOoQieAFm2",
+        "id": "69CLILkCLdR4JOoQieAFm2",
+        "name": "Jordana Bryant",
+        "type": "artist",
+        "uri": "spotify:artist:69CLILkCLdR4JOoQieAFm2"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3YXFOcfbYihuyFz7nsgpGk",
+    "is_local": false,
+    "name": "Rearview",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO",
+          "id": "6dJeKm76NjfXBNTpHmOhfO",
+          "name": "Selena Gomez & The Scene",
+          "type": "artist",
+          "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5lm8loAsSpprr19lwSY16V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273847e9e5d22cca026fbe067c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02847e9e5d22cca026fbe067c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851847e9e5d22cca026fbe067c2",
+          "width": 64
+        }
+      ],
+      "name": "Kiss & Tell",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5lm8loAsSpprr19lwSY16V"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        },
+        "href": "https://api.spotify.com/v1/artists/6dJeKm76NjfXBNTpHmOhfO",
+        "id": "6dJeKm76NjfXBNTpHmOhfO",
+        "name": "Selena Gomez & The Scene",
+        "type": "artist",
+        "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1YaVmBh7EAeR54FIjuFcb5",
+    "is_local": false,
+    "name": "Naturally",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+          },
+          "href": "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+          "id": "6u11Qbko2N2hP4lTBYjX86",
+          "name": "Peter Bjorn and John",
+          "type": "artist",
+          "uri": "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5g4E06cxsFEMFE9hSekAt2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029cf4ac84b224a02f34d2e4f6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519cf4ac84b224a02f34d2e4f6",
+          "width": 64
+        }
+      ],
+      "name": "Writer's Block",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5g4E06cxsFEMFE9hSekAt2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        },
+        "href": "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+        "id": "6u11Qbko2N2hP4lTBYjX86",
+        "name": "Peter Bjorn and John",
+        "type": "artist",
+        "uri": "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dyx5SzxPPaD8xQIid5Wjj",
+    "is_local": false,
+    "name": "Young Folks",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash",
+          "type": "artist",
+          "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZH5g1RDq3GY1OvyD0w0s2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02280b72ca76b4734debfc190e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851280b72ca76b4734debfc190e",
+          "width": 64
+        }
+      ],
+      "name": "Combat Rock (Remastered)",
+      "release_date": "1982",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1ZH5g1RDq3GY1OvyD0w0s2"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        },
+        "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+        "id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "name": "The Clash",
+        "type": "artist",
+        "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/56KqaFSGTb7ifpt16t5Y1N",
+    "is_local": false,
+    "name": "Rock the Casbah - Remastered",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc",
+          "width": 64
+        }
+      ],
+      "name": "Three Imaginary Boys (Deluxe Edition)",
+      "release_date": "1979-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "The Cure",
+        "type": "artist",
+        "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+    "is_local": false,
+    "name": "Boys Don't Cry - Single Version",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0r2BUyPTmpbfuz4rR39mLl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd3978ebe35d93a07249b97f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd3978ebe35d93a07249b97f",
+          "width": 64
+        }
+      ],
+      "name": "One Of The Boys",
+      "release_date": "2008-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0r2BUyPTmpbfuz4rR39mLl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1y4eb6hmAvsqlDOl3fx9kk",
+    "is_local": false,
+    "name": "Hot N Cold",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0N0d3kjwdY2h7UVuTdJGfp",
+          "id": "0N0d3kjwdY2h7UVuTdJGfp",
+          "name": "Cascada",
+          "type": "artist",
+          "uri": "spotify:artist:0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2unbJ7dUr9mITQiMwWFqQD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0c8b75abb6704283aa645aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0c8b75abb6704283aa645aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e0c8b75abb6704283aa645aa",
+          "width": 64
+        }
+      ],
+      "name": "Everytime We Touch (Premium Edition)",
+      "release_date": "2010-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 45,
+      "type": "album",
+      "uri": "spotify:album:2unbJ7dUr9mITQiMwWFqQD"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0N0d3kjwdY2h7UVuTdJGfp",
+        "id": "0N0d3kjwdY2h7UVuTdJGfp",
+        "name": "Cascada",
+        "type": "artist",
+        "uri": "spotify:artist:0N0d3kjwdY2h7UVuTdJGfp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5YJtMNWKe55yr49cyJgxva",
+    "is_local": false,
+    "name": "Everytime We Touch",
+    "preview_url": null
+  }
+]
