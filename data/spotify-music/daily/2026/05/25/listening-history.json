@@ -1,0 +1,753 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+          "id": "0p4nmQO2msCgU4IF37Wi3j",
+          "name": "Avril Lavigne",
+          "type": "artist",
+          "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7qjA5gbagHWVbqKUgVt49l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273817da73d6641ddbcc0a50363",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02817da73d6641ddbcc0a50363",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851817da73d6641ddbcc0a50363",
+          "width": 64
+        }
+      ],
+      "name": "Avril Lavigne (Expanded Edition)",
+      "release_date": "2013-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:7qjA5gbagHWVbqKUgVt49l"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+        "id": "0p4nmQO2msCgU4IF37Wi3j",
+        "name": "Avril Lavigne",
+        "type": "artist",
+        "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0qwcGscxUHGZTgq0zcaqk1",
+    "is_local": false,
+    "name": "Here's to Never Growing Up",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5BvgP623rtvlc0HDcpzquz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02937af329667311f4b2831616",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851937af329667311f4b2831616",
+          "width": 64
+        }
+      ],
+      "name": "Teenage Dream: The Complete Confection",
+      "release_date": "2012-03-12",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:5BvgP623rtvlc0HDcpzquz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4lCv7b86sLynZbXhfScfm2",
+    "is_local": false,
+    "name": "Firework",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4zLOhyT4XIzyyl7KoSHWcE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a56dc57d708c7b62db950105",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a56dc57d708c7b62db950105",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a56dc57d708c7b62db950105",
+          "width": 64
+        }
+      ],
+      "name": "Teenage Dream: The Complete Confection",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:4zLOhyT4XIzyyl7KoSHWcE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6yARPLK0PV4heEyh7pVMGz",
+    "is_local": false,
+    "name": "Part Of Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pADjHPWyrlAF0FA7joK2H",
+          "id": "4pADjHPWyrlAF0FA7joK2H",
+          "name": "Jay Sean",
+          "type": "artist",
+          "uri": "spotify:artist:4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2H66HrVR1UeMlAoSXpxUnk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e207a14471e5356294146e9d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e207a14471e5356294146e9d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e207a14471e5356294146e9d",
+          "width": 64
+        }
+      ],
+      "name": "All Or Nothing",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:2H66HrVR1UeMlAoSXpxUnk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        "href": "https://api.spotify.com/v1/artists/4pADjHPWyrlAF0FA7joK2H",
+        "id": "4pADjHPWyrlAF0FA7joK2H",
+        "name": "Jay Sean",
+        "type": "artist",
+        "uri": "spotify:artist:4pADjHPWyrlAF0FA7joK2H"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "type": "artist",
+        "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6cmm1LMvZdB5zsCwX5BjqE",
+    "is_local": false,
+    "name": "Down",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8eaGK62RIp4o67g63jf9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8eaGK62RIp4o67g63jf9",
+          "id": "3s8eaGK62RIp4o67g63jf9",
+          "name": "Blakhat",
+          "type": "artist",
+          "uri": "spotify:artist:3s8eaGK62RIp4o67g63jf9"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4KVJAG3ekdyFLB8SNYrqMJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27374f0c1ede51b7655f5c809eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0274f0c1ede51b7655f5c809eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485174f0c1ede51b7655f5c809eb",
+          "width": 64
+        }
+      ],
+      "name": "Only Me",
+      "release_date": "2026-03-19",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4KVJAG3ekdyFLB8SNYrqMJ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3s8eaGK62RIp4o67g63jf9"
+        },
+        "href": "https://api.spotify.com/v1/artists/3s8eaGK62RIp4o67g63jf9",
+        "id": "3s8eaGK62RIp4o67g63jf9",
+        "name": "Blakhat",
+        "type": "artist",
+        "uri": "spotify:artist:3s8eaGK62RIp4o67g63jf9"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2V9BHO3S6hzw5WI1bg4EkX",
+    "is_local": false,
+    "name": "Only Me",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f",
+          "width": 64
+        }
+      ],
+      "name": "21",
+      "release_date": "2011-01-24",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:0Lg1uZvI312TPqxNWShFXL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2A73XBDBQgmdXO8VsXPWIs",
+    "is_local": false,
+    "name": "Rumour Has It",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6kZ42qRrzov54LcAk4onW9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851318443aab3531a0558e79a4d",
+          "width": 64
+        }
+      ],
+      "name": "Red (Taylor's Version)",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:6kZ42qRrzov54LcAk4onW9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6AtZLIzUINvExIUy4QhdjP",
+    "is_local": false,
+    "name": "I Knew You Were Trouble (Taylor's Version)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          },
+          "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
+          "id": "77tT1kLj6mCWtFNqiOmP9H",
+          "name": "Daryl Hall & John Oates",
+          "type": "artist",
+          "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5TNzBp7QYsXIHrI5xxVuic",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023ebc5b9d8942069d3b920550",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513ebc5b9d8942069d3b920550",
+          "width": 64
+        }
+      ],
+      "name": "Bigger Than Both Of Us",
+      "release_date": "1976-08-01",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5TNzBp7QYsXIHrI5xxVuic"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        },
+        "href": "https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H",
+        "id": "77tT1kLj6mCWtFNqiOmP9H",
+        "name": "Daryl Hall & John Oates",
+        "type": "artist",
+        "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0qRR9d89hIS0MHRkQ0ejxX",
+    "is_local": false,
+    "name": "Rich Girl",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2ei2X6ghPnw7YRwQtAH075",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513009007708ab5134936a58b3",
+          "width": 64
+        }
+      ],
+      "name": "Honky Chateau",
+      "release_date": "1972-05-19",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2ei2X6ghPnw7YRwQtAH075"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY",
+    "is_local": false,
+    "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          },
+          "href": "https://api.spotify.com/v1/artists/29kkCKKGXheHuoO829FxWK",
+          "id": "29kkCKKGXheHuoO829FxWK",
+          "name": "Boston",
+          "type": "artist",
+          "uri": "spotify:artist:29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2QLp07RO6anZHmtcKTEvSC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c1fadcc997a65384f34d694",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c1fadcc997a65384f34d694",
+          "width": 64
+        }
+      ],
+      "name": "Boston",
+      "release_date": "1976",
+      "release_date_precision": "year",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2QLp07RO6anZHmtcKTEvSC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        },
+        "href": "https://api.spotify.com/v1/artists/29kkCKKGXheHuoO829FxWK",
+        "id": "29kkCKKGXheHuoO829FxWK",
+        "name": "Boston",
+        "type": "artist",
+        "uri": "spotify:artist:29kkCKKGXheHuoO829FxWK"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1QEEqeFIZktqIpPI4jSVSF",
+    "is_local": false,
+    "name": "More Than a Feeling",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival",
+          "type": "artist",
+          "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0i9mOB6mPGqwVvtJEXiwPG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733efcd243aaa5638f55318f91",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023efcd243aaa5638f55318f91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513efcd243aaa5638f55318f91",
+          "width": 64
+        }
+      ],
+      "name": "Green River (Expanded Edition)",
+      "release_date": "1969-08-03",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0i9mOB6mPGqwVvtJEXiwPG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+        "id": "3IYUhFvPQItj6xySrBmZkd",
+        "name": "Creedence Clearwater Revival",
+        "type": "artist",
+        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/20OFwXhEXf12DzwXmaV7fj",
+    "is_local": false,
+    "name": "Bad Moon Rising",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL",
+          "name": "Eagles",
+          "type": "artist",
+          "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/51B7LbLWgYLKBVSpkan8Z7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c13acd642ba9f6f5f127aa1b",
+          "width": 64
+        }
+      ],
+      "name": "Eagles (2013 Remaster)",
+      "release_date": "1972-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:51B7LbLWgYLKBVSpkan8Z7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+        "id": "0ECwFtbIWEVNwjlrfc6xoL",
+        "name": "Eagles",
+        "type": "artist",
+        "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4yugZvBYaoREkJKtbG08Qr",
+    "is_local": false,
+    "name": "Take It Easy - 2013 Remaster",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "type": "artist",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ccac298c81dd975fd266e82",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ccac298c81dd975fd266e82",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ccac298c81dd975fd266e82",
+          "width": 64
+        }
+      ],
+      "name": "52nd Street",
+      "release_date": "1978-10-13",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/70Znjq5VPKFrwlB7O26SWT",
+    "is_local": false,
+    "name": "Zanzibar",
+    "preview_url": null
+  }
+]
