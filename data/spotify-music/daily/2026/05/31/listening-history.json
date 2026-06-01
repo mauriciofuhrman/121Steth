@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "width": 64
+        }
+      ],
+      "name": "The Fame Monster (Deluxe Edition)",
+      "release_date": "2009-11-05",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
+    "is_local": false,
+    "name": "Bad Romance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure",
+          "type": "artist",
+          "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0d65102be8606e439e54cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0d65102be8606e439e54cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d0d65102be8606e439e54cc",
+          "width": 64
+        }
+      ],
+      "name": "Three Imaginary Boys (Deluxe Edition)",
+      "release_date": "1979-05-11",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "The Cure",
+        "type": "artist",
+        "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+    "is_local": false,
+    "name": "Boys Don't Cry - Single Version",
+    "preview_url": null
+  }
+]
