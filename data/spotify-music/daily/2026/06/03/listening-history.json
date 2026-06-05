@@ -4,6 +4,83 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "type": "artist",
+          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/543NK5YT3RjGmP7nFzWJPm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c7fdd07d99c156401073aaa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c7fdd07d99c156401073aaa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c7fdd07d99c156401073aaa",
+          "width": 64
+        }
+      ],
+      "name": "On The Floor",
+      "release_date": "2011-02-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:543NK5YT3RjGmP7nFzWJPm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "type": "artist",
+        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "type": "artist",
+        "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Oe49j06Bjrxs8PltuVeaW",
+    "is_local": false,
+    "name": "On The Floor - Radio Edit",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
           },
           "href": "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
