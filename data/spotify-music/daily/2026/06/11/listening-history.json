@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+          "id": "1xU878Z1QtBldR7ru9owdU",
+          "name": "Phoenix",
+          "type": "artist",
+          "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7g4qoHjkYvfFkXJEZCjtc1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27362cbc442278eefdde1a93efd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0262cbc442278eefdde1a93efd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485162cbc442278eefdde1a93efd",
+          "width": 64
+        }
+      ],
+      "name": "Wolfgang Amadeus Phoenix",
+      "release_date": "2009-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7g4qoHjkYvfFkXJEZCjtc1"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+        "id": "1xU878Z1QtBldR7ru9owdU",
+        "name": "Phoenix",
+        "type": "artist",
+        "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4esUVfYnFcCCVHntx9FQCb",
+    "is_local": false,
+    "name": "Lisztomania",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
           },
           "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
