@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+          "id": "0p4nmQO2msCgU4IF37Wi3j",
+          "name": "Avril Lavigne",
+          "type": "artist",
+          "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3zXjR3y2dUWklKmmp6lEhy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7ec724fbf97a30869d06240",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f7ec724fbf97a30869d06240",
+          "width": 64
+        }
+      ],
+      "name": "Let Go",
+      "release_date": "2002-06-04",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3zXjR3y2dUWklKmmp6lEhy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+        "id": "0p4nmQO2msCgU4IF37Wi3j",
+        "name": "Avril Lavigne",
+        "type": "artist",
+        "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5xEM5hIgJ1jjgcEBfpkt2F",
+    "is_local": false,
+    "name": "Complicated",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
           },
           "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
