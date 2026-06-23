@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lqx5orj6RZcy98V02nMi5"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lqx5orj6RZcy98V02nMi5",
+          "id": "4Lqx5orj6RZcy98V02nMi5",
+          "name": "ERIIN",
+          "type": "artist",
+          "uri": "spotify:artist:4Lqx5orj6RZcy98V02nMi5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5wFQUdJY5sTlvER9zkdQEu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c154655c70ec102f3c2e1c26",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c154655c70ec102f3c2e1c26",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c154655c70ec102f3c2e1c26",
+          "width": 64
+        }
+      ],
+      "name": "Galaxy",
+      "release_date": "2026-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5wFQUdJY5sTlvER9zkdQEu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Lqx5orj6RZcy98V02nMi5"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Lqx5orj6RZcy98V02nMi5",
+        "id": "4Lqx5orj6RZcy98V02nMi5",
+        "name": "ERIIN",
+        "type": "artist",
+        "uri": "spotify:artist:4Lqx5orj6RZcy98V02nMi5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4tooONAC8EQReHpNu5tWEq",
+    "is_local": false,
+    "name": "Galaxy",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          },
+          "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+          "id": "74XFHRwlV6OrjEM0A2NCMF",
+          "name": "Paramore",
+          "type": "artist",
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4sgYpkIASM1jVlNC8Wp9oF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02532033d0d90736f661c13d35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851532033d0d90736f661c13d35",
+          "width": 64
+        }
+      ],
+      "name": "Paramore",
+      "release_date": "2013-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:4sgYpkIASM1jVlNC8Wp9oF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+        "id": "74XFHRwlV6OrjEM0A2NCMF",
+        "name": "Paramore",
+        "type": "artist",
+        "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1yjY7rpaAQvKwpdUliHx0d",
+    "is_local": false,
+    "name": "Still into You",
+    "preview_url": null
+  }
+]
