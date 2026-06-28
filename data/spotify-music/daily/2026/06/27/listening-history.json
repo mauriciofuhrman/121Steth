@@ -4,6 +4,63 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0OmYuz9hwn1XoqmDaU0yJ7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
+          "width": 64
+        }
+      ],
+      "name": "Too Low For Zero",
+      "release_date": "1983-05-30",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0OmYuz9hwn1XoqmDaU0yJ7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1jDJFeK9x3OZboIAHsY9k2",
+    "is_local": false,
+    "name": "I'm Still Standing",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
           },
           "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
@@ -1080,63 +1137,6 @@
     "href": "https://api.spotify.com/v1/tracks/0iAfh5FLixOF3E5JSyk884",
     "is_local": false,
     "name": "Don't Ask Me Why",
-    "preview_url": null
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-          },
-          "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-          "id": "6zFYqv1mOsgBRQbae3JJ9e",
-          "name": "Billy Joel",
-          "type": "artist",
-          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/7r36rel1M4gyBavfcJP6Yz",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273d287ed0734d4fcf11f9a0000",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02d287ed0734d4fcf11f9a0000",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851d287ed0734d4fcf11f9a0000",
-          "width": 64
-        }
-      ],
-      "name": "The Essential Billy Joel",
-      "release_date": "2001-10-02",
-      "release_date_precision": "day",
-      "total_tracks": 36,
-      "type": "album",
-      "uri": "spotify:album:7r36rel1M4gyBavfcJP6Yz"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        },
-        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-        "id": "6zFYqv1mOsgBRQbae3JJ9e",
-        "name": "Billy Joel",
-        "type": "artist",
-        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/3DBVtnyVhc0WGT51K28TC9",
-    "is_local": false,
-    "name": "Movin' Out (Anthony's Song)",
     "preview_url": null
   }
 ]
