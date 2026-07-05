@@ -1,0 +1,69 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4p5WgeiPSPpqPDs7T6OkWf",
+          "id": "4p5WgeiPSPpqPDs7T6OkWf",
+          "name": "ANOTR",
+          "type": "artist",
+          "uri": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4q72fmveNOwffTj4hJ07Zo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ae23f84ecedc81590fcd556",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021ae23f84ecedc81590fcd556",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511ae23f84ecedc81590fcd556",
+          "width": 64
+        }
+      ],
+      "name": "Withness",
+      "release_date": "2026-06-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4q72fmveNOwffTj4hJ07Zo"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        "href": "https://api.spotify.com/v1/artists/4p5WgeiPSPpqPDs7T6OkWf",
+        "id": "4p5WgeiPSPpqPDs7T6OkWf",
+        "name": "ANOTR",
+        "type": "artist",
+        "uri": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/6X5L6rmyvrWWu60Gx6exiZ",
+        "id": "6X5L6rmyvrWWu60Gx6exiZ",
+        "name": "54 Ultra",
+        "type": "artist",
+        "uri": "spotify:artist:6X5L6rmyvrWWu60Gx6exiZ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5zEcbencrcP0p5Z8508vWz",
+    "is_local": false,
+    "name": "Talk To You (ft. 54 Ultra)",
+    "preview_url": null
+  }
+]
