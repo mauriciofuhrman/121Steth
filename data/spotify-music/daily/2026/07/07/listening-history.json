@@ -1,0 +1,173 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+          "id": "1KCSPY1glIKqW2TotWuXOR",
+          "name": "P!nk",
+          "type": "artist",
+          "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1LOJfNDxQhbpssKx7oM7at",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735a45d5041e4ffcb9f756f740",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025a45d5041e4ffcb9f756f740",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515a45d5041e4ffcb9f756f740",
+          "width": 64
+        }
+      ],
+      "name": "Funhouse (Expanded Edition)",
+      "release_date": "2008-10-24",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:1LOJfNDxQhbpssKx7oM7at"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        "href": "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+        "id": "1KCSPY1glIKqW2TotWuXOR",
+        "name": "P!nk",
+        "type": "artist",
+        "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0JiY190vktuhSGN6aqJdrt",
+    "is_local": false,
+    "name": "So What",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+          "width": 64
+        }
+      ],
+      "name": "The Fame Monster (Deluxe Edition)",
+      "release_date": "2009-11-05",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+    ],
+    "explicit": true,
+    "href": "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
+    "is_local": false,
+    "name": "Bad Romance",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist",
+          "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4OXnPSBtZo8PBFiTOfuumP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9ff0a5f40d3406aed5e5e3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9ff0a5f40d3406aed5e5e3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9ff0a5f40d3406aed5e5e3b",
+          "width": 64
+        }
+      ],
+      "name": "Good Girl Gone Bad",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4OXnPSBtZo8PBFiTOfuumP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "type": "artist",
+        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1Jo0Zg7XlrA6z0mFTZVdkn",
+    "is_local": false,
+    "name": "Don't Stop The Music",
+    "preview_url": null
+  }
+]
