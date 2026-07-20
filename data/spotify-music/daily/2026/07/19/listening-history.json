@@ -4,6 +4,227 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+          "id": "3BmGtnKgCSGYIUhmivXKWX",
+          "name": "Kelly Clarkson",
+          "type": "artist",
+          "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5gDAEao3VxFdbm8vS0koQq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0203dadde4d9d305c1c3e0d91c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485103dadde4d9d305c1c3e0d91c",
+          "width": 64
+        }
+      ],
+      "name": "Breakaway",
+      "release_date": "2004-01-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5gDAEao3VxFdbm8vS0koQq"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+        "id": "3BmGtnKgCSGYIUhmivXKWX",
+        "name": "Kelly Clarkson",
+        "type": "artist",
+        "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3xrn9i8zhNZsTtcoWgQEAd",
+    "is_local": false,
+    "name": "Since U Been Gone",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WLvgbfYXQPO396oJEYCsi",
+          "id": "6WLvgbfYXQPO396oJEYCsi",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/76FXHQhTuT4QMIxfL09gX8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0298a02fef3a8b1d80a0f164ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485198a02fef3a8b1d80a0f164ec",
+          "width": 64
+        }
+      ],
+      "name": "The Heist",
+      "release_date": "2012-10-09",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:76FXHQhTuT4QMIxfL09gX8"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+        "id": "3JhNCzhSMTxs9WLGJJxWOY",
+        "name": "Macklemore",
+        "type": "artist",
+        "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+        "id": "4myTppRgh0rojLxx8RycOp",
+        "name": "Ryan Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        "href": "https://api.spotify.com/v1/artists/6WLvgbfYXQPO396oJEYCsi",
+        "id": "6WLvgbfYXQPO396oJEYCsi",
+        "name": "Macklemore & Ryan Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:6WLvgbfYXQPO396oJEYCsi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        },
+        "href": "https://api.spotify.com/v1/artists/4e0nWw2r4BoQSKPQ2zpU13",
+        "id": "4e0nWw2r4BoQSKPQ2zpU13",
+        "name": "Ray Dalton",
+        "type": "artist",
+        "uri": "spotify:artist:4e0nWw2r4BoQSKPQ2zpU13"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3bidbhpOYeV4knp8AIu8Xn",
+    "is_local": false,
+    "name": "Can't Hold Us (feat. Ray Dalton)",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "type": "artist",
+          "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0r2BUyPTmpbfuz4rR39mLl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd3978ebe35d93a07249b97f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd3978ebe35d93a07249b97f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd3978ebe35d93a07249b97f",
+          "width": 64
+        }
+      ],
+      "name": "One Of The Boys",
+      "release_date": "2008-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0r2BUyPTmpbfuz4rR39mLl"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "type": "artist",
+        "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1y4eb6hmAvsqlDOl3fx9kk",
+    "is_local": false,
+    "name": "Hot N Cold",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
           },
           "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
